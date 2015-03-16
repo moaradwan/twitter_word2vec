@@ -1,0 +1,750 @@
+Most common words for this cluster:
+[('hope', 746), ('sorry', 110), ('oh', 109), ('day', 85), ('u', 72), ('ok', 60), ('i', 50), ('time', 47), ('hey', 46), ('today', 43), ('hi', 38), ('that', 28)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Hope', 0.8065729737281799), (u"G'night", 0.6298327445983887), (u'Oh', 0.6262291073799133), (u'Paris_xoxo', 0.6116880774497986), (u'Actress_Christine_Lahti', 0.6108952164649963), (u'@_ESPN_Michelle', 0.6024321913719177), (u'KhloeKardashian', 0.5972885489463806), (u'KNEE_MAIL', 0.5903395414352417), (u'elizadushku', 0.5891458988189697), (u'hollyrpeete_@', 0.588901698589325)]
+
+
+
+
+
+Argh! I was suuuper sleepy an hour ago, now I'm wide awake.  Hope I don't stay up all night. :-/
+@mileycyrus AWWW u seriously have the cutest dog Miley! Sorry your not with her now  Hope u get some sleep! xoxo
+@ExMi Hey doll, sorry to hear bout ur doggie  Hope he comes home soon!  Would help u look if i weren't so far away!!
+@MarieLuv That is still terrible, but unfortunately these things happen.  Hope your friend wasn't too upset about being conned like that 
+@jason_nott http://twitpic.com/2ybib - Sorry for the bad weather! We hate it too  Hope you still have a good time in Ohio.
+@KimKardashian Hope that nasty sun burn heals quickly  Dont worry babe your still beautiful even with the burn get better soon ;)
+@donnieklang Hey there Donnie! Hope all is well. If youre in NYC please give it a big hug from me. I miss home 
+@jasonbradbury Hope you had good day, but didn't see you at Puffin stand  Maybe next year.
+@missktmurphy Are you going to start tweeting now, my love? Probably not  Hope u're having a more productive day than I am!
+@chriscornell I never see my replies on your page  I think maybe Im not in the know to the tweeter madness  ;) Hope you will let me know
+@exxy omg! Im so sorry to hear that! Hope it goes better next time!  #iphone
+@RayRetaliation Oh  Hope you get better!
+#jogging. Did not run today. Feel like s**t. Hope to run tomorrow... 
+@britneyspears You're following me. My dreams have almost come true. If only I get tickets to the Chicago show     Hope the show went well
+@DesignNerdNikki Yikes!  Hope you're OK!! Other than the scratches and bruises that'll come later.
+@james_m_bailey  Hope you are OK James
+@CirculatingLib Sorry you've had such a crap day   Hope you have some nice wine at hand.
+@MariahCarey Great! Sorry about your tooth  Hope the movie cheers you up!
+just realised how sick @nanisnap sounds in his videos... Hope you feel better soon buddy!  Look after yourself!
+@mikefoong GAH. Sorry to hear that.  Hope he's found soon!
+Whew!! Turned out we were just in time  Hope @nadinejamila will come on the 21st 
+@TimMothE  Hope the plumber wasn't that cool. Really glad he's gone.
+@weesweetmarie  Sorry to hear the bad news.    Hope the rest of your Sunday is better.
+@LisaVine sounds like you had a fab day, hon!  Hope work goes OK today, back to reality n all that 
+@coachbear Sorry about your wallet hon. Hope it either shows up or a good samaritan hands it in to your bank/license&amp;transport/the physio 
+@oriridraco No fair! My mail doesn't come till this afternoon.    Hope I get mine today too.
+@Rufus_Jay Oh ...thats not good  Hope it will get better
+@Caroline_S Oh no, poor little mite.  Hope she feels better soon. Are you off to the docs?
+@hey_tc Sorry to hear about your Dad. Hope things improve.... 
+@jkkc97 Dude, onion-flavored brownies. Sorry to hear that.  Hope your next ones are at least... sweet potato-flavored or something ;)
+@NancyODell Thanks! Looks like it's a rainy day at the Derby  Hope it clears up &amp; you have a great day! Everyone watch Nancy@4pm ET NBC!!
+@sueannesjewelry Well, no fainting! My iron was too low and couldn't give!   Hope your day is going great!
+@galengering *LOL* That is funny!  I love you &amp; Ali 2gether. Hope they keep you as a couple. They're letting so many good 1's go 
+@chickenkatsu Nope  But a new league starts later this month. Hope springs eternal.
+What shall I do now without my Karlmut????  Where is he? Hope he's fine 
+Morning! Hope everyone's enjoying sucky sunday! Grr sundays 
+Both Noe and I are suffering from cold-like (NOT flu-like) runny noses and general ickiness.  Hope Suz holds out 
+@KimKardashian I Forgot  DAMMIT! Hope It Was good!
+Ok done for the day. Hope everyone likes so far. Hope to get a completed work done soon. But also need to find a day job. Broke as of wed 
+@krissyb Oh that's awful.  Because of the big R word or did you do something norti? hehe. Hope you find something soon.
+@radiogeorge Oh No! poor you  Hope you feel better soon. Take care on the way home xx
+@finterface Hey jo! Only just noticed you'd signed up...Hope you enjoying the May bank holiday. Shame the weather is pants... boo 
+I hate the fact that my mom says i have symptoms of swine flu.  i have to go to the doctors later. Ugh. Hope to god i dont have it.
+@_MisterG Well Hope at your school it's not a procession of middle-class kids getting on buses and working-class kids staying on site 
+@lameymacdonald Oh, I wish I could bring you some chicken soup!  Remember to rest. Hope that bad cold leaves today!
+Rob Pattinson back home.Good,don't want LA rubbing off on him.Hope he can walk down his streets w/o being chased.Somehow doubt it.Too bad 
+still feeling poorly  Hope the penicillin kicks in before wed. Don't want to be feelin rough in Rhodes!!
+@GetOutOfDebtGuy Owch. That looks like no fun at all  Hope it all comes out ok.
+@NKOTBSummertime Sorry u couldn't find anything  R U looking for a short or long dress? Mine is knee length. Hope you find something!
+@SavingEveryday Pretty good. Son had an MRI on his knee y'day. Hope to know the results Mon. Probably surgery 
+@RoseHarding oh no! Sorry you are so sick Rose. Hope you feel better 
+@digitalsecy Oh, and I'm sorry about your cold  That's never fun.  Hope you get well soon!
+@SheryleeB That is no good,  i Hope you are relaxing
+@jesseowen belated happy returns, must have missed that on FB  Sorry!  Hope you had a fab day and the affiliate commission fairy visited!!
+Omg what an amazing show by @nineinchnails! arms about to fall off from filming the entire show! Hope I got some good video! Sad now tho 
+@whisperinwater EW. You poor thing. D:  Also, I bet you DO smell good. Yum. ;] @moceanu  *squeezes* Hope you feel better, bb...
+Hippie infestation downtown. Well &quot;Tree planters.&quot; @letsbetigers That's no good.  Hope you feel better, soon.
+Just can't do it anymore. Don't feel good either  sleep time. Hope I do ok tomorrow :/
+@partroot Did you get back to sleep OK? Hope it hasn't messed too much with your sleep pattern 
+@geetanjalic Yeah. i tried getting it on too. Didn't come!  Hope it gets well soon! &lt;3 &lt;3
+@Saresa Been there. It sucks.   Hope you feel better. Maybe if you kill some murlocs you'll feel better.
+@brytne Yeah. Luckily he's still pretty wiped so I can space out. Hope your babe feels better soon 
+@Midlife_Slices Hmm, well, that's a shame she's a mess.    Hope she gets her crap together before she gets to college.
+@iamjonathancook Hope you're doing better. My dad's cousin had that happen to her. Devastating. I'm so sorry that happened to you. 
+@B_Cutno Well hopefully u can learn how 2 &quot;focus&quot; on ur next relationship becuz u SUCKED @ ur last 1!!! Hope u took the rings off 4 him. 
+@MamzelleF  he he DUVET DAY!!! Yeah i know what you mean hun its horrible. Hope weather gets better soon 
+@lonnietapia Hi! Just got your msg this am. Sorry I missed u. Hope u had fun. I would have liked to join u... Now back to Chicago 
+Hope u got to sleep in today, as for me...SOMEONE figured if he's up early- his wife doesn't deserve the priviledge of getting more zzz's 
+@MissKatiePrice Oh you havent split have you  i love youtoo!!! think your both great!!!! Hope your k? xx
+@jamiejofficial @lizmcclarnon OMG just heard about the Lately release date moving. Hope everything's ok 
+@jaimejofficial @lizmcclarnon OMG just heard about the Lately release date moving. Hope everything's ok 
+@angm627 YOU DIDN'T TO BRIDGES?!?!  I'm sorry. Hope you get better, whatever it is.
+Sorry dude. I can't do this   Im going to bed. Hope i can get up 6am. Wish me luck :/
+ - alergic... nose itchy and eyes burning... Hope It's getting better soon....
+@cheth Sorry to hear that  Hope you feel better soon!
+Stuck in college  @Chipmunkartist; What exam you doin? Hope it goes well x
+@cliffski Ouch, one of those times you wish you had pet insurance I guess  Hope your cat recovers well
+&quot;Don't let go of hope. Hope gives you the strength to keep on going when you feel like giving up&quot; Is it real? Somebody please tell me 
+@ComplicatedMama Hey!  Long time no tweet!  Hope you are well.  Your link did not work 
+@ssmutz Ouch!  Hope that doesn't turn out too bad. Take care of yourself.
+@radioramona Tweet good morning. My sugar is down and I feel better. Hope I can still get those tix. Calling on 7923# answer the phone 
+@DonnieWahlberg Good morning!Glad to hear your having a blast! Sorry to hear that your sea sick  Hope you do another cruise.I will b there
+@awollenberg is not a good day for pets  Hope you're OK
+@asuttles Eww, I'm sorry girl. Hope it passed quickly with no morning side effects. 
+@PaulPayneSpain Ouch. That's meant to be pretty painful  Hope you feel better soon. And now we've gone from family shame to family pain...
+@El1217 Sorry I missed you   Hope you found a location and got to take part in the event!
+@Jagusti Hope you all have a great #Bashmash this coming weekend. Sorry I can't be with you. 
+@MistyBliss  You just can't catch a break. Sorry for you and your pup. Hope it is not serious 
+Not happy... I'm sick   Not sure if it's a cold or my hayfever kickin in early.  Hope it's a cold though, hayfever lasts for months!!!
+@theycallmeal   Sending over some lovin' from LA Decostified.   Hope tomorrow is better!! Sleep Well.
+Oh no...Martin Kaymer just bogied the 11th!! Hope i haven't jinxed him!! Ooops 
+Feelin kinda sad today.  Don't know why, just feel blue.  Hope the day gets better  
+@fantasticpru Oh you poor bunny     Hope mouth is not so sore now x
+@mathewsanders Thanks Mr Wong! Hope the suns shines there this weekend.  @twistingaether Sorry you have to work tomorrow 
+@thatIheartDgirl MIA?? That ain't cool!   Hope its all overwith quickly and painlessly!! ;)
+@helloterrio Oh no.    Hope you feel better soon!
+@chrisbray That's a serious bit of gearbox fail!  Hope you can get it sorted OK
+Some of my only friends r going to Miami...... Even though I told them I was having a BBQ, smh. Hope they have alot of fun. 
+@champagnemanoir Thanks for #followfriday ! Hope good impression won't be affected by the fact I might be your most wine-ignorant tweep 
+Wishing @jennifaojennyjen all the best. Sending her lots of XOXOXO's . Hope everything works out 
+@stephaniepratt Oh honey   how long are they gone? Can't wait to see them on @imacelebritynbc! Hope it airs here, the last one did!
+Hope my grandpa and his family come back soon. I think they were coming back in December. Thats very long and Im very impatient. 
+@TygaTyga I Hope So But I Doubt It 
+Alright tweeps!! On a scale of 1-10 im having about an 9.2 migraine. It hurts yo!!  Hope it goes away soon...
+@pl0rd woah Paul, super sorry for all the trouble lately   Hope everyone is OK.
+@devilishdelish  Sorry. Hope things turn around soon.
+@powerofpink Oh sweety  Perhaps see a doc hun?  Hope you haven't broken anything 
+@Pendelton21 Ugh, that sucks  Hope you can recover it
+@cindystarks I'm planning on being there!  I had RSVP'd for the Cisco event but had a migraine to tend to.  Hope to meet you @ d nxt event
+@Farctum Oh poor thing  Hope it's easily sorted out. (and not too expensive!)
+@Emsy Yeah, mine said &quot;That's a nice picture&quot; &amp; gave me the red x!  Hope you get it working soon!
+@Running5k2day Oh no! Hope it's not as bad as it sounds! 
+@tommcfly Oh no! A lot of people are starting to tweet again! Hope you could still read our multiple tweets  Philippines tour, please? 
+@Alligood So sorry to hear about the kiddo!  Hope she feels lots better now that the cast is on 
+@reemerband Hiyaa! How was Tour? Really disappointed that I couldn't make it   Hope your all Dandy ;) xxxxxxxx
+Hmmm...strained my back  Hope it's better tomorrow morning..
+@alchemuse Oh noes.  Hope you feel better soon. My head sympathizes with yours.
+@jeffieruth OMG, POOR Jack.  That happened to @jisbellemtp 's dog one time. Hope he gets better soon. 
+@dougiemcfly Oh no!!  Hope you get better for your show in Argentina! Good luck!
+@ninjabetic Oh no!!    Hope they get you in soon and can make you feel all better.  Hugs from the other coast!!
+@greasemusical Hi, I hope Ray is o.k. Please give him our love and hope he returns soon. Hope its not too bad 
+@SCHATJE TY. Just a long tiring day filled with expensive plumbers and work  needed CALGON. Hope you &amp; @madberry have an AWESOME weekend!
+@mojoey  Sorry you had a bad day. Hope yer night is better
+@amykant for point and shoot, the Canons are the best. Sorry i missed you before you purchased  Hope you work it out.
+@LeeCollins Hi Lee!  Hope it's all good! Your autograph faded   I'll need a new one next time!
+@sodaly Oh no  Hope everything goes Ok. Will have lots of positive thoughts for you guys.
+@wills_ Nite dude. Sorry I missed you online  Talk to you tomorrow. Hope u have a good one!
+This flu is killing me.  and I'm waitin' for the AFS result. Hope I pass the selection. Just hoping 4 the best.
+@dannygokey Eek! That's too bad  Hope you have better luck with your luggage next time!
+@epicfotoguy sorry, didn't think asking would be a prob.  Hope your other followers don't bombard you to bad with requests.  My bad.  
+@30SECONDSTOMARS mmmm....Guys, you're at 19627. Have i a bad memory or there were 200 followers more before?? Hope I am wrong! 
+@StacyBurke Hope you guys have fun tonight, I sawry I didn't make it out  Let's have fun on sunday ps~ love your outfit!
+Bloody NUS. Why make me wait so long then reject me.  So I'll be going to NTU then. Hope it turns out good.
+@NixieKitty  Sorry babe. We will definately do it next weekend if I'm not working, otherwise the next.  Hope u not getting sick too now
+Today is a beautiful day Sun is shining! I'm going 2B stuck inside at work  Oh well. Hope you all have a wonderful day EVERY moment COUNTS
+@iamkermee Ouch! Hope you're not too sore 
+@shinyminidrake Come to Atlanta afterwards!  Though sadly I think by the time you got here I'd be gone  Hope you get out of there ASAP!
+@hthrflynn Oh dear !!!!!  Thoughts to you both    Physically &amp; Emotionally (missing dance recital    )  Hope she doesn't hurt too bad!
+@timsbro2000 Yikes!! Glad to hear you're OK.  Hope it works out.  
+Sorry boys (@monaviecycling) I failed to keep the  streak alive  Sluggish and discombobulated. Hope you fare better in Ohio today..
+@TessMorris Oh dear.  Hope u feel better soon.  
+@morethnavrage Sounds painful.  Guess something is always gonna hurt when you train that hard. Hope you feel better for the fight!
+@cabri Oh no!  I'm so sorry. I love those cars. I'm glad you're ok. Hope it's a quick fix.
+@Foxtrot79 Ooh, brrr.  Hope it's not too cold. Good thing you brought the jacket.
+@VixOrien That sucks dude.  Hope you feel better.  
+@alex_lloyd We've been getting hammered here in Cincinnati, also. Typical stormy weather in the Midwest  Take care. Hope Sam is OK
+Seeing UP! Not in 3D but that's ok.  With @odicul and @strynights.  Hope I don't go into a coughing fit 
+@MrMikeLawson Hope you had a fabulous time tho.  Don't like that you had to wait so long for rides 
+@NickStarr *HUGS*  Sorry you're having a bad time.   Hope it gets better!
+Hope u guys are havin fun!!! I'm here at home being sick. Yup I'm having fun too. 
+@robotsarecool Oh dear  Damn your bad dreams. Especially for waking you up so damn early. Hope the assignment goes well today.
+@twinkle47 @pob34 @TraceyHewins Thanks for the #ff mentions, sorry i missed them  Hope your all well n enjoying the weather.
+@goregoregirl Ow! Sunburned feet are horrendous  Can you sit all day with your feet in cold water?? Hope Brighton worth it!
+@flamehair Yeah - apparently the clinics are swamped today.  Hope your li'l ones are doing better too. And hope the new car's well too.
+@Spoonsie Yikes..is it food poisoning? I've had that before, no solid foods, in fact no food at all for a while. Hope it's not that! 
+@lilychang YIKES!  Sorry to hear that, Lily. Hope your day goes better.
+@strawbrykiwi Hope it works out for you. Sorry for your loss. 
+@ericbobo @HollyBrook @TherealRyu That's so cool you guys were together! Wish I could have been there to see u guys.  Hope u had gr8 time.
+@grahamcracker00 Breakfast? Why didn't you call me??? Hope you all had fun last night...I'm so pissed we missed it 
+@simplyshannon Morning Dear!  Hope that migraine goes away.   Did u  ever dm me your last name? If u did, it got lost in the sea of tw ...
+@JPhilipson Oh noes! Now you have to ride one-armed and get really buff only in one shoulder! Hope the pain digresses. 
+is sad  My baby is on her way back to Ohio. We had a wonderful visit, but I miss her already.  Hope to see her again in a couple weeks.
+@crusecourtney  Hi crusecourtney .Sorry to hear about your busted computer  Hope you can get on line soon.
+@mariap91 Pretty good, too, thanks. Ohh I pity you for having to wake up so early tomorrow  Hope you'll survive the heat.
+@ThaBombShelter  Sorry to hear, that really sucks... Hope you find him.
+@CGigandet good luck! Hope your movie wins big!! Sorry you died at the end 
+is aching all over. Hope I'm not getting sick again 
+@ForkYouBlog They are closed for about a week due to kitchen fire!!! Hope you haven't left already 
+Great. Twitpic is already down @ #phenway. #epicfail. Hope y'all are enjoying the show! Wish I was there.  #phish
+Did a prayer wit my family for my uncle.. Hope he gets better soon  2 many sad faces today @ my crib!!! http://myloc.me/2e8F
+@TraceyHewins Good!  .. I'm also watching at the Lottery. Hope win!! Lol !!!! So far no luck!  hehehe
+@kennedy_jane  Sorry to feel ur sick  Hope u get well really quickly!!
+@JonathanRKnight I so wish I could B at the picnic.  Didn't have the money but I still get 2 see the show. Hope U R doing well.
+Think mum is gonna write me a note. Hope she is. She might not be buying the sore leg  it really is sore though :'(
+@MadisenHill Hope you had an amazing show!!!!!!! Im so sad i wasn't able to come 
+http://tinyurl.com/ry9wap Hi. Check my pictures! I cant upload more pics here for some reason  Hope we will match each other.  I can s ...
+good morning!  Hope everyone enjoys their shows this week 4 me. Mine would have been tomorrow.   Oh well! hopefully they will reschedule.
+Man I really Hope I start feeling better soon. Sorry work folk, I do need to come in today at least for a few hours. 
+Good morning twitter!!! Im not in the best mood  aghh. Hope you all have a great day! xox
+@jenn_i_fee Yes, Only 1 more season of lost   My weekend was good - got to see friend's new twin girls. SO cute! Hope u had good wkend 2!
+Morning Tweeps!!! Hope you have a WONDERFUL week!!....I'm on day 26 with out my desk top 
+@shufflegazine Hope you guys have a great time. Darn my ruddy exam tomorrow 
+@brimil I say that every time I move.  Horrible, isn't it??  Ugh.   Good luck!  Hope it goes smoothly for you.
+@MrsFlea Sorry to hear about your camera  But if you are looking for a new one, we love this Canon! Hope this helps!! http://bit.ly/1ahqVu
+@walelia Oh no! Hope it's not too bad 
+Hello! What a lovely day. Hope you've alll been out enjoying it. I've been locked in a 29oC lab - no air con 
+@tezzitoo Oh, that doesn't sound nice at all.  Hope you're feeling better my dear.
+@jackiebarbosa Ok she is forgiven. Next time please have her mobile in your mobile. Hope she is doing ok  Sorry to hear about migraine 
+@KateonLost That guy setting up ur scene in the audition tape is annoying. Hope you didn't have to go thru that for the entire show 
+@lizie_brunet i know!! im without a lapotp too!  Im good! what about u?? Hope ur good!! xx kissses!
+@PartyPleaser Here in Brazil we are feeling the same. Maybe worse! Hope our officers could find the plane 
+@LyndaJWilson Sorry...goldfish memory strikes again. Must be my age  Hope the sunburn is better! xxx
+@theDebbyRyan Hope you'll have a fantastic summer! My summer is about to end.  Hahah. Hope you reply!
+Hope My Baby Is Ok...   
+@kirstiealley Hope circuit training went well... May be passed out when u get back, but I'll talk 2 u later. Damn gym clothes! No pocket! 
+@tommcfly It's hard to get a reply from you.  Haha but i'm not giving up! Hope you'll tweet me back. Please please please.
+@celestesummer Oh bummer  Hope everything gets better
+Sorry to say that but I took my flight @ AF last week and I'm happy my flight wasn't gone missing.   Hope the plane will be found soon.
+Do you think that ma' best friend (Jordan) is angry  and doesn't want to see me again?!Hope not. but it's gonna be alright if she do that 
+@NathanaelB well I can't see that but it sounds scary  Hope you're OK.
+Didn't sleep well, and got woken up at 4am  the sun is out then, who knew. Hope I don't suffer from it today. Coffee to the rescue #fb
+@sybylla84 Sorry to hear your news.  Hope you and the family are all okay. Sending hugs over to the other side of the world for you.
+@AharonWasserman Aw. That sucks. Hope you get it figured out before all the meetings. 
+(Not a)Goodmorning... Hope everyone slept well. I sure as hell did. But, now I CAN'T sleep until Jess wakes up. Ugh! That could be hours 
+@FairCakeLondon Surely it's good advertising for them? I don't know about the legalities though - sorry!  Hope someone else can help
+@Kajynnep Yes it hurts   Hope Ashley sells it now.. The club needs a change at the top
+@BrodyDalle Booo! And you never came to say hello   Hope the shoot went well &amp; come back soon!
+Ooo i cant believe McFly is going away... soooooo sad  Hope u come back soon!
+@hsabomilner Sorry to hear.  Hope you feel better. 
+OWWwww. Just smacked myself in teh head with a metal door. Hope I don't get a goose-egg 
+@lovelylisaj Hi there, it's apn. I'm now following you! Hope you don't hate me for that old negative remark about your drawings 
+@vpmedical Oh dear.  Hope that headache is gone soon.
+@bdougher How was the trip (with Randi?) Don't get to see you much lately   ,,,,,,,we may be family soon...check back on Wed. Hope @ Hope!
+@jocelynxstewart Yah . Hope So 
+@JonsVeronica Oh I see, I'm sorry for you  I understand your situation must be really stressful :-/ Hope u can remember something soon
+Hi there! Been away from twitter a whole day, now I need to catch up with all the tweets! Hope you're doing fine. Here it's a cloudy day 
+@mim001 @amykate Oh no! poor you. Hope you get to break for tea soon. I'd send it via blackberry if I could 
+Forums down. Bleh... Just when all the competition entries started getting really interesting. Hope this doesn't kill participation 
+@JessicaPinUp Hey Jess. Hope you're feeling better. Just saw the dolls at the airport. Really sad that you're not here with them 
+@TonyPrice1970 lol !!! Oh it's crap here ..no sun to be seen !!Hope this isn't our summer 
+@Queenzilla Sorry to hear, of your ear infection and laryngitis. Hope you feel better and sing again. 
+@KittyKat_1988 Nope I checked all my pockets  I'll keep looking, Hope i've not lost it
+@solentpedal Hi, how r u? Hope u gt my email. My quest to have a waterproof percy has been a long hard one to no avail unfor 
+@WildAngelJoy You got creepy stalkers!? Sorry to hear that  I don't have any, thank goodness. Hope I never do.
+Ah! The news today was mostly grim.  Hope you enjoyed the links. Can't believe a friend was almost kidnapped. Fuck this town! Ugh!
+@lifeofreilly  Sorry to hear. Rough days suck. Hope tomorrow's better for you.
+@makikaysantos - Waaah  Hope it doesn't happen to me :|
+@bluehero Indeed, what a start. Did the transaction get cancelled/refunded to you? Hope it all gets sorted out sharpish.  
+Rain &amp; sicc &amp; shut in. Not a gr8 combo.  . Hope u guys have a good day!
+@psibreaker aaaawww, poor munchkin...  Sorry bout your chica too. Hope it all clears up soon, &amp; everybody's fresh and fruity soon!!
+@ThaKang76 You need a vacation.  Hope it all gets better soon. 
+@YoungQ Oh no! I hope u get it back soon  Hope u have all ur packs of new underwear wit u! lol
+@20orsomething Oh no, that doesn't sound good. Hope you're okay. 
+Had the best morning/afternoon wit d love of my life. Duno wht I'd do w/out him!!Shame the eve got ugly  Hope it all passes.. Gdnte all x
+@ruski Well, good point. But no, I think he was a real dr. Hope so anyway. My arm is fairly bruised 
+Well, the first episode of this season of Burn Notice was boring me to death. Will finish it later. Hope the whole season's not this bad 
+Urgh I feel sick and dizzy and killing time in the city before a haircut is not helping. Hope I get a good head massage 
+I'll be having my Movie Marathon later. Another rainy, boring day. Hope'll have my hair done this weekend. 
+@angelaryan I know exactly what you mean. My body hates me too!   I never get enough protein! Hope you feel better&lt;3
+@CocoaGeek Hope not  My first app, and our longest approval ever.
+@kayozview Oh dear.  Hope you are you being well tended?
+@SleeplessNights looks good. nice and simple, clean and uncluttered. I like it. Gee ur having a rough time there  Hope things improve
+@Alizaliz Oh man, that REALLY sucks. Hope you can find them. 
+@ramsay_baggins LOL, fair enough. ;) Meds now far away, just arrived back in Bristol  Don't like the weather. Hope it don't rain.
+@amyshell Oh that sucks!  Hope it's not too horrible and you can nab some free pizza :p.
+According to @drewtoothpaste, Trent Reznor is no more?! Nothing on the news networks yet, but SHIT! Hope it's not true 
+Jbulianiah - You dutch friend bottled out for now! I was hoping they might be a good couple to have! Hope you are well - thanks anyways 
+My Canon Powershot G6 died_sob! Hurriedly ordered a G10. Hope I'm not regretting my haste...loved my G6 
+@tsunimee Hiya! Yes indeed I am, and I had to get up for work this morning! Not good!  Hope you ok. x
+@johnsbiggestfan Oh man that sucks  I'm sorry. Hope everyone feels better!
+@Shaynad Sorry if my spanish is a little off. Its been a minute.  Hope you'll still follow me!!
+I'm so tired now.. gotta sleep  Hope I can wake up for church at 9am. Tsk.
+@Jayman888 Just alittle tweet, 4 when you get home. Hope it was a good day. Been really quiet in tweet world 2day. 
+@VikngEyez182 Commons? But nevermind- has been turned down. Maybe some peeps would like to go to Lake Hope? I wanna swim but not alone 
+@Brittannyy14 Ohh gosh.  Hope you'll get better. Kepp me posted yea and I wish you all the best. Haha.
+@JoshKard0 Awh, that sucks. Hope nothing too valuable was in it. Well, usually worthless things are invaluable, but you know what I mean. 
+@angel0712 Oh, ok.    I'm sorry.  Hope things go smoother tonight.
+Well we don't have 2 worry about the heat...storm is currently blowing thru  Hope it is quick, hv a beautiful 2m Bird of Paradise 2 plant!
+@TheXiaxue Omg poor pk  Hope's she
+@TheXiaxue Omg poor pk  Hope she's fine.
+Gotta send my dog to the vet. Hope he's OK 
+http://tinyurl.com/ry9wap Hi. I am tied of beeing alone. I cant upload more pics here for some reason  Hope it is real to find a good  ...
+@twizzwhizz11  Sorry to hear that Sara.   I've had those days too. Hope tomorrow is better for you.
+@VirtueIMC Sucks about ur plans. Sorry about ur dog. Hope he feels better soon. 
+@irishcladdagh You're welcome, sweetie. Oh, man, that stinks! Hope it's fixed now. 
+@jordanbartowski Yeah, ticketmaster is usually fast for me  So that sucks! Hope you get the tickets though!
+@SarahRoseteER Hey Sarah! Hows ur day going! Hope ur having a good 1! Wish I was able 2 party with u guys tomorrow 
+Ugh... Really not feeling well today  Hope your all feeling better than I am!
+Was woken up by sirens that lasted 10 minutes, meep. Hope nothing awful has happened  Watching SFTW in bed with a cuppa now. So sleepy...
+@secret_thoughts Didn't get back till late so didn't get chance to get on here   Hope you're ok, off out again today, see you later x
+@mrsuv fookin bastard BA! They cocked up my flight home last night, didn't get home til 11pm. Hope you manage to grab the connection dude 
+@Juzzash Hope its all OK mate 
+@aussienick Oh noes!!! Hope you're OK. What a crappy thing to happen on a long weekend. 
+@thefeeling  Oh I am sooo gutted I can't be there tonight Guys  Hope you have a fantastic set, enjoy!! xxxxx
+@loopy4ewe Oh no... I had strep FIVE times in a row once  Meds usually kick in fast, within hours. Hope they did for you!???
+@AmyWal Your face! Hope you had a good time at the ball! Sorry your tracks fell off  I will take the blame...Get out of bed, I miss you.
+@Greek4Honeybee Sorry that you're not feeling well   Hope you feel better soon!
+@Bean13831 Navy boys??? Damn it!! I should have gone  Hope you didn't do anything I wouldn't do!
+@ashedryden @mathiasx Oh noes! Sucky way to spend a Sunday morning  Hope Matt's all right.
+@davidschwimmer Happy Sunday! Hope you DID have a relaxing weekend. Sorry you were stressed the other day! That's never fun! 
+@selenagomez Nooo...ur done already.I so didnt get through  Hope i get through next time!!
+@fitprosarah Oh no! Hope it's not too itchy! 
+My Mom told me tonight that she's bored. WTF that scares me! She taught me all my life that only boring people get bored! Hope she's OK!! 
+@BananasMel So tempted to say &quot;Who cares?&quot; LOL  Hope you have a good week - your new avatar looks a bit cross 
+@hmelrose Damn dude!!  Hope they clear that up for you ASAP! 
+@katetribe yes indeed! nothing can wipe the smile off my face!! how did the workshop go Kate? Hope it was a success! Sorry to miss out.. 
+@paladoga Daaang Miss Thaaang. I'm so J that you're doing big &amp; cooler things than me.  Hahah Hope you're having fun in NY! Go Lakeres! :p
+@missmrk Sorry love, I didnt see ya messages til this morning  Hope everything is ok now
+@davidbadash Whoa..! Hope no one is hurt too badly!!! 
+Tralalalaaaaaaa. God I'm so nervous about everything  Hope it all works out.
+@iiiccchhhaaa - Oh, I feel sorry for your Dad.  Hope everything turns out well.
+@b1ng0bang0 Yeah, we had been having pretty good weather up until about 2 -3 days ago. Hope it comes back and summer hasnt ended! 
+Nighty night all .. Wish vicente didnt have to go back to work already .. Im gonna miss him  .. Hope we can get away for the weekend soon!
+@MissTani hey hun. My lil man was sick last night throwing up  so naturally I kept it inside. Hope u all had a great time
+@StephenKarlLang Hope not! My ceiling is still leaking! 
+@axegoddess  Thank you honey, I spent the whole yesterday on the couch   Seems I'll be doing the same today too.  Hope you are fine! &lt;3
+@thexmedic Ugh  Hope you're feeling better soon.
+@sfxmaven Oh no!  Sorry you're still sick.    Hope you feel better soon.
+@cookinsforme Sorry to hear that  Hope she recovers soon. Take care, love.
+@kabitzin495 Sorry to hear about your cam  For a new one, we recommend this PowerShot http://bit.ly/1ahqVu Hope this helps! Have fun!
+@littlemunchkin   PC gone mad!!!  BTW - sorry to hear about your Nan.   Hope you are OK x
+@Cycle4Hope4ME Oh no!! So sorry about your accident! 
+@miamendez Hope you had a good day. Mine have been so chaotic. Now I'm on my way to Atlanta. All business no fun. 
+@bdeterding Oh no! Hope everything's okay, Brittany!  *hugs*
+My mouth is hurting soo fucking bad! My jaws are so swollen, I guess I'll pop some more pills! Hope this shot kicks in ASAP 
+mmm okay Im up, semi awake and ready for a full day of studying for my exam tomorrow  Hope I make the most of it...
+@firedeveryday Ouch.  Hope you feel better soon!
+Off back to the bay. So sad to leave my loverface  Thus it's raining. Hope I don't die
+@pamfidler Oh no.  Hope it doesn't last much longer. It's terrible to be sick like that. 
+@stencilboy Yeah seen the pics, was gutted not to be asked ;)  Hope you had a good un. Has he stayed over there??
+@brentbolthouse http://twitpic.com/7i5bl - Owwwww Im so sorry to see this  It looks baad!! Hope u get well soon XD
+@deirdrakiai Sorry  Hope it improves as it goes on.
+@tylermoss - ack. Wasn't the same at lunch without you!!  Hope the moving is going well, bro. Let me know if you need ANYthing.
+@thetinyfig Sorry to hear about your spam woes  Hope you figure it out soon! Did you manage to fit in a nap?
+@Michelee1433 Hey stranger! You've been missing your dose for days now  Hope you've been well - hows this man your best friend threatened?
+@ghickman Ah. That makes more sense. I was wondering what your dog was doing with an ATM. Hope your dogs OK 
+@_kotenok Bollocks  Sorry to hear that. And their timing as well! &gt; Hope you have a good day anyway.
+@The_Librain Oh, no  been teaching all am - just seen this. How childish and silly... Hope is sorted soon?
+@Live_for_Films Oh, bum.  I love that book. Hope they don't ruin it...
+@iamsilence Aww, yes.  Everyone's scared about it, even me. Oh, and school WAS bad. -.- How's life for you? Hope to talk to you soon, Jon!
+@justads I hope everything is alright Ads. Thinkin of u whatever it is.  Hope ur OK. X
+@gezinator Oh no, Gez!  Hope you finish up soon.
+Morning tweetworld! Hope everyone is welll! My days are so packed right now that I rarely get a minute to jump on here! 
+Hope you'll response to us.  If you'll going to response, we really very happy! Haha. We love you Archie!
+@DavidArchie Hope you'll response to us.  If you'll going to response, we really very happy! Haha. We love you Archie!
+Worried about dog. Hope he doesn't think we abandoned him   still have tons to clean from camping. My lazy butt had to go to sleep
+Not feeling well today. Bgs are sorta high. Hope I'm not getting sick. 
+Uh-oh! FDA says Zicam nasal spray can permanently damage sense of smell &amp; that it should not be used.  Hope that doesnt apply to the gel 
+@mikebailey01 Hahaha.  Well thats a let down.   Hope your day is going swell.   Have plans?
+@MrKimHambley Hope you had a fab holiday. Sorry to leave (most of) you guys 
+@OwenGerrard Definitely, looks really promising. Hope it has multiple account support or it won't be of great use to me until they add it 
+@Gabrielles LOVE rain. When our house doesn't leak. Which has been happening more often lately.  Hope yours is okay  &lt;#
+@Yorksville I'm good thanks.  Sorry to hear you've sick child   Hope they feel better soon x
+@tophatdog Awww...poor Bailey  Gosh I wish I could help in some way!!Hope you have a good nap though.
+@DaveMcKean Sorry to hear that. Nasty. Hope replacement is easy. Went for dinner last week, needed a new phone and camera before dessert 
+@annagaz Oh man  Hope all's smooth sailing.
+@theadamcoleman Oh shit! Sorry to hear that  Hope you're able to find something new, and better, soon.
+@PD78 Oh dear. Hope you're alright x. Is there something in the air? my best mate was jettisoned into singledom tonight also! 
+Omg just finished the 3rd twilight book. Seriously almost cried. Hope i never Have to make a decision like that! 
+@CONNIESCOOKIES Poor doggie.   I'm glad Murphy's OK. Hope the coyote didn't have any diseases.
+@bennylicious Would LOVE to be there today but can't  Waiting for more info re: Sunday shoot though. Hope today goes smoothly! 
+@mandiford Hope it's not a Ford. That's exactly when my old Escort bit the big one... 
+@TroyBarrett Good Evening Troy- Just waking up here in NYC.   Hope u had a lovely day.  BTW what happened to your pic, its gone 
+@ab_p Oh dear  Hope your day gets better
+Hello tweeters! Hope you're all better than me. I'm at the hospital 
+@Juniormagazine Hope you guys had a great time here in Derbyshire! We were sad to see the marquee disappear 
+@algonquinrt  Rough night! Hope everyone is OK and that you can get some rest soon.
+Well, one patient gone... Hope no more decide to go &quot;home&quot; today 
+@paupaula Oh no!  Hope you get better soon!  -gives you some soup-&lt;3
+@1capplegate I loved that show! OMG!  Hope to see you in something else soon! Keep your chin up.. your a great actress!!
+@kieronjames Sorry to hear you're not feeling well  - Hope you feel better soon.
+Omg terrential rain...  Hope it brightens up for saturday!
+@filthycute Pity I'm all the way down in Cork, I'm at a loose end this week  Hope you have a great evening.
+Got a sore throat out of nowhere   Hope it doesn't get bad. After food might have a cup of lemon tea, that's if we have lemon at home
+@m_callahan OMG !  Hope he gets better . I feel sooo bad , all my wishes . &lt;3
+@entrepranu Blimey  Hope she's ok.. wish her a speedy recovery!
+Molitor to Farnsworth...2 mph. Don't they know I have to be at the Dr by 5:30?!! Hope it's not an accident 
+@tiggz Oh, I'm gonna update now. Hope it's not as crappy as the last one 
+Hope everyone in PGH is safe and dry! What a mess! Sorry, Millvale. 
+@cindyleigh Thanks Cindy. Sorted. I misspelled a variable in my PHP  Sorry U lost your comment. Hope it didn't take too long to write!
+@sabylama  Sorry to hear that. Hope you still have an amazing time!
+@sabylama  Sorry to hear that. Hope you still have a great time!
+@YESandME Sorry to find out ME is gone.  Bummer.  Hope no one was mean to him.  
+Well it's been only 6 hrs since my 40 min bike ride/jog/walk and my right knee doesn't want to move now. Hope I can walk tomorrow  #lupus
+@Talitatwoshoes Oh no  Hope that clears up by the time I get there tonight.
+@rawsammi Hope you stopped crying. At least you HAVE a bank account! All mine got closed! 
+@MiggyfromPOUT Sorry I didn't reply to your text, manic day yesterday! I can't make tonight unfortunately  Hope to see you real soon tho x
+@williger Hope you were able to do so.  They ARE phenomenal.  Now, I'm wanting some too. 
+@LMStellaPR Oh no- when it rains it pours! How long you up here for? l say forget the wash for a start. Hope son feels better 
+Stuck in traffic on the glorious DVP. Hope I'm not late for my 11 o'clock. 
+Comments don't appear to be working on my blog today. Sorry.  Hope it gets fixed soon.
+@cmozilo Hope things go well with your dad, Cori. Sorry to read this tweet. 
+@HennaHelen  Oh Helen   Hope you feeling a little better now  xxx
+http://twitpic.com/7q2dz - This sweet cat wandered into my house for a few hours today, He didn't want to leave  Hope he is OK.
+@WrockDinahSaur You took a blog down  Hope your okay!!
+Im getting ready to go to my farm!!!    Hope i have a great time there!!!  No internet though!!!  
+@AdamParnell Hopefully the links to new articles about Bev's new album will cheer you up! Just posted them. Hope you feel better!  xx
+Hope Ryans OK!!!! :] ... ... And.... GOOOO MEAT!!! :} My tweets still broken can't send replies!!!  
+@ShanteCurtis Awwwwwwwwwwwwwww!!! So i ain invited :'( SNIFFFFFFFFFFFFFFFFFSNIIIIFFFFF!Hope u can hear me SNIFFING 
+My truck is in the shop   Hope they can fix her.. Tired of the wet rugs and moldy smell... Not payin for it either.. Damn factory defect!!
+Rob Pattinson was hit by a car?!   Oh gosh! Leave him alone, stupid fangirls! You'll give the poor guy an anxiety attack!  Hope he's ok.
+Aww man. Gardner hit that plexiglass HARD. They're gonna cart him off the field. Hope he's OK  #yankees
+@mightykenny I know! Darn thing hasn't moved.  Hope it gets delivered tomorrow.
+@kaelahbee, took your advice &amp; made my point. Didn't get the response I wanted but I expected that anyway.  Hope you know what I mean.
+@Stealthmate  Hey!  Hope u r okay from today!!  
+@_FallingAngel Oh...something serious? Hope not! 
+#squarespace @squarespace I Hope I win. If I don't, you'll be watching me trying to buy one on my own.  (Which will take 3 months)
+Going to see Styx in Ottawa July 16th. Hope they play &quot;Yes I Can&quot; and &quot;These are the Times.&quot; Would love to hear &quot;Eddie&quot; but probaby not 
+@therealKStarr Hey Kell. Hope your felling better 
+@alittlebit Oh dear.. Hope you feel better soon 
+@paulgray07 Holy crap mate!! Just realised it was your birthday 3 days ago!!! Sorry i forgot dude  Hope you had a good one!
+@jayest Oh no! Hope it's not what I have had.  
+Woo hoo! The newest iPhone comes out today!!  Hope to be lucky enough to get my hands on one!  Would hate to have to wait 
+Whew! Just arrived from school. Damn traffic in the express way  Hope they can fix the road asap...
+@cglade Morning Elvis. So sorry to hear you can't make it to NYC   Hope the other app is good enough to get over it...
+@SofieBBW Sorry to hear you're sick   Hope ya get to feeling better, especially for your bf's sake, lol
+@dylan_patel Oh noes! Don't say that -- I just bought two of them...  Hope you're back on your feet shortly, D-man...
+@FashionBabyDoll awww poor coco. Maybe she sprained it  Hope she feels better
+@pressdarling Oh that's right. No worries, was just getting a bit lonely  lol. Hope you guys had a great time.
+I usually love Fridays but I feel sort of groggy and unmotivated  Hope I'm not coming down with something. Abandoning study for the day.
+@Viatrophy_BG Thats a bit crap. There more gamer nights to come though. Hope everyone else can attend. Don't want a repeat of last week 
+@Lecinqblog Thank you!  I'm about to get a new one, sometime soon.  Hope.  Still lots of protests...still lots of tension.  
+@BeaWise  Sorry to hear that. Hope everything works itself out.
+@AndrewOrtolano Yikes! I sympathize! Sending you LOTS of patience. Hope it helps. 
+@CHRIS_Daughtry Please come to Singapore and stage a concert! Missed you guys' first two showcases   Hope to hear from you guys soon!
+Just got up . Definitely can't sleep last night though cus my baby got mad  Hope we'll be okay .
+@Gwindylyn Hey, I dunno. Hope it's nothing major 
+@lesperk Ohhh, well, sorry to hear that  Hope tomorrow is better!
+Long days  Long weeks! I never get to check in any more! Hope y'all are doing well!
+@Ahtootahluhr thanks mama! Lights STILL out &amp; blackberry 1 is dead &amp; blackberry 2 is dying now I'm really sad  Hope all is well with u!
+@purple_tiger Aboot pets?  Hope they're both OK!
+Im tearing the place asunder lukn for my passport    Hope its not in my ex's as def will need a new one then!! lol fingers crossed for me!
+Sorry fellow tweeps,not much going on frm me  In a seminar but trying to catch up now..how is everyone? Hope u enjoyed yr #FF !!
+@ElleCMcG That looks so depressing  Have a good time! Hope it clears up for you!
+@wearmoa Oh no  Hope you're better soon hon xo
+@ItalianRecipe Hope I can modify your recipes. My kid as a potentially fatal food allergy to garlic, all beans.  Thnx for following!
+Hope all is well with everyone, Hey! I sure with we would get some RAIN!!!!, Just joking. I have seen enough rain. Recking US Open Golf 
+@keithkennedy981 Sorry to hear that! Hope it all gets cleared up soon! 
+@YvetteCYL Hope everything feels better. Well, whatever happened.  *HUGS*
+Getting ready to go boating! It's 49% and cloudy   Hopefully it will warm up and clear up fast!!! Hope you all have a great weekend ;~)
+@Roositje I couldn't study today  Don't know how . Hope that tomorrow is a better day .. And I still have to make my 'actuaportfolio' HELP
+@teedap Yep, there was a pretty decent outbreak up that way last night.    Hope everybody's OK up there.
+@slatetake Sorry to hear that.  Hope he passed peacefully. Lots of strength to you and yours. *hug*
+Didn't rain on our parade today- but now it seems to be raining on my buddy's birthday...   Hope we can fix the cake and make it work!
+Soooo ready 2 go home...I'm hurtin! I NEED SLEEP!! Hope @londynkouture @simply_complex@intagrity@sean_is_me enjoyed yall sleep 
+@tomywithrawcash Yeah, she just text me actually - poor wifey  Hope you're looking after her? I shall be glad to share cookies
+@t_time24 Wonderin why D-Rose's page is suspended...Do u know?  Hope he comes back to twitter soon  
+Tea towel warp beamed.  Took longer than usual because I goofed.    Oh well, lunch is late, is all.  Hope to get the loom finished later.
+@C_Joy Sorry you're not feeling good either  Hope it goes away fast!! Relax &amp; rest, always helps. ((HUGS))
+@xHelloVikkix So sorry to hear that.. I have no idea what you're going through. Hope you'll be okay..  Be strong kiddo!
+@Boutiquing Oh, nice! I'm cleaning my floors.  Haven't heard from you in awhile. Hope you're doing well.
+Okay. Im nervous! Hope i dont trip or fall later 
+@nobody416 @blazingpretzel - I'm praying for Trey! How scary.  Hope he recovers soon. Keep updating!
+@DavidArchie That's good to know!! Hope I was there!! huhuhu.. 
+@ScottMHarris1 I don't know. Just been a long day, and I'm not feeling too hot  Hope u out having fun, throw back 3 for me!
+@brownowl100 Andy  Hope you're OK. Looking forward to hearing this potential Top 10!! I'm sure it's great!
+@MarieC09 Oh you poor thing  That's horrible  Hope you're feeling better soon. *hug*
+It rained alot last night and i left my window open. Unfortunetly for me I left a dvd on my window ledge. Hope it still works 
+Grrr... Doing more school  Hope I'll be done in less than 2 hours.
+Yeaaayy.. They fixed my darn wallet for free.. Haha! Got fix now.. Hope not broken again.. 
+@Spow16 Oh no  Hope you're feeling better soon.
+@JLVick That sounds horrible   Hope it gets fixed quickly!
+@eileen53 Ouch.  Hope you're okay.
+God misery another incomming migrane, and in bed at half eight. Hope the blood tests are all OK 
+@Bonniestwit Oh no! Food poisoning is the pits   Hope you're feeling better soon!
+Twitterfeed is sneaky. My feed has been inactive again. Hope it will start working again. 
+@daisydukelba Ouch! Hope it doesn't leave a mark. 
+@Jerseygal71 Sorry to hear that.  Hope he gets well soon!  
+Hope to finish my blog post when I get home about my u/s today. Didn't get the greatest news 
+Checked the mail today, no Teaching Hope book.    Oh where oh where is my Teaching Hope book, Oh where of where can it be.....
+@the_twang Hey the release date for Barney Rubble has been delayed  Is the release of the album delayed too? Hope not!!!
+@BeejiveIM Is this issue going to take 24 hours more? Hope not though 
+@suicidequeen Sorry Hun,I'm getting out at around 4-5. Hope you see this. 
+@93josh Awww!  Sorry!   Hope you enjoy the film anyway!  You can always ask me any questions you have afterwards  as a DM. ;)
+Ok just saw &quot; Work &quot; video &gt; When all esle fails CiCi ,sell that popping ass , don't like the song, sorry  Hope this helps her effort 
+@missyallets Yeah, it still is; can't block the spammers, it takes me a few times to follow! Then I have a bad dream!  Hope ur well!
+@backstreetboys Hii Boys! We miss you  .Hope see you in Venezuela Soon!Thank you for being in our lives! Venezuela Love's you Guys.. #BSB
+@backstreetboys Hii Boys! We miss you  .Hope see you in Venezuela Soon!Thank you for being in our life's! Venezuela Love's you Guys.. #BSB
+Took an ambien, feel a coma coming on.  Hope I can get up at 5 for exercise in the morning!  Oh, some of that NutriSystem food - nasty!! 
+@RealAnnieDuke Sorry   Hope you know we ALL know you were the real winner.  Have a better night!
+@Storm_Crow Yeah that sort of thing would make anything taste bitter  Hope your day improves soon.
+@TheEllenShow Since working during the day I miss you show  but wow you and Portia look great! WOW your hair!!! Hope all is well!
+@Tinkerbell2009a Oh no!!  Hope it passes!!
+@mcewenrobbie Oh I didn`t check Twitter  It was your birthday Rob?Sorry.  Happy Birthdaaay!Hope you are fit very soon again to win races!
+Gg to kpkb nokia for new battery. Damn sucky! Hope they change for me  else gotta buy new one 
+@bourach Oh I missed you, shit  Hope both mass and meeting went well pet. Take care xo
+@oxfordgirl Yep, thats true. Persiangirl is very silent  Hope it is everything ok with her.
+@samnzed Oh no, sorry to hear that  Hope everything is ok!
+@Andrew_Victory Oh no! Poor Vito...&amp; you. Haha! Hope he's not getting sick 
+Been watching the movie  - Wimbledom! So good, better than watching the actual thing! Hope my Gilmore Girls will come! Stupid postal guy! 
+@VicThompson Oh no! Hope you'll be ok, or is it too late for that? 
+@QueenofDixie Oh no!   Hope it gets better...
+Getting ready 4 tonight.. Im tired now dammit  Hope everyones having a gd day! xxx
+at the vet with Gaskarth. Hope the little Shit doesnt die 
+Btw today is the last day of school !  , next year grade 8 bby! Might go swimming after school with Erin and Hope :'D
+@officialmgnfox Sorry about your day  Hope it gets better
+@QueenZita --Oh make it no be true! Sorry Beanie. Hope you feel better. 
+@kannibal How's your holy week coming along? Hope I'm not bothering you but do you think we can get the froulala cards this week? 
+@wedgienet Yay! Where's the bazaar? I'm excited for you! Hope you sell loads of your stuff! 
+Ooh, need a TV! @twitchhiker is on This Morning at 11ish. Big stuff! Hope all goes well 
+@angelastyles Oh i can guess who started it lol. Yeah i'm good thx. Hope you have a good day 
+@dancermegz Helloooo Megan,, Hope your having a good easter  xoxo
+@ladyozma  Have you been over to the house?  Is everything OK?  Hope TomTom is happy. 
+@judyk113 Yeah, we're going to have neither, but it's all good. Hope you do. 
+@TorchwoodCF Hey  Do you have any idea when the new season of T.W. starts? Hope your having a good day
+@OldManMyke Hey! Was that an old lady joke on your page?? Forty is the new thirty    Hope you had a GREAT birthday
+is listening to a bit of tunage  Still getting ready for cinema haha! I'm excited but nervous at the same time ... Oh man! Hope he's nice.
+@taless Hello! Just wanted to say hello to you this morning. Hope you have a wonderful day. Hope to see you at my blog 
+@jasyjen Hi. Hope your day's going great so far. 
+@HeatherOsborn Ooh, books, I love books.  Hope I made it in time
+@hollymcombs I don't know if I'm doing this right. Hope you get this. Just wanted to say that you're 1 of my favorite actresses. 
+@jengrly Hello there! Hope you are having a wonderful evening! 
+@mygrassizblu Overflowing toilet. That really stinks. Don't get frustrated &amp; say potty words. Hope your day doesn't go down the crapper! 
+@Paceset9999 Sure missed you!  I knew something was up when you didn't answer.  Hope all is going well for you!  Send me an email too! 
+@DonnieWahlberg HOLLA!!! Just chilling, on my way to buy some maple syrup (mmm..). What's up with you? Hope you're having a great morning 
+@dougiemcfly Hope you have a great time in Amsterdam! Wish you all luck on tour! You're awesome!  hugs! x
+@mystica43229 Hi luv! Sounds like you had a busy day! Hope all went well. 
+@dannymcfly Hope you have a great time in Amsterdam! Wish you all luck on tour! You're awesome!  hugs! x
+@lee_jordan Thanks Lee, just a bit bruised! Hope you're doing ok and hanging in there 
+@TheMandyMoore Hee! I'm about to board a plane to Vegas myself! Hope you have a good time! 
+@tryingtofly I am here and ready   Hope everything is Ok.
+@lalalauren76 @lalalauren76 @lalalauren76  Hope you are having an awesometime tonight at 100 Monkeys!!!  I'm SOOO jealous!!  
+@BSBSavedMyLife Oh, ok...sorry bout that... Hope u can solve that question =/ U seem to be a nice person 
+@cin0117 Well have fun regardless!!  Hope the show was good for ya 
+@terrellsamuels letting the ferrari out? Finally!! Hope katsuya was yummy 
+@expelliarmus Awwwww, thanks honey  Hope you had sweet dreams too  &lt;333
+@linehan Lol Oh right - don't worry we won't make you the official Tweeter-upperer organiser. Hope the hangover is better later. 
+@diana_music  Hey, you've got twitter :p  Good to hear you've started recording - looking forward to it  Hope everything is good jordan x
+@dougpete Well I am back. And thinking about things. And reflecting a little. Hope your weekend is treating you well. 
+@vtmom13 Thanks so much! Hope you enjoy your trip to Gettysburg! (BTW, if you go to new visitor center, ask for it, they dont carry) 
+@PaulaAbdul Hope you get well soon. Take care. 
+@broadsurf Sooo sorry Michael, at the moment I'm not placing links on the homepage. Hope you don't mind. Take care and all the best 
+@clifguy April 19.  Hmmm...wasn't there somethign special in '62 on that date?   Hope you're having a great day!
+@ddlovato Hey Demi, have fun in Madrid! Hope you come to Australia soon.  xx
+@piginthepoke Oh poor you.  Hope you feel better soon   Hugs from Huggles xx
+@ColinGPaterson Hey, how has it gone today?Tomorrows the BIG one tho hey!!!  Hope you got home ok! Last day in iscape was ace, missed ya!
+@ashbrowning fair enough. Hope you come down soon, aint seen you or Flick in ages. Oh and you can do babysitting duties while your here 
+Got a great comp back on the blog I am producing. Very excited!  Hope my boss feels the same way. 
+@ddlovato Hi Demi! I'm your fan from Taiwan!! I really love your show and music!! Hope you can reply! (it would totally make my day) 
+@thatgrrl Hiya!! Sorry I wasn't around this weekend  Hope you had a good one!
+@mseewv Hey, Econo-neighbor!  It was so nice to meet you and your lovely wife this weekend!  Hope your trip home went well!  
+@KatnDEW Hi Kat! I'm glad we got to chat face to face  Hope to hang out with you sometime! Keep in touch
+@nicolerichie Welcome to the Dot! Hope u brought a coat...it's HELLA cold right now...dammit!!!! Have fun 
+Hi to my new followers &amp; all my other followers. Hope you're have a creative day. Go get yourself a lollipop !  
+@Javindamodel haha!  Yep, doin' alright.  Hope you are, too.  What kind of music do you play and how is your web biz doing?
+@markhoppus Hey mark. Hope you're well. Just wondering if you know when you're going to announce the Blink-182 tour dates?  xx
+@e_anderson  Hey There buddy, Great music to Wake Up too  Hope your doing alright
+@cancerlost You rock! You figured out the pixs. Good. Now, do you have someone to scratch 4 U this am? Hope so. 
+@teenbizcoach Hey Shonika! It was great speaking with you and learning a bit about what you do! Hope you have a great evening! 
+@freeeky Well no spiders or snakes yet, just a couple of fly's that went squish.  Hope ya got some qualifications or a lot of moola then
+@AubreyODay Hope you have fun 
+@forestnymph Hey girlie I just saw this! Hope all is well 
+@ChesterBe Oh ok  no problem! Hope you like it!. Good night!
+@PiKaHsSo Sup fam? Hope you have a GREAT weekend! Keep doing what u do, we appreciate u 
+Mari: Yeah we made a pic for our podcast!  Hope you guys like it!!!
+@Tammi_LA Isn't it yummy?? It's my latest obsession... the flavor is mouthwatering!!  Hope you have a great wkend!! See you nxt week??
+@Lieneuh Ooh, how long does the chocolate festival go on for? Hope it's still on when I'm over later this month. 
+@PembsDave Morning   It's beautiful here in Cornwall! Hope it stays that way. My stepdaughter is 18 today and we're having a barbecue.
+@Feather1228 Aww c'mon. No more sad faces.. Making people's hairs look good is a good thing! Hope you won't be so dreadful doing it today 
+@ColinBeveridge Hello Sir! How are U? Hope you are well 
+@gopalshenoy Oh--i can so relate!Hope u're able to breathe deeply soon 
+So anything interesting going on this weekend? No? Cool I'm just gonna stay home... (kidding! Hope to see everyone at #barcampla 
+@hotsports Ooooo I may have to do a BBQ tonight for dinner,I think thats how I cook all summer long hahaha  Hope the weather stays good 4u
+@jrporter  LOL J   You chose an awesome day for it though!  Hope it goes well and ends up being worth it for ya 
+@JasonBradbury Heck! Some people eh?! Hope you have had a good day &amp; fun on your alive board! 
+@queenbmakeup Hi!  Hope you're well today!!!
+@DevelopPlanB Hey Soror!! Hope all is well. 
+@slyseekr Ohhh No!!! Hope you're okay!!! 
+@rob573 You're Welcome! It's nice to meet you Bob!  (Hope I'm not spamming and annoying anyone by replying) ;p Hehe.
+Hi All!  Hope you're well...I'm in search of a GOOD backing track of Amazing Grace to sing at my Grandpa's funeral. S 
+Hello 3:30 AM.  Hope I don't see you again for a long time 
+@esmeeworld Hey Esmee. I updated my blog about U.  Hope U like it.  http://milliah16.blogspot.com/
+@fossiloflife Whew. Hope it gets completely healed soon! Seriously though, you missed a joyous trip to the hospital! 
+@natmandu Ooh, I love a knoll. Nothing quite beats a knoll! Hope it was shagpile grassy  Ahh, Springtime in giddy London. I like 
+Well Have things to do, will be back later. Hope everyone has a great day 
+@egower OMG that is too adorable .. I love little furry beasties!   Okay off to Home Depot to get blow-in insulation.  Hope this works!
+@DeborahVance1 Hey where are you at? No Tweets from you? Hope all okay see you tomorrow all better here 
+heading out to SA... Finally! Hope all is well with everyone 
+@lynxgarcia Hey Sis! The king &amp; queen say hello. Hope you are well. 
+@JohnLloydTaylor Glad you had an awesome time in AUSTRALIA!!! Hope to see you when you come back on tour with the bros later in the year 
+my little tweets have been pretty silent today.  Hope everything is OK.  
+@PainterMommy Oh, sorry.  I thought it sounded nice!  Hope you at least have a yeard LOL 
+is so about to go to jail for murder... Hope you come visit!  Damn roommate..
+@OUBad Just voted for your friend. Hope she makes it on the show. 
+@beccalynn wow, that's a lot of  x's and o's!  you must be catching up on Tweets after a much deserved vaca. Hope it was AWESOME!
+@natalie_brown Hi Natalie! I'm better, thank you so so much  Hope you're well too  Sending love to u 
+Just saying Hi Tweeters... Hope Everybody had a Blessed weekend. One more day before my Weekend Pops off 
+@rhimyers Hi from a Newfoundlander. Hope you have a good summer here 
+@ameltoe Yeah Cameron PLEASE!!!!! LOL. Hope he says yes Amelia 
+@mafraederscheid did the house sale go OK? Hope so, really like your daily painting today, have a creative day 
+@Naiadrisa Heh, that's happened to me before too. Hope the rest of your week goes better! 
+@Taddy69 Not good, I know that feeling. Hope you get well soon. 
+@kiranchetrycnn Kiran, Sorry about ur bad land'g: Hope ur neck feels better. At least, u didn't break it like JD. Btw, ur in fine shape. 
+@ferretprincess Hey Miss Jane! How are you? How goes the film? Hope all is good with you and your family 
+@SaraDfromCali So far everybody look good !  1 more momma goat to kid this month!  Hope she has them this week!!  
+@dravenxiv Oh no! Hope you find your voice soon 
+@parachutesfail Okay, cool. Hope you had better dreams than you had last week.  
+@theDebbyRyan Just left you a message! Hope you get it 
+@MoRethANHuMAn hey you! Did you get my present this morning? Hope u liked it? 
+@kman_19 I watched a little today! Didn't know you were sick, you did awesome nonetheless! Hope u feel better 
+@SusanCrenshaw Uh oh!  Hope nothing too damaged.  
+@TheeRealFDHC Ahhh I can only imagine what you're looking at!! So luckyyy. Hope your having fun. 
+@FlamingBluStar Sorry to hear about the laptop troubles. Hope you can get them fixed and the lappy back to norm. 
+I'm off 2 dream awhile. Thanks 4 everything tweeple. Many blessings &amp; much joy. peace, love &amp; happiness 2 u all. Hope ur dreams come tru 
+Night peeps. Hope you all had a great day! Untill tomorrow. 
+@melvin_16  Hope u had a lovely lunch Mel   Your Dad's place sounds nice , I love polished floorboards  .
+@nianoelle Hey Nia! I used to be the PD at Hot 102.9 in Dayton. I met you in Cincinnati at the Wiz Christmas party. Hope all is well! 
+@StevenSmith1990 Indeed, twitter is where its at mate, its all happening on here.  Enjoy. Hope to see you arou.. http://twurl.nl/j4o1xe
+@tyleigh Thanks! Hope you find a job soon!...OH, almost forgot: I landed a role in an indie flick!  My first audition ever lol.
+Didn't make to my cousin's yacht convention. Hope he doesn't get upset. And hope he won. 
+@BlokesLib Sorry blokey, 6 hrs later &amp; i'm still holding ur fluffy towel. had to dash. Hope u found other means to dry ur self 
+@SarahSaner Hey Sarah! Hws u? Hope u remember me 
+@nzstars ..Congrats Scott - I'm really pleased for you. Hope it's something that'll make u happy. Good luck tomorrow 
+@styletime Hehe okay  Well im not that into gardening and such... so I misunderstood the question. Hope the plant will be okay ;-)
+@limburger2001 Hope you love it too  Do you like the other Treks?
+@PegasusAngel Just wanted to join in for a sec to help with the #SanctuarySunday trending. Hope it helps 
+@vr000m 'men can cook'! Hope u arent counting me! Oh well i'm learning. At least trying to learn! 
+@LegalLush  we extend the courtesy of only really wanting one thing. Hahahaha jk  heard about mudslides in WV. Hope you're all ok!
+@FeedMeOfficial Now probz! Hope to come and hear you someday! Im well thankyou..Loveing the sunshine  how r u? x
+@heather11483 Oh, that was lovely! Hope you find more 
+ I just don't know how to begin this twitter thing. Anyway, I'm taking up my back subject this summer. Hope I'll cope up.
+Hi @njpaust, how are you doing? Hope all's well on your side of the planet. 
+Singing Nevershoutnever... It's 11 at night and everyone is trying to sleep. Hope they love indie/acoustic 
+@kathygriffiths Hi Kathy, I have resent you an email with a Word Doc. Hope you get it this time. Let me know. 
+@ShelliMayfield Hey, thanks, Shelli! Hope plan's are progressing well for the summer trip! 
+@selenagomez selena!Thank YOU! How are you?You dont happen to have facebook do you? because im wiping out all the posers Hope u reply 
+@mojogear WOW! That stud at the Phoenix Gay Leather show is SUPER HOT!!!!!! Excellent pic! Thanks for posting it! Hope to follow u too 
+@wx1901 @Raggay Hey loves, it was so good hearing your voices again.  I miss you both very much! Hope you had fun at your meet up. xoxo.
+Im so happy TyTube is finally released. I have lots of updates and more stuff to add. Hope you guys enjoy it! 
+@randfish Sorry to hear. Hope you'll soon get better ... This is exactly why I like 4 wheels and the protection my Mercedes gives me 
+@aliflyby Hope the op went OK?  My dad had a similar op 3 weeks ago and he didn't sleep for the first couple of nights.  Fine now though! 
+@LuisMOfficial I forgot to ask, how was NY? Did you like Stay Cool? Hope you had fun 
+@MisterSkull  thanks babe. It was lovely. Don't know why I've been feeling so tired recently. Hope you're all groovy in Skull land 
+@geokitten78 Sorry! Hate it when that happens. Hope the rest of the day goes well 
+Hope you all have a fantastic day! Don't forget to smile 
+@DavidArchie You are adorable on your TV guestings today!  Hope you're enjoying your stay.
+@marcydepina Hey Marcy.  Hope you're planning a great day today.  Good morning! 
+Alas, it is time to get ready for work  Hope everyone has a beautiful day!
+@julieunplugged - Yep; is it too soon for a drink? I think this is one reason bloody Marys were invented. Hope you're well 
+@mikeschaffer Oh, how you tease me with talk of chocolate cake.   Hope you had a great one!
+Hello out there  Almost the weekend! Cant wait! Hope you all are doing well this morning?
+@fluffymuppet Oh well. Maybe they stopped using it in case non-certified material went in there. Hope you had a great tour, looks fab! 
+@RandyAWhite That's my hometown Bishop   Hope they're treating you right up there!
+FYI... Just changed my user name from BingFu to FitCoachNC.. Hope you like it! 
+@TheCrazyMango Cool! Let's just play it by ear I guess. Hope you have an amazing and productive rest of the night! 
+Hello tweeps!! Hope your having an awesome weekend! 
+@Jimbotown Hey, just watched the video you posted on your site!  Thanks for the plug!  Hope you're happy with the final interview 
+@melonblind it's been really beautiful here hope some comes your way  Sorry to hear about your bad back. Hope it gets better soon!
+Hello my dear Twitters, I'm heading out to meet some old friends and make some new friends. Hope I'll see you there. Wherever that is. 
+@brebishop JoRo? Really, Bre? xD Hope you find it though 
+@tanyakhoun Yeah all great here, thanks! Hope all's great with you. LOVELY hearing from you! 
+@BebeZed Hi Kathi, ty for that. Nice to meet you. Hope your early am is going well. 
+@greggrunberg Sorry I missed it. Hope you raised some good dough for charity. 
+@SophRigh Okay...thank you  Hope the revising goes well x
+@LittleEmma Then Go!! Hope u will be pass all of the test!! 
+@DavidArchie Take care. Hope to see you again soon. Maybe next time, you'll perform in Araneta. 
+@olafmuller Dude, happy b-day! Hope you get awesome gifts and have a great time 
+@UKLisaW aww glad you had a great time  Did it stay dry in Manchester for you? Hope so xxx
+@DebbieFletcher Heya!! Hope you had a nice lunch  Do you have myspace or are they all fakes?? Xxx
+@Porfix Hey!!!! Hope you had a great day yesterday i was kind on non existent on twitter yesterday 
+@SamBennington  Hi Sam  Hope you're doing alright today? Have a nice day 
+Hahaha! That's great  Miss you too!! Hope your break is going well!
+@aaronmyers Yeah I did. I took an Advil PM. Those things are leathal! Lol! But I slept like a baby though  Hope you rested well too!
+@TrudyG Now yes, I went 2 ur profile ;-) It is normal that dogs of her age seem disoriented... Hope she gets better.   Best wishes, flor.
+@nydia07 U make me laugh knowing ur LOL'ing! Haha...It's always cool 2 read ur tweats, so keep em comin'! Hope ur havin' a nice weekend! 
+@NIYANA Hey Niyana Hope you,Will, and Kavion have a great day  Much love !
+@trucker_steve no prob ! Hope you are too !!! Im glad the sun came out 
+@healthinsgal Yeah it was great to meet you as well! We had a lot of fun! Hope they have it again next year 
+Heading to bed after a big day of working in the yard...after church.  Hope I'm not too sore to get out of bed in the morning!!  Yikes!!
+@sethsimonds interesting. Please let me know how it turns out! Hope it's everything you want it to be 
+@AussieJBlover89 @kaseyRSM @SallytheShizzle @honey1009 Hey-lo!! I posted the url to our video on Melbourne Meet. Hope you like it 
+Hi @wanjagi Hope your weekend was fab. So was mine, thanks for asking. FollowFriday is a way of saying that you're a cool chic to follow 
+Jajaja... Just ordered the InStyler... Hope it works like they say... 
+@RespectMileyC Yeah!  Hope she does
+@BarbieRN Just so nonchalant about the whole thing, haha! Glad you were so pre-occupied it didn't bother you  Hope you feel better though!
+@mandajroberts Hello! Hope you have a wonderful day today. 
+@AliciaJacobs Hi Alicia Hope u had a gr8 wknd. Was surprised that u wasn't at TigerJam. or will we see that on the news 
+Hello new followers!!! Hope you're having a good morning so far! Mondays are a bit of a motivation issue!!! 
+@maybelline14 Sorry to hear about your accident. Hope you're not going to be not-riding for long. 
+@james_brooks morning pal. how you doing? Was talking about you yesterday with @kimded!! All good!!  Hope you have a good day
+@Whodar Thanks a lot.  Hope I'll do well.
+@adelate Heh, it's good to get lots of sleep so that the rhythm normalizes. ;) Hope this week is easy at school! 
+@preeps76 Thanks!  Yeah going from strength to strength!  Hope to see you at one of our meets soon too 
+Hi to everybody, I'm off to write some cover letters. I'll be back in the afternoon. Hope you're all fine 
+Going to my gran's funeral soon, that should be...different. Hope y'all have an awesome day and make the most of it 
+@astralart I get home on the 25th  Im really getting sick of chinese food hahah!  Hope youre doing well!
+@1sweetwhirl Hi gorgeous!!  Hope u alright! x
+@BuzzEdition Hi Susan, Hows your son?  Hope he's doing well my dear! 
+Im Off the college you seksii twitters!  Mwahh Hope You all have a wikdd seksi dai tdai! .[x]
+@hollymae20 Oh noo, that sounds awful! You really should tell her to piss off!  Hope everything works out okay x
+Ok I think I'm gonna head to bed, since it's laaate. And noone's here. So yeah, CIAO. Hope everybody's having some sweet dreams 
+Hi everybody  Hope u all have nice day Gotta work but gonna pop in &amp; out 2 try 2 catch up with everybody and with messages
+Congrats all... Hope You all had a wonderful weekend... Now get You Ass up and get back to work 
+@bikinifreak Oooh i see, dont know if i would be much good in that particular area.lol. Hope you do ok with it 
+@devaul Hope you have a great week ahead, make it the best one yet! Oh yea, keep smiling. 
+@Kenichan That should help! Hope you can stay cool. 
+@jordanknight Hope you had a great birthday. Please say you guys will do another cruise 
+@jordanknight Sounds like it was! Sorry to have missed out.  Hope you had a rocking birthday J!! CU next month 
+@ardeming Glad to hearyou made it back to dry land. Hope you had an AWESOME time and cant wait to hear all about it 
+@TomFelton Butbutbut... Welsh is so fun and frolicsome and... Yeah, it's a pain. Hope the lessons go well! 
+@KatieMcCullough Now that's a 'hurrah' if ever there was one. ;) Hope you enjoy! 
+Well, Tweeties, I am off to go do stuff! Hope everyone has a great day! 
+Well guys Im off. Going backl to uni. I might come later tonight just to say hi. Hope Guy tweets more today.  Bye, bye!
+Hi there! How are you? Hope it is real to find a good man with internet   I saw you here and would like to get more info about you...  ...
+@Fightdentist Hey Adam, any news yet? Hope all the Expo planning is going well 
+@DavidArchie Hey David. I really had fun watching your concert. Hope you'll come here again. &quot;SALAMAT PO&quot; 
+@Deff1 You pop in and out very quickly these days!  Hope all the picture taking &amp; coffee drinking are good!
+@sashavujacic You guys will do great on Sat.! I'm proud of our Lakers! Great seeing u 2nite! Hope i can get a kiss next time! love ya! 
+@prettylaurie Thanks, babe! Hey it's been a minute! Hope you're doing well. 
+@zodiaccartel Yo... Hope you're good  
+@KrisAllenmusic You did GREAT on AI Kris and you deserve the title! Hope you are getting some rest now...take care. 
+Hi @StanleyWright, got a recommendation from @MyOnlineShop &amp; just followed you. Hope you're enjoying your friday 
+@Cudlitz That was a great finale! Thanks for the bad cliffhanger  And for Arija/Chickie. Hope we will see more of her next season.
+@I_like Oh dear. Hope it picks up - long weekend 
+@iainmhepburn Hahahahaha. Hope you enjoyed your birthday btw. I had immense fun 
+@haynes_dave That looks BEAUTIFUL! Well deserved too!  Hope you have a great time!!
+@belindaang Hey thanks!  Hope none of these two tweetups get taken over by those mosquitos roaming at large!
+@emmao414 Ouch! That's no good. Hope your foot feels better soon! 
+@DrRoseB Hope you winning something.... Chances are at some point - something'll be yours.... Let me know when it happens 
+@scottica Damn! I thought we were exclusive  Happy long weekend. Hope your key meeting this week went well.
+@gibsongirlfilms Hi, how are you? Hope you are having a great day! I'm headed to the gym ttyl 
+@Mountaineer_3 ooooh, never heard of it though lol Hope it turns out to be nice  Im sure it will be
+@teradawn thanks for #followfriday. Sorry we could not get together this week, it's been crazy.  Hope the week went fast for you 
+@BillyeThompson Hey Pat Metheny fan, how are you? Hope you're having a great day! 
+@LilKristin ugh....uh...ugh...tsk....uh New york? Ugh...uh So lucky.  LOL. Hope u have a badass time!
+@taylorswift13 Hey Taylor, did you know,, that you are awesome? lol. Hope you are having a good day!  x x
+Hope today doesn't suck as bad as yesterday. Maybe we will get good news from the attorney 
+@theDebbyRyan Hey, Happy birthday for the other day haha, Hope you had an awesome day  x
+@codeezra Thank you for the FF recommend! Hope you're having a great day and have fun plans for the weekend. 
+@Iowawriter Thanks so much for #followfriday shout out! Hope you have a blessed &amp; glorious day 
+@reluctantveggie Thank you!  That is so kind of you!  Hope you are starting to feel better. 
+@Cheryl314 So far, so good!  Hope you're enjoying your holiday girlfriend! 
+Well, I'm off to watch some TV before bed Hope you guys liked the Marathon!  Thanks for the love! haha  Catch ya on the flip side! Night
+There.  I've done my spamming for the night.  Heh.  Need to go write, now ... Howdy, all! Hope folks had a good day.  
+@witenike Ouch! Hope you're okay! 
+Hope you've had an AWESOME morning! We sure did!  http://twurl.nl/76mjdn
+@rickj Fun. That second one seems to work especially well. Hope there are more. 
+@vivianakacreoen Hello Vivain! Hope all is well with you lamb.Be strong tomarrow listen 2 some MC 2 relax u 
+@dannygokey Hi Danny! Hope you can come here in the Philippines! 
+@LanceChick Hi Katrina! Hope your morning has been good so far.  things are about to get spicy in this stage real soon!
+http://tinyurl.com/ry9wap Hi. Hope it is real to find a good man with internet   Please respond me. I will send you my pictures... Can ...
+@chrisgietzen Isn't InHouston great?  That's cool you are a jazz vocalist. I'm the singing financial advisor   Hope to see you at a mixer!
+@YouriCarma Hi I was busy at work yesterday, did not c ur tweets. Hope ur roof is fixed. 
+@MarelNelson I don't know what time I'll be speaking on Friday, somewhere between 7pm-12pm.  Sorry I know that doesn't help. Hope to c ya!
+@sinstral_pride Ah. Well, sounds cool anyway.  Hope you get others to join too!
+@tommcfly :/ Be careful Tom! Hope it's not really broken. Maybe you just jammed it. Always look on the brightside! 
+@hustleGRL ;) lol haha ok I think my moment is over tune in for more later! P.s. Hope u feelin better! P.p.s cavs won!!!!! Hahaha 
+@selenagomez Hope you had fun in Vancity. Here's a twitpic of us http://twitpic.com/63mt4 HAHA! Don't miss us too much 
+@sarahprout Oh, how awesome!  I went to Apollo Bay as a kid and loved it. Are you stopping anywhere along the way? Hope you have fun!
+@katdunbar - I see you use this about as much as FB  Hope you are doing OK!
+@JoeSentance Hope all is a rocking and a rolling in Joe-Ville this wonderful, sunny moaning - Population: You!! 
+@Art_News Oh yes, @ninajudinbooks is a wonderful friend of mine! Hope you're following her too 
+@BeckyBuckwild I try 2 change my pic once in a while just 2 switch it up  Hope it doesn't make me look insecure heh. Anyway, ur fabulous!
+@TVXQUKnow Hi! I'm your Vietnamese fan. Have a nice day! Hope you'll reply me!  thanks!
+@alanwhelan Hey Alan, cheers for following! Hope all is well in Trocaire.ie 
+- Its only bley friday !!! What will the weekend bring us this time  BTW - Cars in for MOT - Hope it will pass 1st time.

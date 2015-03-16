@@ -1,0 +1,45 @@
+Most common words for this cluster:
+[('thanks', 35), ('support', 4), ('this', 2), ('following', 2), ('technology', 2), ('move', 1), ('years', 1), ('dsmonie', 1), ('cjberri', 1), ('freakin', 1), ('go', 1), ('follow', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Thanks', 0.9997537732124329), (u'thanks', 0.7270556092262268), (u'Thank', 0.682900071144104), (u'Kudos', 0.6479968428611755), (u'Congratulations', 0.6397644877433777), (u'Congrats', 0.6023268103599548), (u'thank', 0.5826289653778076), (u'Thanx', 0.5741059184074402), (u'THANKS', 0.5733630061149597), (u'THANK_YOU', 0.5670087933540344)]
+
+
+
+
+
+Thanks. Thanks for well, saying you'd be out of the way and then decide it was too much bother to actually do it 
+is saying good morning... and Thanks to asll my new followers... gotta go 2 work in an hour... wont b home til 9:30 tonite... 
+@CJBerri Thanks, This thunder and lightning has knocked out my mobile signal though so no TinyTwitter for me 
+I'm up ! Thanks alot iinsomnia  anyways what's the bug deal with the laker parade?shit, ud think a riots bout to go down
+@DoreenO Thanks! As for the day off, it's not looking so good at this point. 
+@lynj65 Thanks for the encouragement! 
+@BeautifulBarns Visited your nice website; I learned a lot. Thanks for the follow-have a great weekend &amp; good luck on the move. 
+@gobecca Thanks for the support 
+@DSMonie Thanks  This was a boost to me haha
+@PatrickNZ Thanks for invite. Enjoyed it. And yes no missile weapons or poison in the water 
+@mwclarkson  Thanks...useful to have resources like this 
+@jenlaceda Thanks, thanks. 
+@keza34 Thanks for support! You're a pal 
+@pawan2k1  Thanks for Following 
+Thanks to technology so far away yet so close.... 
+Thanks to technology so far away yet so close.... 
+@OnlyIsabella Oh Thanks! Thanks good 
+@weshotthemoon Sharing your free download got @thinkoutloud77 hooked on you guys. Thanks for the music. 
+@WKJThD  Thanks for Following 
+@irontec Thanks for the support 
+@caitlingrant Thanks!!!!  Like I said on facebook, you just made me awesomely happy.  Thanks.  
+@alcatrazsmith Thanks al...i had a freakin ball!! great company, awesome venues....what more could a girl want?  love ya!!
+@andrewkfromaz Thanks dear, I know this, but I appreciate the validation as always 
+@JavaJunky Fifteen minutes 'til it's on.  Thanks for the heads up, btw.
+@empoweredandfit Thanks for the lead.  I just did the same 
+@pimpmysales Thanks for the compliments dude! 
+@claudiajordan Thanks for taking that task on. 
+@BookWorm71 Thanks! It's such a nice combination. 
+@mrsashlux Thanks, I appreciate the support. 
+@happydayvintage Thanks! I guess it feels crazy that I'm just now getting around to it, being 30 years old and all 
+@nixxin Thanks for the introduction. 

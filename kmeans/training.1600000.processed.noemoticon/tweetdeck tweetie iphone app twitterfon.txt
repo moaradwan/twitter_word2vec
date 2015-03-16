@@ -1,0 +1,792 @@
+Most common words for this cluster:
+[('tweetdeck', 528), ('tweetie', 172), ('iphone', 62), ('app', 42), ('twitterfon', 38), ('tweets', 37), ('twitterific', 35), ('i', 34), ('twitter', 33), ('tweet', 30), ('twhirl', 30), ('quot', 27)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'TweetDeck', 0.897729218006134), (u'Tweetdeck', 0.8814535140991211), (u'Tweetie', 0.8147169947624207), (u'Twitterrific', 0.779409646987915), (u'Twidroid', 0.7715170979499817), (u'Twhirl', 0.7677908539772034), (u'Seesmic_Desktop', 0.7668459415435791), (u'Twitterific', 0.753748893737793), (u'Friendfeed', 0.7469086647033691), (u'Seesmic', 0.7416874170303345)]
+
+
+
+
+
+I feel like I am the only &quot;twitterer&quot; not on TweetDeck. 
+Btw Eventbox is available for free on Macheist for every visitors. Unfortunately I switched to Tweetdeck  http://macheist.com
+@TweetDeck Can you not become a seperate program rather than use AIR? AIR is awful and this RAM leakage is bloody annoying! 
+Nambu getting some good reviews as an alternative to TweetDeck - sadly Mac only 
+TweetDeck crashed again  I don't think it likes Vista64
+can't get TwitterBerry to work 
+@inside_out I do have TweetDeck, but it seems to crash my computer every time I use it. 
+@lisaturner I'm ok, thanks so much for asking  Sorry I can't respond to DMs atm - darn TweetDeck is playing up 
+@SarahLWLee  awww but I like TwitterFox! I really like TweetDeck as well. It runs with Adobe Air #wowroom
+If my replies are slow or I miss them, please be patient with me. They are not showing up on TweetDeck. Having to scroll  #frinightfever
+ouch following the #ASOT400 in TweetDeck exceeded my Tweet limit! 
+Just installed TweetDeck, and man i can see why people use it! But how do i load all my tweets? 
+Where did my last tweet go?? It was from Tweetie. 
+Um, Tweetdeck is being difficult for me.   Farmers Market today though!
+@dremin I want to find a Twitterific alternative, but not many sit on the menu bar and leave my dock uncluttered. 
+TweetDeck keeps crashing on me  Writing my next blog post, will be up in a couple hours.
+Anyone else having issues with the latest Tweetdeck patch. I'm having trouble with profiles and links - keeps crashing 
+Anyone got TweetDeck_0_25.air on hand? Tweetdeck's site is totally borked, and I need my fix. 
+@TweetDeck 
+I want Tweetie, but I don't have an iTouch 
+@TweetDeck what happened to the unread tweet counter? That was one of my favourite features of tweetdeck. 
+@lostinmiami That's odd, because I use TweetDeck just like 97.3% of Twitterers... 
+TweetDeck is not working properly for me 
+@TweetDeck I'm hoping a new version will come out soon that doesn't crash every 20 minutes for me. 
+I thought Tweetie for mac was meant to be out now?! 
+Living without Tweetdeck is like trying to make sense of word vomit. I want my laptop back. 
+Trying Twhirl on Linux, seems working fine, but TweetDeck is not 
+@ejacqui Tweetie doesn't scroll to the top 
+It turns out that Tweetie-without-ads is NOT free 
+First impression on Tweetie 4 Mac: Fast, I love the &quot;conversation&quot; UI, well done! But I love the groups and FB plugin of TweetDeck. 
+@chrisbaskind @momsbunnies where did u guys get #Tweetie. I still see the &quot;coming soon&quot; video 
+I'm trying out Tweetie for OSX.  Pretty amazing interface but no groups.   That's one feature that might send me back to Nambu.
+Tweetie won't open on my mac 
+So Tweetie is pretty cool, but needs moar Growl 
+@ghawi I'm back to buggy Nambu. Tweetie needs sound/growl support before I can use it full time. Also, no persistent searches. 
+@adamdrago Tweetie will beat Nambu pretty soon I think. All it needs is saved searches and groups. Nambu crashed all the time for me 
+@bolognahead but I already paid $3 for Tweetie. 
+@hdbbstephen Unfortunately I can' tload Tweetdeck on my work comp. 
+Tweetie does nothing but bounce in my dock and disappear.  
+the downside - Tweetie for mac; you have to be running Leopard   note to self, upgrade
+#Tweetie for mac is awesome, the best twitter client by far, where is the missing client for Linux 
+Tweetie for Mac seems slow on updating posts, I feel people are tweeting faster than this is updating (nothing in 10 minutes+), API limit 
+trying out Tweetie for mac. pretty sweet, but an unwanted distraction. probably won't use it all that much. 
+The Facebook Gadget of TweetDeck is quite cool. But it does not update replies 
+@TweetDeck also it sucks that I lose the API call counter when I make the windows 2-columns narrow 
+Tweetie is the most beautiful twitter app, but functional? Not really  No faves, no growl, small compose, no customizing, ... #tweetie
+@jarrardcole And so--the battle goes to Tweetdeck.  A slick, animation-full interface and threaded DMs and Conversations is no Groups. 
+Huh, my TweetDeck seems to be missing some of my friends' tweets 
+Attempting to use Tweetdeck...but my rate limit is exceeded. 
+Aww man...TweetDeck is already down to 15/100 requests left...and it doesn't reset for another half-hour 
+was toying with the idea of trying out Tweetie, then realised it's OSX10.5 only - 1st time I've been old my os is too old 
+Tweetie iPhone app has Twitter Trending - desktop doesn't seem to.  
+Trying out #Tweetie, very nice UI.  Looks like I can only have one profile/account open at once though 
+Tweetie wouldn't work for me yesterday  - now it is and I can defo see what all the fuss was about.
+wishng I could use Tweetdeck or Twirl but sadly IT won't let me 
+Tweetdeck isn't working. 
+Wow. TweetDeck is interesting. Too bad I've got a headache right now.  I'd tweet more but I'm still busy with things on the journal sites.
+@mydc probably 'cause you updated from txt? mine updates on time from TwitterFon ga wor... 
+I miss TweetDeck 
+I can't see John's Tweets on Tweetdeck or the Web 
+Missing TweetDeck coz my 2nd monitor decided to die on me... Somehow i feel like i'm not completely utilizing TD without my 2nd monitor 
+I'm considering buying Tweetie for iPhone. Twitterific doesn't have many features 
+Unable to install TweetDeck 
+@TweetDeck have you had any experience with tweetdeck and linuxmint? when i go to download nothing seems to happen. 
+@lameBIRDIE haha yeah. you know what? i don't really care. I just miss my TweetDeck.  i am STILL hitting enter!
+Does anyone else have problems with Tweetdeck? my whole window is empty and status is unauthorized cant send tweets 
+I love TweetDeck (:  Myspace isn't signing in 
+@andrewturner thought there was a particular software other then TweetDeck for Linux...will get Air on there later, school work now 
+Guys what is Tweetie, Tweetdeck and mobile web? Someone help me  Which one do I use for my T mobile phone?
+@benhomie Yea, too bad TweetDeck doesn't allow multiple accounts, what a bane 
+why is my TweetDeck crushing down all the time? 
+just discovered TweetDeck. sweet....now if only i had more followers. 
+@fistynuts ha! I'm using Twitterific and I always forget to change from a tweet to a reply 
+Not liking this at all . Seesmic is taking up worthy desktop space..like what is the need of a left bar when u can put it on top? 
+@TweetDeck hey my tweetdeck isnt working!  it says that it isn't authorized :S can u help me?
+@TweetDeck my tweet deck keeps crashing  any idea why?
+Tweetie is an awesome app but u can tell which tweets r new 
+Having problems with Tweetdeck... it doesn't seem to like me anymore. Won't let me reply or tweet 
+oh no, I think I might like TwitterFon better then Twitterrific  but I love the Twitterrific icon. it's so cuuute ! idk what to do.
+Tweetdeck is broken the application won't load 
+so far I'm NOT feelin UberTwitter!! 
+Can't get Adobe air to load on my desktop  so I can't use either Tweetdeck or Seesmic Desktop.  &lt;sigh&gt;
+is loving the new Twitteriffic iphone app. I just paid for and was getting used to tweetie, but now it's back to Twitterific... $3 gone 
+@metavital Also I'm using TwitterFon. Recent update of Twitterific make me bothering in many ways! 
+Just got Twitterific 2.0 for my iPhone. I regret having just bought Tweetie for the iPhone 3 days ago. 
+Tweetie keeps crashing when I try to add a picture 
+@jennprattartist  My computer don't like Tweetdeck but impossible to follow twitters without it 
+@TwitterFon still getting blank screens at times when flip between tabs, have to restart app (have reinstalled)  http://twitpic.com/4x0t2
+@atebits_support TweetShrink, identi.ca, and conversations in Twitterrific2 are so tempting me... 
+Tweetdeck is taking forever to give me updates 
+@androidtomato @HAMMER32 TweetDeck keeps getting me excited 
+@ElizabethThe is your TweetDeck working properly? mine isn't loading any tweet updates! 
+Wow twitter clients e.g. Spaz, Twittie, UberTwitter, TwitterFone only allows u to send 100 tweets an hour 
+Arrggh... One network down so can't use TweetDeck. Stupid Web-interface 
+TweetDeck throwing fits all morning. 
+@crimsoncup for whatever reason, seems to take a couple of days for Tweetie to get the avatar updates 
+#Digsby just crashed for the first time 
+is frustrated at not being able to download TweetDeck onto my laptop. Kept encountering some AIR file error 
+Ok, got Ubuntu installed; TweetDeck won't install  Any help
+iPhone sync went bad and erased all the apps on it except for Tweetie. 
+is not liking TweetDeck...won't let me do anything as it says my rate limit exceeded  i dont even kno what that means :S
+Why isn't there a BlackBerry app for FriendFeed?  http://myloc.me/12Ff
+can't figure out how to use TweetDeck 
+Tweetdeck fail. 
+@TwitterFon And I *hate* Tweetie. Sorry, but I think I'll keep my Beta Copy of TwitterFon Pro... 
+@dhruvasagar Twhirl annoys me with the multiple windows. 
+@TwitterFon what's happened to the &quot;show conversation&quot; with @replies ?!? 
+@DHughesy love my Tweetdeck........it start to control my life tho 
+@pete_c You are the invisible man in TweetDeck mate 
+Not enjoying using Tweetie 
+widgets.securityModel throws W3CTotalLackOfConcensusException;  #widgets
+Jillian likes TweetDeck. Well, TweetDeck is being mean to me right now 
+Any tips / websites to check out anyone about using Groups in TweetDeck? I have NO clue at all 
+Grrr Tweetdeck what's going on?  Three times in three days I've exceeded the tweetrate, never had this problem before 
+I'm sorry if my icon is messed up. Wanted a new one and now it displays nothing... Tweetie even gives an error 
+.@nik_kee_dee don't talk to me about TweetDeck!! i used to use it ALL the time, and it hasn't worked for a month!!! 
+.@nik_kee_dee .@fjkinnit i did over 8000 tweets with TweetDeck before it died!!! i loved it SO 
+Why is TweetDeck not working anymore 
+@lindsayevans I don't think Tweetie likes your profile pic either 
+TweetDeck is really cool and I do like it but it's a memory hog  80mb? yikes!  I am closing it now....
+@ms_genevieveah. yeah tweetdeck is intensive. i can't use it and play my pc games   I've tried Twhirl too
+@ms_genevieve yeah tweetdeck is intensive. i can't use it and play my pc games  I've tried Twhirl too.
+Which iPhone Twitter client supports groups like Nambu for OS X does? Is there any? TwitterFon Pro, Tweetie, Twitterific don't.  ?
+Seesmic Desktop is crashing my MBP when sending it to sleep - back to Tweetdeck - still no sufficient groupmanagement for twitter 
+Tweetdeck is not working for me. 
+@atebits Tweetie 1.2 &quot;auto-scroll to top when new tweets arrived&quot; feature isn't working for me. 
+@lemongeneration *heart* *heart *heart* sorry, can't type the heart in TweetDeck... 
+My Tweetie stopped working for some reason. Using Twitterfon. 
+there's really no android twitter app of Tweetie's calibre 
+I hate TweetDeck when it reaches access limits 
+@Blinkollieb182 : nooo  i don't know why...i click on TweetDeck_0_25_manual_Blink182.air and it doesn't run!! so sad...
+I think I might like Twiterfon better than Tweetie now. Recent upgrades from Twiterfon have been great! None from Tweetie 
+My TweetDeck is languishing in API Hell. Again. 
+Just updated #Tweetie and open in browser is still broken. 
+TweetDeck is acting really strange! Hum........ reinstall maybe. Update on the horizon? Or is it just another Adobe memory leak 
+Hm... TweetDeck has lost all old replies. 
+I wonder why thumbnail pictures aren't showing up on my TweetDeck? 
+@tchetelat Not as much as I did with Tweetie. It didn't jive with me, which is why I looked at Tweetie. Can't use either now, no iPhone. 
+@marshallsheldon Probably not a good idea, its hard to tweet on the web, I miss Tweetdeck!  *cry*
+TwitterBerry hates me 
+I'am back to Tweetie 1.1.1. 
+Tweet! Just uninstalled TweetDeck and Adobe AIR until it decides to work again. 
+Tweetdeck down for the night 
+I usually have 8-10 columns going on Tweetdeck at once. Trying to figure out how-to on Seesmic. Columns overlap when adding columns. 
+TweetDeck is starting to become a pill because of the limits set. SO I go back to twitter to continue on till my API resets, 
+theres something wrong with Tweetie 
+update of Tweetie... still no sounds  #tweetie
+Ahhh... Tweetie just crashed... And I am going back to school in under 24 hours... 
+Neglected my Tweetdeck for a couple of days. Sorries. 
+Just discovered Tweetie. Looks great but doesn't integrate with Growl like Nambu does 
+#TweetDeck STILL won't let me direct message someone who is following me...so, so annoying! 
+@BElanna_Torres @_HarryKim OOC: I can't see it on Tweetdeck, or on the web 
+FriendFeed is down 
+@CLG_CND I actually love TweetDeck...it is my internet connection that is the problem 
+Now on TwitterFone. Tweetie aint working. 
+My Tweetdeck has gone on vacation. If you happen to see it, tell it to come back already. Sheesh! 
+NOOOOOOOO Tweetdeck not working 
+Tweetdeck is not working !!!  tweet later  !!!!
+TweetDeck having trouble connecting to the mothership. 
+Tweetie's url shortener is broken 
+@aral they have to stop making ads so shiny in Tweetie. It has come to the point, I consider buying something through an ad in Tweetie.  
+Re-downloading Tweetie, pictures jsut aren't coming up on it! 
+Using TweetDeck and yet my tweets say they are via web. Wow.  Does anything on the internet work right? I still have no user picture. 
+Tweetdeck is acting wierd. 
+Why in the world are all tweets now saying &quot;from web&quot; even if it was from my app? I love Tweetie. It should say from Tweetie! 
+Not liking how the latest version of #Tweetie changed the highlight color of tweets.  It's really hard to see when things are highlighted 
+@dickiemaxx  seems alright.  It seems like Friendfeed integration isn't working though. 
+I think Gtalk posting functions are down right now 
+I dont't understand Tweetdeck 
+@jjsevier Your photo doesn't work on my Tweetdeck 
+okay trying Seesmic vs Tweetdeck and all of it's flaws, gotta get used to this one, and I miss my pretty colors 
+angry because TweetDeck stopped responding, so i ended it, and now it won't open but if i ctrl+alt+del, the exe is still running 
+Oh no i accidently tweet 2 times haha don't know how to delete a tweet on TwitterBerry 
+@sweetsofgeorgia TweetDeck has been fine for me. I'm having problems with iPlayer Desktop 
+@schaeferj89 It says I am from web and I am using Tweetdeck too  Silly twitter needs a smack lol
+Tweetdeck makes me sad 
+@ckipe I definitely agree that Seesmic Desktop (and TweetDeck) suck up a massive amount of CPU and memory 
+Finally got round to using TweetDeck today.  Pretty happy with it so far but not able to use at work unfortunately 
+had nice sunny run! hmmm TweetDeck has an annoying I-want-to-shut-off-bug... 
+misses Tweetdeck &amp; must wait until she has her own work computer log in before setting it up. 
+@kamaelian I have a worried feeling that Friendfeed does that for all posts, even the short ones.  I might be wrong though.
+@PammaApple dude idk why it does that, lmfao, you and some other person told me i replied to myself, Tweetdeck is doing that to me. 
+@seismic007 i know...! and i used to be so in love w/TweetDeck... and then we just kinda drifted apart...  i guess we cld alwys try again
+Is TweetDeck being ridiculously slow and starty-stoppy for anyone else? 
+is anybody using an api (apart from TweetDeck) to aggregate tweets? My TweetDeck has fallen over 
+@EMFK Seesmic Desktop is hiding you tweets from meeeeee.  So mean 
+Does TweetDeck not minimize to the tray?   Perhaps I should go back to twhirl...
+OK, I'm totally in love with Tweetdeck after using it all weekend on the desktop, but of course I can't get it to install on the laptop. 
+@beansbaxter Been using Splitweet, will look at Tweetie. And yeah, a couple of things aren't working quite right since my 10.5.7 update 
+Shit I don't have wireless so have to wait till tomarrow . FUCKKKK!  so now iam twittering from my TwitterBerry.
+I changed  my password and Tweetdeck is not accepting it 
+If all they typing I was doing into Tweetie was going into Scrivener, I'd have this document half-written by now 
+Got fed up with Twhirl taking so long to enter text, so trying out TweetDeck. Looks nicer already, but still not Tweetie 
+@JaeCy09  What do you do? TweetDeck won't let me view your profile 
+On TweetDeck, looks like I cannot set my bit.ly settings so I can track the number of clicks in my acct, eh? 
+I think my TwitterBerry is broken 
+ampf! i can't use my TweetDeck. 
+@sundemon10 How did Tweetdeck work on Linux?   or 
+@mr_billiam @sammutimer That's the biggest pill with TweetDeck, the API. Just as I get into it...it exceeds limit. 
+@PaulaBruno TweetDeck is slow tonight for me too!  #gno #GNO
+@nine43 yes apparently you can use TweetDeck and still get through, no social networking for you 
+@brushbox problem with delete seems to be at my end...bl**dy Tweetdeck 
+TweetDeck doesn't support Chinese... at all. 
+@winchester_syll Doesn't seem to show location on Tweetie 
+testing Tweetie with my searches for 'gvsu' and 'grand valley'. I don't think the notification is working. 
+Tweetdeck has given up on me  I think thats my cue for lunch
+#Snaptu just went down for #maintenance. I hate tweeting from m.twitter.com! 
+Hey, my TweetDeck doesn't want to show anything, I was using it but now all groups are gone, &amp; just a black blank deck. 
+@timmoon_cs boo why don't your tweets appear on my Tweetdeck anymore - I thought you'd fallen out of the Twitterverse 
+Tweetdeck crashed...my pc thinks its working and its 'tweeting' but i cant access it 
+Wondering what happened to my #Tweetdeck notifications, was missing out on a few things 
+From webinar: Seesmic looks like another good Twitter interface...but Tyndale's IS dept. only wanted TweetDeck  #CisionLive
+hmmm  my @replies aren't showing up in the replies column in Tweetdeck  
+One think #Seesmic doesn't seem to have is the buzzing right now column. 
+My regular chat friend is out with his friend. I'm feeling lonely on GTalk  I need friends, like me, who don't have a life beyond the www.
+Oh how I wish the customizations I make to TweetDeck follow me around.  I don't feel like re-creating all the groups I made at home 
+problems with TweetDeck 
+is going to miss Twitpocalypse because of summer camp 
+ My pic isn't right in Tweetdeck after all that trouble of getting that pic up, and few people will ever see it as it is meant to be seen
+Okay Tweetie Pies, I will NOT be tweeting as much until my BlackBerry forgives me. I don't know why the trackball has given up on me 
+@ranivus TwitterFon and Tweetie are the big 2. I was using TwitterFon because it was free and ad-less. But now it has ads 
+@PepperTheDog i iz gud Peppah - just trying to figure out how to get back into Tweetdeck. i don't like to twitter on the web. 
+Tweetdeck was insisting that even tweets without '@' in them were unable to be delivered because 'recipient not following you'.  
+this TweetDeck is still going crazy... 
+@rgoodchild The last search I put in TweetDeck ,now keeps tweeting a result every min;&amp; I can't get rid of it no matter what I do  Also..
+@NadiO_da_Model I told you that TwitterBerry sucked!! That's why I like UberTwitter so much, I had TwitterBerry the majority of the time 
+@BengeeB Morning!!!  I booted myself last night...; )  too much alcohol &amp; #FF ... TweetDeck was flaky...  
+@denimmafia The new Twitterific looks nice, but you can't see your followers/people you follow! 
+Oh hey, I passed the 1,000 mark 17 tweets ago. Disadvantage of Tweetie: can't see your stats like that. 
+Friendfeed is down again. 
+Ooopss! Friendfeed down  http://yfrog.com/11vsmj
+I like Seesmic desktop, but it's installed on a work comp - when i connect to the work network, seesmic works.  At home, it doesn't. 
+@TwitterFon keeps crashing 
+After changing password, how long does it take for Tweetdeck to use my new password? locks me out with old one, doesn't accept new one 
+UberTwitter acting up 
+how do I enter the ampersand (at) sign on TweetDeck when 'shift 2' is a shortcut to those that I follow only? grrr.... 
+Trying Tweetdeck on windows xp but can't install it on my vista  anyone can help?
+I keep trying to get the neighbors and Bree to use Tweetie because it's just so much more functional. They refuse to pay any amount. 
+How does one restore the &quot;All Tweets&quot; default column in TweetDeck? I closed it, and regret doing so now 
+Twidroid let me down  back to good old twitteride..
+@SashaCTLC aww  I wish I had my TweetDeck... I'd look for that tweet and repost :'(
+damn, TweetDeck just crashed for no reason, hope it doesn't happen again 
+Tried both Twhirl and Tweetdeck. Much preferring the former (cleaner, less invasive interface). No longurl API support in either, though 
+#f1 my avatar hasn't updated on Tweetie 
+All my friends disappeared in TweetDeck! Coommmme baaaaaaack!  :::::
+My Tweetdeck seems to have a mind of it's own today and keeps disappearing from my screen 
+Foolin around with TweetDeck and tryin to decide what to do since its raining outside 
+Twittelator is failing me and not being able to access twitter.  sadface
+Not nice TweetDeck boots you if you have more than 100 msgs per hour 
+Tweetdeck has been glitchy lately, 
+Why would they put the little x directly above the up arrow on the scroll bar on TweetDeck? 
+My Seesmic just ate all my memory.  #WTF
+@ms6cr8ive they fixed the free twitterrific, not the premium one yet.    back to using Tweetie for the time.
+I miss my Twitterrific app 
+Tweetdeck about to boot me 
+@Tweetie  no OSX 10.4
+Twitterrific is suffered from the Twitpocolypse 
+Twitterrific is suffering from the Twitpocolypse 
+I hope the minimise to tray feature is restored on #TweetDeck soon 
+@sigitt - Maybe  *sighs* TweetDeck acting funky too.
+#TweetDeck refuses to remember what messages I have marked as read. Every time I restart the application, they're all unread  #fail
+The update of TweetDeck has done more damage than good 
+Uhm, this TweetDeck update, there's no more tiny icon on my taskbar? 
+Twitterific was down 4 3 days!!!!! 
+I miss Twitterific 
+@georgiaarnold how awesome! just an fyi, when clicking on link to UberTwitter we can see the picture but not the google map... 
+So, #TweetDeck was updated to fix a crash, to do so they removed the minimize to systray, which totally blows 
+Twitterific stopped working so I'm using TwittedFon until it's fixed. It's poo  off to play minigolf!
+I have 2 twitter w/ TwitterFon now that Twitterific is down. TwitterFon sucks. 
+New #Tweetdeck update stops Tweetdeck minimizing to the notification icon bar 
+@thomas0811 Tweetdeck was te langzaam met refreshen 
+misses using TweetDeck. 
+@orangemonkeyj Ummm... I didn't reply on my other account, did I?  Tweetie makes it too easy to do that 
+Twitterific, why did you stop working on my phone 
+Twitterific is soooo not anymore 
+twitterific on the ipod touch/iphone still doesnt work due to the #Twitpocalypse  
+@BevaniteEllie - Has Twitterific started working again then? I've been stuck with TwitterFon all weekend 
+Twitterific is not letting me login 
+Why does Tweetdeck hate me?  I did the update like it wanted! What more can I do for you, Tweetdeck?!
+@mrtaikandi But I'm addicted to TweetDeck's columns 
+I've managed to fuck my computer right up, mostly fix it and go to insanity and back. Tweetdeck's broken too. 
+@chadfogland @jahlschwede But Tweetie still has some unfixed bugs. I'm still apocalyzed. 
+@theiceangel But Tweetdeck doesn't have that.... 
+#TwitterFon was draining my iPhone battery 
+Twitterific is down 
+@JasonArmistead Received many shoutout for Tweetie.  But I have a blackberry   I love it other than for using the Web
+@travisloh Then what requirements you got there to install Tweetdeck? My AIR file is damaged when I download the file it says 
+Ever since upgrading Tweetie to latest version, clicking the hashtags doesn't load up the search term anymore 
+@ljharris: I can not see the pics you are posting, as I have no Friendfeed acct. 
+Wow, I learned the hard way that there a bunch of Friendfeed regulars who are really hateful/judgmental and the like. 
+@Vegasseven I was wondering how long it would take for them to get to it. Eh. I can't see anyone's face  (in Tweetdeck)
+@PersiaRose I know what you mean, whenever I get on I rely on Twitterific to catch up, unfortunately the Twitpocalypse took it out 
+troubles with my TweetDeck  some replies that I saw I received just dissapeared before I answer them!!! don't you hate when tech fails?
+Twitterific=not working 
+Twitterific seems to be being a shit head    http://bit.ly/5kDld
+@juliaroy My @TweetDeck won't minimize to the notification area any more after the update. 
+@LtGenPanda Use #Seesmic desktop instead 
+Rearranging my @TweetDeck groups. @mixero had failed me dearly. 
+my ipod touch app &quot;Twitterific&quot; isnt working 
+@teganann Do you have the same issue? With the cursor all jacked up when typing? Went back to TweetDeck but REALLY loved Seesmic 
+@TweetDeck my Favorites don't show up on the new version. 
+I better stop messing around with @KirstieAlley &amp; go walk my dogs!   Real life sucks!  I much prefer my TweetDeck!
+@heyitsMade : I have no idea, I'm using web now :p TweetDeck won't work? 
+Tweetie is playing up  only gives one result for nearby,search, and trends. And then will not load the tweet profile. Should I switch app?
+My #ERIC banner is gone on Tweetie. 
+@TweetDeck 'Group' is not working. I only get random tweets. I keep having to check specific users in firefox to catch the missed ones. 
+Twitterific is all screwed up on my phone 
+@chantongcheng i faced the same problem too while trying to install TweetDeck! 
+@Tweetdeck the app does not accept special characters on my system... 
+TweetDeck v0.25.1b doesn't seem to minimize into an icon in the system tray. Argh 
+@CelesteStewart  thanks Celeste! enjoying using TweetDeck so far. Congrats on your sale! it's deathly slow for me at the moment. 
+after fighting with tweetdeck for a while I finally got my Tweetdeck window back, no clue what happened 
+So I should turn off my TweetDeck and open eclipse and start studying for my java exam....less then two weeks 
+@Rinokkuma I use TwitterFon but errors do happen occasionally 
+Thinking about suspending TweetDeck. It just managed to use up more memory than all other processes on my machine  Client suggestions?
+@ElleSergi updated Tweetdeck? Upgrade FAIL, i'm not keen, it lies and it cheats. 
+What's the hell? Trouble with Tweetdeck  
+Why, despite putting Tweeple in groups, does Tweetdeck seem to display some people's tweets and not others? I keep missing tweets 
+TweetDeck update failed 
+Tweetdeck update is all messed up, now it doesnt minimize to system tray, doesnt show popup for new tweets. Its getting over me now 
+@TweetDeck Since v0.25.1b deleting my tweets via TweetDeck does delete them from my account, but they remain in TD. 
+Twitpocalypse is still not fixed in twitterrific 
+Twhirl also seems to cause my laptop to overheat and hang... 
+Twitterific is back online! But my neck, shoulder n back is not 
+My TweetDeck v0.25.1 upgrade  keeps failing 
+@TweetDeck  please, please do something about the h**ies, *** sophies - i think i have blocked about 25 already today 
+I didnt open Tweetdeck until 2pm, i am losing my powers! 
+After I upgraded TweetDeck to v0.25.1b favorites and &quot;in reply to&quot; are broken 
+@TweetDeck   What is the md5sum  or the url of the latest release , having problems  updating on Arch Linux 
+Tweetdeck doesn't like unicode. 
+Aww. TweetDeck is dead! 
+@BlueSuede31 BlueSuede31@thecamerokid ~noooooo! U bet not!  about 1 hour ago from UberTwitter in reply to thecamerokid --i bet not what?
+Just got this back. Twitterific's not working. 
+@embly917 I stopped using Twitterific aged ago and moved to Twitterfon, but then they added ads too 
+twitter is not sending all received tweets to my phone  how do I find TwitterBerry??
+Too bad that #Seesmic_Desktop still has no support for #Laconica. That is what keeps me on Twhirl for my day to day micro blogging. 
+Friendfeed is down, again. 
+Friendfeed is down 
+With its latest update, Tweetdeck no longer remembers its window position properly. 
+@Coincidence It's not quite as easy as TweetDeck E.g. If they have not made a tweet yet you can't add them 
+@richardlai I thought you were using Tweetie now? I got rid of Tweetdeck - not a big fan of Adobe Air 
+@leocomerlato I like Twitterrific  I have tweetie, it isnt bad but I do prefer Twitterrific 2.0
+@TweetDeck so the @ replies fix - was that only for tweetdeck? i still can't view &quot;in reply to&quot; for other tweet sources. 
+@kevinrose Error on that link for Tweetdeck. 
+@missmadison Tweetdeck is being stupid for me. 
+Realtime Twitter searches and trending topics: Which one is better - Monitter, TwitTabs or TweetDeck? I can't decide. 
+@josiefraser Just tried Lifestream plugin for Wordpress (http://tinyurl.com/lk3grj) but it generated an error. 
+I was hoping Tweetdeck 0.26 would feature minimize to tray 
+Twitterrific is confusing me. 
+I loaded TweetDeck today, after @Djalfy was kind enuf to explain but I think its too much for my old computer! Things are crashing! EEK! 
+All set to upgrade Tweetdeck but got an error message after the download.  
+I've already got TwitterFon but started using Tweetie because of multiple accounts. TweetDeck for iPhone is not available in the UK yet 
+I keep getting an error from updating TweetDeck. 
+I won't use Seesmic b/c I am loyal to 12seconds and they are on TD, I do however have to use Twhirl to tweet from other accts 
+is quickly running out of remaining API calls on TweetDeck! 
+@iaindodsworth No sign of TweetDeck at the App Store yet. 
+Dear @TweetDeck, 2.6 is great 'n all, but I REALLY miss 'minimize to tray.' It never gave me any problems, why can't *I* have it back!? 
+I don't see TweetDeck in the App Store 
+@TweetDeck AHHHH iPhone client just crashed on me 
+@TweetDeck - searching says it's not there 
+Tweetdeck still not coming up for me on the app store on my touch.  http://ff.im/446C8
+WTF I want TweetDeck or TwitterFon @banquier and @MissMissaB....and no smartass remark @edoswald, I gotta wait till next year 
+Tweetie already lost out on my iPhone, and with now TweetDeck iPhone-Mac sync, Tweetie Mac might just be knocked out too. Sorry @atebits. 
+@MuzikChild_Saul LOL. Twitterrific is actting up on me. 
+TweetDeck for iPhone is nice, but it won't let me create a TweetDeck account for sync with desktop app 
+I wish TweetDeck wouldn't run out of API so quickly. 
+TweetDeck iPhone keeps crashing on 3.0  lots of times when I click to view a tweet others when I try and scroll. #tweetdeck #iphone
+@safesolvent And you are using Tweetie to send that report... Not cool 
+Testing Tweetdeck app on iPhone. Great, but disappointingly no simul support to post updates on Facebook  
+got the new Tweetdeck the moment it came out, before the servers crashed. Holla! Except then I couldn't update my PC version  but its  ...
+setting up TweetDeck - gotta say, loving the new improvements - sucks that I paid for Tweetie on my iPhone  #tweetdeck
+@TweetDeck any chance of restoring the number of new tweets at the top of the column? I miss that feature 
+TweetDeck for iPhone lets you register  (for syncing) with less than 7 character password but then desktop won't accept less than 7 
+@schneidermike My Tweetdeck groups did not import  what did I do wrong?
+Checking out TweetDeck for iPhone. Very cool so far, and free!!! It has groups for people you follow, wohoo!!! No rainbows though 
+Tweetdeck just crashed on me. 
+@GenkiGenki Hmm my TweetDeck has error when trying to update  Not cool
+@dambold @adambrault @junsten awwwww. no landscape keyboard.    ok, so Tweetie has ONE thing better than TD.
+And TweetDeck crashed again.  All I wanted was to upload a pic.
+OMFG now TweetDeck crashed just after me adding @engadget to a group. 
+TweetDeck keeps crashing.  I like it though.
+@iainplaysdrums Typing feels a little weird with Tweetdeck....and it won't let me look at someones tweete, more than 20 or so.  
+Uh oh. Tweetdeck for iPhone just crashed on me   @atebits, don't be discouraged! I still use Tweetie! The account idea is cool tho. use it
+Still not able to update to Facebook from TweetDeck?? Well, from the iPhone app 
+I don't like how @TweetDeck handles multiple accounts. It's like information overload. 
+@paulabbey But I already payed for Tweetie 
+Awesome! Tweetdeck crashed my iphone. It was looking to be a pretty spiffy app too    oh well
+Just color coded my itouch apps and icons...aka not falling asleep lol 
+Giving TweetDeck for iPhone a whirl. It's v sexy. No sign of 3.0 software update yet though. Bums. 
+@collegiate There's TweetDeck for iPhone? I use TweetDeck on my PC and it freezes a lot and sometimes kills my tweets. 
+Cestou do skoly zkoumam TweetDeck, ale nikde nevydim Trending Topics 
+Tweetie is a lil buggy still on 3.0 
+Tweetdeck for iphone! how come iphone gets so many twit apps while the folky phones don't 
+@jayesh Tried. Tweetdeck Downloading was 98 per cent complete when there was an error. What crap 
+Tweetdeck keeps crashing on 3.0  how is it on 2.?
+@kapkap The latest version (0.26) of Tweetdeck now support multiple accounts. BUT it doesn't work for me... can't see my tweets 
+No swipe on tweets in Tweetdeck 
+Argh! TweetDeck crashed 5 times within 10 mins already. Tweets don't automatically mark as READ when viewed? 
+Initial TweetDeck use crashes more often than Twitterific or Twitterfon..also slower to load on startup 
+TweetDeck for iPhone hangs... Can't keep up with my speed. 
+Just trying out TweetDeck. I think I've finally found my favourite twitter client. Also post anti-histamine hangovers suck 
+@zsbcreations can you tell me how I sign in on Tweetdeck, I forgotton and can't retweet now 
+@danielionescu Same here, Tweetie in my Mac but thinking of chainging to Tweetdeck, but I don't like the UI of the desktop version 
+What I don't like about TweetDeck: I can't three-finger swipe to switch columns and it doesn't seem to have ping.fm integration 
+@lisam75 I still prefer TwitterFon. 
+@CourtneySit Are you seeing avatars in Tweetdeck? They've been blanked out for me all week 
+whilst my change of name has worked seamlessly on twitter itself, I've now found its buggered up all my settings on TweetDeck &amp; Twitpc 
+The new TweetDeck iPhone app is pretty sweet. Lots of potential, but seems a bit buggy - mine keeps crashing. 
+No fair  I can't add @sfannah to a group on TweetDeck for some reason...just not in the list 
+TweetDeck for the iPhone occasionally crashes on me. 
+TweetDeck for iPhone gr8 free app, but I think I'll stay with Tweetie that I paid for... Still cannot upgrade Tweetdeck for the laptop 
+@styletime I think TweetDeck on iPhone is awesome. I believe columns can be deleted. I do have the occasional crash 
+Tweetdeck doesn't seem to be able to view trending topics or who's nearby  I'll stick with Tweetie then I guess 
+Need help with TweetDeck! Ever since I upgraded to the latest version, when I minimize TweetDeck, it goes to Taskbar and NOT system tray 
+I'm VERY impress with @TweetDeck on the iPhone. A lot of though has gone into it with the column use &amp; design. No update sound though lol 
+TweetDeck download failed again  #TweekDeck
+Tweetdeck won't work.  
+Tweetdeck is being a bit too random about refreshing  shame
+@The_Librain oh, and at school I got Twhirl on my computer and now it asks for security check on every second tweet. 
+Playing with new TweetDeck AIR app &amp; iPhone App. Love group syncing. Created a GeekDad's group and realized I missed a few... 
+@TweetDeck I sure wish you had a Palm app 
+Attn #squarespace : if i had a new iphone 3GS i'd be able to play with the new free Tweetdeck app.. instead i wonder with my $50 Nokia 
+Tweetdeck update failed! Retrying! 
+I still like the app I paid for...Tweetie. Sorry, Tweetdeck. 
+@kellypuffs I broke my TweetDeck  had too many incoming tweets then. I could grab an ice cream on the way back - i really fancy that
+@TweetDeck the new version is lovely, but some of the dialog boxes are not usable  http://twitpic.com/7m5kv
+I wish they would come out with Tweetie for Windows. 
+@kenshane My install keeps failing on that Tweetdeck.  
+Twitterific is misleading it's neither terrific or much like web twitted 
+Stupid URL shortener not working on Tweetdeck 
+@MrShlee Also, a landscape keyboard. Why is Tweetie the only app that can do this? 
+Really liking TweetDeck on iPhone. Just wish the desktop version wasn't AIR. 
+@TweetDeck nice iphone version, but doesn't support dashes (-) in e-mail address' for tweetdeck accounts  (is supported in AIR version)
+I can't install Tweetdeck on my laptop because it thinks Adobe Air isn't installed. 
+#TweetDeck on iPhone crashes sometimes when u press send after composing a tweet. And u have to compose the whole tweet again  #fail
+2 times now, TweetDeck errors out on update download on MacBook. 
+TweetDeck on iPhone seems promising, if only it would stop crashing on me...  
+just downloaded TweetDeck and don't know how to use it, confusing 
+r @Rutilia usaba twhirl, ahora TweetDeck para separar por columnas (e.g. friends, work) y search. TweetDeck no soporta multiple accounts 
+Looks like the honeymoon's over. Tweetdeck app is acting buggy as shit today. 
+Testing Tweetdeck but it already has crashed twice 
+@planetphotoshop If you used TweetDeck, it would be a very lonely place. 
+Hmm trying out TweetDeck on my iPhone and i gotta say while it is clean cut and smooth it is lacking the trending topics though 
+Tweetdeck for the iPhone seems to be demolishing my API limits 
+RC7 Yah what an improvment!! But wont update #TweetDeck 
+Downloaded Twinkle 'cause my Twitterific was tweaking... Not loving it so far. Not at all. 
+TweetDesk also looks great, and it's free! But I've already purchased Twitterific premium 
+@palm_webos_blog no TweetDeck for Pre yet? 
+As long as there are so many Iranian tweets to follow, I may need to leave my beloved Tweetie in order to keep things organized in groups 
+I am sad @TweetDeck doesn't support @Posterous. 
+#Tweetdeck just crashed  back to faithful Tweetie - loving the copy/paste and updated SMS, much better!
+Tweetdeck without mobypicture  - http://mobypicture.com/?vyrz4a
+Continually getting Error# 16824 when trying to install TweetDeck update 
+Oh dear lord.  What have I done.  Just installed TweetDeck on my wee computer, and I can tell that the program is too much for it.  
+de regreso a Twitterrific, TweetDeck se cuelga demasiado... 
+My Tweetdeck is undergoing some changes, sorry if I haven't been replying to some of you guys.  Also, anybody tweet anything interesting?
+something seems to be broken with the 'trends' feature in Tweetie, it only load one tweet at a time??? 
+ugh. mom is hogging the computer and i cant get on TweetDeck 
+Suffering Tweetdeck withdrawl 
+Tweetdeck wouldnt work 4 some reason, and we had 2 get rid of our dog 2day!!!   
+I don like the newer version of TweetDeck 
+I should be using Twhirl, but I'm too lazy to launch it..... and I feel incredibly crappy now. 
+Sorry @TweetDeck  http://twitpic.com/7ooy8
+My TweetDeck app keeps crashing... 
+@serenacyh What apps are you using you find best? Statuzer having same groups prob that Tweetdeck had now 
+Tweetie birds...I'm sleepy yet tired of being in the bed.  having tonsillitis is no fun !
+@jpsfancy it was a geek joke that Tweetdeck butchered  basically, no surprise they shuffled off the mortal coil
+while the new #Tweetdeck updates are good, I am not able 2 minimize the app to the system tray. It used 2 happen with d earlier version. 
+so i guess TwitterFon only allows up to 100 &quot;requests/views&quot; per hour? LAMEEE.  
+Tweetie doesn't type in landscape 
+There is so much wrong with the TweetDeck UI I can't get used to it 
+Tweetdeck for iphone doesn't have facebook link. 
+@davidm_en - far as I know you can't change the font-size and only one other font choice #Tweetdeck 
+Waarom is de fucking 'in reply to' link weg in Tweetdeck 
+Why does TweetDeck no longer minimise down to an inconny thing in Vista.  I have to keep the window open now, it's very unwieldy 
+also just noticed that when I minimize new updated version of Tweetdeck, it doesn't go to system tray, it stays in regular toolbar 
+Tweetdeck won't update the all friends column, just my mentions! Silly! 
+Twitterific isn't working for me 
+@FGomes27 Nice! I'm using Seesmic Desktop..the main &quot;rival&quot; against Tweetdeck. By the way, I also got an exam tomorrow 
+So... I lied yesterday... I did upgrade my iPhone software. ...and TweetDeck (for iPhone) keeps crashing on me. 
+Using tweetdeck right now...must admit it's pretty nice. Awww TwitterFon 
+Twitterific isn't working. 
+@simonwilder  the amount of work I am getting done is unreal!  Then I installed Tweetdeck 
+My Tweetdeck is broken 
+Tweetdeck on Iphone is all sorts of awesome still miss my shrink to tray on the PC version though really turns me off using it 
+@harrisiirak I know. I used DestroyTwitter for a long time, but I need my Groups. DT isn't TweetDeck yet  #DestroyTwitter #TweetDeck
+@Ginger_ASF I have Twitterrific and TwitterFon and can't decide. Now, people are freaking for the TweetDeck app! Too many choices... 
+anyone notice any problems adding ppl into groups in the new version of @TweetDeck? i'm getting the &quot;oh dear&quot; message 
+@MarkXA I am running Seesmic 0.3 - no luck. 
+Why has Tweetdeck got rid of the 'in reply to' function? Or has it just moved? It was a great way to find random threads of convo 
+@marketa_klara Thx for hinting at Tweetdeck. But it looks like Tweetdeck misses &quot;Trends&quot; which is a dealbreaker 4 me.. 
+Tweetdeck squish squashes your tweets.   http://twitpic.com/7r61q
+Wondering why Tweetie did not update my icon. 
+@8a22a Wow, the problem has been ongoing since TweetDeck's launch. 
+Why can't I add my followers to groups with @TweetDeck? The list doesn't have all of my followers 
+Tweetie---you kinda suck!! I paid $3 for you dammit. Could've gotten myself a red bull with that money. Or a ball to play with outside. 
+I don't like the new version of TweetDeck. 
+TweetDeck is really buggy! I'm having alot of trouble out if it and it keeps crashing! I might have to go back to TweetFon. 
+Tweetdeck is losing out to Tweetie... I'm not impressed yet... 
+Tweetie isn't working well.. it doesn't tell  me when there are new tweets 
+Looks like it'll be a week or two before TweetDeck accumulates all of the people I follow so I can start making groups. 
+my TweetDeck (linux) uses over 308MB of ram    ... always slows my machine.
+Tweetdeck... Huhuhu... My trusty reliable Tweetdeck is failing me today... 
+@TweetDeck you don't minimize to the system tray anymore? 
+WTF! Tweetdeck just ate my tweet!  #TweetdeckFail ...i'm experimenting to see what would cause it to eat my tweets so I can avoid this
+I don't like when TweetDeck lags. 
+if only TweetDeck showed the trending topics. I like to see what's cool so I won't be uncool. 
+@zkiraly I have the same problem on the iPhone Tweetdeck, esp. after installing 3.0. Sucks when I lose what I wrote   Back on Tweetie too.
+@zkiraly I have the same problem on the iPhone Tweetdeck, esp. after installing 3.0. Sucks when I lose what I wrote   Back on Tweetie too.
+Tweetie on my Mac is asking me to sign in &amp; is not recognising my Twitter credentials... 
+Tweetdeck on iphone, how does one delete direct messages 
+huhuhu i don't like UberTwitter..it's confusing 
+@racco I uploaded a .png (http://tr.im/lkstamp). Seems I just have to wait for Tweetie to catch up. 
+@saschel /me can not haz iphone.  I was comparing Twitter website, Twhirl, Tweetdeck and then Tweetie.
+Em peta molt sovint el TweetDeck 
+TweetDeck does not accept my new password  Any ideas?
+@Hex29A Bah, TweetDeck kunde inte visa mitt sad face. 
+problemi con #TweetDeck 
+Ah hello Tweetdeck. I've been neglecting you. 
+My TwitterBerry is broke  
+Tweetie's search function doesn't seem to be working properly. Only gives me one result when I know there are lots more. 
+@PhoenixHawk &amp; @esasse: I have installed TweetDeck but it does not start, process hangs just there (Taskmanager) nothing else 
+@thurrott I like Tweetdeck (much better than Thwirl) - no Blackberry client, though.  
+In experimenting w/ TweetDeck's search function, I've realized that noone appears to be tweeting about geology or geophysics. 
+@fraserke try using Tweetdeck as your twitter client - it has an in-built translation tool...though Iranian isn't listed 
+I think that TweetDeck has some bugs. 
+Except.... TweetDeck keeps quitting on meeeeee 
+@OSUSquire It's frustrating...Tweetdeck for the iPhone crashes all the time and has various bugs, and Tweetie's search is broken 
+@twidroid favorites added from Twidroid v2.1.7 are not being recorded in twitter web but showing on phone  any ideas?
+TwitterFon always crashes. 
+Not happy w/ TweetDeck for iPhone anymore. It crashes a lot and doesn't start me off where I left off like TwitterFon does. 
+@MartinOrton I tried Tweetdeck once and didn't really like it - I like the web it's just that the icons are gone 
+@MartinOrton Tweetdeck website is not working 
+@writereader Tweetdeck giving me all sorts of problems tonight too!  #tweetdeckfail
+@mblake118 lol! Tweetdeck is shit btw :/ runs out of api calls or something and deletes peoples tweets 
+Trying hard to embrace uber twitter, really I am - but seriously missing Tweetie, it's just not the same  http://myloc.me/4yeS
+@Custardcuppcake *pout* your tweets don't show up on Tweetdeck for me again  How are you?
+Everytime I start digging the iTouch Tweetdeck app it crashes on me. 
+Twhirl is not working...I wanted to use two twitter accounts at once - does not work 
+I Can't Get TwitterBerry 
+Tweetdeck for my PC rocks but it just keeps crashing for my iPhone  #fail
+I wonder why when I updated my Tweetdeck, I can't see any more messages 
+@MartinOrton Still got get into TweetDeck website. Am trying Twhirl but really still prefer the web... if only it worked properly 
+Yay!! Tweetdeck! Idk why I spend so much time on twitter when my friends don't even come on. 
+there`s something wrong w my Tweetdeck 
+The new UberTwitter is nice! If you don't use UberTwitter, you suck. Okay..time for work.  
+@theebayk1d you haven't even given TweetDeck a chance.  They updated and released a iPhone app and everything!!
+Attention Tweetdeck. `Groups' is busted. It would be great, if it worked. At all. It's the least intuitive feature you have. 
+Attention Tweetdeck. `Groups' is busted. It would be great, if it worked. At all. It's the least intuitive feature you have. 
+My mentions section in TwitterFon is completely dead. I have to catch my mentions in the friends view 
+Are there general issues with Twitter Favorites? Tweetdeck giving &quot;service not found&quot; when marking a favorite, Android not marking favs 
+@TweetDeck my new tweetdeck is painfuly laggy 
+Something is wrong with TwitterFon!  
+Location-based searches don't work in #TweetDeck 
+@XennyBrown I am already using Twhirl as a temporary solution 
+grrr TweetDeck still won't work 
+Tweetdeck for iPhone discards my tweet if I exit the app before pressing send.  Tweetie handles this better.
+There are times I wish that TweetDeck didn't allow 'enter' to send tweets - one slightly mis-aimed digit can really make a mess 
+My picture is not appearing on TweetDeck. 
+@TweetDeck - Hello guys. I'm using v0.26.2 and I think it's kinda buggy  When I try to open a link from TD, it always hung up...
+Going to try out #TwitterRide on my G1. #Twidroid just seems to be getting more buggy each time I use it 
+Oh no! I'm not ready for my 5K tomorrow.   I had to walk for 1/2 of my running intervals today http://bit.ly/2ncUi #RunKeeper #IHateColds
+TweetDeck went from fantasmic to a limp app that cant perform 
+@hiphophasaheart Opps my bad for the double tweet Twidroid was trippin...per usual. 
+Got TweetDeck because my Twitterific stopped working. Sad 
+Does anyone use #TweetDeck with #Windows7???  I can't get it to load.  
+Going to use TweetGrid rtight now. TweetDeck is just too hungry for RAM! 
+I love UberTwitter, just wish the name was cooler.... 
+@horrorshock666 That was on MSN, I don't think you can do it for Tweetdeck. 
+Tweetdeck has been crashing at least once an hour ever since I updated to 0.26.  @TweetDeck
+@psychicpsych Thanks for the reply, got a few in the end but finding Tweetie the best so far - although it wasn't free 
+Why wont TweetDeck show a group's tweets older than an hr prior to my opening it? always seem to miss the best tweets when im offline 
+just noticed that Tweetdeck no longer links to the original tweet (that was replied to)...WTF??  
+Sorting through all the people I follow is tough. And for some reason a few I follow aren't showing up in TweetDeck when I make groups. 
+@strawberrysgirl TweetDeck is cool....til the API runs out. 
+hmm, I'm out of API on TweetDeck. 
+@sbanawan Same error I get. I am told this is a problem attributed to Twitpocalypse, but the developer has not updated Tweetie yet 
+Sure hope TwitterFon goes 3.0 compatible soon. I like it too much to dump it 
+Twitterific is not working on my iphone 
+Not everyone I'm following is coming up in @ autocomplete &amp; yesterday unfollowed user was still appearing in All Friends list. #TweetDeck 
+Tweetie is basically useless with a flakey connection 
+Back on TwitterFon, can't get on with TweetDeck. 
+Just removed Tweetdeck after my Firewall revealed some very suspicious registry accesses. I like Twhirl anyway. I wish I wasn't so tired. 
+@prenvo probably. Tweetie was updated a week ago now for twitopocalypse and still apple haven't approved it 
+@TweetDeck please can we have an 'open in safari' button in the browser on the iPhone? Can't figure out a way to bookmark tweeted links 
+@kaffee love your new design, though I mostly see tweets on Twitterific  (=no design....)
+Is it Air or Tweetdeck that is borked? clicking links opens them in Safari instead of Firefox 
+@Hawon I 'used to' love TweetDeck, but there were too many glitches, so I deleted 
+@vesech I am ok, a bit tired  migrated to Tweetie, pleasant!! How is work?
+... I've extended my API requests.. but i don't wanna give that up for TweetDeck! What do i do? 
+@Lisa_OMS heh that was fucking tedious to type w/1 finger on twitfon! Tweetdeck for iphone has lots of features but it's fatally unstable 
+The only problem with UberTwitter is I can't edit my profile info  It makes me sad!
+@TeriBeau  Tweetdeck's installed: I missed a lot of things without  it 
+Just downloaded TweetDeck for iPhone. Seems much better than TwitterFon. Hurrah! Also, not had any DMs for 9 weeks according to this! 
+Couldn't update my status on UberTwitter ever since I downloaded the new version   Trying out TwitterBerry for a change
+What does pin.mismatch mean? It's an error preventing me from logging into Beejive! 
+very much disappointed at #Tweetie.  Even FaceBook was able to get it's update approved and released.  Such a drama. 
+How come TweetDeck won't minimize to the tray anymore? 
+Has something gone wrong with TweetDeck? After a few week's absence - its not working for me.... 
+@DesireeScales Sorry for the bad news, but I didn't see your test tweet in my #sbbuzz search results in TweetDeck 
+@eburnette join the club.. I change twitter apps for android..every other day..  I ususally go from Twidroid to Twitterride and back again
+I think TweetDeck would be better with a systray icon like Twhirl 
+@tjansley Yes, and I don't like it. But this new Tweetdeck is too touchy &amp; I've posted to the wrong account multiple times today. 
+My DMs aren't refreshing on my iPhone Tweetdeck 
+Anyone able to see my picture through Tweetie or a 3rd party app? I'm seeing it on the twitter website, but not in my twitter application 
+@trvsbrkr It makes me blue that Tweetdeck &quot;forbids&quot; me to follow you  I even have the @blink182 deck!! I dont get it 
+#TweetDeck keeps starting below my taskbar in Vista.  Moving it and closing it again doesn't fix the issue. 
+I wish I could install Tweetdeck at work 
+@Itxi_Itx Blip is being a bit of a cunt - search taking forever. Tweetie not too happy right now either - 3 min or so lag on replies. 
+@mikepfs I like twitterfon. Tweetdeck crashes all the time. 
+http://bit.ly/2UtwEP TweetDeck is weired. It takes an old location and posts to the wrong twitter account 
+@kristarella TweetDeck cut off the end of my tweet  ... I think =S
+My TweetDeck keeps crashing 
+@aydinke Tweetdeck is cool, just installed it my self, better than twitterfox which slows the loading time of the browser 
+@thisismaxi - LOL. TweetDeck &gt; Twitterfox? Anyway, being able to smash is an awesome feeling. But 'til now, I haven't perfected it. 
+hi ladies. Unfortunately my connection is really bad 2nite &amp; TweetDeck not updating   #RSG
+@JohnAFlood sorry, I realised that was reply to my earlier question. I think my friend is a windows user too, so no TweetDeck 
+I really really wish @TweetDeck provides some themes just like twhirl did. please, I can't stand the dark UI and can't type hexcodes in! 
+My Tweetdeck isn't working. 
+everyone's TweetDeck works except mine  poo.
+Is there a regular download-url for #Tweetdeck? The flash-button does not work for me right now...  @tweetdeck
+Tweetdeck is crashing my PC today 
+Oh Tweetie, how I miss you 
+@redpandajewelry No, Tweetie, coffee quit me.    I wanted to get married and run away together.
+I don't like the new UberTwitter 
+TweetDeck is sucking a huge amount tonight. 
+@NaythenCash I miss my imeem app 
+TwitterFon isn't working properly this morning.  was going to download tweetie but all reviews say it has been buggy this past week.
+TwitterBerry isn't working for some reason. This makes me sad. 
+@blooms5887 Just use Tweetdeck and you can update facebook and twitter at the same time 
+Twidroid installed, lets spam twitter with the g1 google mobile 
+TweetDeck supports ?????? 
+The new FriendFeed UI is actually manageable at 2:30AM  http://ff.im/1Y2z6
+@RLFloyd yeah I am usiing nambu after @fulltimecasual mentioned it on @mactalk it's good but tweetie is... Tweetie! 
+TweetDeck Icons Annoyng your Desktop? CHANGE   http://tinyurl.com/dca4r7  (From Devianart  http://tinyurl.com/djg77b )
+@bruitist I already have Twhirl . and i will for the other one now  thanking you sir
+@DuaneJackson tr.im are doing it with Nambu, bit.ly are doing it with Tweetdeck 
+@TalAter Ask @TweetDeck if it is in the works 
+Taking screenshots for new TweetDeck website...could someone tweet a twitpic link? thanks 
+@TweetDeck I don't have a link, but I am saying &quot;Cheese!&quot; 
+@TweetDeck we want UTF-8 encoding support! 
+Any way to customize column width in Tweetdeck? I need more room. Must have more columns! 
+Planting a Garden...so relaxing  I haven't hit the TweetDeck in a week or so...I'ma get back w/all of ya'll tonite.
+@YouHerevideo  I recommend Tweetdeck - you can search by areas of interest to you - there is SO MUCH MORE 
+@rlangdon I just want to spread the @Tweetie love to anyone I can 
+Checking out Ping.fm, Twhirl, and all these social networking devices... 
+is creating a TweetDeck column especially  for #coktup tweeps 
+@miamibeach I'm always open to ideas.  As for Tweetdeck I've never tried. For multiple account monitoring I use Tweetgrid and Tweetie.
+I'm checking out TweetDeck!  Tried Twhirl, but already see the power, customization, and functionality here... 
+Checking out TweetDeck....so far I like it. 
+@iliPahgz Ya talkin' about the CrackBerry part, or the Tweetie part? LOL 
+@iliPahgz I've seen that before... It's already built in to Tweetie??? Wow, I've learned 2 things tonight! 
+@leisajw yup yup... Tweetdeck is pretty cool and u can update facebook too  hope ure well ;) xoxo BJ
+@barbtheaussie Hey  using TweetDeck ... interesting 
+checking out Twitterrific. Liking it so far. 
+Tweetdeck is so cool 
+@Adesto i can update twitter AND facebook from TweetDeck, ah another app that encourages lazyness 
+So... anyone got the beta of Tweetie they can get me in on? 
+@TweetDeck can't download tweetdeck from site.. it says downloading but its not.. help plz 
+@TweetDeck cool i'll work on it.. thx 4 ur help 
+@DforDog have a look at http://bit.ly/LrmNc, covers pretty much everything  Or use Tweetdeck or Twhirl, which have a better UI
+Heya tweeps! Using twhirl for my computer is using a lot of programs right now, might not be able to carry TweetDeck. 
+@ZaneMcFate G1 time buddy!  Then u can use Twidroid instead of doin the whole txt thing 
+I just downloaded Tweetie and loving it  Thanks all for your recommendations!
+playing with TweetDeck  // Geez... whatta dreams... *inlove*
+Tweetie today!  @atebits
+congratulations from russia TweetDeck 
+@drewb Tell me why I should leave Tweetdeck for Seismic? 
+Tweetie will be released in few hours 
+Anxiously awaiting the release of Tweetie 
+OK that was pretty obvious once I clicked the button @Tweetdeck so forget I asked 
+Tweetie for mac now available 
+@atebits Tweetie is gorgeous 
+i tried Tweetie. couldn't find the equivalent to EventBox's profile peeks in like 10 seconds. uninstalled and I'm back on @eventbox. 
+With a Tweetie here (iPhone) and Tweetie there (Laptop) I can go and Tweetie everywhere 
+Tweetie Testtweet #testing #tweetie 
+I looove the iphone version of Tweetie too 
+actually I'm counting the minutes until someone cracks the paid-version of Tweetie. 
+http://www.atebits.com/tweetie-mac/ Testing just moment ago released Tweetie client 
+Check Tweetie http://bit.ly/6FXY New Twitter Client for Mac... very nice 
+Tweetie needs to get rid of that dock icon 
+@crazylabel ok up and running  one of the criticism for Tweetie seems to be not showing you the number of new msgs since last logged in.
+@tweetie @atebits  Tweetie for mac is brilliant  ?
+@seismic007 Tweetie has more features just some UI weirdness. And, FYI, I am one of the cool kids boyfriend 
+@markboulton After trying Tweetie I've ended up with a Twitterriffic - TweetDeck combo  Still an opportunity for a top class Twitter app
+@pk2004  I think @TweetDeck is better being just as simple as it is; making it flashy will detract from it's purpose 
+@bigmadkev I really like @TweetDeck but it's the first one i've used so I need to try some others out too 
+Trying out Tweetie for mac 
+Tweetie's looking pretty good, and working well too! I think i'll make it my main client 
+@nihonmonamour TweetDeck rules! 
+@MindPowerCoach I have been using and LOVING TweetDeck. Seesmic Desktop is very similar in function, multiple profiles. Using it now! 
+@TweetDeck Also automatic URL shortening (in the tweet box, w/o using the URL box) would be a nice feature 
+@ariherzog Or you could use Tweetie and see them as a conversation 
+@zholmquist And those two good ones appear to be Nambu and Tweetie, at this point 
+checando el TweetDeck muy bueno 
+Just installed TweetDeck and it's pretty cool! I liked it so far! 
+Tweetdeck rocks my boat 
+@OtherMacGuffin Tried Tweetie on the iPod touch and have switched to TwitterFon as suggested by a follower! 
+@overusedpencil I like Tweetie better because of its conversation feature, like, if you click a tweet, it shows you the replies to it. 
+@film_girl Backatme, plz. And, to put you in the mood to do so, this one!  Found u via TUAW Tweetie, BTW. ? http://blip.fm/~4onhf
+Liking Tweetie, It just needs integration with Growl and will be great 
+Testing Tweetie for the mac...seems acceptable 
+Someone tell me how to cancel a search on Tweetdeck, I can't figure it out, thanks in advance 
+I am on the computer :O Hahahaha, TweetDeck is working again 
+How to install Adobe Air &amp; Tweetdeck on Ubuntu 9.04 64 bit  http://bit.ly/wzTtB it works am using it now 
+@jackStowe LOL - thanks  Actually it went on to crash quite a bit but a definite contender for Tweetie replacement (#TwitterBox).
+I'm liking UberTwitter, very cool  http://mypict.me/pZG
+TweetDeck and Mobile Tweeter. 
+Installed Tweetie (http://tinyurl.com/c4afam) on both desktop and laptop - nice piece of software with polished UI, will keep it 
+@darylcognito - I use the site, my Blackberry, Brightkit and Tweetdeck - depends on the mood   We're good, how about you and Kuma?
+Hey guys TweetDeck is a fun app 2 use!  http://www.tweetdeck.com
+Feeling Twitterrific! 
+@lieveolaerts Will let you know how it goes, still a very new application. TweetDeck is great so would recommend using that for know 
+@ragnarok1971 I'm loving how Seesmic Desktop uses less memory than TweetDeck 
+wow! now using Seesmic Desktop with Facebook integration! Well done Loic, Seesmic rocks! 
+I just downloaded Tweetdeck.  I  hope it will be a smoother ride than the last plug in I used.  I am being brave. 
+@TweetDeck It even matches the colour scheme of my laptop  
+Tweetie v helpfully shrinks longer tweet. Brilliant. 
+Probando TweetDeck 
+finally shifted from Twhirl to TweetDeck so I can filter through my close friends' updates  happy monday peeps
+Wow... my god the whole UI is sooo much snappier. It's more responsive than TweetDeck now!  Tweets feel like IMs lol
+@destroytoday - Tweetie is using Yfrog now, I think, so any chance of adding it to the in-client image viewing? 
+@TheFifthSister LOL yeah  I forgot about your TweetDeck statuses! So funny 
+@niw Thought you should mention that you don't need to enable Growl in Tweetie to make your plugin work, and to avoid duped notifications 
+@dpfdpf probably something to do with FriendFeed 
+Ordering pizzas, watching Diggnation, trying out Tweetdeck. All is good 
+Just signed up for Instapaper, great for offline reading 
+@JennyRhian Tweetie is a must, Flight Control is addictive and AudioBoo is getting more and more popular, hope that helps 
+@lorimcneeartist Didn't anyone ever tell you, don't believe everything you see (or read)!!  Aside from naughty TweetDeck, how are you?
+okay really going to sleep now (to act as dividers. Tweetie doesn't allow me to put the contest entry) 
+Lovin' the new Twitterrific  great job guys!
+@Christopherdfox TweetDeck is where it's at, though. 
+@Northorn I haven't used it yet, but I think Tweetdeck has a translation feature built in. 
+@RichardCoffre  @PierreTran ni dans TweetDeck d'ailleurs 
+is using TwitterFon 
+When will Seesmic Desktop implement Friendfeed back into the app? and/or seesmic video? will it be the one that does it all? 
+@Grooveecar Just unfollowed you by mistake! Oooops! Note to self: must update old TweetDeck on laptop! 
+facem un review pentru TweetDeck 
+@loic Wow, didn't know Seesmic is that big 
+@stedavies (hmm seems like my TweetDeck is down) Hello Lithuania team, hope the presentation is going well! 
+@RubenOlsen I still have to make the optimum use of it....still figuring it out. Evernote is a cool tool though 
+Using Twhirl's saved search term feature to pull in #cfobjective tweets regardless of whether or not I follow the folks....I see it all! 
+@Amalari I am very well, thanks! How are you? is this a TweetDeck thing? What's the name of the group I'm honoured to be in?! 
+TweetDeck is fine 
+@Lady_Twitster oh ok good  i hear that all the time and i never have trouble with my TweetDeck.. hey whats your avatar? lol
+#followsunday  @nbradbury is the guy who made HomeSite, TopStyle and FeedDemon
+Ah, Tweetdeck working again. 
+TweetDeck! have ur twitter and facebook in one instance   get it here http://is.gd/MeZ #twitter #wolfram|alpha #3hotwords #delongeday
+@agiam You're doing great! When you get more followers, you might want to download Tweetdeck. Manages things so much better than web! 
+@SRIshanu Windows 7 ! pin TweetDeck to the taskbar! 
+I'm lovin my UberTwitter vs Twitterberry. Thanks to my sexy beast @ailinalei but I'm keepn TwitterBerry as a backup jus in case 
+Adeus TweetDeck, adeus DestroyTwitter, bem-vindo twhirl. 
+@horrorshowtunez Tweetdeck is better. 
+TwitterFon is broken so joint the tweetie clan 
+sorry about last @message it was for Jessicas trust but Tweetdeck scrolled as I clicked 
+@DHughesy TweetDeck uses a heeeeeeeeap of memory apparently, it may chew your computer up. Twhirl is a sweet alternative 
+@DHughesy the only way Tweetdeck will ruin your life is you'll not find anything more awesome and you might not be able to live with that 
+@TJxWaffles You should have a gander at it, I tried TweetDeck but Twhirl is prettier 
+Trying out TweetDeck for Ubuntu... Makes more sense if you have a lot of followers. Yet again my unpopularity conspires against me 
+oooh.. just downloaded Tweetic for mac to try. NICE! i prefer this instantly as compared to TweetDeck! 
+What I love about TwitterFon   http://twitpic.com/5f6ar
+@Rockermama4 I had twitterberry, then switched to UberTwitter, which is a LOT more user friendly  [re: twitter for bberry]
+is enjoying her new TweetDeck  application. 
+@DonnaSpeaks Just opened Tweetdeck &amp; saw your tweet...got alot to do and this just grounded me. TY  G'Mornin' Friend!
+@michaelowens still lost  I don't see 'bookmarks' on my contact list.  But, if it's truly &quot;meh&quot;, I'll probably just stick to Tweetie.
+@becausei http://twitpic.com/5oi1t - Loving TweetDeck in the background there 
+@Funzafunza easy fix: Buy the much better Tweetie app 
+Tweetie for mac love! 
+Exploring TweetDeck 
+@Kaypearl I'm one of the 6 people using Gtalk, so I should have no problems 
+@JaySkillz Twhirl is like TweetDeck.. but I find it to be much much much much better. You can search and DL for free 
+@PitBullChat Tweetdeck is the greatest thing since sliced bread. 
+@Carly_FTS I will resist TweetDeck a little bit longer... 
+@Milonare hi hun. tried to get Snaptu but my fake nokia 6030 refused. Fothogari kabisa. azawise, iz how the sunshine? 
+just downloaded TweetDeck so far so good 
+@SaraVegas Tweetie?! are u awake right now?! 
+@DanChoy86 Twitterific for sure 
+Checking out the blink 182 TweetDeck 

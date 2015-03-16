@@ -1,0 +1,885 @@
+Most common words for this cluster:
+[('test', 749), ('tests', 117), ('tomorrow', 94), ('today', 64), ('math', 59), ('testing', 54), ('study', 49), ('blood', 34), ('day', 24), ('lol', 22), ('maths', 21), ('week', 21)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'test', 0.9149782061576843), (u'tests', 0.7995681762695312), (u'testing', 0.7364790439605713), (u'extramarital_affairs_flunk', 0.660192608833313), (u'tested', 0.6250936388969421), (u'KATU_POLL_Would', 0.5932643413543701), (u'Testing', 0.5896201133728027), (u'pretests', 0.5893177390098572), (u'Confirmatory_testing', 0.5802427530288696), (u'testings', 0.5785698890686035)]
+
+
+
+
+
+Morning all, starving and dying for a cuppa but can't cos off to docs for fasting blood test in a little while 
+working on my lab report that's due 2359hr tonight. 
+Writing an article (video converters in test). It'll take a long time 
+i think the chem and applic tests tomorrow are going to rape me 
+@foxiehaha I wish, going for a blood test tomorrow am not well unfortunatly 
+last trig test til finals 
+@bronwen I take it your current ex would not have passed the test 
+Has a feeling this math test thursday is going to be hard, guess I got to study this time  hope I do well, I needa keep my A !
+In school taking a test soon. 
+In class, studying for a test tomorrow  blahh!
+sick ...and giant accounting test at 6 
+studying for a test i don't want to take 
+Not ready for this physics test. 
+Just finished a test!  Not a good thing considering it was mostly an essay test.
+booo to that test i just took 
+Finaly the test is over......... math test is very very very very very very hard 
+I bombed my chem test today  every one hates the professor!
+According 2 my lab tests, I've been on the wrong antibiotics for a week  I had bad reaction to last antibios AND I still have kidney infec
+i don't want my tutor to come. i'm hiding my shitty phy test from him btw. and i have no confidence for my eng test on mon 
+ill test you if you want but i gotter get off computer 
+Tests after tests 
+I am not proud of myself.i bailed on the pre-test.i guess i ws scared and just not ready.i'm so disappointed 
+doing online math test  first, i didnt even know how to get there
+Lizzzzz is da best. So not ready for my license test 
+@krystleperez I tried to test my wpm but it wouldn't let me without installing the application 
+@tasaljayyousi  i have a test the second we get back  btw, did you get tweetdeck?
+I need to pass my test 
+TIRED! i hate writing papers and i have a test tommorow 
+going to church today; then out for lunch!!! yumm! later study for science test for tomorrow 
+@OHMYDAYSitsHayz  ahahha. i have a maths test tomorrow and swimming 
+@djdnice  that would be a perfect time to test out silencing headphones.
+learnin for the math test 
+@MeshMeshEre haha  ive bin tryin to revise i hate tests 
+Just got done studying..stressed about this test!!  wish me luck n gnite!
+Not loving unit testing 
+trying to study a little bit more trigonometry, test today 
+need to start preparing for an online test... feels like im about to have sore throat 
+@Botcots the botom ones. had to have a blood test 
+Two tests tommorrow not looking forward to them 
+I am so exhausted! skipping class today to study for my test at 2. test everyday this week 
+studying for a test at 230 and then onto statistics 
+Just ate some chicken broth as a test... We'll soon see if I can keep it down or not 
+And I'm learning for a test! It's so boring!! 
+@timbuckteeth always takes me ages to set up a reasonable test  as edupunk 
+It is literally a billion degrees outside omfgggg  testing starts tomorrow.  lol fail
+has to get some stupid blood tests this morning! noooo!!! 
+well did good on first test bombed 2nd one  looks like rest of class did too... finished paper, coglab, and quiz... another test in 7 hrs
+finally done with my 400words writing test today but will have another test tmr 
+going to have a nap. and then dinner. and then study. chem test tomorrow. 
+It is okay .. how is your test ? And so do I .. it is exams days  ok C U soon
+@WaleDC failed a drug test today 
+ok so i attempted to do some homework. took my test online and got a 65. i have to retake it in 2 days... 
+Off to sleep dreading the ap practice test tomorrow! 
+Testing is overrr ! I think. I keep hearing something about some test for the sophomores  uggggh
+learning for the math test tomorrow 
+i'm so screwed for sd test on monday 
+@shaocloud sigh i also have a chem test coming up... 
+is up at 5 for a pt test  not fun
+3 maths tests next week 
+omg, today i have a test 
+hates having to study for tests when its such a perfect movie day 
+goodnight, have to wake up early.  science test monday, geo test tueday, re assignment due tuesday.
+@DerrickJWyatt I'd go by @GeneralTekno's theory and say that he wasn't present because he failed the drug test. 
+Is super bummed that I have to take an online econ test now 
+The morning killed me  sooo sad. I hate subject tests.
+FFFFFFFFFFFFFFFFUUUUUUUUUUUUUUUUUUU-  i lost about half of my samples 
+struggling to come to grips with the warriors loss  are they doing this on purpose to test me?!!!!
+No one is helping me grade my tests.  
+will have practical test tommorow 
+@sivira some sort of infection, not really sure yet. doing tests... 
+learning french ...soo difficult.. .. tomorrow a class test .. i absolutly hate class tests .. ..HHEELLPPP 
+going to my lovely resting place soon... my bed! oh still need to study for french test 
+learning for the school test 
+is going to fail her driving test next week 
+Studying for a test! On a sunday 
+this french test is going to be tres mal, its too confusing! 
+studin have a test tomorrow 
+studyin have a test tomorrow 
+Cramming APUSH. Test on two chapters tomorrow 
+totally the star test is almost here!!!  ahhhh!
+4 tests tomorrow... 
+i did not do too well on my test. 
+Whoever doesn't have testing tommorrow, are sooo lucky! 
+eating some refreshing wild berry gelato and dreading the maths test tomorrow 
+Up doing this test for history I really wish I had some help 
+@favecolorgreen 4real....should be studying and now i'm sleepy now i finally open a book and the test tomorow @ 9 
+time to study for maths test, do elective history and english. 
+Doesn't want to take her math test later 
+ap govt test.  wish me luck haha
+revising for french writing test 
+doesn't want to take this test 
+seriously needs to study for her ap test, but doesn't get the point if she's sure she'll fail. 
+i have to cats test today 
+ap shmov test 
+I can't believe I get 16 for my plant structure mid term test 
+sooooooo close to a 4 on the bio test..but so far away! 
+FUCKERRRRRRRRRR i have a math test today and im sooooooooooooo not ready for it and  i dont understand math and i hate it and its stupid. 
+I'm studing 4 my food test 2morrow! 
+Getting tired, tomorrow i am taking a math test  and finishing intern stuff.
+I want to be free from this tests 
+Procrastinating starting studying for philosophy semester test tomorrow 
+again I'm sat here going dizzy. Mums getting worried I think  boo blood test tomorrow :'(
+is waiting to fail my german test tommoz! great 
+ive got 3 math tests next week 
+I've got a spanish test on friday..  i have to study but i don't want to do it right now, yesterday was so much fun! i love my friends!&lt;3
+wishing i was on a boat for phi casual  taking an lsat practice test instead!
+Blegh, have to study my mathematics for a mathematic test tomorrow 
+i should be reading to my biology test 
+@crazicrystal I feel your pain. Two huge test tomorrow and I don't feel at all prepared. 
+I wish my test grades were posted more efficiently. 
+has to make up three tests tomorrow 
+is still studying for her test tonight 
+Ugh. Testing this week 
+ap chem test tuesday the ap test.  gotta bad headache from studying 
+damn had a test today and didnt know didnt study shit and i fail with a 62 damn i suck 
+Blehhh testing started today -.- urghhh I hurt my knee and got a shot 
+so tired they shouldnt make us play misa sports after nearly 2 hours of sitting in a test in the hall with the whole grade 
+is studying for a human geo test 
+4 tests in a day? I will be insane 
+I'm still studying  I hope I do well on the tests..
+Awww 30 seconds from finishing my conclusion on that law essay test.  Probably could've gotten 5 extra marks. 
+Doing a spanish test 
+just took maths test  25\40 not bad i suppose looool
+wow this is complex! No tests... poor naming... dead code 
+more state testing 
+@selenagomez i don't know how you do it.. how can you LOVE science? i'm gonna fail tomorrow's test 
+damn class tests 
+i dont want to take the ap test 
+About to take my horrible math test 
+@rhettroberts monday. but i have a test tues so im not even goin anywhere 
+Just got back from school. I ruined the frech test 
+Going to take the drivers test and I don't feel good at all!!!! 
+all i gotta do now is pass two huge test and not fall asleep while driving lol  jp
+I am soooom happy that test is over... until next month starts then test starts again.......... 
+testing. snl is on...not funny 
+Studying for god damn, ENGLISH test tomorrow 
+@nikksta i've got my french test like tomorrow  about, what, 3 weeks after everyone else! yet i have done ZILCH revision and i will fail.
+my classmates and i took a geometry test today. i think i failed it 
+@nataliaan i have 2 exam too  that's so boring to have test on your bday :/ but anyway, good luck. lol.
+@stewstyle Hammers have been slipping for a couple of weeks  About to test my transmitter, but I fear it will dip as I get close to work
+revising for my maths test tomorrow 
+don't feel good, but I have to go to work: 1 to 8 at acadasuck. then english paper and studying for my anatomy test 
+doesn't want to go school and take the test later on 
+too much homework  im going to fail the u.s. constitution test 
+Ahhh english tests tomorrow   Atleats i still have double art right?
+my head hurts a lot. California Standardized Testing tomoro 
+got a maths test 2day 
+Two more days till judgement day  ooooh i still have to study for geo and science test 2moro
+despite all the help, i'm still going to fail my science test. 
+@jakeashley yikes I hate blood tests, and sadly i have them a lot 
+@shaunmichaelb :-o I have 21 tests  I do 10 subjects  lucky...n o right...kl is it hard??
+more studying to do   i hate tests
+i just had my diff calculus test ths morning. i had my special migrane after! 
+international economy test 
+i have to retake my history test today 
+Tired, and taking a test 
+has hit a wall using HTTPUnit to navigate the heavily JavaScripted test page.  http://plurk.com/p/ukhzt
+failed my driving test again   oh well just wasn't my day ~x~
+i totally failed my math test 
+also nervous about the test im about to take ;-; wish me luck, yo. also lol. 
+Just finish testing...so boring 
+@j_ortaliza what the eff?!? I hope that doesn't mess with your ability to take the test 
+Spanish test in 1 minute   I still don't know what chapter we're onnnn!
+That's why it is called a test....sometimes it works....sometimes it don't  We will keep experimenting and testing...
+To do it after half term like my musc and other maths test 
+It's the dreaded blood test this morning so I have to administer local anaesthetic cream soon. 
+I'm supposed to be studying for tests! 
+hmm study leave= revision, test, test, test, revision, revision, test, work,revision, test this is ongoing, i only have little breaks 
+failed my first driving test  *emo*
+Cheeeesed off that I've had to delay my driving test  flipping school trips every wednesday
+At school, chem test is first period 
+@ColinNeedham He had to have a blood test this morning.... he's been battling a virus for over 4 weeks so they want to check things out. 
+worst test ever ....so sad 
+forgot to study for a huge science test today  shoot
+Has failed the police fitness test...and has got nothing more to say. 
+just took a geometry test.... now i have to study for a scripture test ... this is going to be so much fun..  i want to go home!
+Revising 4theory test,,, its not far away now =O hope i pass  xo
+is having a good morning which will soon be dampered by a poop faced math test 
+cooking was so easy i hv 6 more test 2 do yay cant w8  lol
+Ugh I have a test today  I'm so not ready for 140s next period! I'm suuuuper tired.
+Giving up for tonight on getting #zf controller testing to work 
+school... its started already  and i have a test thursday ah!!!
+had a maths test today..thibnk i got a few wrong 
+i will rarely online twitter cause i must study for university entered test 
+@suenguyenn i wish i did! what the heck is comparison test? 
+'studying' for my accounting test...i'm always getting distracted 
+@KaleaAnnai I wish it was that easy  why does one test mean so much ((
+Going to study to the test 2morrow  and watch little gossip girl (:
+really sleepy, is going to have a long weekend, microbiology test and anatomy lab praticum test, 
+is sooooo stresssed about this test....I wish I could focus on it...but my mind is somewhere else which is making it hard 
+cudnt imagine those who had to undergo the complete skin test 
+I wish i payed more attention in math  gayass test tommorow &amp; i cannot understand my notes
+@glennegray  I need to sleep, but I've got a test to dooooo.
+@atlumschema thank you! need to pass my test first 
+Ahh, I forgot about the test today 
+Ugh worried about my math test 
+studying for this bullshit econ test 
+doing the awful online portuguese test! 
+I get another pack of geography test, so I have to correct it on the weekend. 
+@lowenstein @jerm_bob7 I'll update you. I had to leave him at the vet for tests and xrays. 
+So many tests todayyy  I don't feel confident about anyy.
+My cat died of kidney failure during my math test  This day needs to get better.
+I wont be taking my test until 06/27/09 
+road test booked. i r scared 
+@oxEmalieexo: Lol it went okay! As far as I can tell . But then I had to do a test today for geo and I was all zoned out and got like 65% 
+@chillingo  I wanted to beta test but saw the thread after the results were announced
+I have test tomorrow but i dont study, then i go very bad 
+@PaoC_E i did my oral test (cevaz) i miss you 
+@kiran_bhatti were u at wonderland today? we did the beep test 
+damn!! because of my extraordinary test  i wont see her liveeee!
+O ...  I just remembered!!! T,T I had a math test today... i totally failed ~
+I took a great nap! I'm just disappointed that I couldn't pass my drivers test! I'm kinda bummed out! 
+Oh noooo i can't do that test  i've already studied so hard, but still can't do it well, tau gitu gag usah belajaaar!
+Ive been practising my theory test so many times, keep on getting 39/40/43 lol 
+doctors for a blood test 
+aww....BUT I have an English test tomorrow....sucks! I didn't study English at all  I hate memorization!!!
+That test was bad  now to get dressed...
+My I.Q. tests came back negative  jajaja
+I dont want to get blood tests next week. 
+Just finished placement test at ucr...so tired  and hope i wont be late for Fbla banquet =\
+@lolipeach I failed the geometry test too! 
+got a test today 
+testing testing...do my teeth still hurt from the orthodontist? *puts on rubber bands* YESSSSS 
+sick of reading test material 
+spanish test tomorrow.  kill me
+got to study for a test that i am writing tomorrow wish me luck 
+@NanaRaine dont really want to think about the blood test or results 
+mid semester test starts tmr. need i say more? 
+@HeartMileyCyrus i've got a loooot of homework to do and i'm with all the final tests 
+ahh maths test tomoz  then hospo ... need some sleep !
+also, burnt her tongue taste testing haha. 
+@MarielleBait I get is going to be a very hard test    
+weekend is going to be completed.  2mrw onwards again bugs fixing.... more importantly  getting ready for battle with my test team...
+have to practise to our french test tomorrow  i haven't even look at it :S
+@iambeelu poor Beelu  i hope that you pass this test!
+at ucr waving for my test to start....   it will be thirty min...
+@do0dlebugdebz oh no..i got a test tmr 
+I can't take my license test on tuesday. 
+I'm dooomed for tuesday's test. 
+rly need 2 study math. got a national test 2morrow... 
+@JessieeeeeH we have maths test tommoz 
+Going to bed...P.S I have a chemistry test at tuitions tomorrow. 
+wow i reallly need to be studying for my big math test tomorrow!! eek 
+This week will suck so hard. 2 tests, a paper, a project, and all the reading and work I normally have to do. Ouch. 
+I was almost done with the test too, I only had three more sections left  had to finish it @ home.
+was almost done with the test too, I only had three more sections left  had to finish it @ home.
+was almost done with the test, I only had three more sections left  had to finish it @ home.
+@JasonKC and I'm working...... Not being productive and have a lot to do.  Wiiiiiish I didn't have drug tests... 
+Working on my math test 
+if i get a 90% on my bio test, i still have a C+ in that class. 
+@trawryo fuck you!  if only I added.... oh well, I got a 90 on the test before that! Haha!
+Oh my goshhh i have to make up SIX tests tomorrow. AND i have swimming 
+is going to fail her psych test tomorrow. 
+@brigwyn Yepyep, they want to do more tests... but I'm really not sure 
+@kevjumba Don't worry, I have a pretty long essay to write also. And a big test tomorrow too bleh 
+I have a french test  This makes me very sad.
+ughhh, having the national test for math class in 7 minutes... 
+internet is painfully slow. have a test everyday this wk 
+@GabriellaOlsson it really wont end... i hat this, no fuuun... english next and then, again, doin the math test, it suuucks 
+@Dojie i no, but its part ya test and it sucks  hopefully it wont b on my test route lol
+Freaking out boiut tommorrow!! Tests, tests and more tests.. 
+I think I'm gonna rest a day or two to prepare for the upcoming tests and the troublesome project as well 
+http://twitpic.com/6eacq - We just fried one of our test hardware modules. 1st accident in 2 years 
+studying for a test I hope not to fail....mostly cause it cost $120 to take 
+http://twitpic.com/6eata - we just fried our first batch (test) hardware module; first accident in 2 years 
+Ugh test number one down only 5 more to go 
+Sitting in class right now waiting for this stupid test to be over with 
+@zuratulzulkifli cant tests tmw  direct message me here 
+@MoriDai I'm sad because I can't answer the test and I had so low score  I'm sorry...
+Checking my answers of test cases and slowly coming to conclusion: why the hell should I even take the exam 
+@kadaveer I don't have my sandbox available to check it out  It is busy testing some new removal techniques
+English test tomorrow, another maths test on wednesday and a science test on thursday. I have a great week 
+I have no desire to learn, but I must...    I hate tests!!!
+in the testing center. get me outta hereee! 
+I have to go to the doctors tomorrow! More tests 
+#ihate that they do random drug tests at work. No fun for me. 
+terrible red mark in phonetics test  so sad!!
+just failed a test. yikes 
+learning for a test !!!  i hate learning
+There's a long-standing tradition where I rarely ever get higher than a B on a first test. Today's chem test is no exception. 
+So bored ,I have a test on wednesday in french  but I am preperd U
+Supposed to be having a drug test but I'm having performance issues.  
+I really hope I didn't just bomb that test. 
+is studying for my first college test  yay smart me!! boo for having to be on blood pressure meds again 
+I need to cook dinner but I can't get through this stupid test 
+Hey guys! I had a very busy day today and I'm really tired!  Now, I have to go and wash my hair, then study for my science test!! 
+I'll fail tomorrow's test, I am 100% certain of that.  
+blood tests are the worst 
+Testing is horrible!! I really don't want to test!! I'm going to fail anyways 
+damnit got 2 tests tmrw  how am i supposed to study when robsten's been confirmed?!
+wishing my babies would get better.  I hate when they don't feel good &amp; having to put them through tests.  
+I can't sleep  really sucks, 'cause it's so warm in here! And my test is in 5 h 
+got a 69 on the test!! hahaha exams week 
+studying for a stupid science and math test tomorrow!!!! Yippe 
+i want to sleep so badly right now, damn you judaism test 
+sat this saturday  really nervous i suck at taking tests
+my teeth hurt  I hate retainers... Watching that's so raven and have to wakeup early for challenge test in the morning!
+gooodmorning... i will fail the economic test for sure 
+Two tests tommorrow that I haven't really studied for.....sweet, bring 5:30 study jam 
+oh no!! i had 2 do the stupid beep test at school 
+I dont want blood test.......again 
+@dhitri test kapan?? I need to take one as well 
+My allergies are messed up again...and I have to take that silly placement test today 
+i think i flunked my statistics practical test. 
+i think i sort of flunked my statistics practical test. 
+last pre calc test but then there is the final 
+About to do maths test 
+just took a test in accounting  blah
+bad math test  . i saw the new dvd of mcfly its awsome
+tomorow biology test!  i must learn!
+i got a c in my psychology test 
+I have a lot of stress! So much tests 
+just got done my english final and it was actually easy(: chem test next periodd    hopefully i do good;
+Doesnt think i did so well on my math test  but got a good mark on anthro interview 
+imm currently failing a science test 
+Oh no .  French test tomorrow 
+is preparing for tests  
+unfortunately no answers came from the procedure. At least I'm drugged enough not to care yet.  More tests await.
+@NeilCrosby can you fill me in on your testing tool? I didn't come to the session! 
+@shoewee We test them to death to prove that they are learning through testing. If naught else, they learn how to take tests. 
+getting off now,I need to study i'll have a math test tomorow  xooxo:*
+@weesuhboo LOL I guess my bufffff give props to you for getting 90% on her test 
+I need good vibes to pass this test tomorrow  eeeeek
+@cmf315 I will totally let you taste test. This one was for my brothers though so I doubt there'll be left overs  soon!!!
+Finally going to bed, too tired. I'll just study for the test tomorrow... during the period before it  So much for my 'A' &gt;.&gt;
+I lost my voice a day before an oral test 
+Oh no I just remembered I have an English Reading test today  and its last lesson grrrrr
+@chanxw I don't even think I'm half prepared for the test man 
+@freekyzeeky wait, you didn't test me with brit lyrics 
+@jolicloud i've long wait to test........yet i haven't received anything sign me to receive invitation 
+Just finished my last test...im really depressed now 
+having who can hold there breath the longest competitions with myself... i keep losing 
+I cant believe the math test today was really2 hard!! Owh, im afraid that i got a bad score and gonna repeat those math test again, noo! 
+failed my mock driving test and i'll be failin these as's too if i don't start revisionn  its soo sunny :O&lt;3
+just passed out at the hospital giving 14 tubes of blood for tests 
+@heybonnie I have two exams on as well i have the half yr maths test and a french test 
+a few more tests to go studying 
+In pain again  got one test sat and ultra sound in 2 weeks :s
+they cancelled my theory test 
+Its so boring in here. No one can talk and I finished my test 
+I'm so disappointed in the high volume of testing to which my 5th grade daughter was subjected this year.  evaluation &gt; education  =  
+Really don't want to take my test in like an hour 
+wow i have got tons of homework and tests tomorrow 
+i have another med. test today!  
+Please curve the damn test.. ! 
+@menace718bk not much...lamenting the intrusion of another semes on my summer break. Not in the mood for cog psych + tests &amp; measurements 
+getting ready to study for this test &amp; take it soon 
+tommorow chemistry test  too bad...
+Science test tomorrow, sucks. 
+ok i hv to sit in the final of hum111 since i hv screwed up my test 
+test on saturday 
+I so dont test well argh!  #fb
+really wanna go bowling tonight... i hate this test... 
+Just took my first poli sci test. I hope I passed, online classes are harder than I expected 
+another test... sorrry 
+@BLEVisthename more tests? R u okay 
+@JKFOREVER I haven't heard the results of her tests yet, but it is going to be a long road 
+Ugh sat subject tests tomorrow 
+I got a 85% on one of my tests.../wrists 
+@aneD too old for much Test to flow! 
+lazy... need to start leraning  just 16 days to the test
+subject testing @ valley hs  im really tired right now
+stress mikirin lulus kaga. the one thing make me afraid now is i can't pass my test 
+@aliceaccordino  my testing finished at 10:30.
+studying for stupid placement test in math 
+Next week -&gt; the death starts, final tests 
+Missed an important test. 
+An A on my math test... 
+My test server freeze sometime  I examine memtest86
+more bloodwork and tests this week. i love being a lab rat.  i think of myself as more of a lab kitteh. 
+I hate tests 
+@kevinrose I signed up to be a tester but I guess I didn't get selected   I'm super curious.
+@MinistryofOS So they're running a crapload of tests to figure out what's wrong.  
+@episking me too sweetheart... But soon enough! This is just a test period before you move to see how am I going to make it.. 
+Prepping for a test... reading research articles is not too fun  Almost 3 hours now.
+the test was not good  Probably going to get torrent!
+anyone who's done the bio test. do we need to know the stages of meiosis, mitosis and do we need to label the reproductive organs? 
+I completely blew my karate testing.  In fact, I didn't even test. I got nervous n puked 5 minutes before I was up, so I had to sit out. 
+One more test today... silly as it sounds - can't wait for the actual exams! Emotinally - I'm drained... 
+global personality test: my highest results were for paranoia (90%) and peter pan complex (83%) lol fml 
+Nervous for my driver's test on monday  I don't want to fail
+prepare for tommorow english test 
+revising french again . have to set the test again 
+tmrow still have a test !! studying eco 
+Test Results OUT 2morow 
+By @testing1985 #-mazda 
+Early start today, have to make a test and can't see the F1! 
+System too slow x-( ...testing my patience....term not there in my dictionary 
+@gossipgirl14_xo me neither, that math test is going to kick my ass 
+Writing a test tomorrow 
+will write a test tomorrow 
+Surfing the web. I saw my test week timetable. I'm gonna die. 
+i'm going to practice driving today. my driving test is next thursday  i regret lagging for so long. could've had a license by now...
+i have a test at school  tomorrow  i hate tests
+@Jejito Jeeeee my love!!  We're twitting! n.n You have a math test tomorrow right? =S I'm so stressed with the test on tuesday 
+Wondering y it takes 1 week to get a mouth swab drug test back from publix. And I don't do drugs. 
+i need to study for my instructors licensing exam... the test is on my birthday  boo
+glue is messy. :[  finishing this project then studying my brains out for economics test tomorrow!!!  why cant we just be done??
+beautiful day...but doing an accounting test 
+Going to riverside to take the stupid math test 
+@toskala16 yes. I have my english summative and I have a music test 
+@30STMluva hehe yeah! x) i'm watching the simpsons, and then i have to study for a test  how about you?
+The wedding is over, the celebrations surrounding it are also over, just took my test for speech, now the biggest project 
+studying for my fabulous anatomy tests (yes, i mean more than 1) this week 
+is attempting to study for test tomorrow  summers arent for studying!
+Getting ready to take this dumb math test.  learning + summer break = no fun!
+I die, the test of physiology is tomorrow!!!  noooooooooo
+studying for my oceanography test tomorrow.....bummer. 
+I'm bored.....reading over some notes for a history test 2morrow... 
+I will be exhauted because i will have a test 
+@mademoiselledee no! im stressing for the test! i need a B or i dont make csf!  did you do them?
+watching a movie .. i feel soooo sick  and i have to study for a test thats tomorrow
+English test :/ 
+so fed up with not being able to test my diabetes   i cant press that bloody button 
+@barbsaka The looming threat of standardised testing... 
+Just had a hearing test. Apparently I have the hearing of a 65 year old  I'm not even 40 yet.
+final tests just keep getting harder everyday, 
+Going  to fail my spanish test. 
+can't sleep, really worried about my test tomorrow!  not good.  
+bored and sick  i had a blood test and the lady made it BRUISE D=&lt;
+english test - bad. music test - great heat - awful 
+revising for my french reading test that is in like half and hour  hope i do well !
+I'm leaving now!... no twitter until 4pm    I so don't want to go! I'm totally unconcious to do my math test..
+Man, that test was no joke! I guess I was a fool to believe I didn't need to study what was said to be NOT TESTABLE! 
+isnt ready for this test 
+damn, not i have to reschedule all the tests 
+GoiiNq iinto class ihave a math test prayy for m3 because iso diidnt studyy 
+@xroseangelx  i feel really bad for you what subjects are the two tests?
+@SarahMcGowan23  I'm sry about your test!! go to sleep afterward!! haha
+learning physics because of the oral testing tomorrow... but it's so warm and sunny outside  definitely not fair 
+wow i probably failed that test  i wanna do something after class
+tomorrow maths test and wednesday religion test  wish me luck!
+listening to a bit of music.. studying my driving test theory its not going well.. 
+@MeganVendette I'm sorry  what test was it?
+@typicaldoll i don't know  is my last test, too dificult
+I have to take placement tests today. 
+I'm singing a duet with T. I don't want to study for my math test! 
+should be revising for test 2mz but isnt 
+is taking his spanish test 
+I think I've got the definitions down for the test today in class, now to studying the actual lecture info 
+cant believe that she had four blood test today  and is wondering who sings the song speed dial
+test unsuccessful.  brb
+The math placement test was hardddd 
+@camiespice I can't go either I'm working and I have a test the next day 
+Two biology tests this week.. so not fair 
+passed my written exam! failed my vision test... 
+@FallenStar1 any test results yet? the waiting is always the hardest part 
+@mmelissssssaa but u know its really exciting now because we have all these absolutely wonderful tests!! starting tomorrow 
+My next drivers test is set for july 8th.  damn so far away.
+@xbrielle awww  are the tests going okk?
+I can't study for the science test, I can't stay focused 
+@artoholicanonms speakeasy speed test is my usual go-to for bandwidth measurement, though if all you have is dancing lights... 
+also, m having a major migrane  test coming up tmr. boohoo...
+test tom 
+well i had a physics test today and it did go all day im exhausted  i got a all day math test tomorrow as well better look over my notes
+Not flg great- dr sending me 2 hospital 4 mega lab workup and other tests next wk 
+feeling very poorly today hoping my blood test results come through soon. sick of being tired and unwell 
+so stressed with homework, especially with the bloody math test 
+My ass better study for the tabe test   i really wanna pass it
+@jadestaaaa if it were a test i would fail  ha
+Lots of tests 
+only back frum tests   but now i have to do coarsework 
+More testing again 
+@belazir Testing a windows domain, including all the application servers 
+#squarespace and ext pen tests that are going no where 
+school was so boring i wish we wouldnt write so many test 
+english test tomorrow  learn learn
+is writing unit tests by the fucking boatload 
+@retrospectre I have a physics test tomorrow. Which I honestly will fail.  I just don't get any of it.
+Sitting in the doctors office. Awaiting test results 
+a good bio test! 9's ok to me, but, worried about literature ones 
+Just got done taking my A&amp;P test and is was so hard 
+@SimonSage i like #ubertwitter, #twitterberry, #yatca .. someone suggest me #socialscope.. but i'm not in beta test group 
+is going for a test drive soon wheeeeee! but missing mishk... 
+@AshleyRose319 realllllyyyyyy??? i already got set up for random drug test  but we'll see how it goes
+Finally done! Nervous about the last test though 
+write tomorrow 2 tests 
+GSCE chemistry test tomorrow 
+@Luillin no plans on that yet unfortunately, it costs a lot for us to develop and test the installation software unfortunately 
+@MariaManiacs biology test tomorrow ... important test, I'm sure I'll get a bad bad D again  I need a B or a A! I would love a C though ..
+After all the damn blood work and med tests...doctors still don't know what's wrong with me.   It seems to be getting worse.
+I just had a go at doing a sample driving theory test. I think I should hitch home  
+stressed about history and frech test tommorrow 
+Is studying for ap placement test 
+fuck the math test! i DO NOT born to numbers 
+feels like life is poooop! science test tomorrow 
+i had a test today, a math test . i was terrible :-| i don't like math 
+study for this test!   How the hell do you use this site! lol
+learning for the math test tomorrow 
+@jayman3768 hopefully the test has no algebra 
+I almost forget, portuguese test too, I don't know nothing too 
+#haveyouever written a test and didn't learn until the night before the test? well that's what i do all the time  i don't mean to though.
+i just did 2 math tests omg so hard 
+@peacelovedorrie we only got 90 minutes for our science final  I got at 73, but she might add 10 points to the test
+sitting at school scared for this silly test 
+So nervous about my spanish test tomorrow 
+much to do!  THough very very puzzled as to how my sequencing samples seem to be mislabelled 
+can't stop yawning all thanks to the pills i took &amp; having test soon! 
+really really worried about the test cheat today 
+making englisch test now. 
+just got home and has to wake up early to study for my test tomorrow! 
+i finished my history test, god it was so hard  and now i'm waiting for my break ..
+is gettin ready for her child development test 
+Freaken science test has changed my bloody mood, i hate it.  i want to die.
+driving test 2day i feel sick 
+I think i fail my Test!!! 
+Just did my maths test, didn't go too well  I only have to get 40% to pass I should have done that (i hope) so shouldn't have to do resit
+need to get test coverage up, been slacking 
+i am meeting thr woman who wrote the book on theatre safety, which i am syked about. but then she is giving us a test which i am not.. 
+Still waiting for exam results  think its time for a mix
+gosh,i'm so lazy to study for tmrw test.no mood. 
+@DavidArchie im having a blood test soon no idea if it will hurt   did you have yours yet?
+@staceybeeeee aww  well i'm waiting until i find a new job. i'm nervous about drug tests! x_x
+@dsailesh I wish that happened on my test machines. 
+@SakaraRoss1of1 man I'm Definitely pissed! I need 2 stay off the phone and study more. Just got my test back &amp; I'm not pleased! 
+@DestinyTrack42  man I'm Definitely pissed! I need 2 stay off the phone and study more. Just got my test back &amp; I'm not pleased! 
+Test..... again 
+wow 2 tests already  
+...(cont) If i pass test 2 I'm just boderline If I fail test 2 I'm diabetic  *sighs*
+@elanatjie Holy cr*p thats a big class! I'm sorry you have to mark all those tests 
+@samsoir nope unfortunately not, and they only seem to be to test flash on them  all I want is a browser simulator
+STRESS! Got test 
+I'm learning for my test tomorrow  
+Thinking I should have waited a month or so to take that stupid test. 
+test and presentation over and only 2 days til pgroove!! can't come fast enough! i wish mary and @jamisonspivey would be here though 
+5 mins to 15 mins again  I just want to test my place.... In solo.... Why must roblox connect to the website when you do solo tests?
+I don't think I did so well on my chem test  I want to binge on some mojo...
+not looking forward to studying for 2 tests 
+Retaking permit test 
+@Alliah  I dig the car too, but I am going to have to drive 3hrs to test drive one 
+@dianzz i didn't pass the test!  :'(
+That test put me down, when I thought I had gotten it right. 
+homeeee....studying for like 3 tests tomorroww 
+ugh, got a 70 on the test i thought i aced, my physics grade is now a 75 
+decided not to see pwt again tonight although i would LOVE too. taking my psych test instead 
+I have to drink the most disgusting sugary drink for this test! I feel jittery &amp; I'm not even halfway done!  blah!!
+today i had final oral test....    
+i hate jf, and coursework, and the chem test today, and its only thursday 
+I know it was a test too... 
+is scared for the math test. 
+ick blood tests 
+Ging to sleep !  I have a Biiiiiiiiiiig test tomorrow ... 44 questions    !  2 hours in the classroom   !  So boring !
+Going to sleep ! I have a Biiiiiiiiiiig test tomorrow ... 44 questions   2 hours in the classroom ! So boring ! but i didin't study :X
+@H0TCOMMODITY Awww lol that's funny . .. I've never cheated on a test lol I'm too scared 
+@BaNkHeAd81 studying for a test! 
+major headache and i still have to do hw and study for my test tomorrow 
+still can't find the pod.  aural skillz test tomorrow.
+tomorrow i will do a dificulty test  all subjects! im freakin' outtt
+just crammed 4 test 75,80,60,80 ( C,B-,F-B-) i gotta retake f tomorrow  78 more test then done with high school
+I have to retake my Chapter 3 test for math.  I'm so bummed.
+more tests before surgery 
+needs to study for a test but feels like crap.  
+@dhanix well that's stupid! LOL! I made an 82 on my first test  Not bad, but I'm not happy. But truly, his tests are straight forward.
+hates blood tests for  vaccination! only 4 days left! 
+beep test sucks 
+testing twitea.me 
+@weerssofly HAHAH M2M2 but we;ve got tests 
+rervising for theory test.  i don't want to fail
+@maxmasa dunno yet, still have to test it, forgot my earphones today 
+Currently sitting at my turkish class... Just received my last test - it's an E 
+@coollike test failed 
+I want to test out tethering, but my iPhone has decided to die 
+is SO tired. going in for tutoring before test! 
+bottle maker and binky patrol. the paternity test results were crushing yesterday. 
+on my bike, my test was so hard  and i have a 4 for my math test 
+I got a 77 on my second calculus test 
+@jemillahayne i'm scared about tomorrow. i have a troung test. 
+Oh noo, i have a music test next,  :-s
+just sitting in collage - i failed my test 
+has run out of blood-test lancets uh oh 
+done shiit in my mentle maths test 
+..r movie plus state of play could be kl and i just cannot wait for the holidays..gotta study for english test  but still summer soon!!!!!
+scared for test today 
+Just took an exceptionally hard physics test  #fb
+I know I just totally bombed my typing test. 
+just did a dificult math test .      i hate math soo much !
+LMS pilot ran, issues sent to vendor, vendor has come back with target dates for fix...now to test....but.....it's still not great 
+2morrows exam is gonna be a tough 1. This is one test I can't bullshit my way out of 
+it's just too bad I have to sit-in and study really hard for that test today. 
+Ughhhh , . ! i don't want to take this test  we shouldn't have any for the rest of these two weeks . !
+When they say more tests, I get nervous. 
+i need a new book. im always the first one done with my test man 
+is at home waiting on my test results...its taking them forever to come in the mail 
+I have a test in chemistry tomorrow! 
+Not a single 4 for the last 23 balls.. are they playing test?  #t20
+Test tonight 
+The bad news, they suspended all the tests of this semester for the human influenza !! i don't know since i am going to raise my average 
+Studying for the difficultest test in the world, really tired 
+I'm off to take my calculus test 
+Freaking tired !! ( i had a 5 for my german, that's pretty okaay for me)  tomorrow last test and beach sports 
+@lyricalies lol probably. ugh, and i have to leave in 8min to go with mom to her stress test lol. so i won't even be here for it all 
+bio test tomorrow.  six freaking chapters.  
+My moms been in the hospital since one for a stress test. I hope she's okayyy 
+I fail the stupid test 
+studying math for the general knowledge test 
+@JayneDoorknob what test you got tomoz? ive two physics ones  lol
+waiting and waiting and waiting for the results of the biopsy 
+@toysoldier72 oh no  now i feel guilty. will you be able to smoke after the drug test or do you get tested randomly?
+back to square one with the writing sample 
+my house failed a radon test 
+I failed my license test  looooooser
+testing tweetdeck, ugh no tweetie for windows 
+@Jlasmommie bombed my test today.. 
+got an f on my test   but not a bad one i can pick it up
+I think i did ok on my test. 
+@SwordofSparda and I mean know... maybe I'm not smarter... speaking of I failed another test... 
+appointment @ 4, please test negative 
+why do i still have a test? 
+cramming and hoping i could take this test before everything leaks out 
+i don't feel like i did all too well on my test today 
+karate test tomorrow. i hate testing 
+scared for tomorrow's test 
+not studying well at all  I don't even think my lucky underwear will prepare me for this test.
+halo halo testing testing... is friday... moodless to work haha although i have a lot to do 
+so that's a science test, maths test, science scrapbook, pe h/w, english assignment and 3000 word story. progess so far? zilch.  x
+Completely forgot about a music test on everything we've done. i am going to fail miserably... 
+time for doom! WAHAHAHA. understanding test! 
+failed @nuraliaa 's test on facebook 
+I'm probably gonna fail the biology pre-test. 
+Sitting in the train home. There's quite a lot of anger because of the horrible test in biochemistry today 
+Dreading going to the doctor today and getting test results.  
+yet another test!I'm so tired....I absolutely have to sleep!just-least 10 minutes 
+i need another test again 
+omg , i did a math test now  but it was easy
+off to the doctors for pre-admission testing. pretty excited except for more blood work 
+hoping to pass this math test, but i'm thinking i might fail. by this point it's either you know it or you don't and i .... don't 
+they are letting my mom leave the hospital today, we still have no idea how bad the cancer is, test results have not returned 
+just had an english test about literture 
+French test in about 20 minutes.  sucks right?
+the entrance test was super difficult, im not sure huhu 
+Just come back from driving lesson not long now till actual test day 
+frustrasted i cant take a makeup test!!!!  guess i have to settle for a B
+I failed A.math benchmark test agaiiiiiin! 
+@MomDadRivera he is home now but he needs more tests. He has a mass in his lung. 
+didn't pass the test 
+I will get a 1 for my test, 10 is the highest 
+Probably missing a concert to sit in a test beam control room. 
+ had a blood test today!!
+failed my driving test  examiner just picked things to fail me on!
+tied up in my own integration tests 
+marking class test papers.... taking soo long 
+@birdfeedapp If you'd let me test, I could comply..   
+@bowchicka  Ugh...you think you failed your test, or you *know* you failed your test?  
+2 days after having a blood test, still bruised  http://yfrog.com/5awozj
+Ugh, hasn't taken me long to realise that today is sent to test me 
+Having an academic test in 68, OHGOD 
+turns out its not chicken pox.. I haz glandula fever and have to get a blood test 
+@ianlisk66 just 2 hrs now and no telling they just started the basic tests 
+Running some low level memory tests using memtest. It's not looking pretty...faulty ram 
+Just been into O2, no 3G S to poke to test the new coating. 
+I have tests to do and I don't wannaaaaaa. 
+I HATE FRENCH. Why have we such a big test!!?!!??! This is really not nice.   heul
+doing pre-labs for chem 31.1... 
+I'm sickkk of studying!!  still 2 weeks  and 4 tests to go! Boehoee
+Just failed my driving test. 
+Not looking good for the karate test. 
+studing a little bit for the tests, very boring 
+sitting on a bus the day after you passed your driving test is depressing  I want my carrrr haha 
+@muriente am I able to test the 2.0 theme?? The link you gave me to the 1.0 didn't work!! 
+doesnt really wanna study for this math test 
+Ugh i'm sick plus this test on monday royally sucks. 
+@erinberin not a good test day.  no worries.
+got to study for maths test today and do lots of commerce homework 
+is tired, and think I failed my test yesterday 
+psyc test monday = not prepared for it. 
+@Ausadian98 i haven't had much time to test all the apps out yet 
+history, test tomorrow 
+ahh l'oreal, neutrogena, rimmel, and cetaphil all test on animals! 
+is studying for this test     
+Test is coming.......   
+@Rinnifer ive been doing all the wrong test things 
+is not looking fwd to 500 boyscout swim test this morning  not fun not fun!
+has chem revision. test tommorrow. ughhhhhh 
+revising for bio test tomo   sheesh last week of school n we get a flipin test.
+just finished learning for the frensh test at tuesday.... i hate it soo much 
+@jamesbrobinson Thats right crap  You definitely need a comprehensive water test.
+3 hour french test tomorrow 
+Gaaah I've only seen a few videos and I can't watch the test till I get home. 
+Shit i have a biology test tomorrow. 
+is really bored and has a math test on tuesday! 
+first day of intensive japanese and we're already taking tests and being interviewed!  gahhh
+Molly going into animal hospital tomorrow for x-ray and blood tests 
+i planned to take my placement test today and the damn test wasn't there online!! what can i do? 
+don't wanna make the test today 
+Ugh I feel so tired and icky.  I still have to get a million more tests done until I can finally get the medicine I need to feel better 
+I have an hour to study for my next test  yikes.
+Also feel like bollocks after 5 injections and two blood tests 
+Waiting for breathing treatment...next time one shot, AND blood test! Ah..scarrry! 
+i just don't know why i'm upsed now...i was doing english test and i come back to home like this ... 
+I hate having test all week!!! 
+accouting test time. I smell a fail coming. I feel sooo sick 
+Running more now... for 5k... and paddling test. Losing muscle 
+Pleeease No more tests. I beg you 
+I think I got my ass kicked on that test 
+Doctors at 1 to get poked and xrayed like a test animal 
+I got an 83  on my test so do i get to skip freshman english or no? 
+@juice_x no you dont...we went over the test...and now we have to decide on what specification we want to do. 
+test = hannah crapping herself:S - dunno what to do - 10 mins left 
+ahhh- f it. lets just pray that i will pass the accounting test tmr. 
+Final test completed.. not too bad, but then I thought that last test and got an 83% 
+I'm super depressed about my test score   next time I have to do better
+about to study cause i have a music test tomorrow!!  SO SO SO borring
+no more test whhooooooooooooooooooooooooo cant relax though too much coursework to complete 
+I just finish a one hundred and eighty questions test  was sleeping during the middle of it.
+I have my driving test later this week and I'm SO not ready. I haven't driven at all lately 
+Waiting for an xray and a blood test......  im nervous! 
+@lovelynicols only i must talk with my dad.. you know Bwr test 
+got a test in like 2 hours, for microbiology  
+today was my last day of classes yey , now just have tests  I study all day for my portuguese test ; and I had my oral test in english..
+Taking a test 
+So, I barely passed my Section 1 test.... So sad.. I studies so hard. 
+I freed myself from the lol quizbot before I took the perfect lover test.  
+So bored and i have like a tone of tests to do 
+having a test in an hour 
+@fashinator1985 i cant i am fasting for a blood test tomorrow 
+I feel really sick and I have to take some stupied test tomorrow then work 
+In homec doing a test 
+@rosinnott Running straight from the keynote into this session did not give us time to test, but I should have done better  #essconf09
+@ecaps1 its a clicky one - but i had to set it to max to do it   stupid thing!  also running out of test strips and jabbys! 
+@pixsoul I think our beta test program is full, it filled up a while back. We are only allowed to test with 95 other people 
+need to study for a french test,gaay (N)  on the last day of term
+Should I go for check-up? Fakhirah told me need to take blood test and that's what I fear most ! 
+@xxjulia1207xx iBarista had a technical malfunction this morning .. beta test failed miserably .. had to make coffee myself 
+Not sure why I try to give blood anymore... it seems like I fail the test 2 out of 3 tries  
+@marshallbu *shudders*...good luck with the test. I'm all test'd out. I got class and homework for the majority of my day 
+just took my camp swim test....i feel like a polar bear 
+trying to take a drug test and i cant pee  i been here for an hour
+I failed the test. 
+Oh god I want to throw up getting test back 
+damn...i failed the fuck out that test!!! got to stop all the partys 
+just done science test for triple, not sure ill get it tho 
+@ramblelite mhm, they really hurt me  and i have to go back soon for another test to see if i need surgery..
+passed the first section of the P&amp;C insurance test, but barely failed the other.   I'll try again next week.
+stressing over this math test...uhhh....2 days till spring break!!!! 
+@veronica78 good luck on ur law test!  go study now!
+two tests down..  three tests and a twenty first birthday to go..  
+@Celticgirl1913 and you have to fail an ethics test before they'll hire you. 
+@IanRobinson test your webcam 
+Yay for an 84 on my management test!! 
+listening to justin timberlakee when i should be doing a test.   whoops  lol
+retarded... everyone took a honors test. i didnt 
+testing in progress 
+@rachelpilky well done you! You can join the online team now-that's our initiation test 
+road test on may 19th!! 
+This only f#%king test. 
+@kaznakamura testing reply - stil learning twitting 
+@becs09 Did you just call for political website &quot;stress tests?&quot; 
+@desherinka great, i always love getting new equipment and testing it out! can't wait to see what you do with it! 
+school starting again tomorrow.getting my test results.so if you love me then wish that i get an A and if you hate me then wish for an A- 
+is going to test some pubs before Windays conference 
+@MariKurisato I've read it.  However, my suggestion was less about genetics and mostly about some rubric, like a driving test.
+twitter test 
+I am glad to hear my evaluation results 
+@jenavevejolie test 3, your twitter works 
+Just got home from having a study session 4 my test with my bf... He's so sweet. 
+doing online learners test 
+@_abi_ I like that they haven't yet seen or discussed the things I want to test. still working on my memory removal wand 
+I passed my pathology test! Hazzah 
+testing out tweetie for mac 
+Test tweet from knightsbridge 
+going to take my driver's test at 10:30. wish me luck 
+got norwegian for my first test exam 
+testing the new trillian astra... so far so good 
+Only one hour of school, multiple choice test, pretty confident that it will go well 
+@ceibner that's why I try to avoid test runs 
+@omniture cool im going to test utube with it 
+@jacques just need 1 test that's all 
+well i am recovering  from G.E.D. testing two areas taken to boost up my points , i had better have defeated the remainder of 30pnts. :&quot;}
+@apolaine Yes, that is some kind of test 
+@eddieh remember it's just a lesson; not a test 
+@larue777 Congratulations on passing your test! We should go out and celebrate!  
+Last driving lesson before my test next week ... don't know why I'm nervous ... it's not like I've not done it before lol 
+@servina Thanks for the test, and the comment! 
+@simonmaddox cool, well if you need anyone to test it i'd be willing 
+guapo_thechaser: Testing.  And resting. 
+@rae8705 I have twitterberry. Testing it out to see if it actually works 
+Taking my permit test today! Wish me luck 
+Hey! Testing out twittermail. 
+later I'm going to learn biology for my test  only 2 days left!!
+@kathleenishness congrats on passing the eng test  u go girl
+@veganrunningmom yes garage band.  I will do your test no problem.  
+@robinpedrero  Can I play? I love your art but I'm not very good at tests.  
+@francoisplanque how's your split testing going holmes? 
+@Lyssistrata I think it's an intelligence test from computer manufacturers. One we're failing. 
+brain full...it hurts...I go bed now...test tomorrow...hopefully will massacre the bitch! 
+@CrystalLaw blech, there isn't really a way to study for my exam. As long as I can analyze what's on the test I'll do fine 
+hmm... now what to do today... i suppose i could revise for my science test :/ or i could just eat cookies and watch films 
+@lyssiecc i like the positivity  And no. you may NOT change your carrer. crazyb dog lady just isn't the same.... when's your maths test? x
+@susanasantos CONGRATULATIONS on the test! 
+call me einstein. got math test results: A-  hell yesss
+YAAAAY! I think I might have Aced my history test today! 
+Omfg this test is a joke. 
+causee not everyone can pass the challenge test duh 
+@SJSharksfan haha i agree ! i am her test dummy. i just go in and say &quot;do whatever you want&quot; and i always love it.  she is magic!
+@aewang he didn't know there was going to be a test 
+YES. and then they should in non test conditions! 
+Petit test de bit.ly 
+Comunicar.com online em tests!  http://www.chilltime.com/jornal/comunicar.com
+ test one two and three 
+@TeamHate Test successful? 
+@Aydsman ...which, as @AndrewBartlett points out, is not necessarily reliably measured by this one test. *runs away screaming* 
+@asc2009 a test center is good at conformance testing. Does my RIPv1 implementation meet spec? stuff like that. Apples and oranges 
+completed all test 
+Finally, my brain can now rest from all of those test questions 
+@xpennyxlanex thank you! hair cut is going well  fingers crossed the test goes as well!
+@suryasnair ahhh testing waters... 
+Testing, deploying, testing, deploying and testing again 
+doesn't have any test for tomorrow! yeayyy!! 
+setting up twitter account... test test 
+testing #talkingshop (1,2) 
+@dagoaty We could change the test lab to be powered by bikes, that way you could still keep fit 
+@ReganHutchins i created my 3rd concept kinda by accident... fucked up an algorithm while testing .. gave some swt results 
+back from school. it was insane  marketing test was ok...hungarian grammar test tomorrow :S
+taking a 3 period long test...pissed. @lizotteh make me happy? 
+wrote a little test in english today. i didn't know the word 'train conductor' so i just wrote 'station worker' muhahaha 
+ok...today i have done my test and now...relaxxxx  
+@CarrieP txt and test might be friends. 
+@Pamluther my certification was in counselling lol ... but I mainly did assessments and work adjustment for voc rehab 
+just came back home from class test! it went..well, pretty good i must say! 
+I have a biology test tomorrow and I still have to start studying..I guess I'll have to start now.Thankfully this chapter isn't that hard 
+A long test tomorrow and it's almost done!  YAY
+off to bed. wish me luck to final test!!. good night all 
+testing the breaks on the '58.    text.
+I'm oddly excited to start memorising the criminal investigations book... I sooo love taking tests 
+@ plisnoh i hope it's easy, this NEEEDS t bring my mark up, hey if we did well on the test, we have to celebrate. 
+at least we wont loose any test while mcfly week 
+Of course I'll Mock my stomach, don't want to use my real stomack, that would be an integration test 
+yeay i pass the solat jenazah test 
+testing, testing, apakah followers ku bisa copy??? 
+http://twitpic.com/5f1rm - ouchies i had blood test today! didn't cry though 
+ I think I did good in the math test! I need to write nao...34 655 words!
+So screwed for the test today! I just need to get over 20% and I'll pass though 
+got all my equipment ready for the test 
+@hcgegenfurtner your teacher forgot to bring the tests?? jeez, lucky you 
+@hcgegenfurtner your teacher forgot to bring the tests?? lucky you 
+I have to revise my math test. And I read slashs. Where's the problem ? 
+French test was fun 
+@DoctorKarl I saw your piece in the naplan test today 
+@MouseWorldRadio Test873645663566625 
+@Bounzze haha yeah! do the test  it's a good one!
+@LittleFletcher heyyy that's what im doing right now! i wish i could help, but im pretty sure i just failed the test i took on it.  haha
+Passed my theory test 
+yihaa, waitin' for motorcyle and test for getting the drive license soon 
+SOL Testing begins.  I am sooo excited 
+@JJawbreakerr technically i didnt ignore you because i was taking this I.Q test while you were twitting about us ignoring you. 
+I think i might pass this test.  fingers crossed. 
+apparently i got 100 for my computer test.hahahahhahaaaa 
+In school... The others are doing spanish test 
+whoop! congratulations england, top test match/series win 
+in stupid geometry taking a stupid geometry test for a stupid teacher. but on the brightside taylor bought me reeses pieces 
+@Redraider3403 I love you  I wish you were here!! I made a 98 on my accounting test 
+enjoyed the maths test 
+test, test... this is my first blog 
+YAY. no more tests 
+@timjingma haha, really? lol, we ended up having a test in the class i skipped, oops  lol
+Today my engineering project will be completed. Few rivets and we're up for testing. I'll bring my dslr and try to take some pictures. 
+watching the ring.  we shall test the fear. =D
+i wrote about @taylorswift13 for my final test. she been my role model 
+blood test went fine 2day. am loving facebook English (pirate) language option - HAHA. so much fun. 
+I'm up!! just got out of the shower. today is my first big test! I'm a little nervous...but it'll be okay! wish me luck! 
+Getting out of school at 12 to go take my road test. 
+@WhoIsAndyBarnes  Race day is the real test. It's a pass /fail kind of test. 
+oooh just passed a mock driving test  wahey if only it was the real one :|
+Fingers crossed today we just hand in the essay, collect our take god test, them we can leave  ?
+just booked my driving test 
+The @followable robot is live (alpha) .. going to try to test it on a few people. 
+@bsbosson awww i liked your shoutout to me like 2 weeks ago, haha, and i'm glad to hear the test went well! see you saturday!!! 
+Just a location test...nothing to see here.  #nf
+test 1 2 3 matt cant work twitter. 
+@sjinjin nope you got test for chinois 
+@maryaflower McDonalds coffee beat starbucks by a mile in a blind taste test 

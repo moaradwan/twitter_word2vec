@@ -1,0 +1,547 @@
+Most common words for this cluster:
+[('goodbye', 223), ('dear', 182), ('hello', 46), ('hooray', 35), ('cheers', 29), ('today', 28), ('http', 28), ('please', 27), ('hiya', 25), ('com', 24), ('i', 24), ('day', 22)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Goodbye', 0.8504068851470947), (u'Hello', 0.8222101926803589), (u'Dear', 0.7308846116065979), (u'Hardly_Knew_Ye', 0.6788167357444763), (u'Buh_bye', 0.6690497398376465), (u"G'night", 0.6570289134979248), (u'@_ESPN_Michelle', 0.6558815836906433), (u'Happy_Valentines_Day', 0.6554738283157349), (u'Buh_Bye', 0.6541483402252197), (u'gerry_davies', 0.6532785296440125)]
+
+
+
+
+
+Dear Crimestoppers, thankyou for your regular service of our burglar alarm, I'm most grateful for the new 200dB ear-deafening entry tones 
+Goodbye Jive test server - so very sorry to have to shut you down 
+I spent 52 paying bills today. Goodbye money, it was fun while it lasted... 
+Heading to the airport, boo   goodbye, sunny Florida! Goodbye Kostyas and Hiltz's! Goodbye alligators!  We will miss thee.
+is getting mixed signals from a (different) guy... Dear Boys: PLEASE don't do that. it *really* messes with us girls more than you know. 
+Dear Jemby, please don't give me that look... it wasn't my fault it started pouring the moment we embarked on our walkies 
+Dear twitter i have no friends . 
+@Hello_Candy Why do I suck at programming then? 
+says Goodbye 300k worth of chips!  http://plurk.com/p/oyehi
+Goodbye athens 
+Oh Dear!! 
+Goodbye coachella 
+@GingeTalksFooty *This is me eating crow for you Ginge.... Tough, disgusting, crow.* Goodbye 4. 
+I have school later today at 7am. Dear lord, please help me not fall asleep durring classes. 
+Goodbye misty morning, hello sunny day. Shame it's too late to skive off work, I'm already in Ruddington 
+@cornbreadturner @bythekilowatt Adios  #OppositeTuesday
+my tax rate raised by 4% starting today  Dear government, please use my many with extreme care
+ahhhh shit just realized I forgot to move my car for street cleaning. Goodbye $40 
+Dear spring: stop being so cold and rainy 
+Goodbye Corner Gas, I will miss you 
+Awww the winner of our Dear Piggy contest gave the wrong address so her prize is stuck at UPS until she corrects 
+Goodbye larry 
+Noooo! Goodbye my rain boots. They are too young to die... 
+Paying rent today. Goodbye all of my money 
+@CrazieLilHo Dear CrzLilHo, i tried 
+Dear people I follow on twitter. I gave you five hours and I expected more reading material. For shame 
+Dear god...why am i awake???  would like a lie in for once!!! *shakes fist at sky*
+My weekend was full of music, alcohol, great friends, good laughs, and wonderful magic moments w/my Husband. Goodbye weekend. 
+Reason #749 why I hate 7News: the graphic title &quot;Hello Dalai&quot; 
+@giantspatula I am so sad it ended  Hooray epilogue though
+Looks to be a rainy week. Hurrah.  
+Farewell weekend 
+ Goodbye to my free time!!
+Just got into bed. Goodbye weekend. You were good to me  hello responsable
+Dear blip.up please come back. I can't post half the songs I want  And a lot of them are awesome.
+Waiting gor the vet to call to take Rusty in. Goodbye my baby. 
+Better start doing some RE revision now. Goodbye social life, I'll be back in an hour 
+ok my neighbour isn' sharing my appreciation of ze german cinema experience. Subwoofer, you're the weakest link. Goodbye 
+Dear boyfriend: please feel better soon. I don't like it when you're sick &amp; I can't do a whole lot to help. 
+Hiya tweets. Boring day 2day as usual 
+ My Scrivner update erased my old project files... and of course, I hadn't backed them up in awhile. Farewell writing! :/
+Goodbye little buddy 
+My heater's on 30, I'm under 2 doonas and I'm still freezing! And I had the worst day ever today. Hooray! 
+My heater's on 30, I'm under 2 doonas and a blanket and I'm still freezing! And I had the worst day ever today. Hooray! 
+Dear lord, I disagree with the fact you cursed me with these gerbil fists. 
+Goodbye Sheryn, was good to have known you 
+Dear Allergies,  I'd appreciate if you went away and never came back. Your killing me   Thank you, Xtina
+Sayonara,freedom 
+My mom  used my AP Tour bag as a trash bag. Goodbye 
+http://twitpic.com/5caxl - Goodbye oahu 
+Watching the season finale of SNL. Goodbye SNL. Goodbye @katiegiesbrecht. Goodbye @katenetzler. 
+Goodbye warney  
+@ladybug8320 Hiya - naw - no plans - weathers pants - gone really bad now 
+Goodbye beautiful apt, hello dorm  !!
+Goodbye twitter its been real, I cnt handle ppl thinkin my twits r about them...so to spare myself the drama imma put u down twitter 
+Dear VA, I love you dearly but not this weather that requires me to wear closed toe shoes, jeans, a long sleeve shirt and a jacket 
+Miglo - Goodbye. Wow; I could cry but I'm strong. 
+@feliciaodg Hiya girl... they are good but everyone been so busy lately hard to catch up these days 
+Dear bat-trees: work plz 
+Goodbye michigan &amp; @TonksNtheAurors  thanks for the awesome Gootch times!
+@FollowKayleigh AAwww.. Xd.. you wasn't in his live chat yesterday ha?   I was.. but i'm going to study as well.. Cheers &amp; goodluck Xje
+Dear Lazyweb, please remind me to wear contact lenses to parties or get my glasses insured  #spendy #fail
+Dear Google News: I really, really need for you to work in the morning. Pretty please. You can crash all you want in the afternoon. 
+Hooray finally one assignment down. well sorta.. lol oh god i just want them all to be done  30 rock makes me happy tho!
+Hooray, more tests.  Now I'm going to have dye injected into my wrist.
+@iCanInspire Say Hello to my Aunty in Filey, small place isnt it?  All my family are in Cayton Bay and I miss them 
+is sad because his mac is gone...  Goodbye my friend...
+Goodbye, RCBC building. Thnks fr th mmrs! 
+Dear Sanjana Thankyou for the email , it made me sad.  I hope we are friends together soon, miss you. Finn  http://bit.ly/SiTtY
+I'm preparing to leave the englands tomorrow  Hooray for home, boo for less meals doused in gravy. Om nom nom.
+Goodbye KWOD. You will be missed 
+sooo Goodbye Yellow Brickle Road was AMAZING. too bad it's a limited flavor.  http://tumblr.com/xui1udbwk
+Dear Bandolino: I &lt;3 working for your co. But stop making my fave pumps bigger. I'm a 5 1/2 and the new pair I tried on 2day was too big! 
+Goodbye year 11  Xx
+Dear Allergies, go pick on someone your own size...leave me alone, i'm so mean!! 
+Just threw out my favourite pair of jeans ever.  Farewell old friends 
+Just got the first B I have ever received in my entire life    Is killing myself too extreme?  Goodbye 15 years of 4.0s. Hello depression.
+Goodbye for the next like month 
+Goodbye mountains.  #fb
+Dear Allergies.. i hate you.. please go away...love always... your victim.. 
+Another friend knocked up.   Pretty soon everyone will have kids. Goodbye carefree youth!
+Farewell dinner with my kimmy. Last time i'll see her in a while 
+Dear co-worker, its great you don't want to smell, that's what deordant is for, not a bath in cologne 
+Dear MacPro what is this? I'm just trying to awake you.  http://twitpic.com/67orb
+Dear rain, you suck. Now I gotta change my plans for tonight 
+@keeleykerrins Dear god i hope they save it.  http://www.the-impossible-project.com/
+Goodbye nuggets  fucking idiots are just blowing away the championship, Missed shot by missed shot.
+Farewell and goodbye big asss show. ill miss you 
+Goodbye Denver, you deserve to lose playing the way you did today 
+I've finished Uni!!! Goodbye St Andrews!....hello dundee 
+Goodbye cardiff 
+Dear tweet : di porong macet bgt, gara2 lapindo. Perjalanan masih jauh bgt  battere hampir habis huaaa
+Where's portable espresso maker? Gr8 for camping, cool simple tech, great way to meet fellow campers (fffssssshwwtt - Hello!). Not here. 
+Goodbye Getaway Plan  http://twitpic.com/6929o
+@fylthie Dear god I wish I could afford the time 
+Hates saying goodbye 
+Hates saying goodbye to the third lesbian 
+sent his used shorts and socks via parcel service home... Now sitting at heathrow.  Goodbye london 
+Goodbye ocean 
+Wah! Goodbye clubhouse! / I've been banished to third floor! / I'll miss the fourth floor 
+Goodbye Twitterland. Going to revise 
+Dear individually wrapped pickles: If you could NOT spill on me every single time I open one of you, that would be just great. 
+Goodbye banquet dinners, bacon,  hogmogs, pig feet, chi tillings(s?), bbq ribs, grits, frog legs, I will miss u!   http://myloc.me/28aJ
+Dear Bk, I wanna rock with u but u make it so hard to get to where u r...y can't we meet halfway? 
+Dear twitter, will there ever be a day where I don't forget anything? 
+Goodbye apartment. 
+Goodbye revA and sure press...I truly will miss you both. Only one day. Before the official upgrade 
+Cleveland, Goodbye.  its been nice knowing you.
+Last day in Manila... sad..  Goodbye to the place I loved for the last 5 years... I'll come back for you...soon...
+Sigh..... Goodbye Cavs.  magic, please beat kobe.
+@daveg38 Hiya matey,we keep missing one another don't we?  How the hell are ya?
+Dear god my car is dirty!  Hence am sat in car while nice man washes it.
+Dear me, it's much warmer today than yesterday! At the gaffers again, lots to take pics of and no camera 
+Dear lord, I cant believe stavros flatley didn't win BGT! Gutted 
+Hello to all my Aussie viewers... it's a pretty physical game but u guys r lucky as u be the first to see GOD in action...not us 
+Dear Hogwarts, i'm just wondering where the hell is my letter. I've been waiting for 6 yrs now  p.s. owl me a.s.a.p
+I spent the last night in my house... getting some little things out and cleaning! We'll probably be here all day. Goodbye house!!! 
+Just left San fran  16 hour drive ahead of us until phx. Goodbye #stayawake tour loves&lt;3
+Oh Dear!! I just applied for Britains got talent 2010 !! I think i'm going to fail... 
+Goodbye, Simseth.   http://bit.ly/RbAxN
+Dear weekend, please don't end!! 
+Goodbye nice weather 
+Goodbye mercedes  what shall I get next? http://mypict.me/2drW
+Dear boss: suck my dick 
+Goodbye Steiner Castle 
+Goodbye twitted 
+Dear baby, I can't wait until your teething days are over. 
+Farewell pensacola..I'm actually not ready to go.     not because of the city, but I'm not ready to leave my family.  I-10 here I come!
+Goodbye, LC. 
+Goodbye lauren Conrad 
+Goodbye beautiful house.. 
+Dear miley, u kno I love u but the voice it's quite offensive!  ..but remember I love u.
+Dear ebay, if I win I owe you a total  580.63  bye bye paycheck
+Dear Zachary was a very good but very sad movie. 
+Hiya all, had to visit the doc this morning got a notice to say im unable to work 
+@gretamorgan I'm looking to your solo album, Goodbye Blues is one of my favorite albums of 2008 and all time! Did you leave HS for good? 
+Starting my normal 5-day work weeks. Goodbye CWW Fridays off 
+@tommcfly Dear me poached eggs...im getting hungry now  !!!!
+@ladu Thanks. Just saw 12 name list.No one I know directly.Friend's friends though 
+@ritariot I know, and they're both leaving.  Goodbye Justy. Goodbye Warren and the nostril of justice 
+Dear cowboy boots  I thought we were going to be friends? What happened?
+Just found an old friend.. or drinking buddy from when I was 18 on facebook. Friend request for the fun of it. I miss him 
+Dear game site tweeters, don't spam all of your update tweets at once.  It's annoying that you just ate up 1/4 of my twitter page. 
+#finaltweet Guys, I have to tell you this before I die. It was Ceci; I can hear her breaking down the door, even now. Goodbye. 
+#finaltweet Guys, I have to tell you this before I die. It was @CeciliaBFoxy; I can hear her breaking down the door, even now. Goodbye. 
+Dear war inside of my body, cut the shit. 
+Dear Sriracha, why you make my nosey run 
+http://twitpic.com/6gfb4 Goodbye hair 
+factor 40 on me bonce and on my way, suited and booted. Dear god, it's hot 
+Feeling like he was jinxed by Aleksandra... I hadnt had my share of seasonal allergies up to this morning... Hello Anti-histamin 
+@gfalcone601 At least it`s sunny there. I was raining awhile ago.  Cheers from the Philippines.
+Dear internet, I have business to do and you aren't working. Unfortunately blackberries can't rule the world yet. 
+Hiya, I''m new here and I've heard twitter is quite cool, and it is! I've not had the best of days today! 
+Dear god, pray for me 
+Dear FabFour, after tonight's #ConAss, we're no longer certain if *it's gonna be alright*  -&gt; http://bit.ly/aYu3w
+Dear @youtube STAWP advertising the sims 3 and makin me emo since i can't buy it. 
+Goodbye 22.... 
+Dear Twitterworld, I think I may need speech lessons...I'm sounding a little too hood on camera 
+On my way home. Dear life, why do hate me? 
+Dear god, make me a bird so I can fly faw faw awayy! Tha thunders scawwwy 
+@tommcfly Goodbye  hope you come back soon. thank you for every moment! #brazillovesmcfly &lt;3
+is sad at the prospect of saying Goodbye to some really great people and the greatest place to work in all the world.... 
+Hello twitterworld! I'm sooo sad! Failed my biology test! 
+It takes a couple seconds to say Hello, but forever to say Goodbye.... 
+Goodbye Dubai and my family  Hello Philippines and College! 
+Dear Husband's second class didn't make. Summer income just cut by 1/3. Never occured to me that the class might not make. 
+Dear nice days, please come when I DON'T have so much work to do. 
+@myinnersexygirl oh...no really? That's just awful Dear! 
+Goodbye wsu for three monthss goodbye laural forever 
+Dear mt and fempro goingto the gym right now.. I hate you, simply cuz I'm stuck at this rehearsal instead of flipping 
+Goodbye party at the Sea Dog! I'll miss everyone whos leaving 
+Hiya, I forgot say G'night last night 
+Hiya @rickedwards1sorry if I offended you last week, I'm a loathsome person 
+Goodbye sunshine, it was nice to have known you. Hello rain, rain and more rain  #crappybritishweather
+Just waitin on the rents will be back in bedford soon! Goodbye halls 
+Goodbye bengbeng &amp;tehbotol. Seriously NO SUGAR is like a death sentence for a sweet tooth like me 
+ Goodbye CWG of my life.
+Dear god! the wait is unbearable, ever purchase old games, but its dead online except for that one match that never ever starts! 
+Dear @WesleyCarr. Security told us off for running around making the crowd clap 
+Goodbye Carrots  godspeed...
+Goodbye arizona I shall miss you! 
+Dear Garmin Forunner 205 pleaseeeeee turn on. 
+Goodbye idyllwild... 
+Dear bestest. I love you. But I want alone time right now. Plz stop sending me 50 billion txts about hanging out.  
+damn, grandma's flight was delayed from 6pm to 11:30pm tonite...Goodbye to seein The Hangover tonite 
+Goodbye world, good bye family, goodbye for good. 
+@allgigs Hiya, I won your greenday cd comp recently and you asked me to direct message you my details but your not following me so i cant 
+Goodbye, nine inch nails... 
+Goodbye until september, dance classes. 
+It's not raining anymore... Dear sun, not so hot, PLEASE? 
+Dear jesus toothache 
+@rawklee Thanks for reminding me!  Dear Skip Beat, get translated already!  
+I didn`t go to mass today... or last week... or last last week I think :| Dear G, please don`t send me to hell 
+Dear Brain, please please go to sleep 
+I still can`t believe I`m going to be dragged to school tomorrow. NOO!  Goodbye summer, hello hell- I mean, junior life!
+@mini_manfa Hiya hunni, sorry havnt been on much, think I have broncitus again!  xx
+Heading home today! Goodbye Florida! 
+Goodbye, sweet sweet summer 
+My parents are replacing my bed cause it's so old and painful already  Goodbye, bed! We had some gooood times didn't we?! 
+Dear people of the interwebz, can't we all just get along?!?! 
+Goodbye Lab. Fisika! Goodbye asisten-asisten bohay...ini doang yg gue sesalin 
+Oh Dear this isn't looking good  Ravi Bop out already [sigh]
+Dear bladder, go die! @sgarland... I hope your kidneys feel better. How did this happen to us!? 
+Goodbye St. Michaels..heading back to DC  http://twitpic.com/6u6jr
+goodbye manhattan, i'll miss you. back to reality aka long island 
+calling other PTA mom about daughter's graduation party.  Goodbye elementary school 
+Ugh our electricity just turned off!! Hooray for a storm 
+Goodbye dinner with the Lavarras. 
+Is in soo much pain! Put me down already! Farewell followers 
+Dear girl in the blue jersey mini dress @ fred meyer: you're gonna get me in trouble 
+Dear mexican food place by my house you have failed me hardcore. I guess i'm going to del taco. Bitches 
+Goodbye San diego  my heart hurts
+Goodbye old memories you were only ideal but not the idea 
+The long somber drive home. #Bonnaroo 2009 is over  Goodbye farm!
+@bigjulia Yeah. Correct. Goodbye Monsoon Accessorize. Goodbye 75% discount. 
+2more weeks! oh damn it. =.='' I need chiong art soon. Dear god. 
+@Bess182 ah no! busy evening? @Nicola_Dear just the afterparty i think @lauraisyourhost wish i was! stuck at home with loads of work 2 do 
+Hates saying goodbye to @karleelewis 
+@randomwhit Hiya what's the website for twitterberry? I thought I found it last night but it didn't work 
+@jordanknight wow you guys know how to dissapoint! cannot believe you have cancelled australia! Goodbye childhood dream 
+down  Listening to Lullaby -Dear Juliet.
+ Goodbye Twitterians!! Be back soon..!! Xo
+I Never can say Goodbye 
+says Goodbye to her friend Catali 
+I'm out here. Have to wake up early for Ate Jenny and my uniform and yeah, school. Goodbye summer.  Good night.
+Goodbye arroyo vista! You were my home for two years and now you're dead 
+Having bad reactions to writing cover letters addressed &quot;Dear Sir&quot;.   Sounds too much like a leatherman novel. I'm a dork.
+haha! This is me tweeting on twitter! *ish bored*... I think we're going home soon.  Goodbye, Lake... And it's a nice day, too!
+Goodnight lovely people! Sorry i've been so rubbish i promise I'm going to be on a lot more!! Xxxx Miss you  xx
+My phone's nearly dead. Goodbye social life.  haha
+@jamiegilderuk oh Dear, have i just been officially told off by you  haha could of saved your money tho eh? x
+@FriendlyFirePod Goodbye head 
+@twitchinggrey Hiya, sounds like you're not having fun 
+Goodbye cell phone service. 
+Dear @jonasbrothers, we went to two walmarts and the second one had it, but they couldn't give it to us till 5 am! What is that?! 
+Goodbye sunny day  Sorry I missed you.
+7-11's full of cuties and I'm in Hello Kitty Pj's and a bigass hoody. 
+http://twitpic.com/7j2mr - Goodbye.  i will miss you.
+@mrtarm Thanx Dear, 2morow have 2 collect d'visas,but wif my driver (dun wory)...n also have 2 standby to 'beg' allocation from Treasury! 
+Good morning tweet world !! Busy today so struggling to find time to tweet love my following  Hello / Goodbye 
+Dear Summer Weather: Thank you for today. But the rest of the week? The rest of the week is BULLSHIT. Regards, Melissa. PS 
+am hating loving my car! Goodbye holiday 
+Goodbye london, we will miss you 
+Last phone tweet. Out of phone internet. Goodbye 
+Dear Bberry please don't act up today or ever 
+Dear twitter, driving in the valley sucks. No love, kimmi and mei mei. 
+@johannakoll Hiya, so sorry I couldn't make it to the pub, bit of a friend 'emergency' the last couple of evenings 
+Dear Newegg you make me sad $700 worth parts a year ago and no sig required, $180 today signature required sticker 
+Dear summer...  Where r u??? 
+Dear #squarespace..I am on vacation and my blackberry committed suicide..please o please pick me for the iphone! 
+Bout to head over to the main Xray department to do real work.  good bye twitter. Goodbye blog...
+Dear Florida Weather - Fuck you! You are a liar and a cheater.  I am showered and staring at the ocean as if its my drug of choice 
+Dear momma, you are appreciated...even if you can't cook for shit. 
+Hooray for overdrafting, weekend camping trip is no longer in the budget 
+Goodbye long hair 
+Dear Twitter, are you broken? I'm not getting any updates on my phone.  Fix it! Sincerely, Mandi
+Ah.  last day of school tomorow. Goodbye senior year. 
+Goodbye 2.2    
+Goodbye's are always hard.... just said goodbye to my condo.... tying up loose ends... closing tomorrow... lots of emotions all over... 
+Starting P90X. Goodbye Cheetos, brisket, and Jimmy Dean. Hello carrots, turkey breast, and Morningstar. 
+The night always makes me sad, more then sad.   ----&quot;Goodbye, I love you, was my last thought&quot;
+Moving to a smaller house, down the street.. Goodbye home 
+Dear twitterfon. if you dont get these muh fukkin errors off my celly, im quitting twitter. my friends dont think i wanna tweet now. 
+Goodbye to interoperably recapitalised low risk blogoshperes 
+Dear UGM lecturers, pls dont torture ur students w/ papers like this anymore.... 
+ my poor bibbik.. Dear chesney.. Heeeeelllpppp....!!!!! 
+I hate those pictures. They make me nervous and insecure. Hooray for the bad day I can tell I'm gonna have. 
+Goodbye liam for 5 weeks  Leaving storthes tomorrow !!!!
+Goodbye ocean city 
+@labratmags Dear god, you haz killed me with laughter.  So sad now, no cupcake 
+Dear Panara Bread - please upgrade your wifi to serve more people.  This 30 minute limit between 11:30 and 12:30PM is complete BS 
+Goodbye dear friend, you'll be missed 
+Dear @bradleystucko , I get tired. this is exams week after all and I'm stressed 
+Goodbye high school, hello full time job. 
+Goodbye, long hair. Things were just not meant to be.  
+Argh.  New iPhone update blocks out the jailbroken apps.  Goodbye, free apps and gameboy roms. 
+Goodbye Santa Fe. Graduation came and went 
+Goodbye, rain...hello, HEAT 
+Goodbye to my phone until i can say for it myself. Wat will i do ? 
+Dear universe: let something good happen to me soon please 
+@giuliapoops Goodbye! 
+everyone go to youtube and look up &quot;Dear Eliot&quot; - it's a tear jerker... i hate oprah for showing me that... 
+Dear comfy ass BED, &quot;I don't give u the tiiime u deserve from me...this is somethin I kno, I kno, I kno&quot; 
+Hello 3.0. Goodbye scrobbling. I'll miss you.  #iphone
+No longer going to Sydney!  Couldn't afford to feed myself or get around. Goodbye Dreams... *dies*
+Goodbye hundreds shoes 
+Goodbye sally spa!!!  I will truly truly miss you! 
+Dear finger, the word is ouch.  and yes the rest of my body feels your pain. If i'm lucky your not broken. Ps the color change doesn't ...
+Dear Rain: really sir? Its been a week already. fall back. Hater. 
+no window installation today  Dear pouring rain, you're lovely and all, but I think it's time we parted ways...it's not me, it's you...
+has a feeling that she's going to fail her accounting tomorrow. Goodbye $3000 
+and need to buy train tickets to lancaster to see Jtard next weekend.Goodbye student loan, you will be sadly missed 
+is in the office. Last shift tonight, in more ways than one.  Goodbye, dream. Hello, security.
+Returning to school  I'll be here in a few hours. Goodbye twitter-ers
+Its supposed to be yucky through next week too  Cheers!
+Tweetdeck for iphone is frickin sweet. Goodbye tweetie 
+@k3llyb4rry You did. Goodbye free starbucks. 
+I can't stop thinking about what happened, I am alone, I need someone to advise me, Now my feelings are crumbling. Goodbye 
+listening to Breakout. Goodbye makes me want to cry 
+Dear Much Music, I hate you for your sucky ring tone delivery 
+Ugh, I really want to win the ticket to bowl with Dear and the Headlights but I don't have the $ to keep bidding. 
+Goodbye Rocky Mountains 
+Dear elders, I'm having a relationship &amp; I'm not telling u. I'm really sorry. I wish I could, but I fear that u're gonna ruin everything. 
+Goodbye Washington 
+Just submitted my CDS form. Goodbye French 
+And yet again my roommate manages to surprise me with her stupidity. *sigh* Goodbye, favorite pair of shoes. I'll miss you. 
+Dear coffee, I will never drink u at night time again!! 
+Some times I feel like starting my emails with: Dear Twat, you are  a customer 
+--Okay, so i think i'm going vegatarian. Meat makes me sick. Goodbye Mcds &amp; Steers &amp; Kfc 
+I am wondering what will happen with 2v2 and arena w/the patch  Sincerely hoping this change doesn't make it in as 2s are my only bracket
+Dear twitter, I am with my friend... I think that she is trying to murder me 
+Dear Mojo,  why have you deserted me?  
+ANNOUNCEMENT: Dear lovely sweet gracious tweeps, Kindly don't twit about all the fun your having @ Sevens, I'm feeling kiwaru  Kthnkxbai!
+2.00 am Goodbye!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+Getting ready to leave. Goodbye Florida. Goodbye grant. Goodbye Band boy. Aww this makes me sad. Goodbye good times.   http://twitpic.com/
+Car passed MOT Hurrah need 4 tyres soon boo 
+Goodbye #Windies was great while it lasted... 
+Dear twitter, I don't wanna walk home today. Shoes is busy. And I didn't get a chance to steal atchie's ipod 
+4 papers? it would be the end of my social life. Goodbye social life! 
+@couliseaux   Hooray for living a life where you don't have to think about teeth.
+Dear Limewire, please start working. I need to download moosic 
+Just said Goodbye to my best friend 
+Dear @therealjibbs ,  I was next on the line...n then u got off...FML... Sincerely,  Meghan aka *sighhhh*  lmao
+Goodbye, miss m.a. 
+Dear Bugs, I HATE you with a passion! a bug just bit the mess out of me! 
+Goodbye, Muricy Ramalho 
+Goodbye Washington 
+Goodbye kites til next may 
+Sometimes Goodbye is Second Chance 
+Goodbye disney  http://myloc.me/4zXm
+Goodbye absinthe glass  http://twitpic.com/7vld1
+Dear Lindsey, please don't oversleep. 
+Goodbye Baby Albert!  You are an angel now. 
+Goodbye Carlito  http://bit.ly/9fJ0n
+Goodbye richmond 
+Goodbye younger.i'm not coming tonight. but Helloooo Older.. older?older? answer meeee. 
+Dear @dabr, I hate it when I want to refine a hashtag-based search and forget you change the search field to an update feel. 
+Goodbye MIA! I'll miss you  #fb
+Goodbye Tevey, you fucking ledge 
+@shannynb http://twitpic.com/7vle6 - I wish I was there  Cheers!
+Erik is taking the D200 to camp.  Goodbye camera. waves  It's been fun. Pout.
+Caught the chicken pox. Goodbye outdoors, hello textbooks. 
+Hello! My first Tweet of today as I've been at work. Note to self - become a man. That way, you avoid menstrual cramps. YOW! 
+Goodbye dior mascara... I'm going to miss you 
+Dear @squarespace, you're over an hour late, and that's just mean  #squarespace
+Hello Kitty and Good Night ... + /think menos de veinticuatro horas 
+Dear rain, thanks for ruining our plans for the day ... tragically the laundry line will NOT go up today. 
+http://twitpic.com/7ye1d - Goodbye baby  ha i really do love dogs
+once again Goodbye  ny 
+My hard drive has to be replaced. Goodbye all my pictures from the last 6 months 
+Dear putt putt golf: wow, I didn't realize how much I missed you. But you still kind of smell bad 
+@MacFindHer Hooray! now you get to throw all your food in the fridge out 
+@Synderella_a7x : What's wrong, Dear?  *hugs*
+Goodbye Brother 
+Goodbye freedom. 
+@jamestopp Dear boy I know the feeling! mines sick too 
+If I can stand at the concert I will take photos to share with you guys. Now I have to vomit again. Sry  Goodbye!
+Goodbye Scotland 
+going to my cabin today w/ my bff hannah. Not gonna be using the computer very much  Goodbye soon wonderful twitter.
+@ToxicGiggle Cheers : D 2 DT assignments and rewriting 7 pages of history  work, not fun 
+Goodbye sad empty apartment...we had some great times  http://twitpic.com/84txf
+&quot;Dear John, I am a freaking MESS!  I may need to seek professional help soon... Signed, Your Bedroom&quot;
+Goodbye ohio! You will be missed... 
+Dear new followers... for some reason twitter is not letting me follow you back. I'm still trying.... 
+Goodbye  
+Dear RBS, I don't like your silly original proof policies AND secondly, why did I go out for food and come back with water and a wee-bru? 
+Dear god! another 7 days until my new mac turns up! come on apple! surely it doesnt take that long to put some extra ram in a machine?! 
+Selling my guitar today. Goodbye blue sparkle Mexican. 
+@JEFFHARDYBRAND Goodbye is a sad word 
+Dear me of this morning: please note it is a very bad idea to wear wool dress pants today. Its 87 degrees outside &amp; humid. 
+http://twitpic.com/87ne6 - Goodbye six teeth 
+Okay, so, Dear Microsoft: Fuck your sleep function. I can't get my TB HD to come out of sleep. Goodbye, media!  Today's'a suck.
+Goodbye McMahon (sp?) 
+Dear @wholefoods, just bought some yummy food for dinner. Upon leaving the chelsea, ny location, bagged ripped on handle and bottom  ouch
+Dear world, would like to stop feeling like this now, please. 
+Goodbye apartment.. 
+Dear @therealGlambert, can I please meet you? I have presents! 
+Goodbye blk hair  loving the lighter locks tho!!
+@arron31 good luck with quitting smoking. Farewell old retro room at next 
+According to my thermometer it's 88 outside and 86 inside. It's 12:36am and it's too hot to sleep.  Goodbye comfort, hello dehydration.
+Dear god that was hard to do.Raw @clarkgirlcharm 
+Goodbye Blackberry!! 
+Dear @abbiealmasco, wai do you have to be so hot? It's unfair.  Haha! *huugs*
+Dear lower back, please stop hurting. I cant take you any longer 
+Goodbye old office   http://yfrog.com/6hmy3j
+Goodbye silicon valley.I shall be back soon.sleep deprivation slowly catching up 
+Today I got given loads more hours at work! Hooray money!! But then got totured at the dentist 
+Dear Makiri, you're not going to be double-bagelled, are you? You're still pretty but ugh that is not good.  #Wimbledon
+Goodbye Louisville I will miss you and your 3G 
+Dear magic cleaning fairies--please come to my house tonight so I will wake up to a pretty home 
+is thinking about focusing more. I don't want to be known as one of these people: ???? = all talk, no action. Goodbye online world! 
+#dogtraders Hooray I checked toothpaste for dinner for the first time in forever 
+@CrisBrown Cheers matey.  
+@imogenheap I'm so excited for the new album! and btw...today is my birthday! Yay 25!  Cheers!
+@thirdsectorlab Greetings. 
+Hello beautiful, blue sky  Goodbye revision and work 
+yum! The soup is sooo good.  well, off to work for me, mith my massive container of soup and some organic saltines. Hurrah!
+@smont Hiya!!! 
+Dave was here a while ago. Twas a good end to the day. Bukas ulit  And still, Dear Diary, please make everything okay again. Thank you!
+Hooray for taking a bath! This is seriously one of my favorite things in the world besides cartoons and food. 
+@MissGoogle Hello back right at you ! Translation to Lebanese for a 10 year old: ?? ?? ?????? ??????? 
+Hooray for sleepy bike rides to the store to get some champ for mimosas 
+@kaimere That's exactly right, mate! Anywhoo -- we'll definitely keep you in the loop. Cheers! 
+@carondg DH is shorthand for Dear Husband  I've also seen DD for Dear Daughter, but oddly never any others. I'll keep a lookout for u 4/24
+Goodbye! Early night for me! You have fun without me 
+Adieu! I'm going. Byebye. 
+@LulaGrelhada hahaha nice one! you know it  Cheers!
+I think you should listen to 'Grim Goodbye' by RJA. 
+... which finally changed into a sunny day...  listening to FM Static's Dear Diary...
+@RealJudgeJules Dear me haha 
+@The_Grim_Weeder Hello! 
+Hiya @davepeck &amp; @Awapy  
+is getting ready to go to church on this B.E.A.utiful day  Dear sunshine, thank you for visiting me today. :]
+Dear twitter - please stop distrating me from my motion graphics project - danielle. p.s. please forward this message to facebook. thanks 
+@klgarlock Hooray! I want to get a bike sometime before summer starts too. Excited to start shopping. 
+Dear @princessleah7x: thanks. I know.  bahahaha. You too sexy.  love love love jeremy!
+@eurOut You got me, and 46 to go for the big 1K. Cheers! 
+Dear @SFBart, when I am sitting on your car seat &amp; a homeless guy yells at me randomly, do I cry to myself or do I cry in a tweet to you? 
+Dear @DearRobot... Be a dear and retweet this  http://ff.im/2ewFI
+got back from the hospital. I'm totally fine. Hooray!!! 
+@bobbyllew what article? Have you got a link? Cheers 
+About to watch How I Met Your Mother  LOL&gt; Who had a good first day at school  Goodbye all. I only had 4 and a haff hours sleep GARR&gt;
+Hooray, I've found a decent client for windows http://tinyurl.com/dkhms2 And it does other sites 
+@judez_xo I like all of em but I like Dear Maria lotssss. 
+Late and need to leave you good folks again!  Cheers...and happy tweets to all!  
+@HollyWinter Hello  Anything on the oracle/sun deal and its impact on MySQL? #dbnerd
+Dear economy - don't care right now   Enjoying sun time and working out in the garden.
+@robertkneschke I think you just claimed the first ever use of the #picNiche hashtag  Hooray 
+Hiya peeps im bak fom the dance 
+@megspptc Hiya girl you still up 
+Gerbera is somehow reviving itself. No need to cut off the broken/bent stems! Hooray 
+Morning all.  The long weekend begins. Hooray, and that.
+Goodbye, Sassy x7. They did well in their last performance. 
+Pump time again... Dear son wants his milk  I should calculate how much milk I've pumped the last 11 months...
+Ive finished my essays, and handed them in on thursday. Since then, i've done nothing but sleep, play games, and drink alcohol. Hooray! 
+@toddwaller @hthrflynn @chadhuck @stephenwolfe @monicamcg Hello &amp; Goodbye! Have a great day 
+@TreeFalldesign Hiya!  Hubbys are great aren't they   Haven't checked email for 2 days.  I will later this afternoon and I'll reply to u.
+Dear brooke, waking up to 33 missed calls was unnecessary, I told you I would be in time 
+Goodbye U.P.  see you in the fall
+@CaroleJesse Cheers to that! 
+Dear no-avatar followers! Pleasssssssse, read! LOL http://tr.im/khXK and don't ask why I'm not following you back 
+@roffey65 Cheers for that, if I could I would 
+@rachael_glory Dear miss capricorn, thank you for the starbucks, u really didn't have to do that, but that was an awesome surprise 
+@Sir_Almo Hello! How are you? 
+Dear Steve...Ask other computer manufacturers... They Know! 
+@lee_garland Cheers for the #followfriday recommendation 
+Dear mother nature, please don't make it rain today  thxxx
+First single from my new album out soon! Meanwhile, check out &quot;Say Goodbye&quot; from the upcoming album - www.myspace.com/gabelopez 
+finally finished my marketing presentation! Hooray time for bed 
+I do not want the job if &quot;extreme angler&quot;... Hooray science channel, providing career guidance every day 
+@packingvocals I guess it's about the binder. Cheers!  *goes off to read &quot;It arrived&quot;* http://bit.ly/16VzPA
+@Hello_Candy Why thank you 
+Say Goodbye, cause I wont be back again! RIGHT, GOODNIGHT!!!!  (yyaaaayyy 500th update! I should stop now... ) 
+@slish Dear old friend indeed!  You don't have to tweet Tron concept, there are other media. Mostly I was just being snarky &amp; saying hi.
+Dear Honor: if by somehow, you creeep onto my twitter, I am NOT a creeper but @aznjaime and @bealove are creepers 
+mirthfully eliminating the pitiful, infantile, and drama osama's out  Farewell to some!! Hello ME 
+Hiya!!! I am good thanks..how's yourself..doin anything nice today? 
+Guinness got 2 'new' toys from mom and dads house.  Hooray for free stuff 
+Off to the banks to get this thing rolling! Hooray for days off! 
+@Nfnitedawn Cheers *lifts coffee cup* here here for Mondays 
+@damoxy Cheers!  I'd like to thank zBrush for making it all possible 
+@jerzegurl Hiya! Missed you too! What have you been up to? 
+@ForsakenDAemon Hooray! 
+Dear journal, i had sex with earl tonight. It was the most amazing thirty seconds of my life! 
+@joe73K Hooray for being back in civilisation! I love being at the farm but it was very good to get home also 
+@skim Welcome to Ruby with Shoes course 5th batch. You are first registration! Thx.  http://is.gd/zE19
+@FionaFlame Cheers for the input 
+@andrewmoore24 Hiya right back at you. 
+freshly squeezed. Dear listeners  ? http://blip.fm/~6953q
+Please check out my music people and let me know what you thinks http://www.youtube.com/user/LGaston84 Cheers 
+Extending our store hours to 8 p.m. on Sundays. Hooray for an extra hour of shopping! 
+@Tattooed_Mummy Hello, and thanks  a lot for the link! 
+reading until I pass out. Hooray. 
+Hello Fellow Mates! 
+Dear bed. you are the most amazing thing that has ever been invented. and im so glad i have you. forever yours robin. 
+@xashleyxsharpx Dear ashley, you are correct. zac seif is quite a cutie. don't worry though, i have no intentions of stealing him 
+@jthzl heheheehe it's good if they follow, bad if you follow back  Cheers ;)
+Dear daughter-in-law, of course I mean &quot;meet&quot; it was a spell mistake  love your father-in-law.
+@journo_at_work Hiya, yes it's for a women's mag so they really wants a woman's perspective 
+@JasonShand  Cheers  I don't know, get whisked away on holiday by a nice guy or something lol.
+ @CranberryPerson Dear hyper chihuahua, we only have 45 minutes left together on this drive, but I have a .. http://tr.im/lAj6
+Dear 50mm lens, i love you. 
+Good afternoon fellow twitterers! Been MIA, hope everyone is doing well! Hello to my new tweet friends! Bless you all! 
+Dear @backyardpoultry wishing the same for you! 
+Dear nick santino, i'm starting to like justin richards better. 
+Hello Mr Gov. Schwarzenegger Sir. Happy to follow you. Love your work, big feller... No girlymen allowed, ha ha. Goodluck to you always 
+@vsi77 Hello mister Wonka.  Like your stuff. looking forward to Tweet. Sincerely Rune
+@sprinkles_  well I'm sure thats because you're looking for Hello Kitty! Why would any one make one of those?? 
+@Dear_twAbby that would dilute the delicious scent of mustard and bbq from my breath... now why would i do that?? 
+@janole How about &quot;Dear Sir&quot; 
+@splitjewel Cheers  It looks good with all the themes too 
+@gaz4695 Cheers  How goes it ?
+@Toumal Cheers orca! I'm mighty grinny right now 
+Hooray!  I managed to get up early enough that I have plenty of time to stop for coffee on my way to training.  
+thinks that the Notre Dame grads that disagreed with Dear Leader Chairman MaObama's visit should have thrown their shoes at him! 
+off to my niece's  graduation. Hurrah! 
+@PembsDave @Dear_twAbby thanks for sharing the smiles 
+@Farocena Greetings! #SaltaValley this week too 
+@robluketic Hiya  I couldn't send you a dm x
+Dear telesales drone, you have no idea if my computer has downloaded a 'dangerous file' recently. I enjoyed screaming untill you hung up. 
+OOPPSS! Dear Curley1991 I wrote your msn on a PORN site  at least you will be finding sooo many new prostitutes. have fun little GIGIGIGI!
+@diannawhitley Cheers 
+: Weekend is coming again. Goodbye weekdays 
+@boomerjack Thank you, Dear! TGIF and all that. 
+@intanks : Nope. I go to FEUI Extention, Dear. I took Diplom program at FEUI too 
+@sitbones Hiya, thanks for that   I have written a reply to your email but it keeps bouncing your addy
+@pinwingirl Hooray! Hello!! Question though - why do you have two lawns? 
+Dear blog and twitter (and work), sorry about the summary desertion. I have returned to my senses. 
+This is Yours' Sincerely.  http://yfrog.com/5j7dtj
+Dear @inspectorsarit - maybe i'm a wreck but look up pls cause i'm far ahead of you, climbing to the top    http://tinyurl.com/qsy4m7
+@rereality Cheers for the #followfriday 
+Dear followers, plz tweet #bradiewebb and make it 1 on trending topics  haha
+@divadoll123 Goodness, your not holding back this AM r u? I think this is y I like u - even tho I disagree  but its all cool! Mornin' Dear
+@maxamphoto Cheers buddy! 
+@grailseeker @WhippetOut @To_The_Moon Thx 4 the #followfriday recommend 
+@KATaylor007 Hiya I saw ur new thread and replied to you hun 
+? Danger Danger by Hello Hollywood || &lt;--- THEY'RE GOOD  http://www.purevolume.com/hellohollywood
+Have you met The Loser Group yet?  http://feeds2.feedburner.com/LisaKesslerWritersMyspaceBlog  Stop by and say Hello! 
+Dear Diary, Today was fun 
+Dear god, please take away my fat from my tummy and give me big boobs  amen.
+Dear you... @team_thanh and I cordially invite u to join us for fun in the sun on june 6th at santa cruz beach boardwalk ... The more the 
+Hooray for all the sane people who dont want kids  peace and joy.
+Using http://freindorfollow.com site from @drMollieMarti to weed out people I followed but shouldn't have.  Goodbye Britney.  
+I get to watch re-runs of this season's &quot;supernatural&quot;. I LOVE that show. I missed 99% of the season. Hooray for re-runs! 
+@tdayley Thx for the follow.  Wonderful that you're working on the benefit.  I, too, have 3 girls and 1 boy...altho my boy is my oldest. 
+@ShortiezRevenge Cheers girlie 
+Oh man, I just remembered... term 1 is now over! I'm on holidays! Hooray! 
+@TikkaMadsen Hello hello Seen the doc, got the biotics  Waiting for them to take affect now, and do something other than taste awful lol
+@christophermoy haha, you guys are cute!  Tell the boys Jasmine from Indiana said Hello. (and goodnight since it is 3:34 here)  NIGHT!
+wants a Sigg Hello Kitty water bottle...meow... 
+@staceyclarkin Hurrah! I know @Angpang will appreciate the support!  xx
+Has summer finally arrived? Hurrah for sunshine 
+I am gone, have to go to my connect group!  Adios amigos, remember you were born to be a champion, so be &amp; act like one! 

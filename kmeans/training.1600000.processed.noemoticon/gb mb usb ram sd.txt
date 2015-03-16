@@ -1,0 +1,759 @@
+Most common words for this cluster:
+[('gb', 263), ('mb', 116), ('usb', 105), ('ram', 77), ('sd', 68), ('memory', 42), ('hdd', 39), ('http', 35), ('bit', 29), ('quot', 28), ('card', 28), ('cpu', 24)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'4GB', 0.7750113606452942), (u'Compact_Flash_Card', 0.7731001973152161), (u'###MBs', 0.7726929187774658), (u'###MB', 0.7719782590866089), (u'PC####_RAM', 0.7702770233154297), (u'GB', 0.7670136094093323), (u'3GB_RAM', 0.7667532563209534), (u'DVDRW', 0.7624915242195129), (u'CompactFlash_Card', 0.7607691884040833), (u'ATA###', 0.7575541138648987)]
+
+
+
+
+
+@razzberrie wha so now its 4GB! yay! haha no more laggy computers! but my mba cannot upgrade 
+Computer/internet is hating me tonight... I swear. And I can't find my USB cord for my sidekick 
+Even after the Aust. gov. rolls out its $43 Bln 100Mb b'band, we'll still be way behind most of the rest of the worlds b'band speeds 
+Dear FBDimms please give me my 4GB of memory back.. I used to have 8  Running 90% full = crippled PC
+if you have a computer which isn't doing much (or a CPU core not doing much, if you're technical), get in touch? I need processing power 
+To transcode a 100MB .wmv to a 100MB .flv file without loss of quality - possible, or not?  Anyone know?  Everything I try is terrible 
+@Keilantra it's not bad, it's just slower then USB should be. either way you still need a USB drive to skypes 
+It annoys me that a 250 GB hard drive doesn't actually hold 250 GBs. In fact, no drive holds the number of GBs it claims to hold. Sucks! 
+I want a DroboPro! But Drobo.com seems overloaded 
+@SoCalMario u r crazy!! SD is the best city in the world!! I left 3yrs ago &amp; I am dying to go back 
+wow, I've used 130MB today of bandwidth. Not a good thing since our whole org has 6GB for the whole month 
+my phenom ii 940be wont run with 4Ghz why? 
+One reason the printer wouldn't work: I had accidentally plugged the USB port into a phone outlet :/ Now if it only recognized paper.. 
+New iPod Nano. Less than 16GB and I have 20GB of music. Time to decide what to cut.  
+@DDsD am trying ur suggestion. Win98 Fdisk running off USB can only see itself  there must be some easy way to wipe the HDD quickly...
+4 GB RAM, core 2 duo, 1 TB HDD, No virus, still dead slow.. 
+@monnie Prob will be the attachment size. You can't email 40MB in one hit  
+STUCK!! my old P3 refuses to install WinXp on it since yesterday evening, and I haven't got a USB to Parallel converter 
+Itong hard disk ay hindi 100GB 
+@ubuntugeeks no, no backup... I did make a backup of all my photos and stuff tho, but I didn't have 300 GB to spare on music 
+I say &quot;I've got a 16GB flashdrive&quot;. He says &quot;I *saw* a 64GB flashdrive&quot;. Somehow his statement trumps mine. 
+@hannnnnnnah ever been to cardiff by the sea in SD? I lived there for a year when I was little. The beach was just a short walk away 
+@timjeffries hmmm for that price I could get an Airport Extreme n stick a USB disk on it. Of course, no DLNA, no torrent.. 
+lost his USB 
+I can't get better than a GPRS connection on my 3g stick here. The building I'm in is acting like a farraday cage. 
+Finally gathered the courage to UnZip my songs archive (~6GB) on office comp. Some songs got deleted by mistake  The Music Begins.
+Lost my 8GB USB while going to NBC 09 Karachi..  amaaaaa It was new one.
+Today is my personal day of dying hardware: 2 PSU's, 2 RAM's and 1 tapedrive till now 
+I miss my 8GB USB.. Phkin NBC09 
+Epic fail. Needs me a 00 screwdriver, so tis off to B&amp;Q with me, once the husband gets back that is. Still with 1GB RAM 
+wishes for a new mp3  At least one that has a capacity of more than 1GB  http://plurk.com/p/pb62f
+Tweetdeck cost me 100MB of RAM, while Destroytwitter cost me 50MB of RAM. Silly Air platform! 
+whoops ... it wasn't a dickie hard drive .. it was 1GB DIMM that had gone kaput 
+wanted to buy a DSi, but didn't    RAM JAM!
+@saulkza Even on a 4MB line, upload is a real bring-you-back-to-earth event.... 
+I stuffed my iPhone USB connector to the iphone but cannot charge. found dirt probably left by my cats on the USB connector. 
+second complete freeze of my macbook pro by plugging in the mini DisplayPort 
+Also, why is the complete Sailor Moon collection some 37GB (not including movies)?! At roughly 230MB an episode that's just unacceptable. 
+@easyspace 1GB Ram is not available as an addon if you already have a vps with you guys. 
+Got to mend the 1TB RAID array on our file server. /dev/sdc is down, but I don't know which physical disk that is  Backing up files first
+Modem is definitely down 
+@arunshroff i get a peak speed of 512 Kbps -- at peak times its worse than a dial-up 
+@ramdomthoughts yeah, it's going on eBay some time today  I just need more RAM and I'm maxed out at 2Gig. Really need 4...
+Sigh.  Crashed my 500GB harddisk.  DiskWarior managed to mount it but it's beyond repair.  Now sftp-ing to my 1TB raid drive.  
+@ChibaHanako Sure! I was using a Canon PowerShot SD800 IS. I liked it. I hadn't used film in so long. I'm back to digital and I miss it 
+Flat tire on way back from SD! 
+One of the hard drives on my PC has just failed, luckily I have a RAID setup, but it would have to happen on a bank holiady 
+@superezekiel I've got a nice camera test video I'll upload to show you. I think it came out pretty good. I don't have great GFX though. 
+@EmmB0MB ok ok cause i can't wait that long  and yes i love it, he's so delicious.
+@tweetvisor I wish I could use Tweetvisor more, but my CPU just goes bananas when I do 
+@nicholasmegalis Will do.  As soon as I find my USB connector  
+nah.. only several kbs there  System: 3.02 GB; User: 46.06 GB (that's what scares me :o); Apps: 14,93 GB
+As soon as I can build an SD card reader from twist-ties, a plastic spork, and duct tape I will upload photos of our baby 
+@DarkUSS I hope not, hopefully it's a beefed up ps3 (32cores CELL) with more RAM and a big HDD and and... and... noooo no wii-like 
+15 Gb of Imp data lost due to mis commanding 
+M1.9P's Swiftech CPU/pump developed a leak, it maybe bye bye CPU nd/or motherboard 
+@maiki Part of my console report read: &quot;Error reading PCIE lane config. Unable to check PCIE slots for changes&quot; Genuis bar tomorrow 
+@tharayil Linux version looks good. Only issue is each update of chromium is over 450MB each time 
+Hit virgins 15Gb cap  speed limit imposed. 280kb/s max 
+@georgeharito, I found the RAM 
+Off to SD for yet another lovely transfer. So much for our steak dinner plans 
+Slow Comcast speed in the 95051 tonight it seems. 0.8MB/s on a Business Class which is supposed to be 14MB/sec  
+...and then she turned to me and said &quot;and thats was my mother's day. Yepp, and the best part, the only good part about it was you&quot; 
+where all the follows at? I miss SD already *sigh* 
+I want my memory card really really bad. 
+@bbgigglezoy ill try realllyyy hard but i probably wont be leaving SD til about 6  whats going on at church?
+@timlovejoy Says stream not found  andyway its no contest MACs beat PCs into a cocked hat!
+is trying to consolidate 3 old IDE disks (8,8,20GB) into a PC with 384MB of RAM and install Milax 0.3.3. Problems with EFI disk labels 
+Last night I just sliiped by water bottle in my open CPU cabinet and my machine stopped working !  (@alexfraiser, thats why i was offline)
+Another stormy day in the MB 
+camera's charger is lost  and the USB thing to transfer camera to comp too.. waaa? where is it? need to upload archie pics!
+@rosyy_storm If GB did win then we've finally came first in something! Everyone votes for their neighbours and we dont have any 
+Fuck it....bout to start watching Heroes again....Oh yeah...no more 320GB Hard drive for me anymore. I only have the 500GB now 
+I'm getting my new 160GB Hard drive put into my computer today. 40 of it will go to waste as the maximum this Dell 9300 can see is 120GB 
+@aussietechhead lol. I only get 8GB peak 8GB offpeak 1500K, $40 a month. I'd love 20GB anytime 8Mbps but it's $70 - Dad refuses to pay it 
+@JasonBradbury I've got a very simular rig to you, I custom built mine same cpu and gfx card but you have 2 running SLI I only have one 
+@petewentz i wasnt happy when i found out you were giving a USB drive out in union square when i was in new york... bastard!  send me one
+My SKY+ HDD just died  shame theres no BackupExec for SKY. had to rebuild and lost all content. That USB port would be handy if it worked
+@marshall24 yep, it costs me dearly in RAM (currently on RAM challenged machine) to run both.  Adium is my preferred IM client, so it wins
+Not even 20 min on the freeway and another goddamn tire issue..im getting scarred about going to SD from now on 
+45 border wait then 2 hour drive to SD airport flight leaves in 3 hours but I need to check in like an hour ahead.. Not looking good 
+@pmsumner Pah!  You have it easy!  I have 14Gb of MP3s that need re-encoding...  
+@sarahsuzy Thanks! I think those are the generic ones though  How cute are these tights?!  http://bit.ly/m9MB8
+Already missing @megs15 and @avit2 
+bak  from a fun weekend in SD... missin my sissies already...bak 2 reality tmw..  dreadin another work week 
+@x0ludachr1s2x my lady week in SD!! 
+just got to @JohnnyFiction 's place.. its freakin hot here!... so much cooler down in SD.. 
+i feel like listening to music by loading it at office.. i dunno if it is allowed! Though USB Port is enabled, PenDrives are disallowed! 
+Transcend Portable HDD fried up ... within warranty .. but no receipt .. screwed up ... 
+Wow... WD Caviar 640GB AACS is definitely one of the coolest and most silent harddrive I've ever had!! oh, btw 640GB = 610478 megabytes  
+Bloody Optus, still waiting for USB Modem, not much longer I hope....Missing my internet date with Toula 
+virtual machine beta doesn't support disk sizes of 172 gb 
+@imacdo11 LOST DIDNT WORK. i think i ripped out the USB when it wasnt done. it has no sound 
+hmmm..... would like more RAM but XP 32bit only supports measly 3GB 
+cannot find the USB cable to charge my mp3 player, grr. i don't there's enough battery left to make it thru 4 hours of printing tomorrow 
+Its quiet disturbing but some things cant just be ignored ..   http://bit.ly/xz8uF      #savefoodday
+@MakeupBag I would love to get this one http://bit.ly/Xt028  but the price 
+Not dead yet. SD reader in laptop can see content of camera card. Just going to take an hour to transfer to the video editing workstation 
+@fiftypercent I was going to finish up my review of the Ascaso Duo, but apparently they changed it 2 months ago 
+@RyannLim I know right! ) Sucks that they didn't continue the series till the end  I'd lend you my USB but it's only 8GB )
+picked-up a 500GB Western Digital portable hard drive. I wish they had 1TB ones in the 2.5&quot; size 
+really wishes my HDD didn't die, I had all my old classic games on it  and no more Anime
+@henryofchang lucky at least you're doneeeeeee  have fun in SD
+@s_kc Yea, looking at MSi wind U100Plus....very handy, sleek but its 2GB edition is not available in India 
+My mouse has broken  the USB thing won't go in properly... I HATE touchpads!
+'s Blackberry battery is low without a charger.  I hate you Micro USB.
+Mind you, if you think downloading 200MB is bad, I have to upload 800MB for the members versions - running at 89 KB/s 
+Just ran out of USB ports. 
+@Jacquies i want 120GB 
+Dang. 89 MB left on my iPod. @-) I started with 80 GB.  )
+SD tonight-tomorrow. I hate working...I can only stay pretty much overnight 
+@sc0rn I tried installing the previous kernel version (booting via USB), didn't word, I guess removing OSS corrupted some of my files. 
+&quot;It's a small download - just 25 MB&quot;. Bah - MB is the new KB. Having more speed/space is no excuse for bloated apps 
+running out of RAM 
+Backing up files that still need to be backed up from my laptop's HDD to my ext. HDD. Before my laptop dies - It doesn't sound good 
+@pradeepto I am trying to download updated OpenOffice 3.x for Fedora/Linux on my Core2 Duo, 2 GB RAM, 160 GB Thinkpad, over a 1 mbps link 
+@vjragavan yup.. only 4 GB is detected 
+I always run short of USB slots on my computer 
+I think that my ATI Radeon HD 4870 512MB has left the building.....  strange patterns on the screen........saaaad!!!
+Ex iPhone dev sale (Sydney)   April 2009 iMac 20&quot; 2GB/320GB/2.66GHz + extras. $2k ONO. dm me if interested.
+@thattalldude  Video card is PCI-E 2.0, PCI-E port in the computer is apparently 1.0. Yet the card fits in the slot, just doesn't work.
+oops! 2 days ago I deleted some downloaded samples. Now I need. I really should top my 2+ GB download but I do not want to 
+@artfuldodga I love those 'it'sakey' USB sticks. We only have the 4GB in Australia 
+ 2 days of this month left, and I only have 400MB left on my onpeak downloads.
+@xdjio Have a 3ware 9650SE, not fast enough for 3x X25-M SSD RAID5. 800Mhz IOP on the HPT. Might try an Adaptec 5405 (1.2Ghz). 
+The computers and the Ethernet at school are so slow! 
+Too much sand in the SD 790 from pismo this weekend. ANOTHER canon powershot broken. 2nd one in a year  What to buy this time...
+@HannaManna I think it goes against everything i thought the olympic spirit of Team GB is/was 
+Finally installed ovi in mobile. it would have been good if it could be downloaded to comp and installed to mobile. Frickin 3MB download 
+*sigh* my @ubank USB died on my this afternoon. R.I.P, you will be missed! I hadn't even had the chance to parade you around yet 
+wishing I had brought my USB fan to work   air_circulation++
+@2Mbs: to triste 
+Well, #Evernote is giving away Wireless SD cards 4 fllwng thm on twitter &amp; tweeting abt #evernote_eyefi But US/CAN only  http://tr.im/mPxn
+Why did sound input for my computer stop working?  It's not the mic or jack (USB webcam mic doesn't work either) Checked input controls. 
+@heatwave06 cool, never heard of that in ny   http://myloc.me/21uF
+U-Verse is up and blazing at 25Mbps.  I don't have anything to download though 
+Also just realized that my digital voice recorder doesn't have a USB port!?!?! I think I picked the wrong model 
+i just learned the hard way that FireWire 800 isn't backwards compatible with FireWire 400 
+Any Windows 7 users out there have any tips on how to make the default install NOT take up 15GB??  I knew it would be big, but srsly... 
+@valiiance: @deewags' laptop (3GB RAM, solid vid card, made to run CS4) sucks with Hulu.com. Eager to try Hulu Desktop, but not hopeful. 
+@e71fanatics being such a capable phone, even the 1500mAh battery couldn't keep up and drive it all day 
+hanging out with meg. i missed her 
+ut oh, I wonder if the RAM on the desktop is starting to go 
+SSD laptop drives 'slower than hard disks': Being a laptop owner i was not happy to read this     ---Quote--- .. http://tinyurl.com/m3qoav
+trying to get some space out of my hard disk as i only got 200mb left 
+uploading new video. I think 500 MB will take hours 
+@MickyFin i just logged in from another phone .. same issue .. 46 MB Free RAM  .. not a good sign 
+I wonder what the end of the Mini 9 will do for replacement SSD costs... Maybe they won't go as far south as we'd hoped. 
+discoverd that my new HDD must be pinned to Port 2 on my mainboard. getting a lil bit insane with my technics. my tax form waits for me 
+I think my USB stick died on me 
+@tallblackguy Don't forget a plethora of various USB and Firewire cables.... I got a 1TB drive with only FW400, needed FW800. 
+@H3XT that's horrible. I'm so sorry! 
+Moving 7.12GB from Dropbox to NAS. THis could take a while 
+@elementz i had to buy mine from cold storage 
+Running out ov USB ports now  need pen drive, mouse, keyboard, webcam, printer and speakers
+@xxloverxx vast majority of speed issues I see nowadays seem to be RAM-related. *everything* wants to use gigs of it 
+@t_iii What I did was unknowingly put a faulty SATA drive from the backup machine into the primary.....one blue screen later.....bye-bye  
+what the crap blink-182 tickets sold out in three seconds  SD please have tickets for me next week
+It always rains when I'm in SD. 
+@SoCalVixen is it still gloomy there ?It still is here in SD 
+Ouch, I just tripped down memory lane 
+If my dad gets promoted , goodbye SD   that's lame .
+RAID 0 vs. Lourini 1- 0... Can't get the stupid RAID to work  It keeps saying that there are no install files on the dvd :s
+I hate Homemade Ethernet   http://bit.ly/uzMkL /04/27/1216246&amp;from=rss
+I hate Homemade Ethernet   http://tinyurl.com/dg6xog
+@paradoxataur I have that, but I'm missing the first disk 
+@andrea_owen left SD last august, home for xmas for 4 days &amp; thats it   trying to plan a trip in aug. but have move places here by sept.
+If you have a USB drive and when you plug it in nothing happens I suggest you go ahead and remove it.  As it may burst into flame.  
+I have just come to the sad realization that I don't own a flat USB-USB cable. They're all either USB to mini, or square to flat.  
+Pics are turning out great. Problem is I only brought one 1GB memory stick 
+@jontymisra That's true, damn, you're right. The CPU is pretty bad. K, looks like I'll have to look for something else 
+Maintenance on vegetable garden complete.  Bok choy under attack from inserts   In other news, my RAID array is getting rebuilt..
+2gb of memory is hardly enough but it'll do for now. 
+@kevolution I didn't see any of it, and I'm glad. I honestly think he's fed up with the coaching. He wanted Sasha in but MB wasn't on it. 
+Any one knows how to speed up USB Data transfer rate to Pen Drives ?   I am sick of these pen drives taking hours to back up 2 GB of data
+someone send me some @'s I need to feel contact and the 3GB limit really limits the amount of email 
+Dammit, can't find a retail outlet round here with the Cruzer Contour 
+baixando the dark nigth em 1080p  11Gb 
+VS 2008 don't enough 1 GB memory 
+the tips don't seem to help though, #firefox's still hogging the CPU 
+Only problem is that TIFF files can't be larger than 4GB 
+Whoa! #Firefox Trunk Nightly just shot up to 305MB from 260MB when I RELOADED the page with rather fewer JPEGs. ALL subset of first lot 
+@netflix, the Silverlight player is choppy/unwatchable! 2.08GHz, 1.5GB RAM, 256MB GFX, 24&quot; monitor at 1920x1200, WinXP. Old worked great 
+My net on the PC is now officially dead as my USB has broken..  sadness..
+@JimmyVo DBs haven't got access to KBs in the gym I was training in  still good tho 
+@MontanaOne don't remind me.... I threw out whole boxes of'em, SCSI too.... it pains me to have to go out and buy one 
+External HDD crashed !!! Volumes of data lost   
+relaxin at javs pad watching music videos about to pass out in the couch, no SD for us today 
+People using dogs as shark bait  http://bit.ly/7J3Xv
+cannot believe how difficult it is to move a 5.7GB ISO from one PC to another... even with a 40GB extern and 30GB iPod 
+@Iddy420 oh this sucks! ...and right now I am paying for 2MB connection &amp; getting 1MB. I hv done everything I could to get rid of this 
+512M shared RAM is painfully show in a PC these days. 
+I want 23 Mbps.  
+9.3 MB podcast upload keeps hanging at 34%   coffeeflavouredtea.podbean.com
+Looks like imma have to get me a new laptop the processor is waay to slow on mine &amp; not enough RAM/hard drive  lived a good life lol
+@camerarec thanks.  I'll chalk up another vote.  I've been happy with my old Canon SD450, but it's broken 
+ok, well we ended up going cheap and getting a SD camcorder 
+But can you hear THIS? http://tr.im/mZJg hm, my max score is 15kHz 
+@Sarcasticluther only wish I was going to be at GB 
+@djbriancua huhuhu ive been so busy this past week i havent attended to updating music.  i bet the MB mix of lady gaga is awesome?
+@cimota @stuartgibson Yes, 500Gb is the max i've seen so far... but thats just the itunes collection covered  I need a drobo !
+I'm having a nice salad now, in the garden. I'd love to share pics with you, but the laptop won't accept my SD card 
+downloading ornagai sql backup waiting... 9 MB 
+@mr_gadget I need SATA 
+i have upgraded my brain-disk from 1GB to 1TB. will upgrade to 4TB if i ever needs to memorise any other thing.  costly &quot;brain-disk&quot;!
+Chillaxing on balcony...forgot to bring USB lead to upload pics from phone 
+New patch killed USB at login??? Reinstall/archive  http://yfrog.com/594dlj
+@bonjourcristal Ethan ate the house charger, I stole ym mom's car charger, my USB is at my boo's house 
+@aalaap  from what i gathered, it worked for &gt;32GB drives! Anyway, my bad if it doesnt. Why did you format as FAT32 though?
+@jiznakefoo most video cameras are on firewire too... 
+@fonix I just ordered a 500GB seagate from newegg for ~140. Getting IO errors on current 250GB 
+The show may be starting but http://www.xbox.com/en-GB/e309 hasn't changed a bit!  #XboxE3
+Me and nicole just got &quot;d's&quot; on DDR 
+@ScottFairfield wow, i have to open the whole thing up to change the HDD? 
+my new laptop wantlist, 4gb ram, &gt;2.2Ghz dual core proc, &gt;15&quot; screen, dedicated videocard, 3 year uber warranty &lt;$1000  items found 0. 
+@lashonp lol, i should've guess u vote Pre. it's cute &amp; it can update my contacts easily but no microSD slot   but 8GB phone memory 
+10 more GB over 4 hours. 
+@lassi That's awesome but worthless to me, I have a 20gig HDD. 
+Holy crap! Western Digital has a 2TB hard drive now. I feel old... I remember when 1GB was groundbreaking. 
+@coreycitron I second that! Being we're both at the beach it is worse for us than the inlanders, the sun tried for minute in SD buy lost 
+Having to replace my Cruzer Contour  I love that USB! 599TH POST though! Will do my 6th centenary tomorrow!
+@suziam Safe indeed. I did lose a pen on the way though, and I have to hunt down a GB Micro adapter/cable coz the AU is 240V only 
+The problem with USB peripherals is when you have so many of them, you have a tangled mess of cords. It almost seems unavoidable 
+@disqus Every time I try to post a comment on http://bit.ly/7w8nV it says that wasnt supposed to happen we're on the case. tried like 20x 
+had an good weekend, played an lot of WoW and then both my pc's died on me. 1 lost it's PSU or MB and the other the system f**ked up 
+It's taking forever for iTunes to download a 9.7 MB game 
+@ubank Still no sign of my uBank USB 
+@felipecerda owned  SD rules 
+Excited about Iron Maiden RB DLC like everyone else. GH:SH demo unimpressive but poor showcase songs. Need bigger HD! 20 GB down to 62 MB 
+Only 15 mins more of CB &amp; GB 
+the disk is scratched  i love my transformers disk!! Who scratched it lol
+Is lost without her USB stick 
+@jimseven I want a footswitch on one 
+ http://screens.delaender.net/24ea555d2fd0a8dd97af9f053aa4546c.png - TextMate hasn't enough memory. I got 4GB RAM hmm
+My home server has finaly packed in. Well, one the the HDD's has anyway. 400GB of music has gone   http://twitpic.com/6ghfo
+@joshwheatley how could you  you should see the SFF display we're doing for the box office.
+power outage in Ubud for an hour, was backing up laptop, and backing up faulty 500GB external . laptop just nuff batt - externals  urgh
+Is hot and bothered in college, and have lost my USB 
+@zubinmehta things were good till firefox 2.x.x as far as RAM usage is concerned. 3.x came and ate away all my ram 
+  I have a really bad memory.  I feel so bad.
+I should have brought my phone charger afterall. The laptop shut off USB power last night. 
+@ThisIsLyds and dammit. i was just gonna send you GPRS.  nemind tmr. and besok im housewifing so neh.
+16GB SD still works after reformat. I just got this sweet app for backing up too. Did the backup last night but never off loaded the data 
+i think im addicted to the internet. every time i go 2 do somethin it leads me onto a trail of DL's and apps and i keep eating HDD space 
+@sinclairexoh so far it's going super slow for me  but i guess it's because i don't have much memory. other than that it's pretty awesome!
+@fatelvis04 hulu stream is only 1Mb at 480p  Netflix doesn't do that even if only 480p
+Windows sucks. Automatic boot restore deleted 25Gb...  another way why don't choose win, linux won't del data in auto mode!
+And Win XP works fine, but it has no drivers for my laptop  And my desktop has like 8GB DDR2, so my Win XP doesn't support that either
+@PaulWestlake 1.5Mbps up - WTF - pathetic eh 
+doesn't know what else to delete to get that extra 3GB. 
+new iTunes =&gt; 50% CPU 
+Still looking for email. no NAS map so recovering 4GB via tcp/ip, screensaver barged in + crashed everything, only twitter still working. 
+My 8 GB USB flash drive died, ... 
+@SAbbottCayman what is it with you boys and Campy!!  Nope, need Shimano hub for SRAM  
+mkfs.ext3 -c for 1TB partition over USB 2.0 - 4 hours and counting 
+@overheardatmoo my minicard order doesn't seem to be going through 
+@laplumeetoile I ADORE my iPod Touch! I just wish I'd gotten the 32GB instead of the 16GB. :-P So worth the $$$! FB not fixed yet. 
+@OweeW urrm 8 GB i think..i cant believe its full 
+It sucks when 2GB of RAM is not enough anymore 
+@ZettaGeek You know that spare system I used to have in the barn? I must have fried the MB with a bad power supply...  :S
+B-Day shopping for my mother. She wants an iPod touch 8GB, but I'm getting her the 16GB. Poor lady was suffering with a Zune 
+i just figured out that my pic had to be less than so many KBs!  I guess I'd better get on to the bills 
+Backing some stuff up to an external HDD to save space... running out... quickly... 
+stupid memory card! 
+Thinking about sending this drive back... if I can... only works via USB, and I spent more $$ on it for firewire  sad day
+@jamestarala I hope this doesn't become PCI's undoing.  
+drake is in downtown SD and im trapped at workk. awesome. 
+is out of space on her gmail account. apparently, google can't host more than 8GB an account  now what?!
+@mediatemple No dice on the upgrade - still $20/mo per DIMM. 
+@MCRmuffin awee  *hugs* good thing you didnt tho. Yepp mine also admitted he loved the otha chick more :\
+Fuuuuccker. Anyone have a USB cord I can use for my ipod? 
+@mr_billiam Nope, unfortunately. I'm talkin about 320GB of data (4 x 80GB). What a crock!   #vistasucks #clusterfuck
+Two years ago, I thought 1GB is a HUGE amount of memory. Now I'm pissed that it's the only amount my memory card can hold. 
+SD..too bad ill be at the library studying all weekend 
+@DrunkenNYT I'm out of memory 
+Someone PLEASE get some pictures of this SD sunset on my behalf! I'm stuck at an awards ceremony with only longing glimpses of the sky 
+I have said this like 50 times but I am finally downloading and watching Australia tonight. 440 MB of 2.27 GB - 42 minuets remaining 
+need to increase the RAM in my macbook - and also buy a new battery. This thing only goes for ~2 hrs these days. Not enough 
+was a weird mix of reputable &amp; woo at MB$ the woo was quite unsettling &amp; diminished cred of reputable companies there  but its all about $
+Three years ago, I bought 2GB of RAM for my Mac Mini from Newegg for $189. The same RAM now costs $13. 
+Fixed my blog....I should have never tried messing with wordpress code. Accidentally left my external HDD power cable in office  #fb
+1630GB of 4706GB free 
+@jwalanta @yowlanku what's ur download speed while downloading #home torrent? mine avg. 10kB/s out of 2mb b/w 
+just learnt why I should take better care of thumb drive lids. Chocolate in my USB drive 
+Taking backup of my files. HDD gone 
+@sebskuse  My desktop keeps running out of memory with 3GB in it. How the hell did apps get this bloated? =/ And where's the pagefile?!
+@TheSims3 my computers too small for it  it sucks! Mine is 0.5GB and it has to be 1GB.. booo 
+Going to get a DVI to VGA adapter and pray that works. Mrrrr. I wanna play Sims 3. 
+loving being home...missing @missybiabia &amp; @karleecemo in SD though 
+@RoseForVF I wish I knew if mine could be upgraded. It only has 512MB RAM and that's terrible, especially since it was Vista. So slow. 
+@AlcoholicCheese I haven't got a memory card big enough for it to fit on my psp 
+@Lazybuttons  i still have an agp slot, i would have to get at least a new mobo also.  
+@HurricaneHelms won't you fighting anymore? I miss you on SD! 
+Is transferring almost 20 GB of pictures and videos onto CDs so that I can format my hard drive 
+Sorting through my digital music collection. Currently at 32Gb and 6713 tracks  Another 20Gb on a spare disk to go through yet too.
+@rustybuckets http://www.speedtest.net/result/490119884.png   vs. 11Mb/s down and 1mb/s up
+: completely crushed. my 1tb storage drive has gone missing! 
+@nunokaka85 waaaaaaaahhhhhh i dont have have a good enough CPU so doesnt @lorner96 as well 
+@kristalshay My CPU isn't fast enough. 
+Looking for a USB hub that will allow me to share devs. (esp. mouse+keyboard) across 2 computers ... seems most don't do input devs well 
+@richard4481 Although you can get an 8Gb cheaper on Ebay, depends if you want the risk again 
+up 335 days, 17:33. Shutting down due to RAID 1 member disk failure 
+@MB_guy p.s. I'm back at Izone but we don't have your style glasses at my location  i'll keep trying though!
+Well guys, I managed to get my new PC (An INTEL Pentium with 3GB of RAM) HOWEVER I won't be able to use it on the Internet until Tuesday 
+Made it safe to 'Da. The computer I have access to is slow and has only 256 MB of RAM. 
+@hongkongwong MegaBytes?!?!? wow, here in mexico the standard is 1 Megabit :S  
+@seanoliver less than 4GB is unacceptable...I have the 16GB and am pretty much out of space 
+@kubhaer or rather...i HAVE capped bandwidth here. 
+woooow.. the 2.4 GB windows 7 got downloaded in nearly 2 hrs..!! BSNL actually rocks in one way.. but f's in service!! 
+After boasting about my music-only, 500 GB hard drive over drinks...I came home to a drive failure. Backed it up and wiped it clean 
+@misterphipps 650Mb free!  I had to delete videos 
+@cellcom_052 Context: my data plan covers my phone, not a laptop connected to it. I didn't mind paying per MB until the price changed 
+I need a good chair, my back is killing me  - Overclock.net ...: Q6600 G0 3440mhz 1.38v, Motherboard GA-EP45-U.. http://bit.ly/c42uu
+@meg_moorlach but I have to work 12-5:30...boo 
+@gauwed i have a vague memory of t1.  didn't see t3.
+@Pallekenl  it does take up a lot of space. 6 GB.  I have a big hard drive. i hope it doesn't kill my computer. michelle would be really 
+The Mrs has replaced her Ipod. Busy copying the music library onto it. The new one has 120Gb compared to the 30Gb. I need an upgrade too 
+@umatter2chtr my limited connection speeds have been less than a 300 baud modem. 
+@_hikky Still got a machine with PCI gfx card. Just PCI, no additional &quot;e&quot;. My VLB machine fubar'd, though 
+@TheRedStone My ISP shaped me, I went over my monthly usage of 25GB per month. 
+there are 3702 items in my trash omg, &amp; only 5GB of HD space left 
+I'm glad AndyF and Terabyte get RC2 in that &quot;pre&quot; test. They found like 30 bugs! Seems were breaking more and more each time 
+What needs to be improved in #LightZone: speed! I have an Athlon64 with 4GB of RAM and LZ is slow. 
+Blink182 in SD.. september the 16th! I really really wanna go 
+@Urban_Idiot tsk! it says it's recommended for macs with 2GB of RAM but I only have 1  mibby thts why! what do you have lol?
+Why are my RAM previews so slow... 
+missing 1GB of ram 
+@Rubyam i still need the original disk..... 
+sooo pissed off! got a huge bill for my internet  seriously $1 per MB after you exceed! 3 you're so slow and expensive
+Computer in training room is 256MB ram, but the windows already took 440MB, so i can't do anything even click start menu 
+I miss him already  *Kb #24 GaMe 2*
+Lappy seems to be struggling with photoshop  may be time to get some more RAM.
+@edblankenship TFS 2008. sitting on VM with 2GB RAM, trying to use 2.8GB... 
+on the search for more music. i only have 2.35 GB for my  soon to be ipod 
+my lightroom catalog previews take up more than 11GB of space  note to self: buy a 1TB HDD soon!
+@ktyrrell47 seriously! I thought of you today cause I was in SD all day  I miss you&amp;your big red jacket
+my 9402-400 is to old to use the PCI cards; have to go shopping to buy the 2617 one with transceiver attached 
+running out of space on Picasa!  @googleatwork any chance that the free GB allowance on Picasa will be increased sometime soon?
+my memory is full    7.79GB out of 8GB used: wish 4GB sticks were cheaper...
+Our MSI Wind U115's SSD seems to have gone kaput, so system won't even boot  All my benchies are on it too (
+is now trying gparted to shrink his ext Hd as W7 wouldn't allow me to shrink more than 2058MB! 
+i totally suck at DDR  but im cool dat way 
+Upgrading the MacBook from a 320GB drive to a 500GB. SuperDuper estimates eight hours to create the bootable mirror. 
+@Gamedigital i agree  all the hype that ive been reading in the OXM the past few months about GB just to be dumped with a 5 month wait 
+@RyanSeacrest I wasn't awaaaake  but even if I was I'd probably be listening to @Channel933 instead. SD love.
+Work mac's keyboard and trackpad became unresponsive at #fmeuc. Cloning it to a loaner mac. Going from 4 to 2GB of RAM is going to suck. 
+i need to do so much in SD... fack! 
+ I need a firewire drive, usb is too damn slow for restoring or backing up
+I need an IPod with more GB 
+i need an ipod with more GB this one doesn't have room for anymore music 
+@TheFrogPad no   the 8GB 3G is $99, the 16GB 3G is $149 and the new 16GB 3GS is $199.  all assuming you have the upgrade for the new
+@vuboq good to know. But I think a blank memory chip might be just as sad 
+@TwitterFox updated to FF 3.11 &amp; when I sign in it CHUGS the browser while gathering tweets. my HDD lights stays lit. its just not nice. 
+@figuromo I am sick today, so Iwill have to miss the opening. I will make it another day. I ride along dank street going to work. 
+@nelliesf got in about an hour ago! Home is great, but I'm having SD withdrawals 
+just had a really bad memory conjured up 
+@ebila2000   can't get in-  bandwidth exceeded  
+@panda_apple I was totally going to start watching that show tonight, but my computer hates SD internet and won't let me watch video 
+why is everyone complaining thier 2mbps internet connection is too slow....i get a fraction of that cos of where i live 
+also... gotta get a Parallel to USB adapter (if it'll work) for the plotter...  or get a Parallel PCI card    ick.
+@stevenblue I was going to fix but I only had a machine with IDE and the HDD had SATA 
+argh, my Windows 7 SDK looks to be out of date and for the beta rather than the RC. Have to get a new one ( 1.2GB at 400KB/sec  )
+Yay my 4GB are where! Problem: I need a Philips screwdriver to install it in the macbook 
+2nd Western Digital #hdd breakdown at work in 3mo.  Was about to try WD for my 6th Terabyte at home but now will stick to safe &amp; tested
+any tips for converting mrsid files from 16 bit to 8 bit? they are over 4GB so ArcGIS is out, and autocad 9 won't read 16 bit sids. 
+trying to watch #140conf online. RayV plugin sucks... CPU at 100%, video breaks every 5 secs. More buffer than video... 
+my mobile GPRS thing is down...feeling discomgooglated 
+QNap crashed again. RAID crisis  But it is sunny outside... Win!
+Deleting all shitty music off my PC now, there is actually NO memory left  I want to know whats taking up the other 60GB!
+Argh. No way am I going to make it to the blogger's preview/demo of the CLEAR 4G WiMax USB device today  Too much work.
+http://is.gd/13wUr Abit claim it supports 8GB RAM so it must be something else, try BIOS upgrade but be careful  http://is.gd/13wXV
+--- *On my way to the doctors with my Duo, my ass hasn't even had breakfast yet  lol
+@danmakufu Not an option really, my parents bought me it for school, so it's pretty new.  I love it anyway, and HDs aren't too expensive.
+OGG container format sucks ! 
+Depressed. Dropped my External HDD. Won't work now. I know it's screwed  arggggggh
+Ordered a 2.5 SATA enclosure but received an IDE one   grr
+the HDD has just crashed   - I am stupid
+Wishes he could buy a new MBP with 8 gigs of DDR3 
+Trying to copy stuff to my external drive and getting the CRC error. Hoping it's a port problem, which I can get around.  GB crunch ftl.
+HD didnt like the skrew i accidently put on the circuit board &gt; smoke &gt; -300GB &gt; 
+[..]I'm Using one of 512MB and one of 2GB. 
+@daveybobby &quot;free to all customers with data plans over 1 GB&quot; ... mine's only 500MB 
+@loudmouthman Aye, my measly 350MB plan with a rate-limit twice daily is ~1GB a day. But costs ~$50NZD. 8Mbps1G/day is more like $70-$150 
+@CaliLewis The Drobo code &quot;CALIFS&quot; doesn't seem to be working anymore. 
+@jenthefangirl Unfortunately, it'd either have to be one of my contributors talking to you or done via e-mail.  No SD for me this year 
+http://twitpic.com/7kgs7 - two 1Gig DDR PC400 + a SATA 2.5&quot; 5.400 rpm  160gig HDD  time to set up now...
+celebratind dad's day tonight with the fam whos missing out on SD...sucks for htem. more money to spend on pops for me, that i dont have 
+my ipod is completely full and i still have approx. 10 more GBs of music on my comp that feels left out 
+I give up i cant get it to go anywhere ovr 3fps 
+server down... dead MB or ram.... zero time to work on it, but need it to work 
+I had a bastard of a morning lost my USB then mum went apeshit at me about some shit and to top it all off i got hassled by dickheads 
+@RioMcCarthy I would play it right now if I could, but its RAM battery is dead. 
+@MalloryDuVal how doni get ustream to see the USB can? It only picks up the built in cam 
+@astonwest That sounds awful! I've taken to using a USB key, two hard drives, and a NAS drive. Still, the edits failed before backups. 
+ I cant find my connector for my cameraa!!!  Where is itt?!?!?!?!
+my first post on bnet   - http://bit.ly/6pF4d
+Going to replace the Linksys / Cisco SD2005 with a NetGear GS108  &lt;-- I've had a bunch of this SD200x die on me 
+@harbars what's up with the new MBPs having only SATA and not SATA II for their HD? 
+@TamaraKenyon did you try running the disc utility application on the install disc? If it can't find the HDD then it prob. died. 
+@iphoneincanada But Rogers was so good to me in the past... I don't plan to pay more for a tethering plan when I already have 6GB's. 
+is praying that he can get his data off his 1.5TB Seagate before it dies. 
+FeedReader takes 200Mb RAM  Any replacement recommendation will be more than welcome #rssreader #rss
+never thought i'd see the day when i'd have to sift through my ipod to delete tracks i don't listen to  running out of space on my 30GB
+@rajivvishwa But you could login to your Linux, right?Mine was a hardware issue.MB and HD got replaced today,time for installations now 
+@PhilipStears I actually prefer having the USB on the left hand side and running around the back, having things stick out on mouse-side = 
+RIP my Casio Exilim EX-Z57 
+my #openfire server is playing up.  cant seem to change the Java runtime environment from 64MB to 128MB as java doesnt work from the CP 
+@marc_callec I've got 2MB left, poor me 
+Anyone recommend me a lightweight bandwidth monitor for OS X?  preferabbly a dashboard widget.  I need to ensure i don't go over 10GB/pm 
+WOW, update 4 for Java of macbook, 158MB... I must restart 
+Who has a Mini SD Adapter I can borrow? 
+Pissed off I forgot the USB for my iPhone, so I can't get the software update until after happy hour.  #fail
+@firebox its a sweet looking fan, but from the image it looks like it is USB powered yet it says it needs batterys 
+@daverazor The AKAI APC40 looks like Ableton.  We just got an AKAI Z4.  Seems fairly intuitive.  Easy to load with USB.  Need ram 
+Loaded 4.5 kloc XAML file in VS2008. Cursor stopped blinking 10s after first keystroke. Resharper memory usage incr. to 680MB. VS crashed 
+Damn. it's huge. 5.8 GB which is bigger than the 4.7GB a DVD can hold.. Now what? 
+@Jamash  I have two harddisk crashes due to that in 2009 already 
+iPod Touch 32GB went through wash: http://bit.ly/44d1K2 http://bit.ly/czSMz http://bit.ly/13P0dC http://bit.ly/nLXff 
+Playing with a DLink DWA-130 USB WiFi adapter on my MacPro. Works, but drivers panic at shutdown. 
+Capturing from a VGA source is expensive 
+@jmanstudios When I said &quot;sibling&quot; I probably should have said &quot;cousin,&quot; since new MBs won't be joining my family any time soon.  lol
+@NicoSavides prepared 4GB USB stick for W7 setup; lended it to someone to install W7  waiting return; not my day. Thanks anyway 
+Firefox using over 700+MB memory now again  http://bit.ly/Q7KAA
+@nickstaroba USB ports are probably least reliable hardware component... they get broken, short circuited, etc most 
+The USB cable to connect my camera to my computer will NOT work no matter what I do.  
+was doing 400kbps, now doing about 40kbps. 
+downloading 3.0 update, but its taking about 30 secs per Mb. 226 to go 
+Wish i was at work so i would have my 1Gbps line to download this on 
+#iphone 3.0 seems sluggish on my 3G 16GB 
+Iphone software updat... 230MB.. 38 minutes remaining.. 
+@NickyBravo my phone doesn't work  no www, no texts, and some error message about GPRS keeps popping up. . . help?
+My next purchase will definitely be an external HD with &gt;300 GB space.. tired of deleting files to make space for new stuff 
+@pablowapsi SD's at the wrong end of the state for me... 
+Downloading iPhone OS 3.0. All 229 MB's of it @ 5.0KB/s...  13 hours remaining... #fb
+Camera - Yip , Battery charged - yip, Memory card -yip, Flash Batteries - oh crap 
+I got an R4!!!! I'm so happy, but I still need to buy a MicroSD card for it 
+@forbairt Yup - ietester has quirks and performance issues - better than browsershots.org tho! Tried VMware - gobbles RAM, slow to boot 
+6GB of in one of my inboxen makes for a very sad Exchange server, apparently 
+why'd my HDD have to brake.. now i have to sift through upwards of 40k files to try to find my data 
+@hak5darren I tried the whole process aormon - cowpatty on ubuntu with a bellin USB and it worked great except kismet server crashed 
+@SecBarbie it can also be easily defeated by moving the keychain (can be done with ramdisk). But you can get raw disk even easier. 
+hey anyone wanna get me a USB-TTL usb cable? they are all expensive 
+How can I connect SCSI hard drives to a computer with no SCSI ports? Ah, shucks. 
+@denisburns @davidpaullyons YES!!! Outlook messes up more than 2Gb of archival stuff 
+@Gregg619 that's not a bad value at all! I'm unfortunately totally stuck on having at least the 32GB  arggghh
+@prettiestpain it's gross because 16GB is a lot of space, lmao.  the episodes are so big, but that's the price of HD!
+Man I am bored. I hate packing. I was planning on driving to SD tonight but too broke 
+@zoombooom i didnt get my GB game yet, it wont be here till tomorow 
+Needs a new USB mic, fucked up the other one 
+I need a memory card 
+@Arkhangel yeah ofrecen wireless de 5MB.. that's why i'm interested. pero creo que solo son area metro 
+Killed my Ethernet port, Wifi is only connectivity 
+Too little memory. 
+i can't seem to tether my iPhone via USB... 
+Just have my new laptop up and running and now it looks like my extenal harddrive is broken  It's a ToughDrive by the way?!?!
+Rawr. I give up at 2.4MB--wala nang maibabawas pa d'yan. 
+ah, shit. these single-core inits are becoming more often. windows box's CPU is dying 
+Thinking about getting my XT600 legalized on the streets 
+@agoldenberg it was on my micro SD card 
+@GuyHarwood dunno if it's the phone or the SD cards, suspect the phone though 
+Not gone 3.0 yet. iTunes library is on Ext HDD waiting for new MBP 
+@stevehealy also trying to download iphone 3.0 update 4 ipod but on slowest connection evr! will take about 4 hrs for 250 MB!! 
+@tribemac i update my imac, right? like normal one. then my HDD doesnt work on mac! it doesnt even come up to desktop. what should i do?? 
+Ugh. SCSI card issues  All new hardware except that.. and i guess that was the issue all along. The developer is involved. will be ok soon
+@bennadel yeah, and just $550 for the 128GBs 
+@MsCHiNa2nV i feel you...i still got my razor n sidekick n the box freshhhh...  dont wanna give em away
+@Goston 3 hrs to download 43.8MB Safari 4.01 updates 
+a mere 34.38kB/s to download from the local server. thats Not a lot! 
+@AfrikanBoy I have 12GB of music in mine - don't even want to know how long it's gonna take for everything to update. 
+@nellgwynne No, I have not. And my CPU here at the office does not have speakers   I'll listen when I get home.
+@H3XT lol, aww! I'm slightly jealous  I wanna shake my phone to delete stuff too, how nostalgic lol
+I just realized that my Asus netbook has a mini PCI-e connector for the SSD, sad day  no upgrading anytime soon for me
+It didnt work, i guess the microphone is not compatible. I will not judge before i get the XLR mic ports. But sighs 
+@adamdrago USB only 
+@moodleman  must be nice to take advantage of those new features. AT&amp;T isn't letting go of the bandwidth.  No tethering or mms here! 
+@harrypehkonen hmm. The MBP has more RAM and such though... I like the SD card slot as well. They're pretty pricy though 
+@wondroushippo hahaha! what's your RAM? my pc and laptop are still 2GB.  I might upgrade pc to a 4GB soon. my macbook's still good at 2GB
+Now after I pay for it I find a torrent for GB. 
+@BryanRoth Sucks, bought 2GB but only shows 1 extra because of my XP limits I guess 
+Burning series and other stuff on DVD, because my 320GB and 500GB external HDs is not enough for me. I really need to buy more one HD. 
+i hate that printers don't come with a USB cord anymore... so inconvenient 
+@joelhedlund No, going to hold off on that one for now. I have the 3G-16GB model now. Not enough features in the 3GS to justify my money 
+damnation! TheBrain (my mythTv !ubuntu box) has died  I'll try reseating RAM/CPU later. Otherwise, shopping - any cheap suggestions?
+my lappy is running dead slow, processor at 90 mhz  as soon as I start any process, the CPU usage shoots up to 100% (
+Recovering from a power outage here in MKE.  Appear to have lost one external HDD 
+@fys buy a new new macbook. Firewire is back! No other workaround we've found though 
+But anyway that is time to go to work, still on GPRS  http://twurl.nl/uvwdys weekend will be terrible without 3G
+weeeeell shit, W7RC1 needs 8GB and this partition only has 1.75 left on it...looks like i have to back stuff up after all 
+Being on leave is chowing bandwidth 
+motherboard up.. com still down.. CPU fried? maybe.. 
+@tdm911 yeah, but I go through 2GB per month on my USB modem for half of what it would cost with Telstra 
+16GB despatched mon/ tue.  No extras offered and no upgrade discount   let me know what you wangle - I may cancel and go in-store
+@aquamedia Good luck !! the only way is to jailbreak and you may still be hit by the charges   the best is  to get USB GSM modem
+@tedroddy nice, I watched half of Slumdog Millionair and my MB battery died. 
+@surajv  here 3 Gb limit. &lt;sob&gt; #maxis sux
+@craigbutcher was disappointed to note that the new MBP have only 1.5Gb SATA1, not 3Gb SATA2 
+...Using Teleport for a single keyboard and mouse. That Dual Link DVI KVM is now officially redundant 
+Just spent ages trying to work out why my phone was out of storage, only to realise the microSD card in it was the dummy one 
+thinks her flash disk is dying 
+40MB of data can easily fit on a CD. 40GB of data can not. I hate when I'm off by that much 
+@sjdvda my pc is not an intel core pc  but am currently trying mac os 7 classic on my pc and i will re-try iPC during holidays 
+My son came by to pick up a peddle, but i was on snooze at the CPU so he rode away 
+@NetChick I want to upgrade because I'm out of space on my 8GB 3G 
+I definitely need a larger SSD  ~
+waiting for the second ep of Traders to... do a thing.  13kB/s 
+What?! My SanDisk Cruzer Titanium jump drive came apart. The back just dropped out and the USB with the mother board landed on the floor. 
+currently on netbook cos im partitioning main pc HDD. its taking ages eep and poor old netty cant cope with multi tasking 
+@monkeysplat Though it still takes up data in our data plans, which we don't have unlimited yet. Most are on 500MB to 1GB. 
+Cleaning my hardrive.... only less than 1GB left 
+seesmic desktop 0.3 swallowed up 304MB of memory after 5 hours of usage. 
+averaging at 50 kB/s now. 5 gigs of gunslinger girl is a pain 
+@adoptedkorean I'm so jealous! I couldn't get one today, they were all out of the Black 32GB model 
+Yeah, my laptop now has a 500 GB hard drive in it!  I now have 250 GB free!  That probably won't last long though 
+Has been white 32GB iPhone 3GS'd. But, the zagg invisibleshield I ordered 2 weeks ago still hasn't arrived, so I'm not using it, yet 
+joy, the tomtom does not have USB 2.0 so I now have to transfer 1 gig of files at super slow speeds 
+@marap23 I do feel like it! Its just all like 10GB worth of caps are on my old computer. I am going to have to download new ones. 
+I accidently dropped my 750GB portable HDD today morning.  nw it makes wierd sounds, nt working     
+Running windows Vista Ultimate, with 2Gb,  low on RAM, waitng for Yoytec to give me my new rams, cuz they were factory damaged
+@AnnielovesJB237 Haha Yepp. I can't wait to visit u.. I miss u buddy 
+@daneglerum similar setup to me except i'm running boxee, and only have a 1TB NAS 
+S is good for easy 260 ok the autobahn but rain and traffic meant our 300km/h run in Turbo had to be aborted 
+@CforrClemmensen :O so u have 1.5gigs!! of RAM cos thats ALOT! i only have 512mb 
+i'm not allowed out today cause i have to pack, gutted  on the bright side, my laptop has 167 MB left and it's about to die, yass #sarcasm
+There isn't a 1Gb memory limit on Vs2008, right? every time it uses &gt;1Gb is locks and I have to restart it 
+@so_zwitschert upf.co.il And it's the only site I know that has a max limit of 100MB 
+During a reboot, my work laptop has just fecked my 8GB memory stick - all data lost  
+@TheNewBradie ;) bahaha ims oo proud! you explained soemthing..ok i have HAHA I HAVE MORE RAM THN U!! but not ebnough  632mb
+my electronics seem to be failing my tv doesn't work, my keyboard seem to be funny and to top it all off my CMOS needed resetting  #fb
+My Velociy Micro laptop just died on me. Won't POST	seem MB	failure. Uneconomical to repair  I guess I am shopping later
+wanted to try mozilla prism... not for mac  actually using my windows virtual machine is becoming a priority. may need more RAM. double 
+2MB internet bandwith is not enought... 
+In GB! stupid rain i wanted to go to the pool 
+@sbmczh LMAO!! don't get me started on the 3GS...I have to pay $700 for the 32GB b/c I'm not &quot;eligible&quot; until 5/2010 
+Chesss, me corrige el profe, es LVM con RAID 
+@iweb Looking for Xeon or Core2Duo or P4 with Panelty of Disk, again missed today's raid servers  Needed it urgently
+My Mini9 arrived, however the 64gb SSD  from mydigitaldiscount is in limbo. Was backordered, now there's not even an estimated date 
+A sad day, I have filled my 60GB Zen mp3 player, now I must delete the least played stuffs 
+Benchmarking SSD &amp; FreeNAS: I've found the issue why read was slower than write... It was the network-switch 
+My kingdom for a Firewire 800 cable. I had one, I should have bought two for situations like the one facing me now. 
+Annoyed that my @bebroadband download sync has dropped to 14Mbps from ~22Mbps, and upload sync dropped to 1.5Mbps from 2.3Mbps 
+@DarylSurat I'm still scared to jailbreak my iPhone. The RSS Player app will allow you to download 10MB+ podcasts. I want video tho. 
+Wow, can't enjoy SD nemore. Thanks tourism. 
+She suggested an HP joint that was dope for 699. 17&quot; HD screen, 4GB RAM, forgot harddrive memory but it had a lot. Think it has Vista 
+I am internet-less until we can figure out what's going on with the ethernet. 
+@YogiFish I wish I had the bandwidth 
+Just found my old memory card from my first in concert but can't find my most recent memory card 
+is having a problem  paano ba ma fix ung USB Write Protected daw (tears) help huhu http://plurk.com/p/12kdqb
+2GB download + VPN + 3 Mbps = madness, 2GB UPLOAD + FTP + 0.5 Mbps = pure horror, 15 hours lost (and counting) on a Saturday = priceless 
+@SoOunTM yes! before you go to SD. when are you moving? 
+No? Usb? @mandylulu said it could be used, but didn't say how.. I'm not teknical 
+Man, I hope the dev team gets a 3GS jailbreak soon. I'm getting one for the 32GB storage but want my Cydia 
+awww can't get into stupid MB againnn 
+too much polyvore i think, my download is all gone  i'm begging my dad for more download but he won't let me! 5GB won't last.
+I was thinking how important my USB was, then I lost it 
+fark im capped for the next 3 days  even 25GB doesnt satisfy my data needs
+Have no iPhone 3G S in 16GB, only 32GB. Got to wait for the delivery sometime next week. 
+I need more RAM 
+My memory card is dead 
+@stinebeans sorry  i have such bad memory!  did you have fun?
+- noooo!! the iPod has reset itself and deleted 30GB of music  and still waiting for the Florence &amp; the Machine album to be released
+Wish I ws home in SD   can't I just leave school now???
+at home. still sick. still can't speak. i wish i could be out &amp; about enjoying the beautiful, sunny SD weather. this is horrible 
+Already removed from the cache 
+Seagate unleashes three new BlackArmor storage devices and I thot I already had the best  of seagate http://viigo.im/ZiJ
+@AaronBertrand I have one I got one July 1st ( I am sure you know what money I used) first MP3 player was RIO 300 in 1998 64MB of RAM 
+See, I say that and then have 2 crashes within about 5 minutes. Reseated the RAM. Switching back to 1GB if it happens again. 
+Someone use some will powers and give me a FireWire 400 to 800 cable right now please! I'd even accept an adapter. 
+@Knot2serious oops lol  i am tired from our drive back from SD this morning!! 
+hopes for her USB recovery  http://plurk.com/p/133jjl
+@glwerner  Your link doesn't work!! Exceeded CPU quota. 
+Just spent 1260 round of Thunderbolt missile in one mission 
+No 16GB iPhone 3GS in my local O2 Store 
+@nathos No gigabit ethernet though. 
+56.00 MB weigh my video does not rise fast  
+lol not enough RAM and Graphic Card. thanks for buying so-business-like-compatible laptop, dad 
+@tippingptmedia They told me I got the last 16GB white one last nite at Eastview 
+On the hunt 4 a FireWire 4 pin to 9 pin adapter grrrr! Apparently they're rare  so says apple  callng Frys
+@faith_wit_an_e I was in SD last week for my mommas birthday. I'll be home soon again for a funeral. 
+keeping Twitter Deck active over a weekend has resulted in 2500Mb download &amp; i am over my data limit  now its $0.50 per MB
+@Darthbudge I have my netbook, but there's no WiFi in this bitch. If I want to tether, I got an EDGE rocking &lt;150 Kb/s. 
+@Jesse It's crazy how as cameras keep getting bigger cards seem smaller and smaller  I currently shoot an 8GB CF and the 5DmkII fills it!
+@TheMonkeyBoy http://snurl.com/ktwjq it's the old model 40GB but that's good enough for me. sold out at most stores though 
+I have to return my new Cruzer flash drive 
+I think that either my CPU or motherboard is dead.  Less than a year old it is.
+1 more full day in MB left    but me and travis invited a security guard to a worship service and she's coming!
+2400dpi files make everything go slower. 
+@modbird I have a WD myself, they are awesome - the only thing is that USB is kinda slow and my laptop doesn't have FireWire 
+need to uprgrade her memory 
+Note to self: 100mbit too slow for copying 200+ GB over network. 
+@iruka11 mine has the number of MB, but not the number of minutes  which makes me sad!
+is probably gonna go over 12GB this month 
+my GB needs signatures..it's so lonely  || updated via http://m.itsmy.com/mobile/
+starting with....  backing up my External HDD to local HDD 
+Reinstalling MS testing software on 6 USB HDDs... Painful 
+man, I have to make some playlists, this sucks, I have 7199 songs to sort through. WEAK! 46GB of sorting to do 
+@jeminabox HA try running a 2 GB PST over a network, and see how your day goes then. Shakes fist at Microsoft 
+The hardware in this place must be communicating secretly. It's a strike I tellsya, 3 sets of HDD failures in 2 weeks 
+@drunkasaurus haha when I get the chance. I have exams  once I get my Mbox and midi keyboard i'll be a full time audio hermit =/
+Fixed my camera problem, they were on the SD card as hidden files! Why did that happen? 
+@_rachaelll no haaaaa, was it in that? I think I've lost my memory 
+says huuuaaaa , besok ngambil raport  http://plurk.com/p/13w3hz
+there's a lottanew songs that i have but i only have a 1GB memory card available 
+@msamayoa i miss my 10mbs connection 
+@iweb I would have bought one if you had put one up with 1GB of RAM. 
+@FenricWolf I don't have a USB to transmit it on to the computer 
+@miss_tattoo heyy!  you got those pictures of Donnie's gift on the USB stick?! 
+Coding on my Hp Mini 1000, I had said I won't this but this keyboard doesn't hurts  
+@teleken It's a feat of USB engineering! Makes every day a party.  
+@anuheajams great news! can't wait to see you live in SD  
+@mulatta @laerwen GB game planned before movie. Original GBs in 3rd movie as &quot;mentors&quot; - think aintitcool.com has info on main page 
+@pico well it's up to us to make it positive or negative  #politikana
+@weefselkweekje Drobo is overpriced! There are far better alternatives to be had for less money 
+Yay, I'm getting more RAM for my work computer! 
+I keep drooling over those Drobos, but I keep thinking that what I'll do is build a home PC for games + NAS 
+@bertpalmer  the 8GB isn't on the video card - bad wording on my part. I'm not into gaming, just run several VM's on a Vista machine
+With any luck, wife will call while she's on Regent street, the boys will be crying in the background, guilt, apple store, MB pro, me... 
+Woot!  Took a few tries to get it to boot properly but I have !archlinux x64 running off of LVM off of RAID on my new desktop  !linux
+is spending the night in SD with my favorite boys ever... joe and andrew 
+@OneLuvGurl  I have about 60GB of just 80s alone. I love it! 
+@larryhudson Yep, most recent order was in Oct 08. Bought a 1TB HDD and 2GB Ram for ~$300. Speedy arrival too. 
+@jillwhalen - Maybe you need a USB flash drive to save your drafts on 
+@shawin DestroyTwitter is not a hog. Currently using 35MB. Well, compared to Firefox's 180MB, it's not a hog. 
+found my memory sticks 
+I'm using a USB Fan with my laptop to keep myself cool during the cuts.. its cute and works well 
+@BawldGuy ur 2 funny! &quot;pretty equivalent views&quot; lol I'm sold on SD already 
+@jackhenryy I must say it was a pretty good one. I'm proud of ya  hahaha. down for aug 29? SD baby!
+Re last post: this is an amazing thing if only they would understand that they need to be network neutral... Slingbox on the go FTW 
+played DDR for the first time in forever. He still has it. 
+just opened her mail and received a 1GB USB from Microsoft... THANK-YOU 
+@dhempe  whats your partition type?? i guess its fat32 thats why it can only read it. i think NTFS should make it RW ... 
+If you have a 30GB mp3 player would you listen to them all? Or is there like a top 10 list that you listen most of the time? 
+i think you might have a better memory than me  wowowow
+@beckacurrant I probably need to get one of those USB vacuum cleaners 
+@BattlefieldHQ  1.16GB?? Seems like you fixed a lot 
+@gmario dont grab all of our bandwidth!! 
+Its my Birtday today, and I am now 45 years old. Where in the hell did all the time go? Does anyone know, cause I sure dont.   SML, &amp; GB
+@andythetwig it's running at 4.2GHz nicely   And it's an upgrade from an athlon xp system from 2002, best speed up evAr!!
+Working my way through over 700MB of hip hop instrumentals that i downloaded and deleting the shit ones. These will be rad for the car 
+Still waiting on my Macbook delivery. 4GB DDR3 Crucial RAM and Screwdriver have arrived 
+@mattybeard Yup! Going from 2GB to 4GB 
+Anyone with MobyPic via GPRS troubles available for a quick test during the next 15 minutes? -&gt; ole at mobileways.de 
+@TrisRoid I have a XP machine that has a MEESLEY 256 MB of RAM ... I would gladly take a Gig or two 
+Yepp def spelled that wrong.. Drunkie haha but u know what I mean 
+just got some practical tips from @hsl, now even happier with my new MB, restarted it (very pc-wise) for the last time! and now: coffee! 
+just back from the city and I am now the proud owner of a notebook  now I can even watch CP videos and GB pics in bed and write my story.
+@theitalianjob isotonic watt. 
+@TedBrunt why would you want 16 GB? Buy two 4 GB or 8 GB max. Two is better backup in case one goes AWOL or FUBAR 
+Upgrading MacPro's RAM is pure fun. Riser Cards ftw 
+Off to Frys to get my techie freak on! LOL Need to pick up some RAM and a HDD enclosure. Yup I'm a TechieJunkie too! 
+@alex434 Bassnector just opened for @matisyahu here in SD, great show 
+@gryphonargos i just did my own version of a slimxp and it works. 195MB  but with one flaw: Sound! will fix that
+i was just diagnosed with web browsing induced insomnia... so like im suing the internet, for 20Mbps! google will be crushed to hear this 
+@IFightDragons well there was a lot of practicing going on. i apparently suck at it. but rule at DDR so keep that night open! 
+Just finished some tests on the router- transferred around 50mb in 6 secs. Coming from 2 years of G, it's like heaven 
+@audaciousgloop I'm still clutching to an old 30GB ihug plan 
+Loading 2.71 GB music onto my iPhone  Love 16GB   
+Info that would have been useful 1.4GB ago..... 
+Exporting my podcast on MBP--Core 2 Duo Running at 2.53 Ghz encodes a lot faster than Celeron did yesterday 
+@n8s8e I'm more into 16PF myself. But I'll give MB another look 
+Earlier, AVG dumped 46MB worth of updates. Guess I should utilize this dinosaur more often. 
+Updating Aperture Vault always makes me sigh in relief for some reason. Still need a drobo though to replace external USB hdd.. 
+@chathuraw guess your lucky  maybe Firefox don't like my 4GB RAM lolz
+@JustPha i'm happy for you and happy that you come to SD to visit her and hang out with me! 
+@rebecca_iscool I have a 320GB drive in my MB, with 6GB free... and 1.5TB external storage permanently connected when at home 
+Western Digital Caviar Black 1TB SATA 300 NCQ 32MB on the way... 
+I am saving for a Ipod Touch, a 1TB external and a RAM upgrade. No more morning coffees 
+@herchu cool, sounds like you're progressing nicely  I've had a nice flight in the Duo and a landing just before the downpour very cool
+who wants to transfer some maths knowledge into my head via USB cable? 
+later I went up to monroe and worked out with friends - TRX, ropes and KBs!!   30sec on/30 off..rope swings &amp; c&amp;ps, windmills, wve aquats
+@Shpantzer I am sure it would be like everything else PCI where $ sets you free. 
+desktop quad-core Win7 boot time = 2'25&quot;, laptop dual-core w/ SSD Win7 boot time = 0' 13&quot; =&gt; SSD for desktop arrives in 2 days 
+@sfoak I would LOVE to be the dark princess of the PCI evil empire.... oh wait! That would make me an auditor again! 
+used a spare USB flash drive as virtual RAM for my PC. now its got 5.6 GB of memory 
+I'll get my new laptop in 10 more days! Excited! It is Dell Inspiron - core2duo 2.0GHz - 4GB DDR2 - 250GB hdd - 15.6 inches screen 
+@edsaint lol @ half - I already have a bulky desktop- I'm geared up for super slim and light: SSD performance is unreal 
+Someone in UNITED STATES liked Assembler http://bit.ly/GB32X  
+Is that the same cow from that meat place or the cow parade hit SD? 
+@aniEspellsEina put it on the USB! 
+iPhone specs leaked by Chinese forum - 600Mhz, 256MB RAM, 32GB internal, FM, compass &amp; only 3.2MP camera. &amp; no multi-tasking (yet). 
+Determining CPU freq. by user parameters  http://bit.ly/f6WFI /05/13/2124259
+@textualoffender i kno.. but u cant help it dude  if u want 2GB.. u hafta upgrade...
+@Feferang so glad to finally meet you! Maxim's party was hot but we were far hotter!   C ya in SD!
+@Ebuyerdotcom stayed in to wait for my new soundcard from ebuyer. 
+@onebeat I was at that booth today! the XRAID looks impressive. My booth is 10 feet from that booth. Also got pokened at the XRAID booth 
+Have ordered a Lacie 500GB 7200RPM 16MBNAS drive from Amazon (Prime). Should be here tomorrow.  Another job for the weekend 
+;has just found out he has got into the GB squad for euros !!!!!! yer me 
+I'm currently using 1998 MB of my 7326 MB on gmail. I'm amused by that in some weird way. 
+My W810i's connector is not working properly now. It's getting old I guess 
+@69Crzy No, he's really a $20,000 Mac Pro with Dual 2.93GHz Quad-Core Processors, 32GB RAM and 4TB Storage Space!! 
+@kalinga cool. but wht if they invent a better system rather than ???? ????. i suggest you should have a USB port (plug and play) 
+@wnorris3 awesome... lame that it's a FLAC file though.... will make do! 
+@mixdev I think i still have a copy of turbo c++ on a 5 1/4 floppy disk somewhere in my boxes 
+@dsilverman 35Mb for a dictionary...why? just define: search 
+sweeeeet! found my first cache ever!!! up in tobermory! 
+todays the day i found out lion bars dont contain nuts  and yeah you get given the equations,but u need to change like kHz to Hz @LONGAIR_
+@meg_in never boring when I'm there 
+@zedomax a USB Host port on a cell? Useful I suppose, tho battery life is going to suffer. Hook up a 1 TB HDD?  | Lots have usb out ports.
+@FireworksTut No problem, oh and btw, it take like 80MB of RAM but it do not slow down my computer so I think it will not do with yours 
+@guilprickette I agree, just name the time and place   Do you have your hardware picked out already? If you have a fast CPU, get a WinTV
+@MikeOrmond Wooo - finally confirmation that it's a setup and not a VHD.  Have my Win RC x64 VM ready and waiting 
+@Linnyxx17 hey i got your GB signing...yes Kyle4Sims3 is my BBS name  haha its cool that you found me off SimPrograms,im following you too
+@_iStone_ 2.2Ghz, 1GB Ram, 160GB HD, X3100 graphics. Ram and HD are upgradable. 900US. That's about 1200 AUS.  Barely used. It's Mums. 
+It's amazing how much good running Disk Utility can do! 
+@syazaliyana i didnt buy. yang canon powershot pro ive had for a while tu. just changed the batt and upgraded stick to 8GB 
+Apparently new router being delvered today. Hopefully when I come home I won't have to look for a free ethernet cable to pirate anymore. 
+Tanggal segini bandwith dah kemakan 5GB  Mudah2an cukup sampe akhir bulan...
+@Anubisno1 I'll put it on USB when I come to Bj because I don't want to click 400 times to download everything 
+@pooja_LuvIndia I think getting some friend to help you out with a spare HDD might be easier than doing everything all over... maybe 
+@martharotter +1 on not buying HDs personally...too personal 
+wow i miss you too @MayanUra.haha just got our CPU back  hey get on on skype 
+@calltheromans Yepp, we always know where to find @Eresse and @nagham after lunch 
+I am looking 2 purchase some funky USB drives- I found a few ideas  http://bit.ly/8hRMw
+Now running at 4GB of RAM 
+Amazing responses to the Mac RAM question, thankyou all! General consensus is Crucial, therefore I've just purchased two sticks  Cheers!
+@bwguinig you should look into setting up a #Dropbox account as an emergency backup for your docs http://bit.ly/ei0YA it's 2GB for free 
+@turoczy Or you could upgrade the firmware on your twin, @NotRickTuroczy! 
+I'm working on shrinking my colorized versions of iNinja. I found a way to shrink each one from 170+MB to under 40MB!! 
+@marcelekkel Not mine. ednacz's  My MB is fine. /me pats MB
+yes is late, but I got !mandriva 2009.1 installed via USB 
+Whoohoo received 40GB's of Compact Flash.. let shoot some pics! 
+My computer only has 10 GB of hard disk memory left. Grbe 200+ GB napuno na namin in a span of 6 months. haha 
+@verygoodyear I had a 18Mb connection in a previous life, which was sweet  and if there are people paying for it, the ISP's will build it
+HAPPIER, of course, if I can get my hands on that ? http://bit.ly/dfb9521 32GB-2x-CPU-horsepower next-gen iPhone 
+is looking forward to @virginmedia upgrade to 10mbps 
+@DonMcAllister  No problem with the 200MB 
+its a sunny friday in SD. enjoying a fabulous day off. going shopping!! 
+If you click on line that slightly resembles an l beside your name, you can see a picture  It's a nice one if I might add! @itsNICKJ0NAS
+Just got back from market-market, bought the 8GB memory card for the psp, already. 
+@Tsmoov lol- To be honest i'm thinking you should refresh my memory i a little/ 
+loved SD  but hating the recovery !
+Working in canberra on setting up a gpu cluster. Infiniband and tesla cards make it go fast (at least for some applications, anyway  )
+@Deelamps its still an error! Hypocrit! @Kb317 more powder is fine with me  better that nothing
+@zoomfx @earthcalling agreed on &quot;can we hear it&quot;. Sure you can, you should even  http://files.me.com/igor.alekseev/dunr6j.mov 23Mb
+@NikilPiABD welcome! here's some great twitter tips ~ http://bit.ly/9WXJ3 http://bit.ly/14ctsN http://bit.ly/2xL9N. happy tweeting! 
+@kdiggity76 2GB should be stardard these days! You can't drive a BMW without premium gas! 
+Finally got my new MP3 player. Installed Hebrew support and it's fantastic. Sandisk Sansa is a lot better than you might think 
+@nesarajah unfortunately only DDR2 
+@Wishwrap welcome! here's some great twitter tips ~ http://bit.ly/9WXJ3 http://bit.ly/14ctsN http://bit.ly/2xL9N. happy tweeting! 
+@Ealz Yepp it's cute ! 
+@freitasm @stevebiddle prepay FTW, I'm an XT prepaid custy 
+@SusanLambe ohh... I'd cull now-before you get to my 3/GB!! 
+@ITerant ???? ??? ??????? ? ??????? ?????? ?????????? ? USB. ???????? ????????? ??? ????? ????? 
+My order from pccasegear came in. That means I now have a USB hub/cup warmer. 
+@bungieboy They are spec'd up to 200Mb/s, but as the LAN Ports on my current router are only 10/100 I won't be seeing those speeds 
+Yeh might well get 1 of those yet,got to go and pick some cash up now,sold my 500gig HDD yesterday to CEX,anyway will let ya know m8 l8r 

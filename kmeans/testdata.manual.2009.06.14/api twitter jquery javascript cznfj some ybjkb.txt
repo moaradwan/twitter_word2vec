@@ -1,0 +1,34 @@
+Most common words for this cluster:
+[('api', 15), ('twitter', 12), ('jquery', 4), ('javascript', 3), ('cznfj', 1), ('some', 1), ('ybjkb', 1), ('arg', 1), ('curl', 1), ('web', 1), ('java', 1), ('css', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'API', 0.8249557018280029), (u'APIs', 0.7334544658660889), (u'jQuery', 0.7252864837646484), (u'ExtJS', 0.7062798738479614), (u'FBML', 0.6943802237510681), (u'REST_API', 0.6935939788818359), (u'Identi.ca', 0.6928392648696899), (u'JavaScript_APIs', 0.6883647441864014), (u'Realtime_Search', 0.6875051259994507), (u'Gwibber', 0.6825261116027832)]
+
+
+
+
+
+@robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.
+playing with cURL and the Twitter API
+Hello Twitter API ;)
+playing with Java and the Twitter API
+is Twitter's connections API broken? Some tweets didn't make it to Twitter...
+i srsly hate the stupid twitter API timeout thing, soooo annoying!!!!! :(
+At GWT fireside chat @googleio
+I just extracted and open-sourced a jQuery plugin from Stormweight to highlight text with a regular expression: http://bit.ly/ybJKb
+Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5
+@defsounds WTF is the point of deleting tweets if they can still be found in summize and searches? Twitter, please fix that. Thanks and bye
+How do you use the twitter API?... http://bit.ly/4VBhH
+curses the Twitter API limit
+Now I can see why Dave Winer screams about lack of Twitter API, its limitations and access throttles!
+testing Twitter API
+Arg. Twitter API is making me crazy.
+Testing Twitter API. Remote Update
+DevSnippets : jQuery Tools - Javascript UI Components for the Web... http://inblogs.org/go/hfuqt
+all about Ajax,jquery ,css ,JavaScript and more... (many examples) http://ajaxian.com/
+This is cold.. I was looking at google's chart//visualization API and found this jQuery "wrapper" for the API...  http://tinyurl.com/mq52bq
+How to implement a news ticker with jQuery and ten lines of code http://bit.ly/CZnFJ

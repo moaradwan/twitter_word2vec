@@ -1,0 +1,472 @@
+Most common words for this cluster:
+[('photoshop', 89), ('adobe', 73), ('quot', 34), ('com', 28), ('http', 27), ('excel', 23), ('imovie', 21), ('i', 17), ('time', 17), ('editing', 16), ('cs', 16), ('pdf', 14)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Photoshop', 0.8767159581184387), (u'Photoshop_CS', 0.7915195822715759), (u'Photoshop_InDesign', 0.7906596660614014), (u'Corel_Draw', 0.7860444188117981), (u'Adobe_Photoshop', 0.7831926941871643), (u'InDesign', 0.7783534526824951), (u'Adobe_Photoshop_CS', 0.7773834466934204), (u'Adobe_PhotoShop', 0.7761733531951904), (u'Illustrator_CS', 0.7691023349761963), (u'Adobe_Lightroom', 0.7689489722251892)]
+
+
+
+
+
+Photoshop, I hate it when you crash 
+and so the editing of 3000 wedding shots begins 
+and so the editing of 3000 wedding shots begins 
+@ditesh haha I'm unsure what I can deliver for Foss.my. I'm not using alot of opensource software ( Hail Adobe for being expensive  )
+Why can't Excel 2003 handle more than 7 nested IF statements? 
+Trying to get rid of brightness and alphas in Flash. File keeps exporting with the brightness and alpha in tact. 
+Yet another designer gives me webpage designs in PSD (PhotoShop) format. 
+why is my raster symbology being so unpredictable...? Keeps randomly deciding to not display some colours... Grmph 
+@ays Yes, it's true. Acrobat Reader - reads only. You have to have the full program or another PDF creater to do that. sorry 
+Given up on PDF parsing 
+Just updated one of my science scripts but Dreamweaver doesn't want to play nicely  http://tinyurl.com/dzeznn
+completely failed to upload my cute picture. Format too big 
+@KrisColvin What format are the templates? I don't have any adobe software 
+Hates the Adobe Flash security &quot;feature&quot; that stops playing video in full screen if the browser window doesn't have focus 
+Did a reboot and I still can't get Adobe-AIR to uninstall. 
+A quick scribble to please my stalker &lt;3 I have to start learning Illustrator 
+@virgosun Really? Very cool. I think the JPG has to be taken with DSLR though? I tried it with a JPG from point &amp; shoot, didn't work 
+GIMP crashed on me again... 
+has been doin graphics work for aaaaaaaaaaaages now  x
+Why is it such a nightmare to preserve internal links when exporting to PDF? 
+Scribus is acting weird again. Created A5 booklet, but PDF export gives me some very funky page size and placement/trimming. 
+I need Adobe Lightroom 
+@pascualin I hope this isn't the shape of things to come on #Adobe groups 
+installing Adobe Flash CS4, I'm afraid  xD
+@AlexK I just tried, and it looks ok ..  but the EXR is not in layers from Maya whenopeneing in Photoshop 
+Each time I update Notepad++ it drops certain plugins due to compat issues. I'm just gonna have regular Notepad in a few updates time 
+@opsidao yo uso twhirl(Adobe AIR) too! 
+going to fail Graphics... *sigh*  !
+Spent the afternoon showing the junior how to work with PowerPoint presentations   Styling MS Office docs sucks
+i wish i had Adobe-employee connection.. blum mampu beli sendiri.. 
+I want Holga Starter Kit - Multi-Color so baaaaaaaaad 
+M'n Powerpoint crashed; re-install..? 
+I have so much hate for spreadsheets 
+@linyamc t-shirts are good. Although I need another copy of Adobe Illustrator 
+Downloading QuickTime because my computer was formatted... 
+I've lost 10 frames from a rendered animation and I can't find out where they go. I need an application to count for me. 
+Creating diagrams in Word is just a PITA!  I will use OmniGraffle next time. #Wordsucks #OmniGraffle
+@smashingmag But most of the tools are only for mac  I use Notepad++ too
+can we have new computers at work now pleeeaaase?! I'm getting tired of Indesign crashing every 10 mins 
+arse. just deleted all jpg files from the amsterdam trip. I stil have all the raw shots but now I have to wait 30 hours for DxO again 
+Apparently, iMovie 09 doesn't deinterlace 1080i interlaced video, whereas iMovie 08 did. http://bit.ly/kWUMY. My workflow increases... 
+I really, really hate documentation. I feel so slow and my work are nowhere as aesthetic as the work of professional Excel developers. 
+@ZeroChance Abode Photoshop is Mac iphoto software. Bamboo is a tablet and &quot;pen&quot; -returned mine. didn't try, pen idea 
+Aaaaargh - Illustrator is so hard to use! 
+Thought I got an obscenely good bargain on Photoshop, then discovered it was an Upgrade 
+oops..! I missed a message from Scribus team.... 
+Photoshop won't output my gradients right... 
+Doing presentation work today   Powerpoint is the presentation tool of the devil.
+Calc final was rough.  praying that I passed it.
+I went to convert my Keynote -&gt; Powerpoint, and I lost all of my builds.  
+Buh...learning about Photoshop again. 
+@newoldmom @DominiqueDog I like Photoshop CS but lost it when got Vista.  But Elements is nice too, much cheaper.  #sigjeans
+@careyd One thing for sure... If I am running a LARGE batch in PhotoShop, the &quot;saving&quot; stuff will bite me every time. 
+@stinkle Ha, I can't process them until I find my copy of Adobe Lightroom, which is in a box on its way to Boston. Sorry, kid. 
+Finishin' my Adobe Captivate project.i m so tired! 
+@ningningning Do you have to use excel?? That sucks!!! Excel is so damn unintuitive! 
+After Silverlight 3.0, Curl 7.0 will also be a sandboxed out of the browser solution, why not Adobe Air ?!?!? : http://tinyurl.com/rxvrha 
+Keine Label bei proc export nach Excel  #sas #fail
+Calc test at 9:30 
+Photoshop will have to wait a bit 
+So Adobe stops advertising on @psdtuts I guess blogs are still not big enough for corporate ads... 
+trying to design with Photoshop.. i suck  || everything is so crazy and hectic!!! wahh XD help me Lord!!!
+@veroni22 You should be able to get a 30 day trial on Adobe's website. But you'll have to register 
+@lisle really??? Doesn't feel like it. I can run Photoshop and other RAM-eating programs easily... 
+Lightroom + Spaces (OSX) = FAIL 
+re-doing Redbrick online designs is fun when Photoshop decides to perform an illegal operation and close loosing an hours work 
+@zaneology Oops missed it  I had to restart my computer because Photoshop froze when I opened to make a best-of-party screenshot collage.
+@shustonphotos i figured 2 hard drives was enough  i have a lot of the better 1s as jpgs on PhotoShelter. still want 2 get 2 the raws tho
+@NathanaelB I need to do the same  is it available in a format suitable for printing? i hate reading long docs on screen
+just learned the hard way that Lightroom's setting to write changes to an XMP file are CATALOG-specific 
+Working on Autocad 
+@hornerlas I tried making one last night. iMovie's a bit of an arse for some things, gave up after a couple of hours 
+Adobe Clean - the new Adobe typeface - not available for use.  http://bit.ly/fq1Th
+@moepower Photoshop CS4 took out a BUNCH of stuff that was kind of vital.    I'm not liking it so far.
+@Minervity the Flash Slideshow Tutorial,  that is Actionscript 2? 
+man, I tried this http://bit.ly/F34i4 and I STILL cannot register #Lightroom on my Vista 64bit machine.  and Trial expired. #Adobe
+Typical, I do a long-winded post asking about problems with my Cintiq on the @Wacom forum and it goes tits up. Just my luck 
+writing about file formats 
+I have a very real fear that my poor little Excel will be blown into the river on the way through the city... 
+does anyone know if you can get more than 5 levels of grouping in Photoshop's layers? I need more than 5 
+my E3 spreadsheet got so huge it became self-aware and enslaved me 
+Editing editing editing... 
+Pretty sad about my little Seagate drive  I have found that my iPhoto library has gone too. @mozy seems to have backed it up.. Lets see..
+It pisses me off that my PC can't cope with having Photoshop &amp; iTunes running at the same time 
+Adobe, how can some of your stuff be so good (Lightroom), but some be so, so terrible (Media Player)? I don't know what to think of you 
+@jenbeauman thanks. but iPhoto lib has all the sub folders hidden so I can't choose the sub folder I 1 2 download from. 
+I hope they use my header  I worked EXTREMELY hard on it. Resizing it, and fixing the size, and recreating it to make it bigger..
+After school I went to the libray. I need to get iLife 09 so bad!!! Or I can't edtit any more videos  !
+I miss the Format  they need to come back and at least tour one more time so I can see them again
+IIt's 7am here in Blighty and I've been hacking away in Photoshop for two hours trying sort out a blog article 
+is TUIO gonna work with SketchUp? 
+Starting a new day!.. workflow animation, wizards... forgot my mobile 
+frustrated    doing InDesign homework and watching Hostel Dos
+@JohnGunders I want Ulead back, it was awesome and it worked. But unfortunately it's only for PC 
+i REALLY miss my photofiltre and photoscape  GIMP is too damn confusing
+last day at Adobe  buuuut I just registered for online tech writing course!
+Its sooooooooo not funny when I have to move from computer to computer to render and draw. Come on, Revit! AutoCAD was never this bad. 
+@icklemonkey My Photoshop won't let me save anything  Due to a disk error. The blend took me 1.5 hours!
+officially misses Quark.  huhuhu! i had no heart hand partner and no one to dance with tonight! come home so... http://plurk.com/p/x2k1z
+@kaydub I am using iMovie 08 and it's still not bad. I am afraid to hear what is wrong with 09 
+Colleague that &quot;helped&quot; by creating his unit's site in iWeb was NOT helpful. Trash code, 24 CSS files for a 4 page site, no optimizing. 
+Making an iMovie of college 
+Printing from Opera gives me a much better result (but printing to PDF it names it _stdin_.pdf) - always gotta compromise 
+GIMP is so confusing! 
+@chelalala omg, I feel so retarded ): you wanted Illustrator? ugh, lack of sleeeeeeeeeep 
+Does anyone know of a free app that can convert a windows .ico file to .png with the alpha channel intact? Irfanview can't do it. 
+grr. stupid twitter. doesnt support animated GIF. 
+Argh, still didn't receive a session confirmation or denial email for Adobe MAX 2009 aka @adobeted The horror! Why make me wait so long 
+Now I have to download the fonts all over again 
+is really miserable without Adobe Photoshop. 
+messing around on Photoshop, going to play scrabble with the granalan now-now. trying to to think of major study session tomorrow 
+who knew converting RAW images to JPG would be so hard 
+Photoshop crashes as soon as it has scanned any images. I've scanned the same frames MULTIPLE times now 
+Does anyone know a good wmv to flv converter for converting a 2 hour webinar? Camtasia is being an A-hole about it 
+Ugh. My old copy of Photoshop Elements wont install on VMware. It worked fine last time... It's all I have and can afford for graphics. 
+I love to write but I sure hate editing and proofing, lol.    It makes me sleepy!!!!!
+Just figured out that I can't open my Canon RAW files in Photoshop CS3, looks like I need to buy a new program I can't afford 
+ I just color-edited 60 photos in Lightroom and used my external display and the color profile was wrong. Everything turned out bad. #FAIL
+Upset that iPhoto doesn't support the Canon T1i RAW format yet... 
+I'm sad I don't have iMovie anymore, which means I can't make anymore videos. 
+I`m reinstalling windows, formatting and stuff. I miss Photoshop already  hurry, stupid laptop!
+GIMP keeps shutting down on me. I need a new copy of photoshop. I hate being broke. 
+@LanceGross I'm praying really hard right now that thez pics are really good Adobe Photoshop 
+@chanteusse as graphic artist janey. but still, no luck. Need to master Adobe Illustrator. 
+spent a gorgeous day inside with my nose buried in various books, hanging out with my friends Word and Excel. yee-ha. 
+@xmyangz me too, Mimio..... me too   
+I hate Actionscript, it doesn't like me neither  I'm never going to get this done...
+sucks knowing you have an awesome logo sketched ... and not enough time to finesse the idea in Illustrator before the deadline. 
+is annoyed that laptops on eBay that include MS Office or Photoshop are actually unlicensed versions (warez/copies) when he asks seller. 
+FCP doesn't have curves.  I know it's in Color and stuff, but how can Apple leave such a standard and powerful tool out of FCP?
+Final Project - the editing is done, the rendering looks like S***  need to fix it in the next 12.5 hours
+Got response from Adobe re: fatal errors using ESD service to dwnld CS4, it was completely  unhelpful 
+It's times like this when I wish I had something other than iMovie. But I has no money so 
+Why won't Safari 4 open PDFs in the browser? 
+@guardiantech They're stupid upgrade pricing means I'm still using CS1. You can't upgrade just Photoshop once you've bought the suite 
+hate InDesign. but I have to work. 
+For the record: if I was doing the editing here, I could create a file that would fit.  But they need uncompressed files.  
+My Adobe Illustrator course that was supposed to start on Saturday has been cancelled  so disappointed!
+@alisterrobbie well I was banking on NAB  I just want a more functional Color with usb control surface support...
+Here is my current icon for my tip calculator.  I dont actually have Photoshop or any decent tools   &quot;TipMate&quot; or &quot;TipCheck&quot;? cant decide!
+Web-Design-Jobs: Designer/web-designer by anneyoung: It is a re-post.  I need a graphic design.. http://tinyurl.com/nrdgbz
+Ok...I got some great spider macros...but I accidentally shot in Jpeg form AND I no longer have an adobe Photoshop CS4 trial.  this sucks
+Joomla Jobs: Designer/web-designer by anneyoung: It is a re-post.  I need a graphic designer with .. http://tinyurl.com/mb5w8u
+is trying to get my iMovie to work 
+@the_bushman The side bar. However on the topic of editing videos, I don't much like iMovie anymore. I miss Pinnacle at SJF.  I want Adobe
+@MissKsyn thanks K.  I wanted to go to Blender tonight  lemme kno how it was.
+@angela_exorcist I think in MSWord you'll just have to do it manually. 
+stupid #silverlight --&gt; Cant get $hit to work with Visual Studio...so much for the excitement. #Flash --&gt; here I come 
+Upgrading iTunes + Quicktime and the installation appears to have hung. This could get messy 
+Hey Tweeps!! I'm not dead... still working on my Adobe AIR problem.. still no tweetdeck.&quot;initial content not found&quot; wtfever that means 
+Wonder why Microsoft can't build a better browser, while they can build great, advanced software like Visual Studio 
+The only shop I see nowadays is Photoshop  Something tells me to go out and have a life!
+installs #sumatraPDF on a MSwindows machine as alt for Adobe Acrobat. The latter needs20+ sec on a 2core to start up, just to view a PDF! 
+@jrgibson1 nope  but maybe I should consider it. iWeb is so much prettier and 'Apple-like' to work with.
+adoe pdf is stupid in firefox, can't do anything before loading complete for PDF... how stupid that ?  I can't surf internet now
+After so long designing by coding straight into Notepad, I'm getting lost with Photoshop mock-ups 
+double-checking and verifying formulas on a massive and unwieldy Excel worksheet. 
+It would appear that #windows7 doesn't like GIMP. 
+@justinjwilliams haha i was just workin' on that! I cant find my psd file 
+@cloudwalking I've had it for over a year, and no one gets my Aperture Laboratories coffee mug. 
+Today's agenda: new client w/severe separation anxiety, burn PowerPoint presentations for fellow trainers, rained out w/Goldendoodle pup 
+@anaz No, using flickr export for Aperture. It can create sets, but I forgot to check the checkbox. No way to do it from the web UI? 
+Roxio update #fail 
+will watch Dreamweaver Tutorials instead  to pass the time.
+This week starts as an Excel sheet preparation week. And you know, I am such a fan of this *fantastic* piece of software... 
+CAD - again 
+arrrrrrgh, Photoshop CS4 is sooooooo slow on my aging laptop. It's making me cry 
+one of the reasons I don't like HDR: http://tinyurl.com/q3m799 post a dull image in unreal colour/tone rendering and everyone loves it 
+testing out #Adobe #browserlab without succes 
+Trying to figure out how to crop an image in Hugin. Sometimes it's better than Photoshop, but I can't figure out how to crop. 
+@cherub_rock123 @cameronmoll: Adobe BrowserLab: preview web pages in different browsers/operating systems are currently full! 
+Finally over my jet-lag and I wanna do some pixel art in Photoshop but my mac is playing up 
+Helping LMS with iMovie 08.  Packing up Computer Lab so new carpeting can be installed this summer. Will room smell like glue next fall 
+On train home. Excel kills my eyes  need new ones ha ha
+I just got the greatest header idea! Too bad I don't have a Photoshop 
+Whatever, I guess. I just hope that this new #aptana works. PLEASE don't make me go back to #Dreamweaver, bleh. 
+Gimp 2.6 is prone to crashes 
+@giovanni you're really lucky - my MacSpeech died 2 months ago &amp; there's nothing I can do to stop it crashing 
+trying to use Cubase sx3 
+@lizziedr It's cool! :-bd It just makes me miss Photoshop 
+Photoshop class! I have so many homeworks to catch up on. 
+21 x 2 camera multi-clip dance routines edited in FCP with no timecode! Only another 20 to go 
+Why of why did The Format have to break up!?! 
+@scarynige Well the problem is where to get a copy! I brought a copy of  iLife last year to find the iMovie version was intel only 
+Excel sheet meltdown leading to having to triple check lots of numbers and getting to know the IT guys. 
+Illustrator just crashed and took Jewbacca with it. 
+just had to recreate a logo I've done some time ago because the font I used got lost  .. Illustrator is your find in this case #self-fail
+keyboard shortcuts for source code folding still don't work, even in the new Flash Builder beta. 
+Twitterrific shows an ad from Wacom's INTUOS4... remembers me how much I want one  http://twitpic.com/6pw3a
+@jkling I was expecting to fix my teeth, but what they did was clean/check my teeth  and charged me $70CAD  
+Jeez, I'm so lost without my Photoshop... 
+I think I pulled a muscle in my SketchUp finger 
+@rayboyysen Indeed. Blend generated XAML not too far removed from FrontPage-generated HTML  Tutorials tend to focus on Blend.
+@quickoffice I bought Quickword today. I can't see any picture, table, text box. I *must* see &amp; edit them... 
+dusted off mircosoft works! Excel not to be found on computer  helping my dad with some data entry cuz he hates the copy/paste repetitive
+@Pittyfang yes I think we def do. I'm gonna play with iMovie tonight and see how it edits 30p, they say it can't edit 24p cinema mode 
+Format my windows os...again 
+Printer died, had to buy a new one 
+I would like to test Adobe BrowserLab but it's full 
+hates photo shop too. And Mudbox. And, drawing in general. I'm so frustrated. And I didn't get a cinnabon. THEY WERE CLOSED!!! 
+Ok so reliable photoshop text tutorials are quite difficult to find when you have the very ghetto Photoshop Elements 2.0 
+spewing mag nation doesn't have a copy of iCreate magazine 
+can't play Counter Strike  computer crashes at AutoDesk Maya, Endorphin and Notepad. #SignsThatYourComputerIsAging
+How am I ever supposed to finish my freakin' portfolio if Photoshop decides to stop working every 5 minutes?!?!?! 
+@lisle LOL I love that name!!!! Man they all use Adobe AIR    nvm I'll just be posting from web and tinytwitter!
+@DavidMcSherry can you recommend a decent MIDI drum program? Also when are you next in uni, i lost my media passport 
+@KitriCastanets I heard too. Graphics are updated like nobody's business. Image heavy though, causes laggage 
+trying to find editing software is kinda difficult 
+have installed Adobe Photoshop Album Starter Edition, but am now faced with the formidable task of tagging nearly 4,000 photos 
+Printer keeps talking to me  I have to enable the bidirectional support. Huuh??
+@tequilasam So apparently I can't upload pics because I've edited them with Photoshop. And I don't have the original ones anymore. 
+@giantlawnmower Both my Moleskine and iCal are so bare - haven't been living out of them, as usual, recently 
+Lightroom doesn't like my 11.000 px panoramic pic 
+I have Graphics early morning tomorrow par 
+@lehran No edit...!  
+If Illustrator screws me over tonight, I'm screwed for life. 
+building #omniture dashboards manually, since there is no support for the Excel client for mac  #wa
+Acrobat.com also doesn't support Opera browser 
+Is bored of doing this spreadsheet 
+Oh dear, Adobe has launched Acrobat.com - offers to convert things into PDFs. Immediately spring to check it out; doesn't do .DOCX to PDF 
+@MichaelBarley I just sicked up a little when you mentioned Quark 
+Woot! The bug for #flex builder on #linux has 'half of the beasts votes', x3 next best bug. Still no word from #Adobe  http://is.gd/12mW1
+Photoshop driving me crazy 
+I hate filling a website with content, especially having to copy/paste it from a PDF 
+I hate Excel - ok, just getting some FastFood and than refinish my table (the third time!) 
+making a PowerPoint presentation 
+Acrobat.com now not any more for free! 
+Ahhh! Printer won't work...bad day, very bad day 
+@sidavis Photoshop even has pixel size + aspect ratio stuff built in 
+Why PDF can't be copied? 
+@ebeeta haha thanks. i'm a noob with iMovie. 
+I wish I could see The Format live again  I say this like everyday.
+Exporting 25 Keynote projects to Quicktime as a favour for a teacher friend.  On #13 and wanna get some sleep... Should learn to say no 
+Really in the mood for some Photoshop tomorrow, too bad I have to do SFX all morning first 
+Maths and Graphics exam tomorrowzzz. 
+@jamescridland Struggled with OO Impress a couple of days ago myself. Sad though it is, I actually preferred PowerPoint 
+Setting a condition on a breakpoint in Visual Studio crashes every time 
+is dead boreddddddd in Graphics 
+AutoCAD rocks....not 
+oh no.  just did a huge session and realised i had shot in JPEG instead of RAW...devastated.  it really makes a huge difference. . . 
+I have just done some CAD work, but still have loads of it to do, 
+@djexcel awwww Excel we heart you! I luv @roxycottontail! You guys kicked ass last night umm I was dancin si hard cut my hand on glass! 
+I'm very dissapointed - one of the library computers doesn't have Adobe Flash 10 so I can't play mathletics! 
+I just realized how rusty my skills on WPF are, but I'm getting there... got to have a running 3D Poser Editor done withing the next 12h 
+how hard is it to programmatically create an empty PDF.....apparantly not difficult  Probably an error in the original dataset
+Now I've stopped using it because the UI REALLY needs polish. Miss a key and you click the mouse = bad UI design. Awkward Keyboard layout 
+@SelenaDehne PDFs are hard to review for me - I get lost on the screen for long manuscripts. Print copies are much better. Sorry 
+@evilrobert and yeah I liked Blender too.  I'd rather them have just increased the cost of the subscription.  
+I ask for a screenshot of Office 2007 to help a friend out... and he sends me a screenshot of Wordpad 
+Still in an edit suite 
+@Moshiah sorry, I am not aware of any updated PDF 
+Need help please: How can i create a link in Indesign (clickable in exported PDF)? may sound stupid, but i can't find it... 
+Haven't been paying attention - just learned that Yan's doing a new Illustrator session at Flash Brighton tonight and I'm missing it 
+@coollike happened to me yesterday. Instead my editing software became completely corrupted  just finishing editing now.
+Looks like the QuickBooks problem I was having yesterday is a Chase #fail and not an Intuit/QB problem. There's more work in my future. 
+Magic Garageband keeps crashing on start up!!! UGH!!! I NEED IT!!!    i need iLife 09!!!
+@dirkjohnson nice green avatar. i am failing to make Gimp obey and make mine green 
+Necesito demasiado Corel Draw right now 
+Calc homework. 
+@TheHeathenMommy I don't know GIMP at all  you'll has to teach me sometime
+Calibre looked pretty good there for a bit but it looks as if Stanza isn't very good at reading EPUB documents either  Ah, well.
+I should probably go to sleep but I am in Outlook and PPT hell 
+cant vlog coz i have no iMovie at the moment  i really wanted to make a video today 
+I signed up to the Photography elective.  I should've signed up for LabTech sooner.
+@missgiggly d'oh! I'll be working  editing editing editing...
+Graphics tablet stylus nowhere to be seen. 
+#Photoshop - #Wine - #Ubuntu = not so good combination 
+@jeff_lamarche Visual Studio and winblows development 
+@vanguardist Yeah, but that's not great for me. I'm stuck w/G5 &amp; Snow Leopard won't run on it. I can't afford new machine just 4 Aperture 
+Also, Tweetie doesn't play very nice with Copy and Paste 
+I give up on iMovie.  I couldn't figure out anything.  Extremely confusing. But it looks great. 
+Does anyone have Photoshop and/or Illustrator for mac they would like to lend me?! pretty pleaseeee! Lost all mine when mac died 
+im sick of Excel 
+I'm behind listening to podcasts, including @PhotoNetCast (http://tr.im/oRvj) and @jimgoldstein's &quot;EXIF and Beyond&quot; (http://tr.im/oRwd). 
+Ugh Photoshop CS4 won't install 
+@stillgray I miss WordPerfect a lot 
+@duncan Screencast is awesome. Now I know that I must dump Aperture. Damn you! 
+Safari 4 has gone.  the problem occurs after installed Adobe Air.
+Methinks I'm restarting mac more than win iPhoto update, quick time, safari 4 safari 4.0.1, Bluetooth  , mac 10.5.7 whoa so many updates 
+@scottnicol Do you happen to have the link I sent you for those cool Lightroom presets? I lost mine 
+I'm really disappointed with iMovie 09  has so much potential but is a bit of a fail 
+@211me I'm hurt!!! I did Not Photoshop my screen shot! although I'm capable of it, but I'm NO cheater! 
+Adobe versus Blackboard versus open-source. Adobe wins. I am saddened by this 
+A few days with InDesign is driving me insane. Instead of music, my brain has started looping ad jingles and web memes 
+Acrobat.com - We're sorry, but your browser hasn't been qualified to run Buzzword  http://bit.ly/5N7as
+At school studying for my Graphics exam at 9:00 
+@drewsheldon sadly I usually do  I mean have you seen my GIF work today? http://s451.photobucket.com/albums/qq235/ktmock13/
+@saharabloom I'm thinking I'd need Pixar, Adobe Photoshop ain't gonna cut it 
+im rly gonna miss SWF  good thing im seeing them sat night !
+Visual Studio does not update the implementations of an interface when you are refactoring the interface.... 
+@MissKitty1923  *snort* I used to have a snoopy dance GIF...I lost it a long time ago. 
+Please don't send screenshots in Word documents. Also, don't send birthday invitations in PowerPoint files. 
+hmm must be friday. FCP keeps dropping frames on playback 
+Sometimes I really hate computers... Trouble shooting for the last 3 hours, formatted and everything. Finally fixed. Format wasn't needed 
+WTF! Visual Studio 2008 just killed itself and the app I was de-bugging  *zombie*
+Having to work with Visual Studio 6 - not like I remembered it at all. It's gone all slow and using up most of my CPU 
+Adobe premier pro is being very unstable on the computer, only 3 crashes in 15 mins  auto recovered 3rd time round
+I just got yelled at for using InDesign  this sucks
+Printer just spat labels all over the floor 
+Somebody needs to make a show called &quot;Powerpoint: CSI&quot; This week I am &quot;fixing&quot; Powerpoint slides. 1 slide had over 39 custom animations 
+Morning tweeps! Have a v. busy day today; working in InDesign, which takes all my brain capacity, LOL. I'm feeling a bit stressed! 
+@emalone I did some hunting on Adobe's site and the group I used last doesn't seem to be there any longer.  I don't remember the name.
+@justsimplysarah  I wish I could! Want to shoot HDR this evening... love the clouds, but the water is hard on the camera. 
+If you ever want to try out Corel Painter 11 and find a torrent through isohunt, BEWARE. There's two trojans in one of the torrents. 
+Considering iPhone3GS when upgrade possible b/c of new features: http://tinyurl.com/6optfu. But VoiceOver, Zoom can't run simultaneously. 
+@Kardboard I use Irfanview for batch resizing, but I don't think it has a watermark feature. 
+And Gimp just crashed, tossing last 10 minutes of work. 
+@mmitchelldaviss How do you get iMovie 6.0 ?! I neeeeeed it 
+iPhoto's flickr integration is pretty unintuitive - I just deleted a bunch of my photos 
+is at a loss for what to do. Eclairs are half done due to having no cream. Photoshop has expired. Movies are boring. Internet is boring 
+Making graphs on Excel 2008 (for Macs) is much more complicated compared to making them on my old laptop with the old Excel 
+As much as I wish it wasn't so, Photoshop is just so much better than Gimp... 
+I'm dropping Adobe AIR SDK and Twhirl for packaging. ELS doesn't seem to work 
+@jenmeetdickens I have a similar Excel spreadsheet 
+is trying to get Flash CS4 to work the way I want it to. Motion detection does not work and I don't know how to make Adobe AIR apps. 
+I wish someone would update/fix WoW Model Viewer and the Map Viewer for Mac. They've been dead since before LK. 
+@mlindqvist LOL I'm so sick of my usual editing techniques 
+Kra, preciso urgente do Adobe Lightroom  
+Why is Photoshop only letting me color certain parts 
+Trying to upload a picture but for some reason I can't resize in iPhoto 
+My Photoshop doesn't have the web photo gallery option 
+Finally done now to wait for iMovie to export it... 17 minutes remaining 
+Since this means returning an unsealed software, I am happy I got my money back! Thanks Magix, 4 me this means never ever 
+Images you send from Aperture to CS4 that open in Camera RAW don't then seem to have their changes reflected back in Aperture. 
+@gvwilson &quot;unit testing&quot; isn't high on the list of Adobe's goals for FlexBuilder and &quot;scriptability&quot; isn't something Eclipse is known for 
+This seems a really good web based photo editing tool  from Adobe, no layers though   http://bit.ly/o2f4l
+No more nice bright colors; No more greens of summers; The end of Kodachrome  http://bit.ly/k0aGy
+Kodachrome is going away! I'm going to pick up a few rolls tonight from my local neighborhood camera store right now. 
+@theorytree haha I work on a mac at my work exp but it is on its last legs  5 mins to load Photoshop 
+Kodachrome is no more 
+I really need to download the new Adobe but everytime I try it doesn't work  GOT to call my computer guy.
+More advanced, or even advanced basic knowledge of Photoshop would help me out now. But i suppose Paint will do 
+@JasmineNicoleee Yo no tengo Photoshop. I wish i did tho ive been wanting to make a banner thing. 
+Kodachrome finally taken away  as time marches on the old and wise can get left behind  http://viigo.im/ZWa
+I give up. Format c: 
+@emilyspademan I clearly underestimated you! Comic life might be part of iLife then..shame 
+Anyone using Adobe BrowserLab? I wanted to check it out, but it says they're not accepting any new users. 
+I've been defeated by InDesign. 
+I prefer Mindjet MindManager to FreeMind, boo 
+Is there a software where my brush strokes will look smoother?  Adobe makes em look hard.
+Basically my Notepad in my old KrazR had a lot of precious priceless spontaneous musings that I struggled so hard to remember &amp; now lost. 
+@bibs4drips  i haven't even been in the chat lately! lets get back on track Edit!
+Until I have my RAM, hard drive, and Adobe CS4 DVD, I can't do much productive with my new laptop since it'll get wiped soon anyway. 
+wonders whether I have to use Dreamweaver for uni website 
+Ah Adobe CS3, you were never given a chance! 
+is soo boooored in graphics 
+Is Dreamweaver a socially acceptable way to make websites these days? Or should I be using notepad? I don't know what counts as #geekfail 
+My computer didn't want to let me use Lightroom anymore  So I'm making icons now x)
+sitting in an InDesign class... enjoying it, but saddened that classes are coming to an end  2 more classes before I am done!
+Unable to CAD today due to seizing up of back and shoulders. This is what happens when you don't stretch after you strength train.. 
+I have a love-hate relationship with Adobe After Effects. Its actually more of my powerbook's fault. It's just powerful enough. (tear) 
+@BlackMagic1515 :O tis all i know to 
+So far kinda really liking Espresso over Dreamweaver. Handcoding html/css ftw 
+12 Common Photoshop Mistakes and Malpractice http://sp2.ro/9b495c  great for begginers like me 
+studying for a test, designing 2 logos, starting on my final project, and playing with InDesign. totally happy 
+Ups today plays ManUnitedvsS FCP and I'll go play football... hummm I'll play with my radio phones on 
+Very quickly getting what I want out of the netbook. Adobe Digital Editions is the perfect ereader, got an eepc screen rotator too 
+@Acrobat77 Select the tile option. It's a little square towards the bottom of the screen when you're changing the background 
+@dreese Really good, love the speed increased - uploaded a 1.2gb iMovie project without me even noticing. Crossed 100gb backed up now 
+trying @gwibber .. till now I am impressed with this one who doesn't use Adobe AIR, true #linux or rather #GNOME product  #gwibber
+@whitneyhess reminds me of your &quot;emotional response&quot; point (deleting mails in Gmail), and why I turn off face recognition in iPhoto '09 
+Is in his way to a MindManager Session 
+@technex Adobe's just 20 mins from here. You want I should go smack 'em for ya?  
+@mensoh show us the presentation, curious for the results of Prezi 
+@MsInformation As a fellow Photoshop user, I understand what you mean. 
+Maybe because this is the first time they worked on something like Visual Studio or wrote something real 
+@inf3ktion That's a great idea!  maybe i'll try that out!  .. on a 4+ hour Photoshop session!! :-|
+@neilhimself  The weird Coraline cover is the result of CMYK images sent on a RGB way, so it all weirds out.  Just open with Photoshop 
+Cool Record Edit Deluxe - another app which has the Ribbon.  (In addition to AutoCAD 2010)
+@xDinna more blog smilies! Maybe some other content you could consider adding is...brushes? For Gimp, Photoshop, etc. 
+@timvoet the test went through fine (partly lucky) this morning.    that's hope we will have a fix form our Adobe friend
+Playing with Garageband 
+Reforecasting - and Twiitering while waiting for Excel to update 
+going to a Lightroom class for the day.  hope you all are having a very happy monday!  
+@soulsurrender oh, get a hold of : Lynda.com Joomla Creating and Editing Custom Templates, really helps 
+@rogeraberg Did you do it witht #CSS_Sprites? I started a couple of weeks ago and they rock, 4 steps, (normal, rollover, click, active 
+@ctigges Oh, no, thank you! I have it in my feed, but only read it occasionally. Prezi was linked by one of my pro twitter contacts. 
+Oh Photoshop! Anytime  @ralphtalmont
+Working on a song for a friend, or rather the design, REALLY taking Photoshop through it's paces here  But it's fun!
+Finally getting more &quot;Photoshop Savvy&quot; haha... I love it! 
+Nature's Calendar is on while I'm doing my Flash stuff. Inspires me to do more with my photography and helps me realise why I love it so 
+@mandeewidrick  or try deleting this file to reset the 30 day trial  Library/Preferences/com.apple.iWork08.plist
+@imnotteo I can't draw for beans, but I could go hunting for Soundbooth, Photoshop, and AE?  I can definitely afford those essentials 
+@sylenc Not necessarily. You just need edit yourself little bit more carefully. Your dweets are entertaining 
+Best Photoshop subjects are those that don't need any photoshopping. 
+@djJlynn Ha! I'm not a gamer... CS4 is Adobe Creative Suite 4... photoshop, illustrator, flash, dreamweaver... the tools of my trade 
+I'm gonna mess something up in PhotoShop now, 
+I think today I'll play with my Pixelmator... 
+just saw on amazon.com that the &quot;Adobe AIR 1.5 Cookbook&quot; is nb 3 in bestselling &gt; cross platform development category... cool 
+is finally up to date with editing and publishing! WOOT 
+I'm working out wonders in Photoshop!  
+@katrinaaaslaid kataaaaaaaaaa!  hah, I'm cooking up marinaded chicken thighs. I love hot chicks! www.snjschmidt.com/pics/hot_chicks.JPG
+Can someone tell me how to change Canvas Size in Adobe Photoshop CS4 ? 
+@lisacall I did the same a while ago, but I got all finicky about the formatting in Excel, so it took me longer than 30 seconds 
+I FINALLY got Photoshop cs3, thank goodness for amazing boyfriends and illigal downloads. 
+@minniexanders This awesome tool will get you there. http://www.Artisteer.com (not an aff. link; kind of stupid  )
+http://tinyurl.com/d7tb38 Nice Photoshop Effects 
+Why don't adobe realise no one WANTS to pay for Photoshop et al so they should just give it to us for free 
+@fromtheold I use NewsFire. Works like a charm 
+is downloading new fonts . again  http://plurk.com/p/rplkr
+http://twitpic.com/4wry2 - look, @camathome, the rosemary in my back garden, in CameraBag's &quot;Lolo&quot; mode 
+@teabot Use the facial recognition feature in iLife '09 
+@capricorn_one Could use GarageBand though it's probably overkill. 
+Shot some pictures of J&amp;I. For their moving card. No. Model photography is not for me... Fortunately, there's Photoshop! 
+Trying to figure out iMovie.  I have a sneaking suspicion that my first project will involve some of the zoo videos from yesterday.  
+@LittleFletcher http://twitpic.com/4x9db - That looks really cool  Photoshop? ;)
+is excited to learn After Effects and more Flash   Multimedia FTW! (dance) http://plurk.com/p/t95ln
+&quot;smear&quot; as in poo. #Visio  LOL @ windex coffee.
+@AlexK indeed Alex, maybe better to design a twitter with AI ? and I don't mean Adobe Illustrator 
+Visual Studio 2010 Beta 1 expected as soon as next week 
+the presets was amazingg 
+is a happy bunny. Dreamweaver is going well and I've sorted entertainment for next week when I am bored. 
+&quot;You have successfully activated your Adobe Creative Suite&quot; 
+@alistardean As soon as you do CAD4LIFE, I'll do SolidWorks. I promise. 
+I finally found a working install of Macromedia Studio MX 04 that works in Windows 7, yay 
+@Wix The news thing is awesome  I'm glad we got to help people.
+cupswrapper and lpr found. Printer working proberly now. 
+@fantomplanet Might make for an interesting visualization. 
+I should add that while I'm pretty damn hot with InDesign, my Photoshop skillz are very rudimentary. Idiots' guide preferred please 
+Excellent! Photoshop installed successfully  Now for dinner! x
+It's a beautiful, sunny morning in #kortrijk.  #2M09 kicks off today with workshops, I'm on tomorrow after the Adobe keynote.
+@huda_b dear, saw your missed call was out somewhere couldn't pick up the phone. will call you tomorrow iA! 
+http://twitpic.com/5f19w - Photoshop trickery 
+@addQin What are these &quot;QuickBooks&quot;? 
+done studying Calc for the night and excited to have her last encounter with this subject 
+@HyperDuck Edit your profile and theres a thing about getting a 'profile 2.0' 
+@lliswerryguy have a look at http://www.gimp.org/ its an open source Photoshop clone 
+@Sims3Nieuws It's a big difference tho. Photoshop costs 1000+$, Sims only cost 50 or so 
+Adobe Audition-ing All Nte Long!! 
+PSD to CSS / XHTML. Hand coded for you at affordable rates. Feel free to get in touch! 
+Just received my NAPP membership packet 
+Nevermind, I figured out my Excel question. http://www.mrexcel.com/tip074.shtml - there's the answer if you want to know. 
+@james_a_hart Ah, never mind... UI got it.   (RHS-&gt;Friends-&gt;Browse/Edit Friends)
+is having Photoshop sessions with Minsky  sharing of techniques!!! http://plurk.com/p/ukf85
+@batailley I'm a NAPP member and I find it fantastic. The amount of information available to members is immense.  I think its worth it.
+@sgurminder follow iAccelerator for that.. links - http://twitter.com/iA2009 #iA2009 and http://iaccelerator.org 
+@nocover sweet! beats xp install workflow 
+@jiayongou yeah read abou this one. But I don't want to go with Adobe AIR... thanks anyway! 
+Me like InDesign  But when it comes to putting different sized pages together....
+@wildfire198 Is that in FCP? I often have problems with it finding the timecode too. It just takes trial and error I'm afraid 
+@MadNihilist I have to run Visual Studio from somewhere 
+@hollisthomases me too. Love PC's, love Windows  SD is an Adobe AIR app, like TD. Can install anywhere
+Exam voucher purchased today for Adobe ACA exam.  Well paid for, just need the voucher now 
+graphics wasn't too bad and no more graphics !!! 
+&quot;our intention was to build a tool with the simplicity of Photoshop&quot; is there contest for worst metaphor? this could score well there 
+just downloaded Adobe Photoshop 7. May find my pics and remove the fat. 
+@chrissyandcoco doing it on iWeb 
+@vBSetup Adobe AIR. 
+thought of writing a footnote inside a footnote but seems like it's not possible with LaTeX 
+@heidiprice have you tried GIMP lately? 2.6 is very nice 
+Salesforce.com Updates Toolkit for Adobe AIR and Flex -  http://bit.ly/Fakrj  -- cloud + services + rich clients = bliss 
+@KenishaBritt you need a good hot cup of Ganol Excel mocha. 
+Lol,  I shot the Serif  http://img32.imageshack.us/img32/6990/3626399500x500.jpg
+@brentoli yay for you!   I'm going out tomorrow night. I have the weekend off.!  http://myloc.me/1XMI
+@gaufre I don't drink because of Photoshop itself. I drink because of editors yammering at me to hurry up. It's a science; it takes time. 
+@Simon_Arenhold sort out your profile pic brother - nobody wants to follow a faceless person. Use PhotoShop if you're self-conscious 
+Eric's &quot;learning Adobe Flex, day two&quot; log: um wow, Flash is very cool. I used Macromind Director from 1992. I guess &quot;lingo&quot; is long dead 
+getting a bit of sleep while iMovie exports stuff. 

@@ -1,0 +1,380 @@
+Most common words for this cluster:
+[('ie', 303), ('firefox', 153), ('ff', 38), ('chrome', 29), ('http', 22), ('quot', 17), ('safari', 17), ('bit', 15), ('amp', 14), ('time', 14), ('opera', 13), ('browser', 12)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'IE', 0.973162055015564), (u'Firefox', 0.8374373912811279), (u'Internet_Explorer', 0.7946493029594421), (u'IE8', 0.790643036365509), (u'IE7', 0.78764408826828), (u'FireFox', 0.7498282790184021), (u'Mozilla_Firefox', 0.7288058400154114), (u'IE9', 0.7253798842430115), (u'Internet_Explorer_IE', 0.7189669609069824), (u'Google_Chrome', 0.716496467590332)]
+
+
+
+
+
+@westonmyers  wait hold on....that was how much had downloaded  ...i was looking the IE download box that i haven't seen in like two years
+@mchampanis http://ie6update.com crashed my Firefox when I clicked on &quot;see a demo&quot;... 
+Firefox is sooooo slow on linux 
+@mayureshnirhali for personal use I always use safari  but our product supports only IE 
+@chrispirillo Use &quot;Click to Flash&quot; - IE ActiveX-esque object clicking to load - it's brilliant. Flash is a waste of Safari goodness 
+Too bad, alway have to check the sites in Windows and Internet Explorer and fix Windows or IE specific issues 
+@lala_com please help!  no clue why, but lala has stopped working in both Chrome and Firefox, just gets stuck with 'loading...' screen. 
+Radio buttons in IE6 are spraying bits of text at random spots on the page. IE sucks. 
+Watching the #bostonmarathon live feed at universalsports.com.  Found out that Firefox wants nothing to do with the live feed  IE ok.
+Just spent half-an-hour debugging stupid IE6 CSS bug. Why Gates, why? Please stop using IE6, people... 
+the sweet smell of css success turns to utter stench on first test in IE6!!! 
+@bramveen fav feature is Firefox -&gt; Quit Firefox. sadly it eats battery life on the mac far too much 
+getting annoyed with wordpress... I'm using firefox but when people try to read in IE it looks retarded. Battling 
+Just installed a Firefox plugin and as I was restarting FF to complete the install, FF upgraded to a version incompatible w/ the plugin. 
+IE7 bug fixing on a saturday afternoon  Can anyone help with this neg margin floating bug? http://gist.github.com/105450
+@gnutel0 Love it!! The RC feels even more responsive than the beta. Only issue is IE8 breaks my video embed ability for blog 
+is using IE because something's wrong with her FF browser! 
+trying to solve a bug [IE7 ] from last  one hr 
+@steelnpurple Firefox will never replace Opera. I need it for a research referencing extension that only works in this joke of a browser. 
+Ugh Firefox, why won't you save my usernames and passwords! D:&lt; I guess I'll have to use IE 
+in a cytber cafe, they got around 30 pcs and all of their default browser is IE6 
+For some reason Firefox doesn't keep me logged into things anymore... 
+@synthesezia I probably should've mentioned that.. Its not finished, but in IE NONE of the graphics load? No logo, no banner, no nothing 
+@mayooresan Couldn't shout much about the Firefox party coz of my exam. Couldn't get the news in to non lug tweets. Really sorry 
+is a bit dead in the water...i cant finish the site without IE 
+Firefox has stopped working after installing Flock 
+Firefox not working in spite of uninstalling Flock 
+What's the Default Browser at Your Workplace? http://tinyurl.com/clj4da ... scary shit is IE6 has a 33% share 
+I upgraded to IE8 is anyone else using this? lots of pics don't seem to work 
+Switched back to Firefox today.......safari crashes way too much. 
+Firefox has been super buggy and annoying. I might have to permanently switch to Chrome, which is somehow a bit sad to me. 
+#WSBK live stream doesn't work in Firefox 
+@chimamex Did you try Firefox, Safari or IE? Lunascape and Sleipnir are unfortunately not supported at this time... 
+@vmcosta - Corporate users don't have a choice ... they must use what their IT department requires they use ... mostly IE6 
+IE (6) and floating sidebars. Same procedure... 
+@Drifter0658 @vbright  Ewwww...me bald, not pretty pic.  LOL  Now I have it fixed in IE but not in FF which means it's really just wrong. 
+RIP Internet Explorer: 1995-2021  http://bit.ly/DeMLN Any way we could make this sooner? I hate having to use IE at work 
+@cranialstrain really you need 3 of them... one for each version of IE 
+@missgigip you're a monster. keep hustling. guessing you're working on a site that has to be compatible in IE too? 
+@leevigraham most browsers will accept an onclick on pretty much any element, except IE  putting it in a &lt;a&gt; tag will work on all browsers
+@theangelofire: Personally I waned to support IE8, but unfortunately it sux; So i was forced to use d fox. I hav 3.4 and must say its gud 
+@gannotti for some reason IE 8 is not rendering the page correctly and I can't play the video! 
+argh!  I hate IE &amp; know it always freezes on me &amp; I know I should save as I go along but I don't &amp; now I lost a loooong post for Gather. 
+dear @twitter - PLEASE make your site work much better w/ the opera browser.  those of us who have outgrown firefox &amp; IE will appreci8 it!
+Managed to create a webpage that crashes IE6, only with valid HTML and CSS! YAY! 
+@socialmediaclub That article looks really interesting, but has just crashed FF and IE 3 times each!  I tried!
+Firefox, Chrome and IE are really being cranky on my laptop today...Donno why 
+I really like the speed of #GoogleChrome 2.0, but can't go very long without my #Firefox extensions 
+@iainmacl I can't get stream - tried Chrome, IE &amp; Firefox  #edtech09
+The demo of plants vs zombies works perfectly under wine in ubuntu, registering #fails  . Manual registration needs IE. I'm out $30.
+@vextasy What about if you view the source of your timeline? I think there's something horribly wrong with my Firefox install 
+is finding Firefox 3.0.10 to be pretty unstable 
+IE 7 + IE 8 is giving me headaches 
+@Switched How many apps do you have open right now? currently: 5   IE - 8 tabs FF - 26 tabs Chrome 0 || waiting for Roboform for Chrome 
+Comparing IE and FF fonts and I like IE's better 
+25% of visitors to a site i made come on IE6  ... and one lonely sole on Netscape!
+@ddfreyne - is there a problem on MOUL forums,  trouble navigating the last couple of days   &quot;IE can't open&quot; no probs any other sites 
+IE8 issues http://edskes.net/ie8overflowandexpandingboxbugs.htm  
+@joshua_goodman me too... well, a combination of FF and chrome. Unfortunately my job (and soon yours) means I have to use IE as well 
+@plehotay And it doesn't in Firefox   I have faith the encoding troubles will get worked out later.
+@davebost I think I need your help kicking some client ass. THREE of our clients are still on IE6. Make them stop!!!! 
+@hagnas I don't think it's even possible to be an IE veteran. I notice new glitches each and every time 
+why does IE have to be always a big problem 
+@jojototh @abduzeedo firefox ok, but opera and IE - footer is not ok 
+@elijahmanor targeted browser for what?! I just read that Windows Mobile uses the IE6 core as its default.   
+@thefremen Even IE8 would be better 
+Firefox again taking upwards of 600k of memory, time to restart ff 
+having to use IE =/ firefox is playing up and i don't know why  will try and fix it tomorrow.
+@AJAG Lol, well have to make sure website works on IE!  And for this region, even on IE6!  Adsense preview tool only on IE for some reason
+@tvanderwell I have 3 computers all going now.  IE 7 on XP and IE 8 on Vista  all are still NO Shows!  
+@liddesigns oh no, sorry to hear abt Firefox crashing on you. 
+Installing Parallels and XP. I feel awful, but I really want to be able to test in IE tomorrow.  #fb
+@BritNicolePhoto your flash website doesn't work on Firefox 
+Was updating my distributed agile team's electronic status when FF crashed. Microsoft guy on team wasn't too harsh. IE worked. 
+@GizmosFreeware my bank told me .net 3.5 stops Mastercard Securecode working in FF. Needed to purchase in IE  tks for info can now remove
+removin chrome as my default  as many sites support firefox/IE 3 only --&gt;Y cant we have all vendors follow a common  spec  
+@eadvocate I checked IE - the outline is missing (check an article to see how its supposed to be? -  and footer is still to the left 4 me 
+@duckbox FF and Chrome are meant to produce the same looking design, not different  That is IE's job 
+@OneHeadsUp oops! I'm on a macbook so I don't have IE 
+@elewis1997 Firefox... I loved it until about 4 months ago, when it stopped displaying my gmail inbox properly 
+@SpyMasterPhil issues w/assassination in IE7 - just get a black screen forever, no completion 
+Microsoft quietly  installs a 'major vulnerability' into Firefox thru a service pack http://bit.ly/AhvHI Browser war is getting ugly 
+well@barelylistening Dempseys was good .well I will be drinking alone in the IE mc is in az and you gone too 
+Lost Google Notebook IE add on with the upgrade to IE 8. Google Toolbar updates have dumped it as well. 
+im ready for the IE8 Run.. but it looks like the weather is not... disappointed that its raining... 
+@tanmany2k You are the only one we've heard of    We've used IE8, Mozilla Firefox, and Google Chrome  #nascar
+@adenfraser to bad that retweet.it site crashed my firefox  it seems to work on IE just fine
+@soapdeli so bummed, keep attempting to open your friend's blog, but it keeps crashing out in IE  
+now I feel more accomplished with my archlinux after installing CrossOver, IE6 runs like a charm, WINE is giving me problems 
+Having to debug JavaScript using IE, its that or move back my installed version of Firefox to get Firebug to debug without falling over 
+I hate IE7, it doesn't display content when PHP sends a web page with status 404 or 500, 
+@laurasnapes Ah okay. It loads and I get normal sound in Opera but the visuals / page is choppy. I do have to swap to Firefox for Last.fm 
+Safari 4 is crashing quite often these days  I hope I won't have to switch back to Firefox :'(
+Installing Vista SP2 IE8 at the same time.  Im scurred..mah puter gonna go meep meep boom boom? 
+Anybody out there good at beating IE6 into submission? I need some help with a site. IE completely and utterly butchers the layout 
+@snorestore IE is a massive pain for web designers and developers as it just doesn't properly adhere to rules. Alas, most people use it. 
+disappointed to see (thanks, tr.im) that most of my fastest readers run Windows  though that's offset by their use of Firefox 
+@bgardner My site has some IE6 bugs still being worked out 
+@24k  It will be exciting .. unfortunately until we can stop supporting IE6 we are stuck in the past.. 
+@choiceaustralia It is weird it doesn't work for me in IE or Firefox, both simply have no content 
+I'm forced to ask users of a software product I designed and got developed by another firm to use IE ! Lord Pardon me  #security
+drupal nice menu is still not working in IE    .....  anybody have any trick...??
+Back on Firefox... my online courses weren't displaying correctly in Chrome... 
+I hate you Internet Explorer 8, Just when I thought I I had worked out IE, ohhh no it throws another spanner in to the works  #rage
+How annoying - can't log into Gmail through Firefox, even after clearing cookies/cache.  
+@madwilliamflint No, but I'm regretting downloading IE 8 - there are a ton of sites that just come across as blank 
+@daringfireball Your links don't work in Firefox 3.5b4 
+@casystems I did infact put a disclamer for IE6 users to upgrade but still need to support them a while longer so we wont lose any money 
+Firefox has crashed twice for me now. Why do you hate me Firefox? I just want to watch the conference  #E3
+@scottgal I've noticed this as well. To be honest I've kind of been disappointed with the speed of Gmail in FF since Chrome came out..  
+@GetBenderNow sorry, I've tried it with firefox and IE but it doesn't work  Don't know what I'm doing wrong trying again tomorrow...
+I'm wondering why my Firefox is so slow... I hate to say this, but I'm considering jumping to IE but I'd miss my extensions 
+@alistaircalder Me and my creative director laughed a little, IE was able to read the code properly when FF cant ! 
+Firefox just increased my bandwidth bill to two fold, due to these crashes. All downloads would restart, I hate it 
+But my IE was down when Trojan hit my computer. My existing up-to-date mcafee anti-virus software unable to clean it. 
+Looks like you're really in love with Bing.  @KimberlySaia Trying to get used to using IE. @Bing FF toolbar search not working. 
+I LOVE THIS: http://radar.oreilly.com/upload/2009/05/html5.png Sadly Internet Explorer is MIA so it is worthless!    ban IE/M$
+@watafatacata darn, we dont have firefox, we only use IE here 
+Man, Firefox 3.5b4 is *fast*. So excited about FF, Safari, Chome all being fast! Wish IE8 were faster  http://bit.ly/firefox-beta #firefox
+@audaxpowder thanks... turns out it wasnt the javascript.... it was one freaking css descriptor that was bugging out IE6 and IE7  lol
+*Almost* managed to retrofit a page with #ajax/#javascript without breaking it in IE  /me boots windows
+@samuelcotterall @theknickermafia @matc1984 IE6 is a scourge on web designers everywhere but some people are stuck with it. Poor them 
+Expression Web SuperPreview - The best thing from M$ in a while. Takes some of the pain out of IE testing http://is.gd/M6AR Windows only 
+Microsoft forcing Bing on IE6 users!?: Shared by Maarten they should be punished for this  After surprising th.. http://tinyurl.com/mrw7mu
+Hah hah minh lieu that vua mo IE, FF, Chrome vua upload. An nut power ruj dj ve lun 
+Why do we still develop for IE6 
+I'd like my pic to be fixed  I don't like being identified as a strange white box with a x in it! Funny how it's different on IE tho!
+@MrMadsen lucky sod, IE6 and IE7 have been whaling on me all day 
+@Emper Firefox is always dy ing. what the hell is wrong with it 
+@mattcutts @Harith but the problem is Microsoft has so influenced enterprise customers that people working there have to use IE 
+Who can test my site on IE6, IE7, IE8 ? But work on Firefox, Opera, Chrome, Safari, ... Please contact me 
+@SyntaxC4 interesting url - but doesn't resolve.  #IE6
+@travislongley The site only likes IE...My Wii haz Opera... 
+Reading tweets about Opera 10 Beta but stuck in IE6 while testing javascript form validation 
+*sigh* IE8 seems to want to do things different to all the other browsers 
+@barnstormed true! it is just annoying that even IE6 is displaying it better 
+@hilaryjw Ahh, stupid IE and even stupider events calendar! it's messed everything up! The new one. Will have to find another 
+@artesea Cheers http://www.parliamentlive.tv/ works well. But only in IE, not FF 
+ok, alert for IE6 users is fixed. sorry peeps. I'm sick of IE6. the flickr badge makes my code invalid, have to take a look at that later 
+@ErinEHayes Are that many people *still* using IE6? Yikes 
+@defro what's up defro? I lived a happy IE-less life, but now at work that's all i have 
+@staciemahoe @busymommaval @meeratank Too bad more than half of my sites' visitors use IE 
+@etherfast tocmai fac debugging pe IE nu imi mai aduce aminte de IE 
+huh!?! jQuery UI effects work in all browsers except in IE8? I use pulsate and it just won't work unless I turn on compatibility mode 
+g: i still can't sign up even in IE8 
+@_hb nice tip about the technet sub, won't work properly in Firefox 3.5b on Ubuntu tho', it doesn't even like IE6 thru WINE  #WINE #Ubuntu
+@DonMacAskill I get popunders in Firefox all the time.  
+Don't leave rogue commas at the end of js lists, they'll break you scripts on IE. 1H wasted  #protip #IE6 #IE7 #Explorer
+Firefox is being a bitch and won't stop crashing 
+@toofondofbooks I use FF at home and prefer it.  I'm stuck using IE at work 
+@annetteyen yes works ok in firefox and IE. Not sure why on the other. 
+How am I supposed to fix an IE6 CSS issue when I don't have permissions to edit it? Not to mention no FireBug for IE  Help?
+opening new tabs in IE8 is so painfully slow, even when opening a blank tab. arrrggghhhhh 
+@RemoteHlpExpert I use firefox but it's not working on IE, or Google chrome either.    Maybe i deleted a driver?
+@Sunyshore If you use Firefox why not just make a bookmark to it in your toolbar and reteach yourself to click that? 
+@bobmorse the same question in another light: why do we still care to develop sites to be IE6 compatible. Both things make me sad 
+being reminded I'm supposed to design sites for IE. I'm on FF sometimes safari. IE!? haven't used it in a decade but I gotta design 4 it. 
+is starting to realize that Firefox's built in crash recovery kinda sucks... 
+@Posh_Totty  awww - can't get to your blog, IE tells me there's a prob and aborts  what I can see looks good tho'!
+Can't upload any pictures in &quot;Horses and Sports&quot; from my pc- browser (Firefox and IE) immediatly drops down - any ideas? Other pc works 
+Oops. Apparently my site doesn't look so good in IE. 
+@GirlTornado @SmartmouthBroad the giveaway crashed my IE 
+@aaroni268 Yeah but dude, wat about the uneducated clients who visit our site in IE7 &amp; then think we are useless coz of our color choices 
+@ronnicaih oh that stinks, someone else told me that too! Stupid IE doesn't work for some peeps!  it works for me at work though... weird!
+working on @Digital_Gurl 's design  Firefox Safari Google Chrome all worked except IE 
+@twickpix @mlbarnes2009 Ummmmm...  I am using IE too 
+It sux how TVB SENSATIONS only views properly in IE and not Firefox and Safari. 
+@MystaKool yeah, IE has been such a pain - 
+What?... if I have Firefox, WinAmp and MSN open, this notebook crashes. 
+@smashingmag much more than 2 years. Think about IE6 that is still used by thousands of people...   #smcss
+Firefox seems really laggy now 
+Getting ready to start making adjustments for the new position. A bunch of apps that are IE only 
+@mftb IE is really lame btw. It usually represents one third of the coding time if you bother about it, how sad 
+Sorry IE7 &amp; 8  - no fancy animation for you in my new site  http://twitpic.com/6ueiw - at least you aren't IE6 though...
+Just upgraded to IE 8 and discovered my Media Space site has compatibility issues with the drop down menu 
+Firefox is hating on my luv for @SongzYuuup by freezing, but that's probably for the best 
+My blog is playing silly burgers in Firefox and I'm not having fun 
+Firefox seems to have gone into a crash-loop  WTF am I supposed to do with it now?
+@nnorafiza I recently had to dl FF. It works better on my old PC than IE did. IE let me down in many, many ways. 
+Saw Windows 7 RC &quot;in the wild&quot; today on the train; guy was running IE and had a mobile phone belt clip 
+I noticed most victims so far are women. And they feature Firefox. And they got off the main plot again 
+The CSS was going so well, then IE arrived at the party. Background simply won't line up, have to rethink the entire page 
+@rickmans My Chrome and Firefox refuse to connect to internet today. Some security installed I guess. 
+@seanislegend yeah good point. but i did it the way you showed me. was fine in firefox, but on IE it's off centre 
+@leeprovoost I so agree. I struggled. WolframAlpha does not even support IE 6. And asset mngmnt team wont let me install IE 7 or use FF 
+@RantRaveRoll Yeah I can't see it  I could see it yesterday. On IE both days. I'll look on Hub's computer later. All I have is IE on here.
+I Wish IE8s compatibility mode would do something different with the tab to tell you it is running that way. The button in the toolbar is 
+@timeril ughhhh Tim, that sucks   Hopefully BrowserHeroes will come in and rescue you from a life filled in IE captivity.
+A humble request to the good ppl in the world... Dump IE6... make my life just a little bit easier. Having to change CSS for IE6 sucks! 
+@Malarkey the biggest step forward I've seen recently is the &quot;Ditch IE6&quot; movement that is not growing very strong... So - afraid not 
+#hashtag problem here, cant see it clickable, Win/Mac/Firefox/IE, all clickable feature gone 
+@ann_donnelly No. It comes up that IE cannot open this page and operation aborted but I can see the page in the background then blank 
+@ARDELLd Firefox and e-mail isn't working for me for a couple days @derecschuler said he had problems then patches then no  
+just discovering some nasty kinks when viewing in IE7 
+almost done with a site for a client, but very afraid to test on IE8 
+@rhuk perhaps the countdown should be for IE6 &amp; Win2k who can't use IE7 and above 
+Just installed Firefox on my work PC. IE6 was too painful to bear. 
+@justafish Interesting article, but a tad unrealistic. Much as I would like to see the back of it, IE6 is still 15% of our audience 
+@addyosmani Looks pretty nice, but I get about 2fps in Firefox 3.5 and it's not working at all in Safari 4 
+After 3 days of Safari 4 it seems as it finally grew up, and Firefox got fat and old 
+@vishal_modh yup you're right! ..and also every dog has a day. We know IE had their days. Still in France most of people use IE6 
+@ChrisHatch I suspect that IE6 is the reason 
+@annetteyen I couldn't. Tried recording w/webcam via YouTube &amp; IE &amp; Firefox crashed. I made a poem so I couldn't do pics &amp; a slideshow 
+@cwilso Oh no! I knew it! I've gone to the MS-owned hell where all the IE-critics go. 
+$ su @pumpkin that's the problem though! Firefox 3.0 isn't ancient  Opera is pretty good though as well 
+@peter_cook I'm not even sure where the IE icon is on my desktop... we found some clients still have internal team members on IE6 
+meanwhile restarting firefox - feel like i m using IE 
+Firefox slowed down after upgrading twitterfox plugin. 
+@paparoach your site hates me and won't let me watch the video. It keeps telling me to get IE8 even though that's what I have. 
+Sorry @katheesue I had IE8 issues at my blog.  I think one of my widgets does that. 
+my fansite is so slow today and won't load on IE... 
+Firefox is having a fit so I can't use TwitterFox 
+Firefox keeps crashing on me  updated yesterday
+@AdoMatic We're using 08 with SP 1. My main issue is that when forums posts are submitted for approval they can't be seen in IE6 
+With the new updated TwitterFox my Firefox starts like a old truck - needs a lot of time to get going. 
+@extorian I'm an FF man... IE7&amp;8 are perfectly acceptable though I wouldn't use them myself. IE6 just causes me so much work. 
+working on getting a version of IE6 on my mac....  for testing only... stupid world... stuck in ie!! GRRR
+MS Australia tells Firefox/Safari/Chrome users to get lost http://bit.ly/foxoff What a -ve Mktg campaign to run  via @moodleman @iusher)
+@BBCasper Yea they need to make an instant viewer for bb but they use DRM protected crap so right now only works on IE and media player 
+kill #IE6 get #IE8 to win money... get rid of #FF, why all this hostility all up a sudden! 
+@Pigsback_IE And you never said hello 
+about to test in IE 
+@krazypinkminx just seems very desperate of them to offer money to do it, and to write an IE8 that's still non-standard! 
+fucking IE 6! 2.5 hours lost making dirty patch's only for him 
+@youngamerican links not playing in Firefox 
+$10000 hidden in a webpage only IE8 can view, yay for web standards!  http://bit.ly/1aFCz2
+@Tengrand_IE8 told me to &quot;upgrade&quot; from chrome or get lost.  I tried to upgrade and it told me to get lost 
+It was because style['z-index']  With style.zIndex the z-sorting now works on Firefox 3.5 &amp; Opera. http://bit.ly/jcU9F http://bit.ly/s9gAG
+@themakelounge Are you aware your latest blog post is broken in IE? (I have to use it at work  ) It's fine in firefox though.
+Just finished coding a site, tested it in firefox - fine, in IE7 it gives me a weird bug, its not floating the nav properly 
+@TickingTimeBomb What is a optimologist? Leo.org and my Firefox spell checker don't know that word. 
+I hate IE!  so many annoying problems!
+@wakachamo lol it's not like other browsers haven't taken cheap shots at IE. 
+ I know @twitter's not going to bother coding much for IE6, but having to pull up indiv tweets every time I reply is getting old. Fast.
+@cabel the best part about that is when you do use an IE8 useragent it says to disable compatibility mode in the hints 
+@trapwire Firefox.  Instead of opening the java application it just opens a million Firefox windows.  Sad. 
+using IE8 for S&amp;Gs. so far not blown away by it. also whoever does their copywriting is addicted to giant offputting chunks of text. 
+wonders why Firefox often hangs on her   http://plurk.com/p/11s8qm
+www.tail-wags.com ...really cute concept but the website doesn't really work on Firefox 
+Moved to Chrome. Firefox too slow 
+I am on IE 6 as FF isn't working on this machine. I can't reply to people 
+@cnanney hmm. so it seems to be widespread. i am using IE for calendar and FF for mail right now 
+Wordpress lags Firefox so much. Evil thing. 
+Still 'enjoying' all the unexpected challenges arising from IE8 update. Thx, MS 
+When using #jQuery to modify select elements, use .add on the HTMLSelectElement rather than .append otherwise it doesn't work in IE 
+@agilenature Sure seems to be.  I use FF whenever possible, my companies internal systems unfortunately need IE 
+LOLing at @Tengrand_IE8 Microsoft... you are like a meth addict in your pitiful desperate spiral of self destruction. sorry meth addicts 
+@dupree_ IE8 is good! Used it, like it! Just cant get out of Firefox tho 
+Hmm... trying Windows Update, seems to have an update to IE8 for Vista x64 in there.  Too bad I can't use Firebug in this case 
+@kevinlogan Probably NEVER ;) A few features I looked at will work on IE8 and not Firefox. Others vice versa. 
+wtf is up with my laptop? Firefox is struggling and when I play music it keeps cutting out. 
+Again guys sorry for any mispellings/typos or bad links today I c&amp;p most everything and still can't delete with IE to correct 
+My day just isn't complete until Firefox crashes... 
+@sesh It's really annoying. Opera has been around just as long as IE, and even longer than Firefox. 
+Bummed that of all things, IE7 and IE8 kept me from attending tonites @xcodephoenix meeting  I so wanted to relive WWDC over again !
+w1fmr (@) status - @n7ice I am using Firefox also  - http://73s.org/w1fmr #hamr
+Frustrated about IE7's slow loading. It's going to break me of my internet addiction. But how will I follow my blogging buddies? 
+My Firefox homepage was set to something most unsavory 
+Firefox crashed again. FF crashing a lot these days 
+Using up more of my precious human life fixing IE bugs 
+.... I'm not sure I like IE 8. It makes thins so much more complicated than 7 
+OK so I think I figured out the first clue for the IE8 comp, none the wiser as to where the cash is though 
+Considering uninstalling #TwitterFox as the higher number of tweets downloading is slowing down Firefox 
+@bugshare I could show you my clients' analytics that prove IE is still strong 
+@yojibee I love it!! According to that, I've been lied to! Wasted my digital life without IE8 
+@halbpro The new player says file not found  I am on IE cos i'm at work. Will that matter?
+@brianwelburn IT can't upgrade to IE8 because much of our software doesn't work with it, 'cos that's out of date too! 
+Trying to make Firefox crash or behave abnormally. Not having a lot of luck 
+Every time someone opens IE6, I cry a little. Been fixing issue's most of today, #ie6 - want to give up. 
+@GridDragon I have to focus on IE6 compatibility because that's still the standard here 
+@davidwalshblog doesn't render correctly in IE7 
+Firefox 3.5 has location aware browsing, eh?  http://ow.ly/f65j thought only Chrome does that 2 us, now FF, I'm 
+Can't code #html with #bespin in #Firefox35 as every time I try to close a tag #Firefox35 it sets focus on the quick find feature.  
+espn.com keeps crashing Firefox 
+@monsieurnguyen IE6 rendering engine needs to be legally outlawed for the good of the web 
+@trappermarkelz Chrome is nice. I really like it. The only problem is that occasionally I find a site which requires FF or IE 
+dumprep.exe and drwtsn32.exe are top on my 'most hated programs' list right above IE 
+Discovered that SharePoint treats 64 bit versions of IE7 and 8 as Level 2 browsers - i.e. with very limited admin support 
+This is annoying, my drop down menu does not work in IE7  http://www.kumailht.com/test/maven/
+@SilkCharm When IE explains why they aren't supporting the :before &amp; :after - content: image classes, I'll think about using it again 
+@ijoostin @ForsakenDAemon I get it in both Firefox and Safari... I guess I'll never know what fascinating story lays behind in it 
+Firefox keeps crashing 
+Wish IES4Linux emulated IE7 properly. Opens, but doesn't load any website 
+Finally worked out that a Skype plugin was causing IE8 on Win7 to run very slowly 
+Firefox 3.5's awesome bar doesn't seem to work properly. It doesn't look through my bookmarks, even if I have it set to do so. 
+Rawrhhh dad went to install IE 8 and now my flashplayer isn't working!! 
+@PreMadonnaLana Im in the IE going thru what u were going thru yesterday 
+ok site works on all browser.. do i dare try it in IE6? 
+5 of my extensions are not compatible with the new Firefox 3.5 RC2  Google Gears is among them.
+Firefox is eating up my RAM 
+@sylviaswann Helloooooooooooo dear!  Whuut's up?  ;p  IE boots me every visit to twitpic    Grrrr  lol
+Web developer is not compatible with Mozilla Firefox 3.5 too bad  run on Flock http://bit.ly/eJgmx
+@SammLevine Yeah, IE sucks!  Doesn't work well with our site at all. 
+I have to launch IE8 twice before it actually works. That's it. Uninstalling. Would be happier if I didn't have to reinstall  #IE8FAIL
+is using IE for twitter. Bummer. 
+IE is getting better .. but their marketing team is playing games  http://bit.ly/Sm8Rd
+Arrrrrrrrrrgh !! why doesnt chrome pick up xml and rss feeds by default ?  The google toolbar in IE and FF does that.
+Upgrading Firefox. @feedly doesn't work with Firefox 3.5 RC2 yet 
+@aptfort ah, haven't tested in that browser   IE7, FF Opera ... my main tools.  Is there a certain something that is malfunctioning?
+i'm thinking, firefox has started to greatly affect my productivity, because of the endless tabs &amp; net surfing, time to go back to IE? 
+I hate my Firefox crashing every few days, but I'm not willing to give up any of my extensions or use a browser without a master password 
+wireless connection is acting funny here... So I can't really use my laptop. I'm on IE on my grandparents really slow computer 
+need to do some IE6 fixing (client == king) 
+Switching to IE until I figure out why FF keeps crashing  An iPhone GC from #squarespace would certainly cheer me up...
+Should I install firefox or let it be IE8.. hmm.. if only there was a foxmarks for Ie 
+Firefox has been a HUGE pain recently. I don't like Safari much or Opera and I'm just not that into Google Chrome 
+@memowe I did use that (earlier this year)- found IE6 d/l; couldn't get it working with the web site requiring ie6 on osx.   but thanks!
+ Firefox will not start or uninstall. i hate it sometimes.
+*shudder* having to use IE to play on an online game site  I really enjoyed the games and thought I had played using Firefox before...
+Grr, still can't play games even on IE, seems the Uni IT department did some tinkering since last time I played 
+@mikewwsd we are in Firefox 
+Wanker Firefox just quit on me! 
+Looks like a day of dirty, dirty IE6 testing awaits me... 
+And I have to use IE8, not FireFox  *cries*
+Ugghhh debugging CSS in IE7 sucks 
+@sydlawrence that sucks  I wish IE6 would go away
+Firefox now supports embedded color profiles in images. http://is.gd/1d3po Unfortunately it is disabled by default in the current release 
+#Microsoft responds to #fixoutlook: http://tinyurl.com/l9ox3d *sigh* this &amp; recent IE8 marketing=classic shot in the foot=nobody wins 
+Kinda bummed that all the stuff I've worked on in the past week I'll have to turn off in IE due to bugs 
+Crap! Firefox is not working. :/ So now I am using IE 
+@contactnaveen i cant begin to tell you how much i hate IE 
+@InnaLA_RE It is very simple.. Use firefox or IE n just copy the updates n paste it.. 
+1/2 hr debugging for a CSS problem on a colleague's computer, before I remembered that I installed IE8 on my PC a couple of weeks ago 
+@RoyEltham No support for Chrome on FreeRealms? Had to use Firefox 
+I'm twittering my links with TwitterBar 2.1.2, add on in Firefox, try it out 
+@BrendanDeBeasi My site finally displays properly in all versions of IE 
+@mayureshnirhali for personal use I always use safari  but our product supports only IE 
+Going to be spending the day writing CSS that will need to work in IE6, IE7, FF3, Safari 3, Chrome and Opera, what fun 
+@lurcherleon I use Chrome and Firefox for various things but I always use IE for most things. Let's me see how slowly sites perform. 
+Oh, btw, I'm bringing in the use of the word 'shiny' a la Firefly - means 'brilliant'. IE: 'you've won some money', 'shiny!' 
+hah! IE8 is awesome!  seriously... atleast waay better than IE7
+add &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=8&quot; /&gt; into the head of the page? 
+@sunilnatraj: The site recommends using IE7 and it works perfectly. On the other hand, using FireFox makes that site quite ghastly 
+Whoppa... Mozilla Firefox update 3.0.1.0 is no good, all the time closes my window while im browsing... annoying! hope they fix it! 
+I bought a pc 4my 86yr old dad,like,2 yrs ago and he still does not know what the interweb  is.I made the IE icon size of my head,o.k.?
+@johnfurst I can't enjoy the multimedia even in FF anymore since Chrome but how did you do the Tpop?  I should check out your Vidtweeter. 
+@chregu block this IE6 shit 
+@cmagnuson cool thanks for the response.  I'll check out that Firefox!
+IE8 nearing 6% according to my stats. FF 3.0.10 adoption rate amazes me 
+@baknitter haha IE...it's expensive!!!! Hm...let me message you later 
+@mattcutts pinging  IE8 team for ya..even tho I'm girl who had to de-install FF and macromedia 2x  this mo.  to escape YOUR toolbar... 
+@autumnbouk you should browse in Firefox, it spell-checks everything you type automatically 
+@kapkap I challenge my client to ditch out IE. I give a grandiloquent talk that without IE ur web will compatible with all platform 
+@adlandsuit Me too!! Yet half of the online apps we use at my agency need us to go through IE or Firefox! Always browse in Chrome tho! 
+flying through the IE6 CSS bugs this morning at work. I'm on a good roll 
+when I click my Firefox 'most visited' tab, after my gmail comes 'twitter / over capacity' nice 
+Firefox 3.5 gives new life to my laptop 
+Downloaded a bunch of add-ons to Firefox. 
+@jamesyencken  well, when you don't have to get sites to work on IE6, you all of a sudden find you have a lot more time on your hands ...
+http://bit.ly/3Yp9n  quote : &quot;IE 6 is disabling tehnology, but will disapear in 2010&quot; 
+CellBazaar plug-in for Firefox on your way soon 
+Fixed an annoying bug exhibited by IE in our CMS. Yay 
+i'm participating in Microsoft's IE8 screenshot contest.. in a Different way.   http://yfrog.com/16o3uj
+Readers asking tips on Google Chrome and Firefox as i have not covered them much... will write Firefox and Chrome tutorials and tips.. 
+@mugunthkumar just like we prefer Firefox over other browsers. extensibility. and it's powerful. 
+@storiesmac  thanks for the article, however, I only use Firefox to test browser compatibility, and I am 100% a PC 
+@chelpixie no she doesnt....just having a rough day. Just give Firefox some breathing space and will be fine 
+@ClaireBoyles or IE - is funny when you DM on Twitter ( not for the receiver thou...) 
+@ThePlanner in a quick googling, I saw something about Firefox and a plug-in that can cause that- but I'm glad you've got it now 
+@Endochick @momtojake Firefox is very stable and efficient. I also recommend! 
+@fauxparse Just discovered that Firefox doesn't recognize &quot;login&quot; as a word! +1  (though, twhirl doesn't recognize &quot;Firefox&quot;, haha)
+@arvindk no questions..;)  nothing can beat Firefox 
+@snipeyhead just ignore IE, as long as it works on FF and Safari, the rest can go to Redmont 
+@awenya @phusionade I have to agree with you. I hope I won't have to code for IE6 anymore, haaaaah 
+?????????, ????? Firefox http://bit.ly/MtzXm  
+@BbIDPA works in IE now, but gives straight lines instead of the route. I guess it's not how it's supposed to be 

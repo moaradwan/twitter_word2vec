@@ -1,0 +1,18 @@
+Most common words for this cluster:
+[('trek', 4), ('star', 4), ('very', 1), ('awesome', 1), ('it', 1), ('esquire', 1), ('the', 1), ('went', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Star', 0.6690039038658142), (u'Trek', 0.6634846329689026), (u'Mpozi_Mshale_Tolbert', 0.574733555316925), (u'Frank_Espich', 0.5660466551780701), (u'DANESE_KENON', 0.5645699501037598), (u'Daily_Hotness', 0.5597406029701233), (u'Doug_McSchooler_For', 0.5581504106521606), (u'Arely_D._Castillo', 0.5556460022926331), (u'Jason_Paha', 0.553618311882019), (u'By_ERIN_VER', 0.5512773990631104)]
+
+
+
+
+
+@YarnThing you will not regret going to see Star Trek. It was AWESOME!
+On my way to see Star Trek @ The Esquire.
+Went to see the Star Trek movie last night.  Very satisfying.
+Star Trek was as good as everyone said!!

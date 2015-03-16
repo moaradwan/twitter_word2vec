@@ -1,0 +1,24 @@
+Most common words for this cluster:
+[('warren', 8), ('buffet', 8), ('love', 1), ('pdubyad', 1), ('doing', 1), ('palin', 1), ('kong', 1), ('in', 1), ('battle', 1), ('auizo', 1), ('hong', 1), ('united', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Buffet', 0.7004165649414062), (u'Warren', 0.6501390933990479), (u'noon_WSFZ', 0.5796288847923279), (u'D._Huse', 0.577085018157959), (u'B._Scheeler', 0.571959912776947), (u'K._Deonauth', 0.5707414746284485), (u'Lelia_Gentle', 0.5679528117179871), (u'von_Breitenstein', 0.5650377869606018), (u'Unwin_\xbb', 0.5628162026405334), (u'OPEN_RESTRICTED_1', 0.5607651472091675)]
+
+
+
+
+
+Reading my kindle2...  Love it... Lee childs is good read.
+@PDubyaD right!!! LOL we'll get there!! I have high expectations, Warren Buffet style.
+RT @blknprecious1: RT GREAT @dbroos "Someone's sitting in the shade today because someone planted a tree a long time ago."- Warren Buffet
+Warren Buffet on the economy http://ping.fm/Lau0p
+Warren Buffet became (for a time) the richest man in the United States, not by working but investing in 1 Big idea which lead to the fortune
+Lawson to head Newedge Hong Kong http://bit.ly/xLQSD #business #china
+What's Buffet Doing? Warren Buffett Kicks Butt In Battle of the Boots: Posted By:Alex Crippe.. http://bit.ly/AUIzO
+SUPER INVESTORS: A great weekend read here from Warren Buffet. Oldie, but a goodie. http://tinyurl.com/oqxgga
+I'm truly braindead.  I couldn't come up with Warren Buffet's name to save my soul
+reading Michael Palin book, The Python Years...great book. I also recommend Warren Buffet &amp; Nelson Mandela's bio

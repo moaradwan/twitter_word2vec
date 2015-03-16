@@ -1,0 +1,924 @@
+Most common words for this cluster:
+[('hey', 771), ('i', 162), ('u', 67), ('quot', 51), ('day', 37), ('today', 34), ('night', 30), ('time', 28), ('girl', 28), ('lol', 28), ('twitter', 28), ('x', 27)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Hey', 0.9205775856971741), (u"C'mon", 0.7763030529022217), (u"G'night", 0.7564012408256531), (u'Whaddya', 0.7527844309806824), (u'@_WonderwallMSN', 0.7449079155921936), (u'Yea_yea', 0.7448784708976746), (u'Uh', 0.7439045906066895), (u'Oh', 0.7435933351516724), (u'Whadda', 0.7414045929908752), (u'Oh_yeah_yeah', 0.7325416803359985)]
+
+
+
+
+
+@kristenkreuk Hey Kristen, thought ur work on Smallville was awesome, havnt seen SF (not released in Aus yet)  Any new projects coming up?
+@Alex_Segal Hey gorgeous, what is going on this eve? I'm at work hella bored. Phone battery is dead  xxx
+@Shaylah07 Hey shaylah como estas ? ;D [how are you haha] what did i miss in english these past 3 days? I've been real sick 
+@getateric Hey E yes I actually found a few but not all. Sum of them r unavailable being they were promo only vinyl 
+@CKSoulRebelHU u kno I luv the Isley Bros... Hey my friends band is def perf 4 Records Store day in lil 5pts but I fell asleep  phuck!
+@tommcfly Hey, Tommy!! How was the concert here in Amsterdam? I wish I could be there! but I couldn't  ..... srry for that! Love you xoxo
+@JonathanRKnight  Hey Jon, hope you're feeling better, where's your daily tweets, we miss you 
+@AubreyODay Hey Aubrey! How are ya? What are ya doing now that DK split? 
+@RobBlatt Didn't see you at House 2.0  But let's connect soon! @theambershow yes, Jay-Z would join you in Hey Brooklyn. Lucky HIM!
+Eff my life. Mom and I went to Papa Johns to get some pizza and we told them NO cheese but guess what was on it?? Yeah... 
+@angelynn1872 Hi Angelynn! Welcome to twitter. It's raining again here in Seattle.  Damn! Btw do you know Pamela Anderson?
+just discovered a quarter stuck in my shredder! I need Handy Manny ASAP!  Wondering who the culprit is - thinking they are under 4 feet.
+@ZaynubMahmood Hey you! Hot? I can imagine 
+@ddlovato  Hey! Demi? U still there?  
+@AishiaO Hey girly how was the show?? I missed Britney in Atlanta 
+@SetoTheTech Hey Nathan,my car's gone out in sympathy with ur car trouble.It's been at the mechanics all day &amp; they're keeping it ovrnite 
+@tjeu81 Hey man! Ja, jammer dat je er niet bij was... quality time with the girl is ook waard.. I can tell 
+@mileycyrus Know how you feel about missing you mom! I haven't seen mine in 9 months  Hey btw great movie
+@diva4less Hey Diva!  I just wanted to say I hope all is going good with you. I miss your blogging 
+school over.!.4 today  but its over ..!!..Hey tweets..Ellen says hi.!.X
+@MsTeagan Hey beautiful when will you be back to the Chicago area I missed it when you came feature dancing here 
+@loonymoonydoll  Sucks hard-core. Hey are you still planning to go to the Arboretum with me today?
+@phatelara ya I get you Debbs!! Who likes to be whiny.. but then sometimes things just get to us! 
+@MarieL201 Hey! What did I do?!?!  I don't follow David Schwimmer!
+@lizzie2510 Hey Lizzie! Do you actually know when someone sends a message/replies to you on Twitter? Like an email notification? 
+@ddlovato  Hey Demi! How are you ? It's Emma. I see,your Facebook got deleted 
+@JenMarielle Haha, Jen, JB fan too? And awww, take care, alright? We'll miss you SO much!  Did you like the drawing? Hahaha. 
+@RetroRewind Hey Dave i see that hours ago you tune &quot;Rain Live&quot; can we heard it again next friday??? pretty pleasee cuz i missed it 
+@RetroRewind Hey Dave i see that hours ago you tune &quot;Rain Live&quot; can we heard it again next friday??? pretty please cuz i missed it 
+Y did I go to sleep and not watch the fight? Hey I knew Pac was gonna win, but I wish I'da saw that KO  oh well night Tworld I'll twiss u!
+@JohnnyDurham19 Hey, I was wondering, can you use Solo, or Maestro on your store? 
+@porksmith Hey Matt. Just wanted to wish you a happy belated birthday; wish I could've seen you live.. but sadly it was a school night  x
+@iamjonathancook Hey, are you guys going to be doing Bamboozle next year? It killed me that I couldn't be there for it this time 
+Talked to Val through YM. We talked about JONAS. I turned into my old fangirly self that I swore never to show her.  Haha. ~K
+@jonesforradio Hey, you deleted your okcupid! I was totally just going to stalk you. Fail... 
+@AIHL C'mon Blue Tongues!  You can do eet! Sorry Pete  haha
+@TravisGarland-Hey--NLT was frigin awesome---I got my sisters hooked on you guys--im soo sad- 
+@CoachDeb Hey you...too bad I wasn't going to SD!  
+@Brynn22 Hey Brynn! Sorry for messing up your midterm. 
+Daniel sucks and didn't answer so it's &quot;Hey mom... Look! No hands!&quot; and sorry Lilly. 
+@davidgregory Hey David!  Been a long time since we've seen each other.  Looks like I missed a great White House dinner! 
+@AKACHALESSBLUNT Hey, Comments on that vid have been disabled  Boooo... heeh Good luck. I hope you win. How do we vote?
+@MonkeyPosh Hey - miss ya! I've been so out of it  Movie being shot next month, so busy busy busy. How's Chi-town? How r u? Later..
+@teddy360 Hey did you send an email with the assigment for Java 2? I didn't get anything 
+@dannymcfly Hey Danny! i was looking about their recent photos, and er, really i don't like your shoes. sorry  haha but i love you! xx
+I don't want to clean my room.  Hey Morgan.. I know what I'm doing for your birthday. ;)
+Hi team, I think the Trouble is missing  I am at Alexis. Maybe I can pick a stranger for fun talk...
+Want to watch Hannah Montana the movie but the movie is not yet available in the Philippines!! Hmmmm.. 
+@sswayse  I did #ff you but later realised misspelt yr name. Duh! Blonde moment. Sorry Sean. 
+@pwa2009 Hey Mark, sorry to hear your model cancelled  Really looking forward to next weekend though :3
+Aire_Jaymes: Yo! We don't talk. rofl. 
+@JonathanRKnight Hey Jon! I've missed you guys today  Guess you're all to busy tweet huh? Glad your having a great time. Wish i was there!
+@Presariofu Hey man, you may already know, but the show in iTunes is last months show with a new name.. no you on there 
+@LeoLaporte Hey I haven't seen you since the TechTV days! Man that was a good TV station. It's a shame it ended the way it did 
+@EileenMCastroMA Hey you!! Havent talked you all week   God, you are that busy already?? Now I know why I have not seen you on here much
+@DavidArchie Hey, I heard you're attending the AI finale, but not performing.  I hope you get some good rest before your summer tour. 
+@DavidArchie Hey David. Your so awesome. Too bad I got grounded the night before your concert. I even bought a VIP ticket. 
+@mileycyrus Hey Miley i sent two letters but dont think they arrived you  im on Mileyworld under NAWY2J  are you on it now ?
+@Jimmy_Poodle Hey, Jimmy! What's Follow Friday? I couln't understand.. 
+Whoa, you kids are all up early, @mikeyil, @lunatechie, and so on... I'm awake! But sad/angry/dissapointed in FedEx. 
+@BrittanyErin Hey Empress! I mite have to cancel our lunch tweet-up today. We're getting out early 4 the holiday hence...no lunch 
+@jason_mraz Hey there, are you gonna be in Germany any time soon? I missed your concerts here last year 
+@CharlesGokey Hey. I wish I am really Danny's son.. 
+@DanielJeremiah Hey Bub, call me when you get done with work tomorrow ok.  I want to hear everything about it.  I love u.  Missing u bad! 
+Severely owned by the Sun, who thought, &quot;Hey, that boy's reading on the beach. I'ma making him look like two-face.&quot; 
+@adrienne_bailon Hey Adrienne. you and rob broke up? 
+@Jen_Cook Hey!  Great to see you!  My TMMO subscription has lapsed   Will probably renew again later this year!
+@efnik Hey! are you Ian from efnik? or rya nik?.want 2 watch transcultur not workin my end  mmm interesting ? ethos ?
+@MissKellyO  @MrJackO  Hey Jack don't be mean to poor little goldie 
+@Dev_Patel Hey! Hey ZUKO PATEL, are you even going to use twitter at ALL? how depressing. 
+@pastorpeterko Hey Peter, thanks for the follow. So many Sydney pastors tweet!!! Shame no Bris pastors are on Twitter; we're behind. 
+@deegospel Hey Dee... I wish I could make it to the mastermind session tomorrow  I'm in a wedding in Statesboro. hope to chat soon.
+@alwaysmuah Hey Ruthie girl... u send me all these lovely twitts but never respond!  I'm hurt... how's Mikey and Dion?
+@adlounge  Hey! Wanted to confirm we're still meeting at Rivoli @ 6pm?  I can only stay for an hour and a bit  #adlounge
+Dadgum, I think this nations shipping needs have shut down completely. still no freight for carriers out there. 
+@SPACASSO Hey, Maria! I'm so sorry!  I think I accidentally disconnected you.     Thank you SO much for trying. Headed to your site soon.
+@stephaniejack Geez sorry to hear Steph, I hope things improve soon. I know that ain't much sorry 
+@Genevieve Hey, I didn't get any !!! 
+@nick_carter Hey Brian Littrell is there!! He doesnt really like this kinda pages rigth?  kisses! I loev you guys!
+@Prophet1958 Hey it's that old writing avoidance  Write 1 continuous flow non stop 4 10 mins=trick I use 2 loosen up gremlins!
+@velvetella Hey! Polka dots or black dress. Both very glam. Mobile twitter's a bit crap at the mo. 
+@Tatylicious Hey chick!  When are we going to JA to pick up some hot guys and eat Jerk pork and festival? Well you already have a hot guy 
+@mitchelmusso Hey Mitchel when will you be live again? I didn't get a chance to call you 
+@BuzzEdition You're welcome. Hey, have you sent love @CTK1 's way? In hospital today for surgery to sort old motorbike accident 
+@joeymcintyre Joey your background is so cute! Btw, I tried to meet you yesterday but you were too busy.  out of anyone i would like to
+@Robert_Connor Hey! Sorry, I was out for a bit, now winding down getting ready for bed. Can't get rid of the hiccups tho 
+@charmed4eva112 Hey Jess this is Char I miss you. you havent been by the fanfic boards lately 
+@LizUK Hey  Maaitjie!  Ag hectic, internet's giving me shit at home and cafe's are getting trouble from Telkom, so... 
+I can't believe it's snowing now in other parts of NZ. Hey Snow! Come to effin Auckland! playing favourites aye... 
+@yidneth Hey you have actually an account - Pris is a good old friend of mine - we see each other not very often  Hugs Pris!
+@RaeLori   Hey Rae  The link isn't working  
+@nyc_specialist Hey yeah I know Jay on at 10 now but I will always remember him as 11:30pm... First TRL now Jay... I'm getting old 
+@therunningdiva Hey!! How is San Diego?! Good and Bad news yesterday: Austin made it, Brooke did not  Pretty heartbreaking about brooke
+My mom just told me I will be an embarassement to her if I try to go find Dane after the show .. Hmm .. A Lil harsh !! 
+@ChantellePaige Hey Chantelle, you mind saying hey to me? I miss the last Tweet you did to me some days ago 
+@Alyssa_Milano Hey...I lack in your cool person editon list...  LOL. Have a great day! Te quiero mucho...Besos ???
+@Ri_Guy So sorry to hear about ur Dad's heart.  Will they relist him for another?
+CoCoRec Allstars not Walterboro Allstars?!?!  What is that all about?  Oh, &amp; orange/black uniforms 
+@SherriEShepherd  Hey Sherri. I loved your ponytail with bangs hair on the view. I'm going through a hair crisis right now 
+@kimboyee @kreativeham  you guys needa get better. Hey shebag can i still borrow your camera to HK
+&quot;Hey&quot; was on Music Choice! But they spelled @mitchelmusso's name wrong...  SUCH a good song tho!!
+@Alyssa_Milano Hey...I lack in your cool person editon list...  LOL. Have a great day! Te quiero mucho...Besos ???
+@Alyssa_Milano Hey...I lack in your cool person editon list...  LOL. Have a great day! Te quiero mucho...Besos ???
+@SwtNeat Hey Nita. I know you're glad your DW made it to the finals. I feel bad for Lebron and the crew. 
+@CSI_PrintChick Hey, now not ALL of his most epically premium girlz! 
+@ddlovato Hey Demi..a question you do when you're depressed?I'm depressed and do not do that  Saludos desde Venezuela
+@GuitarGirl91692 Hey, Lauren, how goes it?  I'm so excited that I got a new computer, but not happy I mess up my printer in the process.  
+@Rae_living_50 Hey anything new today? completly out of it 
+think i woke up drunk...not good!! Maybe hungover YUCK!!! Wish Chris didnt work today 
+@iamRenesia Hey got an email from Darryl. They r n port so that's y that guy texted u. He couldn't tell me where 
+@Storm_Crow Hey why does @NovaWildstar get huggles and I don't *sulk* 
+@samantharonson Hey Samantha, I lost my best birthday present, your sign on the beermat in munich  and now?
+Uh oh, Alf my cat has gone AWOL for 72hrs now so bit worried. But not the first time, have got some &quot;lost cat&quot; fliers in supply if needed 
+@natsnapper Hey BT...apparently I can't  
+@spam  Please get these Yo-Yo's out of here!!   http://twitpic.com/6bsn3 http://twitpic.com/6bsp9 http://twitpic.com/6bsm5 PLEASE @spam 
+Chicken curry for dinner! Uh-oh. This is gonna make me fart all night. lol I miss Bubba. 
+@treaclelove Hey ate Ciara! I really missed you! Kasi minsanan na lang kita makita sa Eat Bulaga. 
+Not looking forward to going to school tomorrow. Sigh  Maybe Gabby really is the only person who cares. Ily Gab. Imma go to bed. x.
+@MsFitUniverse Hey Lisa! Sorry I missed you while u were in GA  - must do next time!
+@DisaAmena I'm sooooo late on this reply  Hey Disa! I haven't 4got about u.
+@UlrikaE Hey sweetheart? Is LiveJournal being stupid, or did you remove me from your LJ friends? 
+@ironmanj rather badly  Mitten + heat = disaster! 4.38. Hey-ho. But the thought of doing it after an IM..........
+ANSORATH: Hey Adam, don't go discriminatin' based on clans. It's not nice. 
+@NikyFierce Uhh?.. Dumb Question For Yu..? Who's Bobby Taylor?..? 
+@Awiss08 Hey Girl, I have to apologize for making you feel bad, your uncle did let me in on ALL the details as usual about gratuation! 
+@Awiss08 Hey girl, I have to apologize if I made you feel bad, your Uncle didn't let me in on ALL the details about your Graduation. 
+@OMARDLV Hey PaPa....where were u??? I take it the Cavs lost   we had a GREAT night, wish u couldve made it!
+You know you're following only celebs on twitter when every message you get says &quot;Going to the MTV awards....&quot; Hey! Hook a girl up! 
+@TranquilMammoth Hey Hunter, when's your blog gonna get an update? I've been waiting and waiting.......and nothing 
+@jimmyfallon Darn DVR cut you off right after &quot;Hey Justin&quot;! 
+@Shay_iz_Dope i know i know! but i SWEAR i already know you from somewhere before! Hmm 
+@MusicCeleb7 Hey! You will be hearing from Donald Duck soon! Lol! (random fact: i don't have pics of either donald or mickey with me  )
+I miss Hey Arnold and Doug. 
+3rd row NIN. Trent looked at me. I said &quot;Hi&quot;. He said &quot;Hey pig pig piggy pig pig...&quot; I need to lose weight 
+@Cory_Froomkin Uh oh little bro &amp; group pic don't work for me 
+@chereer Hey husband lost job today due to economic crisis don't think we are going to get to go on any holiday soon let along Thailand 
+@TheRealJordin Hey Jo, I was wondering if i could get a shout out cuz I spent like $200 on my ticket tonite cuz I thought I'd meet u 
+@Chevy_Boo I'd *love* to, but have a big day tomorrow &amp; about done for the night.    Thank you for asking me!
+@amandapalmer Hey Amanda, is there anyway to get the song Provanity? I heard it on Jango and looooove it. I cant find it anywhere though. 
+@richardpbacon opens mouth to make devastingly witty comment ... Come on brain - Bruno Homebase Strimmer .. Nope got nothing 
+@jordanknight Hey Hey Mr Knight, while you're rehearsing away, im sitting doing an assessment for college  UK misses you guys xxx
+@joek949 Hey. Job going well but not in today as ill 
+@Teitur Dude i totally would have voted but i only just found out and the voting has closed now.  Well ill see you on wednesday!Yey! Jack
+@sistapoetry Hey, Candice. I've been doing good. The weather out here went from glorious to overcast'n dreary.  How is everything in NY?
+@NatashaRobinson @cbradmorris Hey guys, what are your phone #s? BTW - I'll be staying at Grand Hyatt again &amp; forgot my DS charger  
+@tommcfly Hey, Tom 	 because you never answer me? HI one 
+@SeattleDMBfan Hey Mark! I have BigWhiskey on the brain today too! Can you watch the Beacon show tonight? I will miss it. 
+Can't go to Hey Dude! 
+@MrsSOsbourne- Hey Sharon.. Heres the thing.. Xfactors starting soon and everyone i know agrees with me WE WANT YOU BACK! Dannys boring! 
+@OfficialKat Hey Kat, I can't seem to access the site. It says invalid or they deleted their account... 
+@markhoppus Hey Mark.. do you think you guys are gona come back to montreal in the same tour? floor tickets are completly sold out 
+@shaneguiter Hey, did Mary leave twitter? I was going to @ her, but her page has disappeared. 
+@ShonaBarnthouse Pres played laser tag today! Now we can bring him with us! So let's see, that's a total of 3 in our group. Hey-o! 
+@susanmernit Hey, @davewiner I like that: BFD ..about the butt, I'm working on not being judgmental about 'fat' people  See how people ...
+@Sowmyatta Hey how are you??? Hows Cali? Is it still cold there?? here too.. 
+@lajajamamacita Hey Lofton! I hve to go to sleep now. School  Eve though you already know I'm not going to sleep just lying down 'til 1am
+@WerewolfJacob Hey Jakey! :waves: I was slow at trivia... 
+@theredrecruiter Hey Mike...I didn't hear. Did you have to put your puppy down? If so...I'm so sorry 
+@apalmer001 they graduate already? WOW! Hey mom told me Ash is 3 months prego.  think it's hush hush fir now though. Send pics of grad.
+@andrewcrawshaw Hey, let me know how the briefing goes - couldn't make it (+ the AI event also tday) due to more work on house to sort 
+@Oprah I am so bored! Hey oprah are you bored? I don't like being bored! 
+@Lou_lantos Hey, are you down to go to Forcast town? Jeff and I will both be online no later than 4:45 PM my time, or 10:45 for you.  
+@lou_lantos Hey, are you down to go to Forcast town? Jeff and I will both be online no later than 4:45 PM my time, or 10:45 for you.  
+Ooo Tweet Tweet lol remember tha hand game Goin to bed  Nightss Keria tomorrow we discuss Liqhts Somebody gettin Fired Hey Hey!
+&quot;Hey, how to make Old Republic look cool at E3?&quot; - &quot;Oh I know, let's just pass off a prerendered movie as a game trailer!&quot; lame 
+Thinking of the final Hey Boy Hey Girl Tuesday tonight. Wish I could go 
+ I did it AGAIN! Agh! Should I just NOT sleep?! Ily so much Jess  I didn't mean to...
+@carnie0306 Do you have Hey Jude? I don't, and it's making me miffed. 
+@forrestfanatic  Hey good morning!  I am bummed because I forgot to tape Conan's first show last night.  I am sure it was great.
+@alex014 Hey, yeah. It's over. Masha was defeated by Domi. 
+@luisaramirez Hey, I've got to make do with that too - headache's got worse, so definitely lots of Sister Act envy for me too 
+@GabeStrom  Hey Gabe that was awesome wish I could afford your offer 
+@jillianbowe Hey there Jillian...Guess we'll finally find out who's getting killed off! 
+Uh, damn. This Junior Volunteer app is long 
+@marcasita Hey there!  Would love to, but have lost my MoB translaton links   *sniff*  Hook me up?
+@MzLadi_B Nope.Did u kno Tom Greenenbaum is the COO &quot;chief operations ???&quot;. Damn I forgot the last word  I was mad proud cuz I knew too
+@xxEmmaFishxx Hey Emma..my msn wont work..I got my 2nd lady shot. 
+@SparkyMoscow  Hey women, I got your message. I can't make it to lil masn b-day,I am having a party in Fresno for my daughter same day 
+@qinghan if she is a man, why would almost all the male populations are waiting for her?   ... Ok Guys, Is Megan Fox a real female?
+@qinghan if she is a man, why would almost all the males are waiting for her?  ... Ok Guys, Is Megan Fox a real female?
+@pcdnicole Hey Nicole. I love you!! Is there any way I can meet you? I got gifts for y'all!  Did you see me at the airport? Hehe.
+Yawn! I just got up so I can start getting ready for school.  Oh, Bic (Jaxson) and Buff (Ryan) are coming over but I will be in school! 
+@wehavebandtwitt Hey guys, loving the artwork!  Darren - am off on hols next week so we miss each other yet again. 
+@TheSwellSeason Hey, any idea when Dublin tickets go on sale? I can't seem to find a place to purchase them yet anywhere... 
+@fat_mike Hey Mike, Absolutly adore nofx! But missed you guys in Dublin this year  HArdly have any idea when yous will be back?
+@ashleytisdale Hey Ashley. WTC is PILOXING? BTW. WT(C)= crap. i dont cuss because the more you do, the closer ur 2 death=ur going below 
+@brittneysaxberg Damn for real?? I took a nap as soon as i got home, then we had Pork Chops for Dinn Dinn, You missed out 
+@devynburton But you are too far away!  Hey, I'm so glad you made it to BEA. And am even more bummed I couldn't go. Next year?
+@jemmaammej Hey Jemma, i'm so confused 
+@benshephard Hey Ben! Where's the reply you sent me last night? It's disappeared! I don't get many replies so each one is appreciated 
+@barrywcombs When  Smokey came on stage I said &quot;Who is that guy, Stevie Wonder?&quot; Everybody in our row started laughing at me! 
+@china_wonder @LouisVLee Hey I wanna go to EW!  ::poutin::
+@Kathrynelle Hey K, how you doing, you watch any of practice today? Brawn taking it easy me thinks 
+@tommcfly I WANT A KIT KAT. Hey Tom, are you missing Brazil? We miss you a looooot 
+@KeithScott Hey Keith how are you?? I thought I was going to see you @ #fasttrack 
+@Shinpawl Hey, at least you could have Pizza Port if you wanted it. I would have to convince someone to ship it. 
+@DonnieWahlberg Hey Donnie!! I wish you guys would have been able to come to NC..i had tickets but then they said it was cancelled 
+@andr8a Hey!! Don't hate on PT Cruisers!! I have one. 
+@tammytrent Hey Tammy did you have your krispy cream today LOL I did not make it   Feel better soon
+@WerewolfJared Hey Jared! Sorry your tummy's upset 
+@teencastic @freeiphoneapps Hey can you get on AIM ? I am at a tight corner and I really need something 
+Team WineALot came back from trailing by 9 points to tie it, then lost 10-12.    Hey, at least we made a showing!
+@MATT_369 Hey Matt how is everything in your neck of the woods?  I wished I would of saved those songs you sent me  such a loser!!!
+@TheProphetBlog Hey baby!!!!!!!! How r u???? i am SO busy right now   MISS U!!!!
+@MissAllyMuskat Hey wondering if you got the leather moto jacket from Tracy Feith for Target I didn't  See my reviews http://bit.ly/2GOpT
+@RowLoFo Hey. Just read ur post about trying to get into the OC. I tried a non-cannon 2. i would have been the only Aussie vampire 2. 
+@CoachBilal Hey Coach! Show was CRAZY! Had to watch the phn lines and couldn't check my Twitter page!  Thanks for listening! 
+@KChenoweth Hey KC - so sorry to hear you aren't feeling well    Take it easy this weekend and I hope U feel better soon !!! --hugs--
+Hello? Mr Wilson? I REALLY need your help. 
+@coollike Hey how much friends have you got on Xbox cause your friends list is full it would not let me add you. 
+@_CrC_  Hey Chris cant wait to see you tonight I am on my way too!!! NO 5*  Come out at the buses please B there around 11-12 amie xoxo
+@Storm_Crow I love cats we have 2 but I'm harassing the bf who won't come on here to get more lol.  He keeps saying now  Yep got Tiff good
+@bulleto3 Hey Jamez! y won't u answer me!!!!!  I'm going 2 camp this mon. 4 a week therfore i won't b back until sat. I'll miss u!!!!!
+@tommcfly Hey Tom, can I sugest something to you, please? btw, i miss you and the guys here in Brazil!  be back soon! xx
+@DSTDiva498 Hey! Wow, the high school graduation rate for the United States is only 50%! This means less students are going to college 
+@KendraWilkinson Hey Kendra glad I got to see you at the softball game but sucks I couldn't get a picture  hope to stay in touch
+@YoungQ Hey Rob! I need a cheer up smile, I've just found out my cousin has an inoperable brain tumour and it's made me feel sad 
+@jeezmo Hey! NM resting im not feeling well 
+@RobDyerS4C Hey Rob, how do I get ahold of you for bookings? I tried the email on myspace and never got replied 
+@BrodyJenner I cant see the photo  Hey Brody what appears on the photo?
+@shoptb1 Oh no! Glad you're ok Brad. Sorry bout the Stang. 
+@hkylene87 Hey! I'm near Tumalo! (Gpa's funeral today.  )
+@LeeAnnAnderson @Hot4Donnie  @alias32 Hey girls, I don't think I will be able to make it after all  mom got a little mad.. it was spsd 2
+@jennifer97236 Hey Jen, M&amp;M was really funny until the end..then very sad 
+@trickrtreat Hey Im Cj And I Cant Wait for The movie but it should go to theaters!  even with great reviews they put it straight to dvd
+http://tinyurl.com/ry9wap Hey! Send me your email. I cant upload more pics here for some reason  I can email you some my pictures. Ple ...
+@jerrytrainor Hey Jerry, big fan of you, and I just noticed you left Project Lore permanently.  Do you still get on WoW? =/
+DMsimonbigpicture Hey Simon, read the news on your blog  but I completely agree with where you're headed - http://bit.ly/nnh0V Good luck!
+@simonbigpicture Hey Simon, read the news on your blog  but I completely agree with where you're headed - http://bit.ly/nnh0V -Good luck!
+@RobPattzNews That poster was awful!! Didn't even look natural!! Eww. Poor Rob 
+@ReemerFletcher Hey! Leave Miley alone 
+@nitch_art Hey i look forward to seeing your mighty guns ^^ also your twitpic don't work  REPOST! i need anouscka in my life hehe xx
+@ColorblindFish Hey Fish!!!! Met all the band cept u last nite   Jones Beach maybe??
+She's a sweet girl, but she's stood me up thrice already. What Should I say to her? Hey asshole? .. but shes so sweet... damn .. FTL 
+@Wossy @rayfoleyshow Hey, can u please tell me how u did the bookmark on podcast? It's driving me mad, can't figure it out 
+@erront55 Hey Eric  I wanna hear Leona on the radio 
+@dougiemcfly Hey, dont go!  listen to it http://www.radiomsn.net/ They're doing a McFly Special.
+@48and87rock Hey I am a Nemechek fan, too bad Joe parked it today 
+@natneagle Ahh really??? I thought the Barry M website shipped to the USA.. Sorry  Hey! Get In Lime is verryy pretty too :-D
+is worried sick about Lou  Grrrrr, wait till i get my hands on them!!!!!!!!
+@enchantdthany Hey, my two tweets to you from yesterday were unrelated to one another. Sorry Billy's back in SD. 
+@tommcfly Oh Tom...  seems you guys have had an eventful time over there. Get back to England.. we miss you! x
+@Janefonda Hey Jane, All the twit pics are not working ... 
+@MichelleNguyen1 Oh dear, Elvis does look tired  Can't blame him! Been dead so long ;-) I see your love affair with Adam continues ;-)
+@libzluvvfc Hey Libby! Idk why I cant reply back to your texts! 
+@Shayminn Hey u.how r ya..sascha (my daughter) left 4 Spain half AN hour ago, coach then flying..u know me &amp; flying.I need a vice grip  x
+@shayminn Hey u.how r ya..sascha (my daughter) left 4 Spain half an hour ago, coach then flying..u know me &amp; flying.I need a vice grip  x
+@pixelcellar Hey Tim! We are in glorious sunshine, and as normal its too hot in the studio!  Fans will be deployed soon! yourself?
+@loweryc @Artanas G'day guys hope it's a nicer day where you are than my rainy afternoon 
+@FrankIero Hey, that Cherry-Coke-less rock is big enough to include most of Canada.   We never get the good spinoff flavours, it sucks.
+@Franklero Hey, that Cherry-Coke-less rock is big enough to include most of Canada.  We never get the good spinoff flavours, it sucks.
+@heidisa Hey girl, not going to make it by to see you today at Seton and not sure when I am going home 
+Awww &quot;Hey There Delilah&quot; is on at DD 
+@Steel_Panther Hey guys, i hope download went awsome for you! i couldnt make it there  x
+@Ryuus_Wardrobe Hey Ry, what did u think of the 1st new episode.....i phuckn missd it 
+@troytaylor86 Hey Uncle Troy! u gong live again today. I missed ya past 2 live streams  but these songs r HOT! Cant wait for da mixtape!
+@BellaCullenRPG Hey Bella. I'm still trying to find an Emmett   I just put up an ad on twifans LOL
+@KeepinUpWKris  Hey Kris I'm french did you enjoy Monac ? In Paris weather is sad  Bisous
+@MagpieOpus Hey Lizzy, hope you're okay, could you let your mum know that we're here fine but our phones aren't working. We tried to txt. 
+Yo Yo Yo! Just got back from tennis camp, I hurt my ankle. 
+@PTIShow Wilbon, nice call on Mad Men.  Do you follow its star, Jon Hamm?  Oh wait, you need to be on twitter to do that.  
+@NicholasJerry92 Hey Nick, hope the show went great tonight, so bummed I wasnt there 
+Hmm.Is Miley dating Liam? Easy answer. NO! Just some few kissing scenes on the upcoming movie. I wish Nick and Miley had a romantic movie 
+@ThespianSheldon Spicer, Chris, and I are meeting at the DQ at Forum and Stadium at 9. Come if you want! Oh wait. You have a night job. 
+@HistoryLuV3r   Awww poor cuz  Hey come over with Vinny trm so we can all hang out...I miss ya cuzzy.
+@SoOunTM i know im hapy been workng too many days in a row!!! Hey i sold my iphone! Wnt be able t try out the new software though 
+@cherrystphoto LOL! I love Moe's! They all closed here though. Bummer. 
+@cocktailvh1  Hey girl! It's Carly, I sent you a a message on myspace but no response  Just wanted to congratulate you! You look great!
+@dannygokey Hey Danny &lt;3 ya!  You were my fave!  I am so sorry I won't get to see you in concert   I have another concert that day.&lt;3Dolly
+@thesilkmeister - Hey silky.. Was very excited about NKOTB coming 2 Oz in Aug &amp; had tix to 5 shows, but they had 2 cancel the tour   
+@danielhitzke Hey Dan I heard you are home, how was America? I got bad news 
+Lil K is moving to Alabama at the end of Sept   You need to see his recent pix.  He's growing up so fast. Saw your comments on myspace.Thx
+@yaelyraz Hey sir.YAEL! how are you?i hope i will see you again.i just wanna apologize about the matter on the ML.i'm very sorry! 
+@2330Becky Aww, aren't you sweet? Thank you. Hee-hee. Nooo! Don't tell me something like that either. 
+@Cali_B Hey B, how long are you Westcoastin? I'm O.T.  for the week 
+@se7yourselffree Hey there lady! You seem down  cheer up! I'd by you a shot to take the edge off if I could but I live in NC!
+@jconley21 Hey Sweetie!!! Bob is in my prayers!!! I know being who you are it is so hard on you 
+@IamJoeBeastmode Hey JOEY! Bring me LVATT please  I'm so sad. You yanks have it 
+@stealtheshow @Yoshimi_S Hey!! *sulk* 
+ready to go eat and pay some bills  Hey Nancy lol hmm i might be liking twitter..need more followers lol
+@theCHEEKsterr @TheRealAK47 @Mela622 Hey everyone..!!! Uhmm tomorrow is my last day shani... 
+@Sammy__Whammy  Bubba  Sorry i didn't text back, i have no credit, poor elmo xxxxx
+@DanBriffa Hey Dan, yeah the one on Youtube? I saw it last week, wish I was there! 
+Come on! Violet and Pete?? Why cant it be her and Coop 
+@imJessBnreal Yo Jess!! I know your gettin ready for the BIG house warmin' i appreciate the invite but we have a big Nike dinner tonight 
+@katiachic Hey girl, I just saw your tweet!  No, I wasn't selected.   He doesn't like me. I'm gonna have to cheat on him with Jordan.
+@PaulaAbdul Hey paula i heard it on simon and paula central plez dnt leave idol there would be no idol without you  luv u paula x0x 
+@steve_roderick Hey I find homeschooling concept supr intrstng.I considr doing it w/ my futur kids.Normal school wasted sooo much time 
+@chantalkrev Hey Chantal, there are some Iranian updates from this user twitter.com / Change_for_Iran - pretty horrible stuff! 
+@Ali_Sweeney Hey Ali is BL ever going to do singles instead of couples again? I want to apply every season but its always couples 
+@ebassman  Hey Sexy!!! The girls who took our pics and pics of Rob and I in Pittsburgh by the south gate never sent them to me   Do over??
+@Don_of_Khan haha! Umm... no offense but you look like a black captain Hook in this photo! Hahaha!! I'm so sorry I had to! 
+sleeping too much  Hey everyone don't forget to vote for @ashleytisdale at TCA http://bit.ly/zSgo !!!!!
+@QueenAimee Hey!!! You want to take Aubrey now and not me *humph* Fine you don't love me anymore   j/K can't wait to hear about the boy!
+@The_OC Hey......what happened to my lucky question number 3 you were going to answer on your podcast???! 
+@PaulWalsh You just unfollowed me  Hey-Ho ;) BTW, saw yr. tweet re. Dubai - I'll be in Abu Dhabi in Oct./Nov. UAE Tweetup? HAHA
+@delaneyg84 Whoa  Trying not to h8, but if Nikki DID do that; she went way down in my estimation (&amp; she didn't start high to begin with)
+OMG at ghost whisperer last night! Cant believe Jim died!!   I Cried!!! Maybe hes not dead... they always twist things around (YN)
+@RadioRobyn Hey Robyn!! Wish i could tune in, im at work  ::i saw ya on facebook...sent a request!
+@markdubya Oh, Marky Mark ... the saddest thing about that Tweet was that it didn't come off as vain. I mean, not even a *little*! 
+@Brook_star Hey, sweets!!  Sounds like last night was great.  Congrats, girl!!!!!  Wish I was there 
+@ChuckQuartz Hey Chuckles, I missed Captian Picard day? Damn it, now I won't be able to make all my great &quot;make it so&quot; and &quot;#2&quot; jokes 
+Wassup Wassup Waaaaaassssssup!!!! Hey all, @ #CarNutz gettin an oil change..man I gotta learn how 2 do this myself 
+@cupcake_nyc Hey girl!  We missed you at PNC on Sat.    I hope your week is going OK!  
+@SSM_Autohandler Hey Eric.. tried replying to your message but it wouldn't let me 
+I'm personally selling a Stevie Wonder lawn ticket for Atlanta 06/24 @ cost. Msg @CarlyKane if interested!  So sad I'll miss it 
+@Tripledee84 Hey Bella, this is my new account. I hope you are feeling better  Sorry you missed Russell Peters.
+@GabrielSaporta Hey Gabe, when is the GGGB video going to premiere? I've seen like 5 specials on it, but not the actual thing 
+@Ruleyork Hey cuzin, I miss my family!!!   Tell  my Britt 2 check her vm I left her a lil congrads mess!!! I'm twisted up now!! ooowww!lol
+@ebassman Hey Ethan enjoy your day...In Germany is it 21:30pm time to sleep. 
+@JoeMacsCoDriver Hey there Hows you? nearly fell asleep at work today am so tired  missin NK like mad 
+@crucify_brett Hey, you wouldn't be a meanie &amp; set Fritz on me, would you? And i love Fritz 
+@Qso Hey thanks! Currently working on a fix, so next week will be an uber-relaunch of Astroengine Live, just really frustrating 
+@cuddlez01 Hey Cud! I can't see your updates. You haven't approved my request. 
+@jaedde  Hey!  I'm going through Kim withdrawals.  
+@shaunte216 Hey, saw you were watching the Indians game before, I love Grady Sizemore...too bad he is hurt 
+@piratevampXD Hey, no, i'm still in Hawaii but i'm leaving islands in 4 dyas  how's your summer?
+@mxcyrus Hey miley, can you do me a favor? pray for my niece Hannah, been in &amp; out of the hospital with jaundice. 
+@Lilitree Video is only on the 3G S.  C'mon WM 7!!!!!
+@TheDallasLovato Hey Dallas, today is my birthday, please help me, implore for demi to say &quot;hi&quot; to me 
+@nodstrum Hey Jamie, your tutorial (http://tr.im/oSFe) is pretty sweet. Any idea how to get it working with Lightbox? Wont work for me! 
+@jainasolo17 Hey Lacey! Tis Megz! I miss my hot fawn pirate. 
+@PrincessSuperC Hey..how come you werent supportin Britney last night in Manchester?..i was excited to see you perform  x
+@ninirific Hey!! @AgentBooth is mad at us because we believed Jared yesterday... 
+@x3Soraya Hey BooBoo! Thank u! No signs of sickness ..n BOOM! 2day I wake up feeling sickly  ..I want pasta! Mmmm lol
+@GemRem Hey I do care, I have been trying to add it but don't know how?? It was only a joke cudn't fit in the smiley, soz Alyssa  xx
+@eveninggirl, @ ahamkaara, @Teewitty... Y'all are already counting down to your 21st birthdays, I'm still counting down to my 20th 
+My best friends dog died this morning. Sooooo not a gud day! Woody will miss him  #fb
+@V_Simmons Hey girlie! Miss u guys! Wish u guys were coming to Puerto Rico this weekend  Be there next week though! TTYS
+@eske I'm a bit sensitive as I approach an &quot;age&quot; milestone  Groan. Hey, could be worse.
+@lovelessandmore Hey Lily, just to let you know, you have some fans here, in indonesia. i can only watch skins from youtube,  u r d best!
+@Iam_Angela Hey.Saw ur messages. I was trying to talk to u last night. I was going to DM u then I noticed u don't follow me  Need to talk?
+Walking to Freddy's and then to maple grove. Heck of a trek 
+RIP Uncle Keith  Two Uncles in one week. They say everything happens in threes... Anyway, how is everyone?
+@Lil_Lan Wish I could be there. Maybe next time 
+@DonnieWahlberg. Hey Donnie. Wish I was at a meet n greet 
+@EconomyHeroes Hey Steve -your &quot;turbo follower&quot; links aren't behaving for me 
+@maxflock Hey does Total have a twitter? Cuz he is awesome, but I can't find his twitter  Lemme know plz!!!
+@Kyros_ Hey, I try. I just hate the thought of you being cooped up in there all of the time. 
+@GabrielSaporta Hey, Gabe, can I use your last name? My biggest dream is marry with you, haha  Come to Brazil, pleaaase &lt;3.
+@GabrielSaporta Hey, Gabe, can I use your last name? My biggest dream is marry you, haha  Come to Brazil, please. Love u sooo much &lt;3
+@midnightyouth Hey i live near Brownzy i live in Torbay. I really wanted to go to your show cause u rock but im only 12 
+@nova937music Hey there. I tried to tweet Dean for tickets to Eve cause im sick in bed...but i dont think he is twittering today 
+@YKLee13 Oh, still.  Get wel soon, Chris. &lt;3
+@Im_X1 of course, I'm sorry.  Hey, I just read you signed my yearbook in 1986. Cool. Will have to scan that &amp; send to ya!
+@SirJolt Hey you should send Uncle Cieran a message on facebook or something. His new bean sprout is sick.  Skype for deets.
+@Out_at_sea Yess. Thanks! Meh. 2R Murray?  Ernie will never get to a 3rd rd of a tourney.
+@tiny_teapot Hey Hey Alison! Yes, I knew you. No one would tackle Welsh Cakes with such aplomp! 'xpect you heard they killed PJs 
+@cindarella_shoe Hey x AFAIK Taylor doesn`t Tweet x There are a lot of fakes on here  I`ll send u a message wth those who are real x
+@Kirrily Hey how are you feeling about the job?  I was at Borders earlier and saw a Florence Broadhurst book and saw your twitter bg in it
+@lancepatrick Hey honey!! Follow me please, I have no friends except internet hookers and free cable offers  I'll call you soon. Miss you.
+@jonrog1 Hey, it'd be better than Keanu Reeves as Spike 
+@dug  Hey Dug, unfortunately I have no idea... 
+@Tina_cious Hey, what's with the linky without the stinky description? :p Sorry you're having a crappy day 
+@ehampp Hey there, I see you're headed to the Melissa Ferrick show tonight, me too! Assuming the crazy weather holds off 
+@NickkkJonasss Hey Nick, hows it goin.... i lost my job yesterday and need cheering up....are u up to the challenge??...     x x
+Yea I'm kinda bored. Hey @harlot2012 I kinda miss @Grace2011 being on twitter how come she dosent tweet anymore? sad face 
+@knightsangel Hey Eddie!!  He played it already   bout 8.30
+Hmm Adam Lambert's new/actually old song sounds like The Bangles. Come on, make some new rockin' hits! 
+@starrkissed Hey Girly, long time no hear  how u been???
+@Just_Spencer Nah  I left at like 3 in the morning yesterday so if they came yesterday I didn't get them. Ask Jax.
+&gt;&gt;&gt; @Rob_Rep Nah iM Not Goin   ...
+@princesssuperc Hey! Wh weren't you supporting Britney on the o2 in Dublin...? 
+Dude, I loved me some Gary Papa. Sorry to hear about his death. 
+@GabrielSaporta Hey, Gabe,  my biggest dream is marry you, haha   I love you so much!!
+@GabrielSaporta Hey, Gabe, my biggest dream is marry you, haha   I love you so much!! &lt;3 [2]
+@1INAMILLIONDIME Yo Taniyah, I might not get to make the daughter's party.   Unless I come for bout 5-7 mins. 
+@NKOTBGirl83 Hey girl! I didn't even know you were here!  Knight!
+Reviewed video from this past weekend.  Not much on it at all    Hey, it hapens!
+@Doug1022 Never been to L.A. before, so IDK where to go and I don't wanna go alone :/ 
+@xsugarrush Hey Becky! I just came on... It's sadly my last day... 
+@cavorting It's the only bit of luck I do have!!! Hey it was you who backed the winners this week!!!!! Watch the F1 and more  housework 
+@esmeeworld Hey Esmee. Where is the 1-2-3-4 video gone? I wanted to see it 
+@techfreakstuff Hey Rohit very well written post but i am unable to post comment on your blog 
+@disang woot woot! Hey clown, look at yourself jerry, hv an mirror? I swear you are a 100 percent look like a clown tummybelly! Disa 
+Aah, Daddy Jeff. You disappoint me. 
+@Sean_McGaughey Hey Sean--where are you?? You are missing some good stuff... #pab09 
+@NathanaelB Hey Nat, hope you and Rae have a good one. Sorry couldn't make it, permission denied  Or, not asked for due to phrasing issues
+@McGiff Hey Carol! =D  Just wanted to say I adore Loose Women, so hilarious, especially you!!!  Btw do you know when Jackie is leaving?  x
+I've got &quot;Hey Jude&quot; stuck in my head 
+@Meohw: Hey, what's your MSN? I had to make a new one 
+@daydreamingnet Hey, could u follow me so I could get your updates. Cause I'm followng u &amp; don't get ur updates 
+@christajtodd Hey Babe...not much. I forget to check this thing sometimes  Plus I wasn't around the computer much yesterday....
+@Lou_webb Ohhh sad  *huggg support* Where do you go ?!?
+@ChrisMW Hey Chris I am find, it is just I never actually got out off bed until 3:30 then I went to the shop. Sorry 
+@BigDaddyAbel Hey what song did Def Leppard do? I missed it! 
+Lol... Y'all got jokes! it wont let me reply back to you two smart asses 
+@JetBlue Hey JetBlue do you Fly out to Georgia? Last time I checked you dont  and my family LOVES you airline!
+@LesleyER Hey Lesley! where's the promotion?  the album is amazing, Electrik red deserve success!
+Honor Society is done. Boooo.  But don't worry, they will be back. Maybe doing a duet with the Jonas Brothers?!? cough cough.
+@evaangelinaxxx Hey whats up? I been trying to hit you up...what gives we did the interview and now you're like MIA on me dude 
+Did Texas Roadhouse instead... service was awful! Anyhoo... Father's day tomorrow... I miss my dad... RIP RME 3 years this month 
+@VladimirValette Hey hon!  How are you?  I've been deathly ill for 2 weeks, offline for 1 week.  So basically MIA for 3 weeks.  
+@Jeff0134 Hey....r uy competing with our @spiritjump summer raffle which starts tomorrow night at midnight? 
+@trainright  Hey Chris! Lots of love coming your way from Oregon! So sorry about papi 
+Ugghh the weather is going 2b so crummy 4 the next few days And it doesnt help I feel a bit sick Uh oh (may not be able to see her Nick!) 
+@joerogandotnet Hey Joe wish I could watch it man but it aint on here in the uk  seen the clips tho looks great. Great show tonight too.
+Ummm so twitter has been so boring without Joe and now it is boring again 
+Leaving sweetie  prob  wont get2c him 4 other few months! Boo that sucks!!   Debbie Allen Here I Come!!!
+@Vh1Frenchy  Hey Frenchy! Please get back at me    no one ever seems to....you ROCK! YOU SoOOOOOooooo deserve your own show!
+@JBFutureboy Hey James, where can I find your new song? I went to your myspace, but I didn't find it 
+@adammshankman Hey Adam, you can't be permanent judge... then you'd never be able to choreograph  #sytycd
+@nnarbs Aww girl! I'm sorry   Let's do lunch this week...Cora's? Hey! Merr and I are taking Spec. Ed part 1 - interested? Mon. deadline
+@KELLY__ROWLAND Hey Kelly there's a story in a tabloid today that you refused to be photographed with Michelle, tell me it's not true 
+@teamrr Hey - preview those pics before you post! That is a horrible pic of Jamie Mac in the garage! 
+Whoa. I can't believe Will.I.AM 's manager punched PerezHilton :O Thats a shame for the B.E.P 
+@lockwood_13 Hey Johnny Boy!  How are you?  You need to cheer me up today... Sucks about the conert   Wanna have lunch?
+@LaceyTurner Hey, i know it's only a show but it's so sad what's happening to Stacey and Bradley wants to divorce  but i wanna ask......
+@DebbieFletcher. Hey Debbie! Can you say to Tom to answer me?   Oh, youre the best McMum, forever. haha XX, love ya.
+@mckenler Nope, no luck with Gil as yet. Spose ur almost ready for bed over there 
+@Shontelle_Layne Ohhh,  - i'm not going to that this year! xx
+@amy4669 Hey, sweetie. Thanks. I'm ok. Metro accident! 2 trains collided. At least 70 in the hospital and 6 dead. 
+@tommcfly Hey Tom, I talked with yout mom and sister yesterdar , please, i just want a reply from you too, i want it 
+Ed McMahon croaked? Fuck my life!  Now who is gonna deliver me a check to my door
+@britola37 Hey missy!! BC of a uti  ouchie huh!!! How are you!!
+@Yoshiinoya Hey Cuh! I know...time is zooming past and we have yet to see any type of Summer in NYC either, it sucks! 
+Up and Ready to go. Headed off to @DunkinDonuts, Then picking my little sister up from school...Oh and R.I.P Ed McMahon!?  So sad.
+One more day left here  this place defiantly puts Florida to shame , Lmao . Tomorrow is the Jonas concert &lt;3
+@WahlbergSoldier Hey I'm a Donnie girl too. Do you have any shows coming up? Mine are all over 
+@blueslady26 Hey up Dawn....  hows you been today?  I'm missing all this sunshine whilst being at work... it aint fair!!!  
+@MarkusFeehily Hey Mark, no tweets today? 
+@bentoboxx They came back  I know I'm in trouble when my PA asks &quot;Hey, is your internet going slow?&quot;
+@officiallyjustc  Hey girl, its sad about what he said but its kinda true, about Bey uhm I def think Bey is a THICk girl but big no 
+Transformers 2 was AWESOMEEEEEE!!!  being sat in between your friends, both of whom are couples...? awkwaaard. I want a Jonas.  Hmph.
+Uh oh, Garth's review of Transformers 2 isn't kind...  http://tinyurl.com/njd249  I'll probably see it anyways.
+@Dannywood Hey Danny just took the Which NK would u marry quiz, got u! Expect my proposal at the Irvine M&amp;G. Oh wait, I'm already married 
+@CookyMnstr  Hey, Noelia - I can't get the ribbon up on my photo either... and I couldn't get my pic to turn green. Tried 5 or 6 time now 
+@angel_face2 Hey girly, Jaden is being bitch to me  she wont talk to me anymore.
+@supermac18 Hey! i wish i went to the demi concert  But i'm going to the one in vegas Babay! Lol But yeah talk to muahhh!
+The song Hey Jealousy is on the radio right now and that title is very appropriate for how i'm feeling right now 
+@winningedge Teresa...   Of COURSE I won't laugh at you! Hey, I'm behind you (for support) all the way!
+@DavidArchie Hey David. been waiting for twit for me  HAHAHA.
+@AnikoHeartsJon Hey Aniko, how R u?!Just wrote the next part, tell me if u like it ;) Can't upload the last pic  It was a bit of the diary
+@LaurenConrad Hey LC!! Could u like give me a copy of your book? I'm from a 3rd world county and can't afford it. Not available in here 
+@DonnieWahlberg Yo Donnie, if only I was accross the pond  Enjoy your gig tonight &amp; rock the casbah my dahling!!!TWUGS to you guys xx
+@pibworth Hey Lauren, how are you?! Weather not so great here now. Looks like rain  What's new in Barrie?
+@theDebbyRyan Hey Debby 
+@JonathanRKnight Hey Jon we all love ya and understand,that's all it counts  
+@therealnph Hey NPH, whats up with all the strippers you're following? 
+@FakeCedric Hey Ced, this is KingdomGuard 
+@Ed_Westwick Hey Ed  How's it going?
+@xJaix Lil Miss Sweetheart eh? hmm. well get better soon Jai. BTW I'm Tri  Lmao. Jai ... Tri... Both ends with III lmao. okay night girl.
+@tsarnick someone took off MSN on this computer GRRRRRRR I am going to kill!   Hey dad!  luv you
+@DubTheatreFest Hey Shauna, tried direct reply but it wasn't working. all good here and u? the dock on twitter...times they are achanging 
+@steverunner Hey Steve, I listened to 5 episodes of Phedippidations today. I feel like I'm stalking you. 
+@relevantstudio Hey Jon, how's things working out for you now? That got a tonne of publicity 
+@drewmillikin Hey! Smile 
+@jnaylor  #kiwitweets Hey Jer! Since when did you start twittering? 
+@ddlovato Hey Demi! Pleasee replyy im such a big fan and I love everything you do! It would mean so much! Youre such an inspiration! Sana 
+Okay, listening to the new Jack Penate track has made me feel abit betterr 
+@NickijoeCanuck Hey Nick - hope you enjoyed the show.  HARDSELL is up next, which we're pretty excited about 
+@jbazer Hey Jeff, I don't know that we have met before  looking forward to see your site once it launches!
+@fakerpattz Hey Rob!! i love you so much ur fucking awesome. come to Australia please  I cant wait for your new movie xx
+@JonathanRKnight Hey Jonathan, how goes it, hope you're feeling better 
+@BuddingWino Hey Thx for the #followfriday shout out!  Back at ya, my fellow wino!  
+@SURFislikeaBoss me hair ain't Red its da light its blonde and black!  @jamesissexy Hey Hotty!  @firesty who da other girl?
+Finished helping mother in kitchen. Made biriyani!! Looks good as always   Watching Rocky now, Hey Adrian!! lol
+@angellr Hey Bob!  Thanks for the follow!  I've never heard of an WIS before.  Looked it up....Funny stuff...  
+@markblomeley Hey Mark, how is everything with you? Let me know when you are back on Twitter. I would like to learn more about your biz. 
+@mayatheb Hey there Sis, how are you? 
+@samjmoody Hey Sam!  How old was Dougie when he started  playing bass? xx
+@ForBrideandBaby Hey, can't DM you back? We don't have a Mompreneur, but great link for our #kids and family area - very cool initiative 
+@djstevesmooth Hey Steve  I was wondering if you're turning Japanese?
+@slopjockey Hey man!  Great to see ya on here  Joel says hi!
+Vote for Bobby Ryan - You know http://tsn.ca/nhl/story/?id=275229 (Sorry for the double post) 
+@osmentemily Hey emily. I'm 12 and i need you to know YOU ARE AMAZING  I've just watched Hannah Montana You were so funny xD Love ya!!
+- spoke at an urban youth conference (&quot;Reload '09&quot;) this morning &amp; now at Riley's softball games, then on to @1RC for NightLight. Whew!! 
+@dpbkmb Hey Fun Dave - I guess in a way it will be - there is a video on my blog by a poet Borges - right at the end he refers to it 
+@visualmadness Hey Kev!  When will Virtuosos site be up? Can't wait!
+@ryanmtedder Hey Ry!! 
+@KourtneyKardash Hey Kourtney..happy birthday  have a really good 1 
+@OfficialMelB Hey Mel, so excited to find you on Twitter Please reply and make my day 
+QOTD: &quot;Hey - I still haven't told you guys the story about the English Heritage fella and how he's lucky to be still alive!&quot;  @yawnerddn
+@desireeapril Hey Desiree  x
+@ShivonAStarr Hey Shivon!  I see you...
+@okesanne Hiya  Naw - I'm not Dave Lamb from CDWM - but *he* does get asked if he's PembrokeDave quite often!
+@tomstoyz Hee hee, want!  Hello, Bat-Kitty. You so cute.
+@DawnRichard Hey Dawn...Whats your fav song of DAY26 new album?  I'm loving &quot;Perfectly Blind&quot; 
+@k4pt4in Hey Kaptain, what's your email addy, I want to send you something. 
+@ledisi Hey Queen! I know  no ticket is Needed but when I'm driving &amp; in my Zone bcuz of a GREAT song I CRUISE at a rapid pace 
+*sings* Fruit salad, yummy yummy. With yoghurt, even yummi-er! (I has my snack -bring on the #F1!!) C'mon Webby!! Go Kimi! 
+Its 3am and I'm in NYC at Max Fish - PBRs are $3 but I really hate this idiot city. Oh and ASC was unbelieveable. Thank God Ashy's here 
+@electra Hey, darlin'!  Tearin' it up, again? 
+@QuaintAmber Hey Emma thanks for following me, hope you'll have an amazing sunday 
+@PRofOZ Hey Lovely... thanks for the follow shout... 
+@PiscesInPurple Hey Judy Blume, stop tweeting and get writing! (nag nag nag) 
+@Sir_Almo@skylineproject i give you 300grams of chocolate to distribute as you wish   #choctwestival. Hey fellas. Sing out if needmor
+@BrandiHeyy: Hey Brandi... Just Wonderin .. What are you + Miley doing in Germany  .. Please Reply.. Love Natalie + April .. xoxo
+@dougdorman ..Hey, Doug! Glad to see you here! 
+@MrsJasminCullen Hey Du Gossip Girrrrl  Wie geehts?? LD ?
+@mobireview Hey M-R, nice to see you here, we shall call you Mt-Rt, here 
+@BrandiHeyy Hey Brandi! I saw you at 'Hannah Montana' and the music video 'It's All Right Here' .You rock!  
+@JonathanRKnight I missed ya tweets Jon! Missed out on the HOB did we? Uh well, at least you're back &quot;home&quot; Take care, have a good break 
+@thatfamousguy Hey Matthew, Did you Enjoy Guys and Dolls last night? Whats your thoughts on Lauren? Be nice! 
+@Yogi_Gio l3ama! I know this one! Crew!  What a sign !!  In giving, we receive, my dear Yogi 
+@nick_carter Hey Nick i justa wanna say hello 
+@ian_watkins Hey Ian, is it to much to ask to get your opinion on my graphics work I've done? i'm a fan of your work, it influences me  x
+@chrisntr Hey Chris.. great to see you yesterday  hope you had a great night - was a shame I couldn't hang around after for drinks
+@TazakaTiz -Hey Taryn! Welcome to the madness 
+@zhiho - Hey there mate, hope you're doing well with bubs and A. Catch up soon for reasons other than that telco facade! 
+@DailyCyrus Hey im back =D just installing MSN loool 
+@Jimmy_Poodle Uh, just WHERE has your dog been? 
+@PerrieBelle Hey Perrie! Kirsty here (fragile-heart) 
+@alexandervision Hey Tiffany.  There is no bad time for Taco's for breakfast...why not?   Go for it!
+@ASacco Hey Al - I really want a new BB.  I want the BEST one, because I'm a  baby   Any chance you'd tell me what you think is the best?
+@OfficialKat Whatcha do? How did the illustrious Kat Dennings spend her Saturday night?  Glad ya had a great night Kat!!!
+@stephaniepratt Hey Stephanie... you are so gorgeous!!! I love your style! I think you are such a nice person. Have a great day... 
+@deedawning I also play the accordion but it's not a fave instrument. Hey, actor Gabriel Byrne plays the accordion.   #midnightseductions
+@Stony419  Hey Tony  hows your sunday going?
+@samjmoody Hey sam! hows your day?  what did Dougie tell you about Brazil? 
+Hey Buddha.  Hey Dharma.  Hey Sangha. 
+@transmanaz Hey there, Michael! I think our paths may have crossed once or twice. I'm VP of FTMI, founder of @GQR, many other hats.  Hi!
+@OsmentEmily Hey Emily!  how are you?
+@Harvey_S Hey, no worries. Sometimes the remedy you just gave is exactly what you need to do...just breathe deep and sleep. Cheers mate 
+@TweSommelier Hey thanks for the shout out! Cheers! This Sauvignon Blance is delish. 
+@YaBoyReLLz Hey Honey  wats up
+@mileycyrus Hey Miley  where r u going to?
+@ddlovato Hey Demi!! ur awesome! Im a big fan! Just wondering, when will Camp Rock 2 be coming out?? ~Eleanor 
+JAMIE!!!! Hey just found out that u got the part in new moon! Congrats! Lookin forward to seein u on the big screen 
+@toastymuffin Hey lady! Thanks for following. You are such a PR rockstar 
+@JonathanRKnight Hey! I thought there was a pool party at your house today? Nothing to do between 5 and 11?  Andrea
+@christinachou Hey, great job w/ ITASA, it's thanks to the conference that I had the chance to meet Hochie and Serena, so thanks to you 
+@Mike_Adam Hey hooch!  Welcome to the Twitterverse 
+@Fierce_Princess Hey! I replied to our role play... 
+@tommcfly Hey are you playing some new songs on tour? I'm seeing you in Newcastle! 
+@CharlyeLuvsU Hey... I am such a fan. Loved all the PCD Presents. You should have totally been in GLG u were my fave (and Nichole) 
+@robcthegeek Hey Rob, no not at all   I am always up for meeting new people 
+@TimNunn EEK, who said bunnies where cute  Hey what has she directed ~ anything I would know.
+@unahealy Hey Una. i love The Saturdays your fantastic  i can't wait for your next new album to come out
+@leightonmarissa  Hey leighton  LOVE your song Birthday ! cant get it out my head, hope you visit for U.K soon xoxo
+@mileycyrus Hey Miley this is Clemens  Iam new here ...and its soo cOoL ! Where are you now ?
+@KELLY__ROWLAND Hey Kelly, just want to say, that you have fans in Germany! :-X Want to send you all the best for this morning! 
+@tommcfly Hey Tom, its my 16th birthday today and it would be great to get a comment back from you.  x
+@unahealy Hey Una. i love The Saturdays your fantastic  i can't wait for your next new album to come out (via @DanielT2009)
+@mcflyharry Hey Harry! Can u give a shout out to me?  I'm Cindy.
+@annetteyen Hey Annette, good to see you again! 
+@DarrenBarr Hey DB... enjoy the gr8 weather... i'm doin'the same. All play for me today Woo hoo 
+@TheMetroMom Hey Kim! Yes, I did catch up on some sleep this weekend and soooooo grateful for that. Neighbours are better last few days 
+@cp007 Hey sweetie hows u? Hav a good wkend?  x
+@nick_carter Hey come to Chicago and do somethin like this Nick! For real! And u can stay at my place 
+@stacibell Hey Staci, how are you doing? it's been awhile since that missions class  at sdcc!!
+@daveingland Thx Dave! Hey, if U put a pillow under your head in your avatar we'll know when we're boring U. 
+@orangemoontom Hey, Thomas, I will be up with you over the next 2 days, working the night shift, lol 
+@PaulaAbdul Hey Paula!  Is AI live for the EST viewers? Nobody's answering me, hopefully you can.
+@RoxOnFox Hey whats good Roxanna? 
+@TheEllenShow Hey Ellen. Is your talk show out in DVD or something? Please don't think that i'm such an idiot.....  
+IDIOTat)Brat13 Hey Bruce, thanks for the follow. So what does Kingsmead hold for us today  #ipl cold and overcast day today? (creat ...
+@samantharonson -Hey Samantha-just wanted to giv u a shout out, im a big fan, love your work! defo my celeb crush  x peace ;)
+@Brandon_E Hey! Sorry it looks like i missed you! Happy sleeping...and welcome to Tuesday 
+@X929 Hey Jay, play Metric so I can go to bed please 
+@GossipChicago gooooooooood morning Chicago!!!!!!!!    Hey, do you have a website?
+@Silverlines I didn't earlier. I found out about it after I clicked her name . @waxinglyrical Hey fellow Ellen! 
+Real programmers use VIM. kiddies only use editplus.  Hey I am trying to be a real programmer.
+@gerardway Hey Gerard !!! everything fine here in this lovely friday 
+@C_DIG Hey Girl, I'll be there tomorrow night! Look fwd to meetin' u &amp; the other #yyc ladies 
+@OfficialAshleyG Haha. You and @KC_Lutz (or &quot;Uncle Kellan&quot;) are too cute! 
+Alright im going to bed now ,,,Anyone going to the JB/Miley/WOW concert tonight????? I wish I could 
+@babblingbrookie Hey Brooke! What're you up to now Idol's over? Any chance of a new album?  Love from Singapore!
+@ClaytonMorris Hey! aks Rove how he would build the grassroots for GOP, give us girls on smartgirlpolitics.com an inside track! thx 
+@bizwhig Hi, Billie. Hope you had a FAB #followfriday. Hey, Tweeps, follow Billie. 
+@OfficialAshleyG Let Kellan do Poopy Scoopy Duties hahahahahaha 
+@dannywood Whoa Danny! You are up late!    Sweet dreams! XO
+@miley_fabulous  Hey girl heyy!  Miley is so cute in your display pic! I love her! Im Sabrina... How are you? xoxo
+@Raeknightowl4 Hey Rae   I've had a tummy bug since last night...sad times...but other thank that...things are great..graduation nxt wk!
+@Navy_Angel Well we've all got to grow up sometime.  Hey at least you're flying...you could be in cubicle hell the rest of the world. 
+@jakkaj Hey..looks like we'll see you at Sydney Remiix 
+@McCallHall Hey Soror! You are silly, one day your Prince Charming will find you. I am still waiting on mine too. I know he is out there 
+@Debbas I say &quot;Hey...do U watch hockey? And what team do u follow and blah blah blah!! 
+@mizchi Hey! Saw your tweets.. excellent stuff. Follow me so we can tweet 
+@DestineeParis Hey, i love you guys! I think your amazing! I am a HUGEEE! fan from the UK!!!   Hehe, Reply Back &lt;3 x
+@carlosguadian Hey! Saw your tweets.. excellent stuff. Follow me so we can tweet 
+@TheRealJordin Hey Jordin. are you planning on touring Australia anytime soon? 
+@lilyroseallen Hey Lily 
+@tgr78 Hey Frank, how's it going? Obviously, you don't tweet much. 
+@GrowWear Hey Mimi! 
+@TipsAndTricksHQ Hey Amin. I finally decided to check out twitter 
+@JosephineT  Hey Sweety  no after about an hour we had the power back - so everything's fine! Will look into finding a flight to Hannover!
+@ENeitzel Hey top man and fav tweep thank you it must be ur SMILE that makes my background look great  have a great weekend 
+@FarmerPhoebe Wow---a gardening goddess---I think I'm going to use that as my official title from now on. Whaddya think?   #followfriday
+@Yurechko YES! Give me some domain love too! 
+@rockson ::Clink!:: Hey, Twitterbug! 
+@malakhithegift Hey there Bro, am doing OK, and you? 
+@mattuk  Hey Matt, thanks for the mention...although you linked to my Radian6 review!  http://cli.gs/6vYe4H  Ta though  
+@claudiopad Hey Claudio,thanks for lowwing me...c you around 
+@farah15 Hey Stinky!! where the party at?? 
+@mitchelmusso Hey Mitchel, Please come to Finland, we love you &lt;3 ^^ ps. I have demanded it already. 
+@miss_asterias Hey, thanks for following.  XoXo Ashley.
+Coffee's kicked in Yipee!!!  Now preparing for a cookout with Rachael and Scott.  Oh and &quot;Lil Bit&quot; is better too  A sick kiddo is no fun.
+@_MoisesArias: Hey , i want to see you in Paris  but when ?? bye (l)
+@JonathanRKnight Hey Jordan needs to talk to you. Call him please. 
+@steph_rose Hey, do you watch Diggnation? Episode 199 was vary interesting for us tea lovers  http://revision3.com/diggnation/somavar
+@msayson http://twitpic.com/4exqm - Hey my little brother's there for PG percussion! 
+@hatz94 Have you ever considered covering something from Plain White T's ? I think u'd do good on &quot;Hey there delilah&quot; Just a thought 
+@WeTheTRAVIS I wish i was at Bamboozle. Maybe next year, I'll drive up there! Go get em' Travis! rock on!! 
+@mileycyrus Hey Miley I hope ur having a decent day!  ur amazing at everything u do have a grt day!
+@lexschroeder thanx d000d  Hey, when's DDR? #elephantMemory
+@Lindsey_ Hey, what's up! Haven't heard from you in a while, or the other way around if you want  You guys enjoying your weekend?
+Live now: Leo LaSquirt Hey Leo that sounds like Porn  http://ff.im/2wWSs
+@Bratt8 Hey mother dearest! 
+@autumngirl82 Hey Welcome!! I see that your a Donnie girl   He's my second fave...He's quite yummylicious...
+@edmigper Hey, I am also a BlackBerry fan like you 
+@rowsell Hey Vaughan, great meeting you at #chchtweetup, and we hope the journey continues to bring you many adventures 
+@Jonasbrothers Guys..... U rock!! I love the first episode and I can't wait to see the second one!! Congratulations!! much love!! 
+@retzels Oh man, Kevin's so funny. &quot;Hey look, it's a cloud shape like a rabbit. Cuute!&quot; That's my favorite line. 
+@LaDyBuG21 Hey Beckah 
+IDIOT: Hey, th*nks for the follow, wow this is exciting a new tweet.  (pmartin46_USANA) #IDIOT
+RB'ing @DJDolceVita  &quot;This is one of my favorites   Little Robbers album was the best!!&quot; Hey @vidabatine - w... ? http://blip.fm/~5gveh
+Eating at the beach side at Watie Beach Cafe. Food's OK. Nice and relaxing. Office? Yeah working now!  http://tinyurl.com/c7mmwo
+@DavidArchie Hey David! just passing by hope your having a great day 
+@NewMusicTweet Hey! Saw your tweets.. excellent stuff. Follow me so we can tweet 
+@ddlovato  Hey Demi, I love you so much like you are trying speak spanish, because I'm trying learn english and is so hard for me  
+@DavidArchie Happy Sunday!  Hey David? Do you know Gabrielle? I'm a bit addicted to her old stuff lately, haha, Dreams can come true...
+@x_ruthsudlow_x Hey thanks for the follow back Ruth! 
+IDIOTat)x_ruthsudlow_x Hey th*nks for the follow back Ruth!  (riversideboy) #IDIOT
+ok, i got my first follower   Hey Marcy! 
+@sotirovalex Uh cuti, gledao sam film do 4 - The Shawshank redemption sa Tim Robinsom - extra film 
+@GomezSelly Hey Selena 
+@DisneyMadXx Hey Jade  I saw it yesterday 
+@tommcfly Hey Tom   I love McFly and I think you're so awesome  which one of YOUR songs do you like the most? (traditional question)  x)
+@Dommie41 Hey mr. Philly...most of my followers are from philly baby!!!...I'm in A.C. though 
+@Mango724  Hey, you are watching JONAS episode 2, where ?! 
+@JimmyVo Hahahah. Somehow I don't think Pete go along with that. Want to see a world record broken? How fast can a host shut down co-host 
+@ianbnz Hey Ian i think you were at the seminar today. How did you find it? 
+IDIOT: Hey, th*nks for the follow, wow this is exciting a new tweet.  (pmartin46_USANA) #IDIOT
+@thebsideshow @misspublicity Hey Queens, how was your weekend...so far 
+@aimee_raymondo Hey fellow mental missy  I am indeed, had such a nice bath and now sitting in the sun! You poppet? Xxxx
+@scrapboxnicole Hey Nicole...thanks for the 'nudge'.  Happy to follow you!  
+@OfficialJoBros  Hey Jonas, I really love you guys, You're The Best 
+@CreativeArtwks Geez! Musta missed this Linda! Little League - he pitched most of game, had a triple, got the game ball! He was excited! 
+We're shaking polaroid pictures while listening to Hey Ya by Outkast 
+@Vanmo92 Uh, yeah Evan, I'll send ya a gift card!  
+@Brittanya69 Hey girl! Glad to see you following me.. just wanted to let you know you were the HOTTEST girl on that show 
+@SamLuminate Hey i have been there!! many times.  no lie. hahaha. I WILL live in Malibu watch me.  hahaha have fun!
+@jasmine_dani Eh, tru tru... i think id rather have Travis  &lt;3
+@nicolerichie Hey Nicole. Do you know i never knew your dad was lionel till last week. How strange. 
+@ITStudios As Adam Sandler said in Happy Gilmore, &quot;Why don't you just watch me, and make sure I don't do anything stupid. Okay? &quot; 
+@mileycyrus  Hey Miley! Hey Miley! Hey Miley! Hey Miley! ok thats all I wanted to say!  Ur beautiful and hope u had a awesome day!
+Okay so does anyone else besides me wonder who Joe considers his numer 1 supporter? 
+@_Quil_Ateara  That Quil is a sweet, sweet boy 
+@Lepi19 Hey Cuz  Stalk on! lol. Did you just get yours? I havent had mine long, dont really use it 2much.
+Breaking News: TWITTERSPAT!! Hey @lilyjang @jennihogan @StevensonRebeca &gt;&gt; tune into: @madnewschick @ParellaLewis last nights newscast  
+@AmpdApparel Hey Ampd, are you as witty as your Tee Shirts would suggest? 
+@miss_tattoo Hey girl. I'm a new follower - I think it's awesome you've gotten the chance to get so close to Donnie. Very cool!! 
+@Wandahope  Hey Wanda great to tweet with u and many thx for the info re dobro and what a fantastic sound. Son House is a fav of mine 
+@giogadi Hey Luis, thanks!  I have Flash and my prof's code to thank for that.  *cough*  
+@RobKardashian Hey fellow Trojan..congrats on graduation. 
+@ojtibi Hey OJ, I just want to ask, you hooked up with somebody ayt now? 
+@chang_ROR Hey dude welcome to twitter  its seexyyyyy
+@lalaland_city Hey, u like FOB 2! Follow me, luv 2 talk more, looking 4 frineds + followers!  ~Ellen~
+@Miranda_life  Hey i like love iCarly it rocks.   my youtube account--&gt; http://tinyurl.com/cf63ud
+@alittlelesskaty Hey, u like FOB 2! Follow me, luv 2 talk more, looking 4 frineds + followers!  ~Ellen~
+@tommcfly Hey Tom. Have your plans to make an concert in Denmark this year?  please reply xxx
+@mileycyrus Hey! r u back in La right now?What was ur favorite part bout Europe? I've never been out of the country xcept Canada  XO Jenna
+@SplitRockRanch Hey Split Rock -- I'd know that llama anywhere 
+@MikeyConner Hey I bought that Porter Cable 4-piece set.  My new drill has an LED light near the trigger.  Oh I'm so happy.  
+@JGDemas Hey Muffin, good morning to you! Grt textin wif ya last night 
+@donna_grant  Hey Donna, lovely to see you on Twitter. 
+@gfalcone601 Hey gio, you are beautiful! I am Brazilian and I love you hahahaha! Please answer me  Xx
+@Glowster Hey Dave, whasup? 
+@Pink Hey lady, will you be coming to Canada in the fall? I'd love to see you in concert some time! It'll be my 1st time!  
+@ThrivingIvory the next single is &quot;Hey Lady&quot;.ok, where is my million dollars?? 
+@Alyssa_Milano Hey there  Thought i'd tweet you to say Hi..I have so much to write but theres no space in this little box hehe Damn
+@natashabrown brad's face when he saw that gift is priceless!! Thnx Nat! 
+@mikaylaap Hey did you get any more info about your graduation? And I think my mom's gonna let me go to CP, if you guys still wanna go! 
+@LaurenConrad Hey Lauren...I'm a huge fan! I hope you are having fun at Wango Tango!! 
+@victoriabsb That sucks! Eat a Burrito!  They're way to fun! Hey check this out: http://backstreetpride.net/teamburritocontest.html
+@ChrisMelly Hey Chris...met you in the AI line back in March when neither of us got in...haha  I'm sure you don't remember...what's up?
+@stevecarell Hey Steve.   I think you are such an awesome actor. I love every movie you are in, and I love The Office. 
+@retrorewind Hey  how about some Tommy Page or PM Dawn! I'm new to this whole retro rewind thing!
+I just saw Nick's friend Jose D Fish GH3. Damn. Well, on to Star Wars  I'll probably be going to a MLB game if I get good seats
+@kindlejunkie Hey! I need that book to go with my Amy Sedaris.  @cheesivore is finishing it now, you say? ;)
+@vee71 Hey babe. how's Quest? 
+@BarbaraHauck Hey Barb, I love the line in your bio..Without health, nothing matters...So dead on! 
+@SamBennington Hey Sam, happy mothers day 
+@MrsPinkyIvory Hey Pinky I ordered some stuff from that site you gave me. I got it yesterday in the mail so pretty  thanks
+@wheatskeleton Uhhh. Bring it over when you can.  Matthew and Keren have never seen it.
+@ThaBoyOPhicial  Good eatin.   Hey, follow my son @P33ZY.  He's on now
+@devilsnight Hey, that's my Bug! And my martini glasses . . . 
+@AnnaMariaPdT Hey!  Who are you closest to among all the Disney stars?  [I'm a Filipno too. D]
+@lmatechnologies Gotcha ! Let's meet up @ The Twitt Cafe 
+@itsAnnaFriel Hey Anna.I bet you look so cute when ur blushing 
+@Geetwity (RE:&quot;your joint w/ @Traxamillion408 is crazy!!&quot;) Thx    Hey Trax heard a 49er rear ended you??
+@AdistaKim I was going to hidden-file it and you're thinking about youtube? SO NOTT! Lol. Hey put the phone down and more swimming 
+@shezDOPEx3 Hey u  Whatchu up too? Isn't it past your bed time?
+@BrianMcnugget I was sleep for all that and missed the fun! Hey DG.  lets play another gammme brian
+@SherriEShepherd Hey Sherri! Thanx 4 da messages Wondering if u could follow me? Plzzzz 
+@robluketic Hey Mr Luketic! I don't have your number to send by phone.  You can email me at heathfox@heathfox.com if that would be ok. 
+@LennyKravitz - Hey, Lenny, we are waiting you in Bulgaria again soon! The concert last year was... OMG! 
+@Madinafire Hey Matthew. JUst wanted to say, thank you from me and everyone here in Sheffileld for a magical night! xo come back sooon! 
+@gfalcone601 Hey Gio, just got told by debbie thats its not mothers day over there. When is it? just wondering  xx
+@NickCannon Hey Nick! I appreciate the whole support thing you've done to Mariah!! Brazil's lambs know you are a good husband! Go on!!!! 
+@LeVarThomas  . Hey LeVar Thomas. 
+@MirSa89 Hey Mirsa, let me if it's now to eat at Cici's in here or call the # that I left in mysp@ce msg. Again, happy mother's day. 
+@allaboutenergy Hey Beautiful Lady and to you also. HOpe you have had a lovely weekend 
+@redallisonblack Hey Allison! Just wanted to say you did an awesome job on AI! Girl power! Lol. Rock on! 
+@pinkpanther1472 Hey !!! Are you my French student????  So cool to hear from you !!, I dont' use twitter, I use FB, take care Daphnee 
+@therealsavannah Hey Savannah!!!  You Rocked Last Night Ur soooo Awsome!!!!  Thanks 4 Signing my ipod!!!   Lovee u Savannah!!! &lt;3
+@Aisle_19 Hey JD, so where is your favorite place to go exploring? The world  Every place is great, you learn form each one 
+@oxofamilydad Hey Oxo am I glad to see you! 
+@sarie0108 Hey Sara, glad to find you here  Kr. Rabies
+@AndyCallaghan Hey mate! Thanks very much. Took me long enough! Yeah Lilly is good  Bet you'll be glad exams will be over soon though?!
+@britttnicole Hey Brit  I love your covers 
+@IAMTOCCARA Hey diva! We originally met at Gucci (&amp; Neiman Marcus) in Miami!! Keep doin your thang!! Happy twitting!! 
+@CoachDeb Hey, how's my favorite Hawaiian kickboxing star?! 
+@Kochiha Dang. Okay, beat up Jake for me, then? Just kidding, if you do, I'll kick your butt. 
+@David_Henrie  Hey handsome!! 
+@cuttingshapes Hehe. Ohhhh might go and check out Karen Walker 
+@ChadMichMurray Hey Chad! I think your a great actor! keep it up 
+@DawnRichard Hey Dawnie !!!!!! I got a question for yall  How's it feel being home again ?  Is your platinum record hanging in your room ?
+@golfnovels Hiya Jim  Hows things?
+@B_Roy Hey! Great job this year!! I'm already SO excited for next season...Hoping I get to come to alot of games 
+@trent_reznor Hey one of my custom sculptures for passes to Austin http://img.photobucket.com/albums/v434/hudson82/bat.jpg 
+@TPO_Hisself Hey ,saw Daisy on Ch13 just now!  cool , say hi to her from me and good luck in her search ! 
+@Avery_Brandon thx 4 hitting me back! We have a clear protein gel. I wonder if that was it? Anywho... Thx 4 the tweet! 
+@jaredaripaul Hey Jared   Anyway you could maybe encourage Nick Lachey to jump on board the twitter train?  
+@JJ9828 Not quite JJ. I am here it's just that no one is talking to me!  How are you?? Hey shouldn't you b getting ready 2 cruise??
+@emziebby i hope my 30 year old woman ass isnt too old for it. Hey Dr. Cullen is in nurse jackie 
+@chrisblake Hey Chris, you should check out  @forces2  one-liner blitz (he's on a roll). Some are hilarious - might make you smile  
+@arjbarker Awesome! Thanks Arj!  You should try to persuade Jemaine/Bret to do a Meet &amp; Greet in Phoenix as well ;) (...wishful thinking.)
+@PhotoKristina Hey mami - did you have black shades on at Funk Fest?I was backstage                         Entertainment Coordinator
+@DavidArchie Hey, David! So what's up next for you? Hectic schedule huh? Caught the elimination episode of AI8 already? 
+@DavidArchie Hey David !! I can't really believe that you're here in the Philippines !! 
+@ozclarke Hey Oz, I saw you at the LIWS yesterday tucking into Argentinian wines just before close. 
+@BlackParade93 Hey, hey! Managed to get you some more work exp!! This time with dog groomer ... no summer holiday for you! 
+@JamesRavenell Hey, I just saw you over on MySpace on the Harlem Alpha's page. I was like that name looks familiar 
+@DavidArchie Hey Archie . I Watched You at Sis. I Cant Help But Blush 
+@RynellCook Hey Nelly  I picked that book up, but haven't found time to read it yet - any good?
+@DonnieW_Tattoo   Hey girl!   got a pic to make your day better   http://twitpic.com/3qm21
+@naceprettub Hey, welcome back  I'm ady, a WA and more generally twi fic fan 
+@devilishcupcake Hey Cordelia! I've heard about you...  Nice to see you on here.
+@bradshorr Hey Brad! I don't like them personally...call me silly, but I prefer to respond personally. 
+@johncmayer Hey John! I think there's no problem...she would eat together! 
+@danecook Hey Dane...I saw you on Oprah (sure alot of ppl did) FUNNY 
+I can't wait for next week!!! Thank God, Kris Allen made it into the finals!!! Kick Awesome FTW!!! 
+@bryangreenberg Hey Bryan! Thought i'd stop by and say hello. I'm from the UK and a fan of you from when you was on oth 
+@chuckshurley Hey there, Chuck BB. How's England? 
+@twocoo4you Hey William  I didn't know you had a Twitter. So, what's up?
+Text 242242 to ask ChaCha any question! Its free if you have unlimited texting! Hey, maybe Ill answer your question? Who knows? 
+@donlemoncnn Hey Don I have a flower garden. It is so beautiful, if I do say so myself.   
+@Paula_Deen Wow, Hey Paula!  Glad to find you hear on Twitter.  My  5 year son and I are big fans.  I don't have cable and I miss you! 
+@Mia Hey, bunny rabbit!  Missed you!  How's about &quot;Let's go pillage&quot; as my #3hotwords to you? 
+Rt @GirlswithGoals @HouseOfJerky Rocks- Gave everyone free samples- great company, great yummy stuff too!--- (Hey thanks Erin!) 
+@ShannonCherry Yeah I'd seen the tweet &amp; just had to pass it along. Forgot what a riot Steve Martin was! 
+The majority has voted for 'Luck by Chance'!  OK - LBC, it is! Thnx 
+@PiinkACCL Hey Girly! i didn't know you wrote!  about what is that wonderful song? i can't wait to hear it i miss you chika!
+@mrskutcher Hey Demi, I was wondering if we could get an interview with you for boxofmess.com it would mean so much! 
+@the_real_dirk Hey Dirk, I was wondering if we could get an interview with you for boxofmess.com it would mean so much! 
+@Tyrese4ReaL Hey Tyrese, I was wondering if we could get an interview with you for boxofmess.com it would mean so much! 
+@aplusk Hey Asthon..good night kisses from Mexico! love yaa 
+@Queenbch82 Hey lucky you! We only got super HOT season and Rainy season, that's about it. 
+@DavidArchie ,Hey Archie! Your concert with cook was really great. We really enjoyed it, By the way can we have your bracelet? 
+@DavidArchie ,Hey Archie! Your concert with cook was really great. We really enjoyed it, By the way can we have your bracelet? 
+@mattmorphett Hey Matt, good to find you here 
+Just left Gunline wit @ENessBadBoy @Malikaluvsall @Ace_McClowd Fro Geez Wallstreet. At Dunkin Donuts. They just made the donuts 
+@heidimontag Hey Heidi i think you are awesome hope you are enjoying married life with @spencerpratt   much love xox
+@Olijah_Angel Hey if you'd like to get out and be distracted some time, let me know...maybe catch a movie or a band...de-stress a bit 
+@mikeanywhere Hey Mike, no my head is OK, I'm quiet good actually  And how about you?
+@ikwya Hey Guys well done I love reading this Book and it always with me wherever I go now I'm in Chapter 12 can't wait to finish Thanx 
+@MoOnshine90: Hey Mo! 
+@TalindaB Hey Talinda! I hope you liked Taken!!! its one of my favourite movies!! 
+@Jon_Favreau Hey you should do some filming in Monaco! Then you have an excuse to go back and it's free 
+@ShannonSpence Hey shanny dos!  Ur now on twitter! Coolio! &lt;3 xoxo
+@PerezHilton Hey! Me too. 
+@arikhanson Hey c'mon Aric, this is the reaon Al Gore invented coffee!! Hope you guys have a great day 
+@morrick Hey, same here!  Took 2 days to choose just the _right_ typography for body text, which was just a Sans version of the previous 1
+@ROBsessedBlog Hey, what's up with Rob? Is he in cannes yet? 
+@JessicaPinup Oh yall were at Steve's Zoo? Wow I admire that man so much! He was amazing cos of what he did.  Lil koala bear lol. &lt;3 youh.
+Okay my babies  Aunty Nikki just got home safe and sound! Tonight was interesting!!!! Loves to all night 
+@rbadr Hey Robin - so you're an animator with a sideline in songwriting?  If you're ever in Wellington let me buy you a coffee.
+Okay I should call Radio 1 and also ask Danny to marry me 
+@bloggerjoe Hey Joe... what is the website.. I'm having issues 
+@InkedFrackGrl Hey Christy glad your feeling better 
+There must be a Program that lets Celebs Bleep out all us Peasants posts except for Trent R  Who cares about his fans! Thank you Trent 
+@redsoxmonkey Hey Kayla! how are you 
+@ClaireheartsRob Hey Claire, hope ur well hun  x
+@JoeeeNagy Hey Joe, don't make it bad, take a sad song, and make it better. (The beatles make everything better) 
+@mileycyrus  Hey Miley love the song the climb i listen to it all the time. You have a wonderful voice. 
+@TeamCybergeist Hey Angel will you have any tours in europe any time soon, and if you do when 
+@AreeLulibub Hey Aree! Have fun at the lake.  And woot, go Relay! 
+Just like that Uncle Sam poster says...&quot;We want YOU!&quot; OK...that was REALLY bad...but it's true  @ or DM me about @fuelyourwriting!
+@brianlobban Hey Brian - great to see you on Twitter. Hope all is well. 
+@yohannamusic Hey, congrats on 2nd place last night, it was superb! I voted for ya. Virtual high-fives from England, rock on! 
+@pob34 Hey Paul... been enjoying your day off??  Weather aint been bad anyway....  thought it was gonna lash down, but it kept away!  
+@souljaboytellem Hey S.Breezy when you in london...? 
+@mileycyrus Hey Miley. im from new zealand.! you should come do a concert here. it would be awesome!  from Kaitlin
+@anoopdoggdesai http://twitpic.com/5d7az - Hey Anoop! What is Danny's twitter? And does Kris have one? 
+@EricNorthman  Hello Eric *Funny Bunny* here hope you r doing well   Like you new pic BTW    
+@msutton77 Hey--we winter at Orange Beach!  Have fun, and say &quot;hi&quot; to Chuckie the Alligator for us 
+@NikiScherzinger Hey Nicole! I hear u and the dolls r gonna be on Rove again! Wat song will u perform?  xx
+@amandasincler Hey there!  Your worked with Kat on music I'm assuming?  That's awesome! 
+@Adri214 Hey...  I know you!!  
+@DavidArchie Hey David, i just want to congratulate you from your performance here at Philippines. Thank you for making us Happy. 
+The Poken are clearly conspiring against me  Hey, I'm the official evangelist along with Andrew, so I had to... re: http://ff.im/2YXeP
+@ryanmesi Hey how was D&amp;B's last night?!  Monkey bar was totally awesome 
+Goodnight everybody. I'll holla atcha from San Fran in the morning. PS- Somebody tell Pepa from Salt-N-Pepa I'm looking for her! 
+@DavidArchie Hey David!  glad you've returned safely! I hope you'll come back in Manila... will you? Hehe...
+@annTRS I asked Matt for a picture twice and he said no twice. Grr. Oh well. I got a pic with Vinny instead. 
+@SSPU Hey Brian &quot;Wilma&quot;, it was sweet meeting you the other day! Thanks for letting us hang out w/you guys for a bit 
+@ddlovato Hey Demi- please follow us to draw a smile upon a victims face, il explain all the details after u follow  xx
+@Zac_Efron Hey i saw in my email that u had followed me &amp; now ur not.guess u realized u didnt kno me lol lol but i wish youd follow again 
+@mrw00dy Hey Mr W  Hw is ur term going?
+@Jessie0309 Hi, I'm FoxySmile in Danny's IDF thread  Nice to meet you!
+@officialTila Hey Tila! I left ya two messages on your voicemail earlier.....Does that make me worthy enough for you to follow me  XoXo
+@PrincessSuperC Hey, just watched tha Kiss Concert SC.Com Posted, yu did great performance, really enjoyed it!! 
+@alroker Hey Al, as an avid follower from the Mahoning Valley area, I was wondering if I could have the privilege of you following me 
+Ny Hey Ash, Whatcha Playin' idag  http://bit.ly/ZAuAR
+@JonasFanJade Hahaha! Okay fine, she's not that nice. Lol. Hey Jade, sorry but i need to go now. Catch you another time! xo 
+@Monica2112 Hey cashier is cool, I love fastfood! Haha. Any discount para yo? XD. And yes, they better release ZG before the summer tour! 
+@celestinekho Hey Celestine!  it's really fun hanging out with you too! The nice food and koi cafe are still swimming in my stomach! 
+@John_Southern Hey Twiend       xox (Yes i robbed ashlie's kisses, that makes me an inbread :s so have u, ur inbread too) LY x
+@depechemode Hey Dave and the others.... I will see ya on your tour in VIENNA! i will see ya! 
+@1indienation Hey Rach. Looks painfull, what did you kick? A slab of concrete? 
+@james__buckley Hey! Dude, I totally love Inbetweeners  Jay's definitely the best character haha
+@ob_em Hey there Emma, here are a few folks who could help u with the answer 2 your question  http://bit.ly/references
+@Yashiyama Hey Yashi, you're awesome. .....IDK i just feel like saying that to you  'cause you are.
+@mileycyrus Hey Miles !&quot; What's your fb acc ?!  And where are yOU?! The Bahamas  ?!
+@spencerpratt Hey Spencer, greetings fan from Brunei 
+@tommcfly Hey Tom! It's my sister's (@kim_davies) birthday today! It would mean the world to her if you greeted her! Thank you. 
+@lil_tim Hey Tim, thanks so much for the positive feedback! Spread the love 
+@BRUNSWICKFC Hey there fellow HARPER..  Name by marriage for me...but still a Harper...I mainly have this for my daughter..loves icary! 
+@XStevenProcess Hey Stevie!  &lt;3
+@Bethanybrb Hey Bethany, how're you? 
+@micahtc Hey Micah - glad to have set you off to also rant about WSJ and &quot;JIT&quot; with me 
+@toscho Hey, das ist ne gute Idee! 
+@jimmydevery Grats! 
+@aggienormi Hey Norma...to reply to tweets, do the &quot;@username&quot; at beginning. It makes your tweets make more sense. 
+@Valentin00 Uh oh.  Watch out now.
+@Rose_Cohen Hey didn't know you're coming! The REAL boss of News24 
+@LstInTheSeeThru Hey Bobbi! 
+@onm_uk oh my goodness DSiWare shop actually has a good game. Hey there pictopic 
+@NW_Mktg_Guy Hey NWMarketingGuy I need to meet you in person!!! I keep hearing about you!!!  Warmly,  d3
+@Kanzi_XxX Hi Ryan  Yeah sitting in the canteen sounds cool  I voted this moring so i could vote again!!! Go me....
+@taylorswift13 Hey Taylor! I am your biggest fan. 
+@davidarchie Hey David, I made this account just so I can contact you You were awesome here in the Philippines, I hope you come back soon 
+@urulover Hey. Thanks for following me. I don't usually write much in EN but, anyway.... Ty just the same! 
+@RyanSeacrest: Hey, Ryan! Nice to meet you 
+@MelodyChase Hey thanks for the #FF 
+Even the A team can't find @Jimmy_Poodle !!!! So y'all better #followfriday !!! I ain't getting on no plane 
+@jecegirl Hey Lisa! Yes, I've received it. Thank you so very much!! 
+No worries!~ @TheRealNobody  Thank You too!~ You have a friend called @DJSMOKKE I have a friend in Sydney called @djmookie  Cool Huh~! 
+@KrisAllenmusic Hey Kris! Where are you first headed for your tour? Please visit the Philippines! 
+@jackjewers Hah!  I notice Davis particularly loses it during the discussion of how ducks like to squeeze through small openings.
+@Sammii_xxx Hey, I dont know if i told you but I posted that poster to you the other day 
+So @dannywood, whatcha running today? Hey stop through Chatt on ur way to ATL &amp; workout w/ me! 
+@One_Call Hey how r you? Do you guys have your own twitter accounts?Plz let me know 
+@LittleYellowJen Hey Jenn,How are You?What Yaa Doing..  Well just wanted to say ur REALLY prettyyy  love Alicia xoxo
+@106andpark Hey! Rocsi, Hey Terrence! I love the show its where I get all my music from! Thnks for being awesome. 
+@KKMommy72 Hey sweetie! Can always count on you for this *way to early* goodmorning  Feeling any better?
+@esmeeworld Hey Esmee. How could I get your album if i am from Lithuania? Answer if U can. 
+@Rove1974 Hey Rove Hey Rove Hey Rove Hey Rove 
+@DouceCalinette Hehe, Hey so I see your moving to FL, that's cool, I live in Miami. It's pretty Dope out here you'll like it 
+@moonfever0 @MorethanMommy Hey ladies, just so you can connect with her properly, Kristin is @kristinsb 
+@hisaming Hey, one Deepak is in your team..right..? I remember talking to him on Gtalk once 
+@Jen_Watkins Hey Jen, I have the Curve thru Alltel and LOVE it 
+@teddy_petri Hey you should make RHUBARB PIE to the travelers! 
+@kylemcc899 Hey if your looking for photoshop CS4, I have the portable version if you want it 
+@KJ_Miller Hey there is no LULZ! I'm always serious!!! 
+Ok... Hey! Ask my Magic 8 Ball a yes or no question!  GO!!
+@RyanSeacrest Hey Ryan! What about the kiss of Katrina? is that true? or just included in the show?? 
+@Ali_Sweeney the game wasn't a letdown.  Not at all.  It was FABULOUS!!!  Definitely TGIF!!  plans..watching Nuggets kick Lakers booty! 
+@yankee32879 Hey stranger to you too!  When are you coming out to Foley's to watch a game?
+@addikshun YES! Pics for days! I wonder if we can have our own folder on 7days? Shouts to @eddyshades, he captures me well! Hey @neethood 
+@tommcfly Hey man, r u already in Fortaleza? Tell me how things going... r u gonna do something cool today? I'll see ur concert tomorrow. 
+@ncnp Hey hey...just thanking you for the FF love!!! Enjoy your MD weekend!! 
+@AClaire1218 Thanks Anna, oh.. of course, i wouldn't want you to make the year in public, either   Hey, do you have a facebook page ?
+@donnam13 Hey you!   Are you back on chocolate again?  I don't even know why you gave it up in the 1st place.  Something to do with CS?
+@preciousmc Hey!!  Hit me up later after ur lunch meeting.
+@josh79b Hey, hey, now! When you have WiFi at 37,000 feet, you too will feel the need to tweet uncontrollably! 
+@KrisAllenmusic Hey Kris! I'm so excited for your debut album! Can't wait. 
+@selenagomez Hey Selly! I'm Mark! What's up? I wanna talk with u 
+@jeffeckhardt Hey Jeff, @jujuburd &amp; I keep raving about how much fun it was 2 live-tweet #bachelorette *LIVE* with U &amp; @TiffanyEckhardt.  
+@ToddDickerson Hey Todd, thank you so much for your follow  very cool profile!
+@michaelfieldcom Hey Michael - @PShilling mentioned you were also looking for a customised twitter tee supplier in Oz. Any luck? 
+@IamNovel ah ur with Harold!?!? Tell him I say Hey!!! and that Im still waitin on my package of Jodice tunes!!!!  lol
+@bisante Hey Andy, I called you at your show.  Some fun stuff.  I'm totally gonna be at the next one! 
+@iamdiddy Hey Diddy 
+@LaurenLee_  Hey thanks Lauren, we are only too happy to Help   tristo
+@emilyfreeman @nsmale Hey Emily looks great! logo top left, looks off sized, but overall nice site 
+@TheOnlyProphet  Hey how is the Drone BPO sets going? Update me! 
+@johnschuhmann Hey John, keep up the great work. And tell NBA.com they need to make it more obvious how to access the postgame pressers. 
+@GerardNelson Hey! Kutcher would probably punk me if I got more followers!  Have you tried this? http://tr.im/mtcJ
+@FrankMaresca Hey Frank ! i was wondering if vh1 ever offered you your own show ?? b/c you deserve it hun !  xoxo !!
+@dhlawrencexvii haahah We were watching CSI (way behind) saw you in the car wash scene... thought Hey I wonder if he responded... 
+@buggered01 Hey, it's true, you can Twitter from Prison 
+@JasonGloverNZ Hey Jason, thanks for your email mate, you are a legend  Love the &quot;Mum's tips&quot; idea ;p
+Psst...I love Danny the MOST~!  Hehe  
+@Brynn_Metheney For Hey Tutti?  You do a great job! 
+@MillionairesMom Hey, age ain't nothing but a number to me Mrs..millionaires mom! 
+@EricTheard  Hey Eric just read your blog, sounds like it was a good time, good luck with teaching the little lady to cook! Smile alot 
+@ProducerFoster Hey Stan!!!!!!! 
+@MandyyJirouxx Hey Mandy how are you ? Tweet me back please  Say Hi to Mileycans for me I copyright that nickname for her
+Just finished recording a song w/ Allecia Clemens.  Look out for it on MySpace! 
+@aaronkickass Hey, Aaron. Nice to find you here in Twitter. By the way, how does it feel to be John Lennon? Must be pretty awesome huh? 
+@therealTiffany Hey Tiffany! 
+@zaibatsu Hey Reg! Can't wait to be on your show tomorrow. Have a great night! You're awesome! xo 
+@ChrisTheJeweler Hah! I'd be more than happy to help, but I don't think that'd be possible, Chris.  Good luck gettin' it back online.
+@FrankieVizzle Hey, I love listening to u on the radio lol. 104.7kissfm in Phx 
+@PrettyxOrchid Hopefully you'll see them again real soon. Gotta say blows my mind an East Coast girl w/ so much Cali love. Muah! 
+@astrospacenow Hey there! Thanks for that  It's been very busy over at Discovery, but I need to find more time to blog! I'll get there ;)
+@ddlovato Hey Demi; Do you like reality T.V. shows? I do, just wondering if you do 
+@AnoopDoggDesai Hey,Anoop! Hows it goin?  *~ Whit ~*
+@shoestringing  Hey Jessica thank you for wanting to Follow me. 
+@pcam Hey Phil!  #hhrs #tcot #hcb
+@willyfoo Hey Willy... thanks ya! Return you the favor shortly. 
+@TheKellanLutz Hey Kellan, LOVE the new background!!! 
+@annaleigh but you're still my favorite Kansan. Hey @orphum fuck you buddy 
+@zoebambi Hey Zoe!! Yay u have twitter thats good  Follow me!
+@JohnnyBeirne Hey no I'm not going, are you? I am going to south of France for 2 weeks though 
+@Aniya23 Hey hun! How are you doing? Glad to see you on here!  I need to make my way back to Dallas!
+@raytoro lol it's good to hear your voice xp Omg so happy for Gee &amp; lynZ you're like Uncle Ray now 

@@ -1,0 +1,393 @@
+Most common words for this cluster:
+[('hoping', 152), ('trying', 150), ('today', 31), ('day', 27), ('tomorrow', 22), ('work', 20), ('week', 18), ('home', 16), ('time', 16), ('to', 14), ('morning', 11), ('wanting', 10)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Trying', 0.9106116890907288), (u'Hoping', 0.8925723433494568), (u'Attempting', 0.8086820244789124), (u'Determined', 0.7325894832611084), (u'To', 0.7190945744514465), (u'Seeking', 0.7149574756622314), (u'Wanting', 0.6998669505119324), (u'Aiming', 0.696622908115387), (u'Unable', 0.6511337757110596), (u'trying', 0.650388240814209)]
+
+
+
+
+
+Going to sleep. Hoping tomorrow is a better day. 
+To the theatre again. Determined to see more than the last 40 minutes of the show today. 1st act sounds hilarious but have yet to see it 
+Why did I ask, seriously? Asking always leads to answers I don't wanna hear 
+Good party last nite!! Shoutout to all the ppl responible for golden explosion.. Hoping for round 2. 2nite.   Stuck at wrk until 630. 
+Doing my best to figure out how to Tweet.  Trying to upload my photo. 
+Trying to convince former Bonny RPers to set aside their skepticism about last night's awesomeness and give this another go. Failing. 
+@BlakelyJames (not his real name) is sick for his wedding  . Trying to come up with bachelor party plans that include a sick groom.
+Today is our dear friends memorial.  Trying to find by best poker face.  
+Jetlag persists. Unable to sleep until after 4am. At 10.30am I am up and feeling nauseous 
+@cookiemonster82 no thankfully not today,but work tomorrow at 6am  Hoping for no rain because of my dead wipers!!!:/
+My throat hurts so bad and my nose is so stuffy.. Why do I always get so sick?! Attempting sleep, wish me luck... 
+Its 4 and I'm laying in bed trying to sleep. Failing miserabley. 
+SO burnt from the beach yesterday   Helping my mom set up then going home, back to sleep and to take care of these 3rd degree burns!
+@lauraJaynebaker @robertcjenkin I'm fine, I've just got so many medicines to take   Trying to convince my parents I'm ok to go back to Ed!
+Going to see the Yankees today.  Hopefully they'll do better than their 22-4 loss yesterday!   Eager to see the new stadium.
+@lucyc_ Same lots of coursework to do  Trying to do mine now
+Net went down.  Trying to fix.
+I'm really tired. Trying really hard not to have coffee this morning but I just might have to 
+@abhishek_b I am sure there is going to be huge changes to #opensource but not via #java Unable to make up my mind on what will though 
+bed. Hoping I can grab a NCoT in the morning so I can start trying to shake off the cold 
+Omfg. Desperate housewives was sooo sad. I never realized how much edie was a part of the show. Now she's gone!! 
+So tired. Trying to fall asleep with a terrible sinking feeling. 
+More than collecting the investment proofs, its the declaration site that's more troublesome  Trying hard to declare the investments ..
+@jonodown Stuck in the office  Hoping it's still beautiful when I get home
+@Tarale Trying to drag some people with me. So not lonely meal 
+I feel so exhausted this morning.  Hoping it's not pig flu.  
+Listening to KoL before work. Hoping it will psyche me up to go in on such a sunny day. It is doing the opposite... 
+iis at home now! Hoping no more storms come so she can sleep, but I think I hear one coming 
+is at home now! Hoping no more storms come so she can sleep, but I think I hear one coming 
+stupid low battery on the smoke detector woke me up at 6am. Now I can't get back to sleep  Trying this again lol.
+is @ the coast.  Hoping it doesn't rain.  It always rains when I'm @ the coast...  
+back from camping, wishing I could go back ...  I actually am wondering if I'm ever gonna get my driving license! Desperate ... ^^
+Just saw Martin Scorsesse!  To shy to ask for pic 
+Desperate housewives really touched me 
+Long day....missing Adam  Trying not to take the things I love for granted anymore cause they may not be here the next day.443 Always.
+Typical dull bank holiday weather here very dull  Attempting to summon the energy to go to the shops...
+Working  Trying to figure this stuff out!
+I want to be tired! Trying to go to church in the morning...I might not make it. 
+in the tuenti,Hoping that something happens in this boring evening.... 
+Insomnia. Trying real hard to sleep 
+Siting, Waiting, Wishing, Hoping... 
+one job gained, another job lost. Trying to see the bright side of all this 
+of @DavidArchie, I would! But I don't wanna be too spoiled. haha! Trying not to cry.  I totally miss @DavidArchie! (
+@ChubbyGayMan I am good, just kinda tired. Trying to watch some Dracula movies I bought a few weeks back, but I keep nodding off. 
+Laying bed, woke up.. Trying to go back to sleep.. I know this is gonna bite me in ass later when I'm at work. And the Celtics lost  UGHHH
+@Moriqua143 Trying to figure out this Heroes thing....its not working 
+Feeling melancholy so I am going to lay down for a few..  Hoping everyone has a great night/day
+@oldergirlbeauty Hoping it's not bedbugs....   
+@ianpriceuk Car coming together nicely, unlike the budget  Desperately trying to squeeze enough for an event or two, unlikely at the mo
+Help!! Trying to upload pic for profile, just can't get it to work! aarrrgh  Any suggestions?
+Insomnia and a sore throat this week... Trying to stay positive and work on tracks for producer friends but stress is getting to me badly 
+One more business day before grades are due    Six &quot;items&quot; left to grade. Hoping to have only one left by the end of the day.
+Spent the whole shift whilst at my computer staring at bags of Haribos!! Arghhhh... Trying to avoid the sugar rush!! 
+@griffey Desperate to help daughter with ear infections without surgery. 
+Desperate need of a massage 
+Already getting sad as my family is packing up their things to head back to Iowa tomorrow.  Trying not to have any breakdowns on my b-day!
+@tacomachickadee  Hoping your friend and the dog will be okay!
+As usual, procrastinating this damn paper for Machado. Trying to see my poo. But he won't answer his phone  shit.
+Watching jay leno. Hoping he will call soon cuz i miss him like crazy 
+Where are all you Motivated/Determined/wannabe sexy successful young professionals!??! I might really have to join a BNI if there is no1! 
+@krissysalisbury don't ask  Hoping that today will be an improvment on the rest of the week. Looking forward to the weekend weather!
+I can't sleep ugh!! and I have shit to do all damn day tomorrow. Wanting to take a sleeping pill but I know Ill get up late 
+Leaving for Paris tonight. Trying to cram all my assignments for the week done in two days.   I think I'm half done, I hope.
+@MINDY979  I wish I knew..  Trying to figure something out here too
+Got an appt. w/ the doctor at 4pm today to look at these &quot;bites&quot;. Hoping it isn't an infection. I need more powerful anti-itch cream. 
+Listening to Opeth. Trying not to think about missing their show in San Antonio. Failing 
+thank god for some overcast and ivory. Trying to get my mom to take me out to lunch egh doesnt look like its gonna work. 
+TGIF but its so rainy and blah outside!  I need sun   Trying to figure out what to do tonight, I want to go to Prov to the Hookah bar.
+@cosmicgirlie Car not happy, big big dent in boot! Hoping theyre not going to write it off, crossing fingers and waiting 
+This economy thing is getting us down. I stay positive mostly but sometimes it really gets to me. Hoping Todd gets work soon. 
+@LLCOOLDAVE Trying to fix my background 
+Cleaning out my desk and stuff! Hoping to find a ring that's been missing for a couple of years now... 
+Business is still dead at my job. Asking for a raise would be laughed at. 
+I'm sitting at home bored. Wanting to go out but no one to go with 
+@tristankent yessss. Accept I don't think said nap helped the way I was Hoping. 
+Wow@ austin just called me... Asking how his grandma died and went to heaven...  and was crying out of the blue
+Inability to lay in 
+Woken up to f*@cking madness here-not fun.  Trying to go back to sleep 
+Laying down. Trying to save one of the only relationships I have had in the last 3years, its hard 
+Stomach feels very bad.  Hoping I'm ok for my drive to work and the 9 hour shift I'm there for.  Just want to crawl back into bed.  
+listing a bunch of remodeling supplies/equipment/etc on Craigslist..  Trying to pay my mortgage, dammit! 
+@Neen0 Awwww SaMe HeRe, I wEnT To ReAcH OuT 4 u N u WeReNt ThErE 
+Bartending a wedding. Hoping to make some decent tips, but its not looking too good so far. 
+...choice but to jump. Hoping your last piece, an RP, would catch U. Or suffer the indignity of being coated on bat guano 
+bored!! Trying to finish english homework... 
+Discovered flat tire. Too late to fix tonight. Hoping fixing tomorrow plus rounds doesn't affect #vano goal  sigh. it's the little things
+I'm going to bed now alone..  ..  Wanting my baby next to me..
+Feel really ill  Hoping that I get so ill I go to hospital and get out of exams.
+We didn't find the treasure as it was too far for me to walk  Hoping to drive to the end tomorrow and find it.  Mother visit luming 
+heading to the lake today. Hoping weather cooperates! If not we'll be stuck in the house. 
+Not too happy &amp; quite frustrated...Trying to turn things around to the positive.  Side note:  I'll be studying earth science.. all day.  
+Little man has a sour stomach! Hoping he can keep his drink down now. 
+Lines, Vines and Trying Times, I need 
+missing my sense of smell and taste  Hoping it comes back soon!
+left my cell at home today  Hoping I can still get the interviews from the calls I missed. I know I know... I`m still talking ab
+@sc430girl aw why silent sweetie? Hoping I didn't offend u 
+@YoungQ I can't get in. Trying to sign up and it won't do it 
+@E_M0RGAN To bad we have no proof 
+Watching college softball! Hoping bama goes all the way! Sad about season finale of the hills tonight 
+my tiny yard ended up being a big project...and I had to evict so many creatures, it broke my heart.  Hoping I didn't kill too many.  
+Watching ***Waiting To Exhale*** 
+@bigyahu thats what I'm doing. Trial expired. Trying to buy it. Just ordered physical product. 
+3 am bus station crowds are skeezy. Trying to keep cool by watching some @RyanStar videos from tonights show. Scary 
+@claylevering  yeah, wife and baby both. Hoping it's not contagious.
+Tune in now for GMK.  Trying to get the coffee working...my voice is struggling a little bit. 
+On the office Trying to (truly) wake up!... 6 Days to Leave Madrid 
+Feeling sick after hearing about AF447. Hoping for the best, fearing the worst 
+@knittingpatch  Hoping you feel better! U want a tea with lemon and honey? What store are you near?
+Thinking of the friends &amp; families of passengers on AF447. Hoping for good news, but it seems unlikely now 
+Gorgeous day, anyone kyaking? Maybe will throw mine in the little Magothy. Trying not to think bout it, but...228 ppl missing? 
+What am I doing? Trying to give up smoking that's what! Grrrr... it's only been an hour 
+Left my phone on the train.   Trying to get it back without the ability to call them and tell them about it. The 800 # is not helpful.
+ @TheIanCrawford is no longer in the Cab. To say I'm heartbroken is an understatement... good luck with everything! you're amazing ian.
+@alexsheppard Not good  Knee slightly swollen and stairs are currently not my friend. Hoping it'll go down overnight!
+@djcapone I'm bored. Trying to think of some interesting topics to keep me awake. I'm checkin my voicemails. 
+@ Uni. Trying 2 memorize seen Q 4 exam. Not going well. 
+Thinking of everyone involved with AF 447 - Hoping for some miraculous news.  Fear of flying officially heightened.  
+@danielpunkass Hoping to see you at a future WWDC too.    Should have been there this year, but the tickets sold out.  
+I feel like  at the moment... Trying to call Miriam.
+@iszi_lawrence Bike's trashed.  Hoping the guy's insurance will pay for repairs.
+ugh barely slept at all. Trying now but failing. 
+I'm SO over all the bitching going on at school atm   I hate it when they do that...... Hoping things will sort themselves out tomorrow
+Maybe my asthmanex isn't working as well as I thought. Needing my rescue inhaler again this morning. 
+Sitting in traffic trying to get to The W .. @RickShameless won't let me dj anymore. 
+Struggling with math-Hoping this luv will work out 
+ahh 5 to go, the end is near  but why do i always feel unprepared? Failure is lumming 
+@CactusTri Trying to send you an invite but that part of the site is not working. 
+@hunterway It's very sad.  Hoping they can recover some of the wreckage so there can be some closure for the families.  
+Cleaning out my closet and amazed at how much crap ive accumulated over the years...SHOCKING!... Trying to part with old clothes 
+Worrying about being sick -- or having hay fever -- or whatever this feeling is.    Trying to figure out if I should drive to Pgh or not.
+is so ready to go home. Hoping tomorrow morning I'll feel like exercising... unlike today morning. 
+Tired as fuuuuuuuck. Trying to get ready for this trip 
+@Ozquilter Trying to email you w plumber details but Gmail is down 
+Has a fever and swollen tonsils, again  took a pain killer. Hoping it magically goes away in the morning.
+@kls010 ........you're not going to find a way to do the 5th?   Hoping they'll be some silvery Hampton action too.
+is laying in bed trying to sleep and cant 
+Mommy's been trying to feed me more lately - she hid more rice under my veggies and fish. Attempting to eat this mountain of food now 
+Getting ready for work and hoping the weekend will fly by since I'll be @ work!! Hoping the economy will get better! Not looking soo hot! 
+is about to withdraw all his investment  Desperate time calls for desperate measure. No choice. http://plurk.com/p/yh22y
+@deedledeez Dave played 5 bros earlier and I missed most of it.  Hoping he plays it again. @retrorewind #fullservice
+My computer's internal wireless card decided to stop working all together...AHHH! Attempting to fix it. I need my #hockey highlights tho 
+Listening to the rain...... Trying to sleep...... Its not happening 
+Hurrumph! Trying to book a ticket for the ballet tomorrow night and it wouldn't let me  I do a battement on their website then jete jete
+just had his ultrasound taken, waiting for results is so agonizing!  Hoping for the best!
+Watchin my baby brother graduate  Hoping it still won't rain.
+Pouring down here  (summers over) Helping the young beavers at a harry potter day at the local scout camp. the rain is going to spoil it.
+I wOkE uP wAy To EaRlY  
+Home now. Wanting to be with B. 
+Ugghhh got whatever virus Leila has...feel like crap. Hoping it goes away before tomorrow 
+In the mountains today!    How beautiful it is at the cabin!  Trying to get over shingles.  
+continue to pray for @mrwittykitty7 's &amp; our cat . .  Its still hard for him to decide to put kitty to sleep. Hoping for a miracle
+@happyseaurchin was probably my fault and they were cheap anyway.Trying to construct a hasty redirect page 
+Strongly fighting the urge to buy the new Palm Pre. Trying to budget. 
+The sun is out!!! Quick dash thru Chores to get outside Trying to schedule trip to mom and dad's 3 years ago Jessica left for Germany 
+Who did Ireland start with in midfield and up front? Hoping I can get a stream to watch this  #bulire
+@MelanieBrandt Yeah, thanks. Hoping I can get past this w/o antibiotics but my experience tells me I'll eventually be there. 
+@markkolich  i have the current version of flash  and see flash ads on other sites.  I am kind of stumped. Hoping it fixes itself soon 
+It's a disaster in Detroit tonight  Hoping for a 4 goal onslaught for the Pens..
+Joey, please don't leave.    Aww, but he must.  Stinking Speed School.  Trying to hype myself up so I won't be so sad without him.  
+I don't want to go back to Normal for at least 2 months   Needing more time with my family!
+Praying/Hoping/ Wishing for someone. I can't stand these lonely nights 
+So my bro did not arrive yesterday  he is only flying here on thursday. Hoping for something good to happen
+Lovely drive back home later and the chores are looming  Trying to find an incentive to go home and start a new week....hmmm...still none.
+@sridgway Yeh but - lost my ^%$%^ camera  Hoping someone will hand it in......
+@mrhankmanthe3rd Hoping they do an early upgrade program again or i'm going to be even longer without an iphone 
+Revision  Hoping to start having vocal coaching soon 
+Is Hoping that little Harry is ok 
+AHHH! I can`t sleep.  or maybe I just don`t want to sleep yet? ) HAHA. Trying to make the most of the last night I can sleep late. )
+All packed up and ready to go! Trying to decide what my last meal will be before heading back home to non-legit Mexican food. 
+Going to bed. SO much to do tomorrow.  So many people to call this week. Trying to get my life back in order.
+Computer is still acting up. Trying 2 fix it. 
+wow tyler hilton played in boise for free and i didnt know that till almost a week after the show  Failure
+Car. Broken. Trying to find a ride to work tomorrow. Failing. 
+@karasaurusrex Hoping he'll come through 
+What a long day... Hoping next week will be better 
+exhausted.  Trying to write reviews.  Not happy about it 
+@HighRateReturn Seems it's Texas. Trying to be fast on the draw caused me to send the wrong answer. *sigh* 
+super tired and heading to bed after the a/c leaked everywhere in the garage.   when it rains it pours, I guess. Hoping tomorrow's better!
+@NBKinesiology...I can fly to the moon and eat cheese. I really don't know anymore  Trying to be positive but running out of options.
+Driving. Trying to find a place to study. 
+Going to bed. SO much to do tomorrow.  So many people to call this week. Trying to get my life back in order.
+Awake. Trying to go back to sleep, but failing miserably. Once my mental gears start turning, they don't stop. 
+'s mouth hurts..work 9-5 then class 6-8. Hoping to go to the dr asap.. 
+@kevinspaul It's resting on my computer tower and there's a pack of frozen edamame on it as we speak. Hoping for the best. 
+25 to life ----- Failing. 
+lamenting my failed attempts in Italian. 
+I am home from work. Wanting to go ride her horsie but doesn't have a ride there 
+@backstreetboys Yay I just rejoined the fanclub. Trying to get used to it again. And now my chat works yay it didn't last time  #BSB
+Having a crappy day!  Hoping tomorrow is better 
+Going outside to do tricks on my bike (or at least attempt to). Trying to get my mind off of everything. really confused and worried 
+is Hoping the severe weather doesn't get bad tonight 
+stayed up till midnight for Lines, Vines and Trying Times and I check itunes and it's not even there!!! 
+@deanschick I'm ok. Still bummed about what happened  Trying to straighten this mess.
+Maybe my dreams will come true one day, but for now dreams they shall stay. Hoping they come true soon... 
+@valasjak re dieting; trying to fix the food thing first, one step at a time, you know me. Trying to eat more fruit/veg &amp; less chocolate. 
+Really hating being so broke. Wanting to work full time badly 
+Going to bed. SO much to do tomorrow.  So many people to call this week. Trying to get my life back in order.
+Haven't been able to sleep at all tonight. Attempting to keep the stomach monsters away. They keep raiding my tummy... 
+The attempt at going to sleep didn't work so I am pulling an allnighter. 
+@labfly I'm worried about @varin, too. No word since last night that I know of. Hoping to hear from her soon. 
+Waiting for my friend to go to lunch. Trying to read article on @ymib site but it wonakt load the page 
+Trents turn to be feverish. 101.4. Hoping he doesn't spike near-104 like Jr 
+Going to Maryland! To a funeral... 
+Today!!... Lines, Vines and Trying Times!! but I still do not have one.  I have to buy! jeje
+is wondering how to get a large spot of spaghetti sauce off a very light carpet   Hoping for good results with steam cleaner tomorrow...
+quero o meu Lines, Vines and Trying Times! 
+I'm in the middle of one of the scariest storms I've ever been in! Hoping a tornado doesn't develop! 
+LVATT isn't a tranding topic anymore  but #Trying Times is Oo haha weird!!
+SO DeF NoT GoInG To BE AbLE To SlEeP ToNiGhT  
+Electricity issues.. Unable to recharge battery.. 
+@tsteinbergerh babes, go back to bed, you're not well. Forcing yourself to be productive when you're pooly is counter productive  takecare
+Another failed attempt. 
+Going to bed. SO much to do tomorrow.  So many people to call this week. Trying to get my life back in order.
+@sandyzahler storm is gone but left nasty fog &amp; humidity in it's wake...Hoping to see the sun today but chances are not good 
+Working til noon, then with my grandma for the afternoon. Hoping for some sunshine and less rain 
+is up and barely moving after spending three hours sorting the boys' clothing yesterday. Hoping that pain meds will help.  
+is mad at myself cuz i didnt buy Lines Vines and Trying Times yesterday  1 reason was cuz i didnt have a ride 
+Errr off to work, didn't get to finish charm school  if anyone knows who got sent home let me know!!!! (Hoping k.o.) Lol
+I guess Starbuck's really does make the world go round. Hoping to enjoy the last sun for the day, and then clouds for a week or so 
+iPhone 3.o Download timed out. Trying again 
+had fun with the Sims 3, sadly had to part ways. Hoping it won't rain so much tomorrow 
+@mr_billiam maybe a tad better than yesterday.Hoping I ddnt give it  to my in-laws. They spent the wkend here  What's with your phone?
+@caryl My posts wont' go through at IAG  Trying to play with you and rosie.
+@dietsch Once I get Haigh's book in I'll check it out!  Congrats on that, btw.  Hoping it'll be in shortly (weeks, not days  ).
+is irritated that her AIM doesn't work anymore  Trying out trillian
+Enjoying the silence with the kids still sleeping~~~ Wanting to have a cup of herbal tea in my favorite cup. But I broke it... 
+PG did not hire me.  Trying to think me joblessness as exciting opportunity rather than depressing scary state of being.
+@rjucks not in awe yet, haven't messed with it too much yet though. Trying to figure out how to run background apps. I expected more 
+Sitting on report at work. Hoping to sit till 4 and go home. Don't want to drive in the rain. 
+I'm at work impatiently waiting for lunch time. Hoping I don't starve to death by then. I skipped breakfast. 
+upset... Needing a new transmition 4 my jeep 
+on way home after a 'busy' grown up day ; ) . Hoping to go out later, but not sure if we'll make it now. We're stuck in rush hour 
+overly-tired today.  Hoping to get a nap this afternoon?  The hub's goofy sleep schedule is detrimental to me. 
+Just finished setting this thing up and not Wanting to go to work in a while 
+Starting in on John's new play room. Hoping to get spackle, sanding, primer, and white paint done today. P.S. - I hate the rain. 
+Feel so bad for Rob. Trying to run away from crazy fans and gets hit by a taxi. 
+Yesterday, I found out a coworker died.  Trying to ingest as much chocolate as necessary to feel better.
+Traffic is so backed up! Trying to get into pillly during rush hour sucks! 
+SO frustrated with this reporting class.  I'm definitely not cut out for this.  Trying to figure out food before returning to Union.  
+im sad. i still dont buy Lines, Vynes and Trying times... 
+is sick of having such a divalicious wardrobe and no man to tell her she looks hot  Trying to get back into dating, but how ..
+imagine Adameme without enough salt.. Its just a boring soy bean.. LOL..  Needing Salt!!
+@CandissCandi YAY!!! To feeling better....and wifey...and what me do?heehee  Vodka is a cure all...ok maybe just for alckys like me 
+Sleeping last night was more like a nap and less like anything remotely rejuvenating  Hoping for a fast day at the hospital!
+Something happened to my friend's armm.. Asking what happened 
+Everybody deserve a second chance     What if its a Failure, on the second time as well ? http://tinyurl.com/ngwff5
+This headache sucks! I didn't even drink that much..   Hoping things will be okay again someday..
+It's 80000520 degrees outside! Trying 2 get up the strength 2 walk out there 
+Damned, its too hot in here... I'm gonna look like a pitty..  Hoping that nobody's gonna searching for a mop
+Wow. Hm. Trying not to be disappointed. 
+@pnbsport man, hurt my shoulder in a bad way 2.5 weeks back at gym, have not ridden since! Hoping to try again next week 
+I left my heart @holdenbeach  Hoping to go back for a couple of days around the fourth
+heading out to branford with lissa. cant find my bank care  worst timing possible. Hoping for a miracle pray for me @heidimontag
+Quick Q - the 88~89 GTS tach/speed cluster should be the same as one from the 91 year correct? Trying to track down some wiring ghosts. 
+Is still @ work... It never fails. Trying to get out of here, txt me 
+My background picture was deleted somehow   Attempting to get it back and it is not working.
+@thebraysmommy OOOH Europe sounds fun! Would love to travel overseas. Trying to get stationed overseas, not looking good 
+Off to the park to run the kids ragged. Hoping the pain killers go the distance 
+@jordanknight Hoping u got ur &quot;Betrayed&quot; situation figured out. 
+Someone just scractched our Benz.  To all haters n green-eyed monsters, i don't know how ya'll can sleep at night.
+Fb off 2 do some desperately needed laundering. Trying 2 get it in b4 the rain falls 
+Just woke up. Trying to go back to sleep but my grandma won't let me. 
+On the way to my uncle Mikes funeral  About to be w/ my mom + grandrents. The emotions r overflowing. Trying to remember his funny jokes .
+I left my heart @holdenbeach  Hoping to go back for a couple of days around the fourth (via @AnNa_HaLe)
+I'm sleepy  ... Trying to wake up ... Not happening ... I think I see starbucks coming up soon ;) ...
+My attempt at sleeping forever has failed 
+at work today.  Deciding on where to go for lunch... hmmmm
+Going to bed. Hoping that the double espresso shots don't take effect now. 
+@Mimeki Trying to feed my bad boy and get him dressed. I wanna hit the streets! I have no destination though 
+Meh! Trying to sleep in but the whole house is awake, thumping about above my bed room. 
+2 1/2 hrs to go. Needing some me time 
+Now examless, but Chem finals went so badly I'm worried I'll miss my offer for Edinburgh  Hoping I scraped a B &gt;&lt;
+Drinking a big glass of wine...Wanting to go out tonight but my bff switched out on me 
+@shaunjumpnow @ shannonhochkins Trying to buy a Horeur shirt, but its not workingg 
+@bratta @cawake Hoping next time I'm not stuck at work!! 
+@RealRobBrydon None of the new dates are Cardiff  Trying to get tickets for you on home turf is hard, always a sell-out!
+jumping jacks, green tea, and Leona Lewis 3 in the morning. Trying to cure the effects of a nightmare 
+Don't want to hear anything bad tonight  Hoping for miracle!
+@irohan just came back to pune yesterday late night. So spending time at home today. Unable to attend  @saurabh16 @netrockers
+@FarrisGoldstein I've been feeling pretty nasty too, but haven't yet blown the chunks. Hoping I don't 
+@Jennifalconer Ah so it's tonight!  Trying to find shortlist online but don't think it's there.    What did you decide 2 wear?
+Heading home from Iowa    Trying to decide if I should try to catch the open tonight...
+@ Alcan festival again. Tireeeeeed! Hoping the weather will clear up 
+Husband went to go find his bliss on his motorcycle.Trying to decide if poaching bratwurst in beer is part of AA plan.Methinks maybe not  
+Slightly sunburned  Hoping it sinks in overnight...
+Off to Nutritionist appointment. Hoping she'll be able to sort me out  
+Trying to organise a class gathering. Failing miserably. 
+It's a rainy day in the Bahamas.  Trying to register for my Masters courses.
+is sad today...not sure why. Trying to wrap her head around it... 
+Toronto city workers on strike, LCBO workers look to be on strike soon. Hoping this is all resolved before I get back to the city 
+2 for 2 in setting stove on fire last 2 nights I've cooked. Hoping husband cooks tonight. not looking good w/ him having sprained ankle. 
+@FionaMcC Pleaaaaase change your password  Your account has been compromised. Hoping you're well.
+Watching final prison break  .... Hoping michael lives ...
+And this is what I get for thinking horrible things  Hoping everything is fine...
+Now that I am feeling better, my babies are now sick   Hoping everyone gets better soon...
+10 month old has 102 fever. Prepping to possibly head out to ER. Trying bath to bring temp down. 
+My blog is down  Trying to get a copy up in another server but the backup, setting up the theme, etc. sucks.
+@Asohan I know.  But I have to have it! Trying to get Lucifer Morningstar is another hard one... sigh.
+I need a serious distraction from all this mess. Trying to fake grace. At this age you'd think I'd stop crying over girls. 
+OK, finally threw everything out.  Trying something completely different, just have to learn it from the ground up... 
+Oh my good lord! It's 4am and I feel like I am gonna die.. Trying to get back to sleep 
+Determined to have a really productive today. Though not starting well as the office is already getting too warm 
+Has a broken heart.  Trying to be strong but that doesnt allways work does is???
+Waiting on phone repair man. Hoping to have my phones working soon  Also praying this is a better day
+Waiting on phone repair man. Hoping to have my phones working soon  Also praying this is a better day
+Jus woke up. Hoping that you'll tlk to me today  didn't really sleep long lastnight
+To hospital radio in a while,  download some logging to listen to on long drive to Norwich  next week. Hoping to blog today but no time 
+I am so freakin sore today! My personal trainer earned her $$$ last night.  Hoping I can move around today  #pain #fitness #ouch
+Went to the doctor, got some meds for the pain.. Hoping they work so I don't have to take x-rays.. Dreading going to work today.. 
+@mileycyrus counting sheep doesn't work.. Trick is.. Trying to stay awake. 
+@phomor LOL Hoping for no last minute cock-ups but planning for them nonetheless I hope! 
+is watching bungee jumping videos trying to imagine how I'm gonna look like doing it on may 10th... Hoping to have fun! 
+@davethackeray  It's my first attempt, but I think I like printmaking 
+@judielise Our fingers are crossed too. Quite a relief to know he feels better.  Hoping your work is coming along fine too.
+Going to my mama's house. Hoping for some mom's homemade cooking...yum 
+is off to KL! To climb a hill for some shots of the sunrise. Insyaallah.  
+Sitting in a classroom w/ computers is counter-productive, especially on the last day of CLASS   Hoping to make it home in time for Game 2
+Wow woke up to 113 new twitter updates. You guys do work late at night on here. Off to Starbs. Hoping to score some 7's at the rack 
+@meetmeatmikes you're welcome. I randomly stumbled on it but was rapt to do so. Hoping to get my students into craft at school 
+Off for the rest of the day. Trying to figure out what to do about my so-called career 
+OK, I feel a bit pants - why?! I can't let go from work, what a wally. Helping with the roast today. 
+@griffmiester You eat food and socialise! Trying different restaurants 
+@andyregan Beautiful! Hoping to make a trip soon 
+I'm starving.  Trying to wait until lunch to eat leftover lasagna..  YUM! 
+@biadventuress I'm doing very well! Hoping to have some escapades as titillating as your blog posts 
+@ home feeling relaxed and centered. Wanting the time to quickly go by until I can take off from T.O again 
+Morning. Hoping today I manage to solve some of the problems that came up yesterday. That's as near to positive as I get 
+@j0nnie  ... the obsidian sky. We're marooned on a small island,  In an endless sea. Confined to a tiny spit of sand. Unable to escape 
+@ChicyCreations I applaud the attempt 
+I look cute today.  wearing my red dress to a friend's wedding. Trying not to obsess over how much i hate the girl an ex likes. And t ...
+@MargreteH Sounds nice  Trying to do some homework.. -.-
+Wedding planning with @stephaniemoore1 and my mom! Lots to do before Stepho's shower today. Hoping we can squeeze in the Derby too 
+@clairelrowland  That is awesome that you do that.  -- Trying myself to conserve..
+Lines, Vines and Trying Times 
+@napattacks Oh, I love Parenthetical Girls!  Hoping we get to visit Portland on tour this year!
+Eager to get the gigs started, getting the ep cover design tomorrow, and looking for forward to the music video shoots 
+Just woke up layn dwn next to my mommy. Deciding if we shall get up &amp; start r day 
+I'm going to caulfield. Trying to study! Enough playing all these months, sweetheart 
+@SiaLikeWhoa Trying out new stuff?  Consider me a guinea pig  
+@VampGirlinOZ Never!!  Hoping all the reading and typing tires me out. 
+@darrensoh yup, studying. At least I'm trying to. Trying to let the stuff I read enter my brain permanently. 
+@thebraysmommy thx! Hoping it's a good week. 
+@Alleywater She's good. Trying to suss out chap 7 when I'm not working. Trying to suss out a lot of things, but meh, you know whatever! 
+@Dana_Willhoit Hoping your A/C is being fixed right now for you! 
+is enjoying family time. Hoping to be able to make a graceful exit and enjoy some friend time soon 
+Its sunday morning and birds are chirping. Hoping for the best and praying that its the best. 
+So loving &quot;We are the people&quot; on these Phat Headphones !!!!! Trying to hold my self back from singing out loud 
+check it out, its #followfriday tomorrow. Hoping to find a few new people to follow in Aus. If you know people, use the tag #followaus 
+Thinking...... Trying to forget about my whole past!  not liking any of it!
+Going Shoppingggg!!  To buy my mum a present for her brthday next week....fun times... 
+Achy morning after the wedding body, off to have some brunch. Hoping that'll cure me 
+20GB free space on my laptop.. I think it's time to get an external hard drive. Trying to hit 1,100 updates. Just two more 
+being bored isnt very fun when you are just sitting in front of the computer. Hoping to get to talk to mike later on today 
+Just got back from Hyde park .. Hoping for good week ahead  plus I'm a vegetarian who eats fish now 
+Excited to go get Chipotle with my mom and grandma  Hoping I'll be able to get into the FOB concert tonight!
+@domientos same here  Looking forward to #2M09  Hoping to kick some award's ass! $
+I can not believe it's monday already...what happened?!! Hoping this is just a bad dream..please let me wake up on saturday 
+@littlebead Not bad! Trying to remember all the things I was meant to do today! 
+@moanasaves Oooh, really need 2 invest in good pairs of shoes &amp; don't like shopping! 2day slipping away fast. Trying to cram 8hrs into 4 
+In school  Hoping my DVD arrives in the mail today. Then I have something to do, when I only have two lessons tomorrow 
+Desperate housewifes &amp; chocolatepudding 
+@DavidArchie I will always be inspired by your songs and achievements.Hoping someday I will be like you.-Pocholo Bismonte(Phil.) 
+@JrShortStack Trying to get: #swayswaybaby #swayswaybaby up tonight in celebration of first airplay! 
+Shortly I will have to attend an internal meeting. Hoping to get a good view of one colleagues boobs. I guess it an E-Class... 
+I am dreading the packing. Trying not to think of anything but the beach 
+~working out &amp; cleaning the house for a bit. ** Hoping to get the call for the job! 
+@freddietastic All is well in the world of krisis at the moment. Trying to kick off my week with enthusiasm 
+going for a little dinner  at @WizeKidCade 's dads place .. its his sisters birthday tomoro  yayayayaaa ..  ~*HapPy BiRthDay To MiCheLLe*~
+@onlinebeta Can we expect to see some new invites in our inbox this week? Trying to patiently wait for the mentioned HT beta to show up  !
+am going 2 c a girl 4 my elder bro...he he! Hoping 2 get a positive behavior from them  
+@Aiysha thats an awesome phone!!  Hoping to get these as a work phone soon! 
+At home, having a long weekend. Helping my wife get ready for her book launch party later today on campus  I am v.proud of her.
+getting ready for a full day in the salon. Helping women look and feel beautiful, so much fun, can this really be considered work? 
+ist Sitzung next to me @MPTV. Trying Tor tweet 
+@lightnessalways ur first one will take a while I'd say! Trying to make sure u get everyone that u chat to is difficult! 
+SUmmer! &amp;&amp; how do i spend the first day? Helping this lady clean out the house of a dead woman. :/ but at least imma get some sonic. 
+@badkitty812 Saw a pirate and rainbow flag and wondered if it was you.  I'll let you know if we end up out tonight. Hoping so.
+just got bumptop, trying it out 
+Twt @RockintheRobin: Hoping to try a shrimp sandwich 2morrow! 

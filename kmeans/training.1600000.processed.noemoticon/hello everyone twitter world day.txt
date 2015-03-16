@@ -1,0 +1,344 @@
+Most common words for this cluster:
+[('hello', 337), ('everyone', 27), ('twitter', 25), ('world', 23), ('day', 19), ('today', 18), ('followers', 18), ('u', 12), ('http', 10), ('night', 10), ('lol', 10), ('people', 9)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Hello', 0.9999701380729675), (u'Hi', 0.6192799210548401), (u'Hello_hello', 0.6054319143295288), (u'Hiya', 0.6014276146888733), (u'Goodbye', 0.6012335419654846), (u'Hey', 0.5978062748908997), (u'Bruce_Springsteen_bellowed', 0.5894296765327454), (u'hello', 0.5855292081832886), (u'Hullo', 0.5713475942611694), (u'Welcome', 0.5710412263870239)]
+
+
+
+
+
+@bradhfh Hello! you stoped talking to me  lol
+Hello world, i dont like to do physics. 
+Hello all, slow getting going today ... I just feel like curling up with my book for the rest of the day ... 
+@shermradio Hello!!! I'm in class, you know I wanna hear the show, but i cant!!! 
+Hello everyone! I'm sorry about yesterday all my updates kept disappearing. 
+@DogTravelComp Hello, I can't seem to get the site to add my business listing to the shopping cart.  
+Hello, twitterland! It's so nice out, but I'm inside doing work   The good thing is: I'm making progress..even processed a few orders..
+Hello twitterers! It's a lovely sunny day, but due to still being floored by a horrendous cold I shall be spending the day under a quilt 
+Aw nevermind swimming is cancelled    Hello night of nonstop fmylife!
+Hello twitter lol back to  school 
+@vesula Hello you, glorious isn't it? But yes, immensely sad news. The world is a poorer place without him. 
+Hello twitterland!! I feel like friggin crap today 
+@GillyLiz Hello there, missed you  been quite boring actually.. you still really busy?
+@jenniferrr_gee Hello there! You have so many Rs in your name! I said that out loud, too. I live alone.  x infinity
+More work!  Hello good people
+@RayshanDMB Hello to you. Wish I was there with you. 
+Hello boo. I'm sorry i haven't been texting bak much tonight. I'm in a bad mood 
+Hello everybody (: I'm bored and have nothing to do. I guess i can go out coz its really hot outside but I don't wanna be out on my own 
+Hello getting ready for bed after I was looking for the cast of friends. I did not found everyone 
+@dandanaaan, Hello i miss you! 
+Hello nausea, thanks for reminding me about the side effects 
+What's for breakfast??? Hello protein shake....Can I have pancakes with that....   Wish I could!!! http://twitpic.com/5cz19
+@insuranceboy Hello - and a good morning 2 u! where did r sun go? 
+good niteeh tweeters and facebookers, I've lost my battle to exhaustion  Hello gorgeous pillow!
+No, cell phone &amp; clocks, you are wrong. It's not 6 it's 3.  Hello, east coast! lol
+Hello everyone! I havent tweeted in a long time    twitterfon isnt working.
+@kkhess13 Hello well it's friday afternoon now and it has not rained today, however the clouds are rolling back in and rain all weekend 
+So sad you didn't day Hello to me  @Jonasbrothers
+Hello and thank you for all of the #followfridays people. I always forget, sorry 
+I worked more today than I did yesterday, but my time card says that I worked the same....  oh well... Hello weekend!
+...celebrated by spilling half my soup. Hello, 40 calorie lunch.    Can it be the weekend now, please?
+@JayDoub Hello, im good thank you - tottaly tired, been working lots today...tottaly shattered!  what about u
+@kirstiealley Hello &amp; glad u r happy girl! lol... I'm  as my brother, age 59 had a stroke at work wed.nite &amp;no.. http://bit.ly/f4l7A
+Hello everyone ! just woke up  with a pain in my leg 
+Hello retainers..again!! sigh. so here I am,suffering because my teeth are squeezing themselves. LOL &amp; its all because of my stubbornness 
+@minimalista Hello minimalista! I didn't see you this week 
+Hello everyone. have to go back 2 school 2morrow 
+Hello me so bourd  thers noting to do  
+@MayLlynOng Hello, sorry for random message! Would any of those tickets still be spare? I'm a massive fan and got no tickets for any date 
+Waking up to the soundsb of moving day! Hello hq bye jp 
+Hello friends! what is everyone doing today? why is there no sun to tan with outside at all 
+@mutiaar Hello. and I don't think we can watch it live here. 
+Hello peeps.... what is a bored witch to do? 
+Hello twitter world...I'm getting ready to leave our camp ground  I wanna stay longer!!! @xcutive_sparrow what's good???
+@jgto @akojen @Liquoricefish @aileen2u2 @froggie775 - Hello my darlings ! How are you today ? It's 9.30 am here - cloudy 
+@RayTNartey Hello there luv, I'm good thanks, I got college now maynn  How about you? How r u?
+@stephanosis Hello! I saw a neighbours cat catch a bluetit this morning &amp; couldn't save it - nature can be so cruel! 
+Hello it's Kelly wwish me luck on the exit exam. 
+ages since last little Twit, Hello everyone i'm sat in college bored stiff! 
+Hello!! I so don't want to go to work!! I'm tired 
+Hello people u-u I'm sad 
+@missyjule Hello wasn't really on was trying to work out blip but still havn't got it I don't think not very user friendly  hows you??
+YAY, last day of work! Hello dresses but goodbye weekend and boyfriend. 
+@fuzzypigz Hello little friend... I want my mummy.  
+Just want to update my twiiter account,, Hello pal.. i have a dizzy and stressful night.. 
+Just want to update my twiiter account,, Hello pal.. i have a dizzy and stressful night.. 
+Just want to update my twiiter account,, Hello pal.. i have a dizzy and stressful night.. 
+Just want to update my twiiter account,, Hello pal.. i have a dizzy and stressful night.. 
+Just want to update my twiiter account,, Hello pal.. i have a dizzy and stressful night.. 
+Hello sunshine how are things goin? You didn't come up today 
+Hello Twittervile - poorly purple just checking to let you know I'm still alive. Legs &amp; head not good, so can't PC much at  the mo 
+Hello and hi its one of those day were you stay inside beacause its rainy 
+@mileycyrus Wish i had rayban wayfarers, too expensve though  Hello!! XD
+@JessicaPinup Hello! I am so happy that you feel better! We really miss u on the stage,it looks empty without u 
+Oh, I missed the twilight today..  Hello darkness
+@hello_jodie :mwahs: Hello bff... I miss your face. 
+@Tyrese4ReaL will u say Hello?? 
+Is wide awake but its far too early!  love my new hair tho! Hello red head. X
+hello!!: Hello all  I've been lurking around here for the past few weeks.  I am starting at 296lb  and have over  100lb  http://is.gd/Qszj
+@tommcfly and I want you say a Hello to me 
+Hello all, passing out is no fun no fun at all 
+I forgot to sign up for summer school  Hello gym class.
+Hello we can't record till tomorrow cause I forgot my guitar  from max
+Hello everyone, bbq at mums got rained off yesterday 
+instead of Hello kitty is buh-bye kitty at my place..i miss my cat 
+@rbmartin Hello! u must be the only one listening...no-one else responded...how sad is that! 
+@LexiePixie Hello,... everybody is asleep but I still have to stay up for some work 
+Hello twitter friends running late to work 
+Hello!! I'm watching role models... Not that funny... :| 
+Hello!! in one week , the baccalaureat !!! today , it's raining !!  !!
+@streetforecast Hello dry crispy straw hair!  Hopefully not!
+@lady1200 I knowwwww  I have tried and tried!! Its funny isnt it cause a simple Hello would make my day!! Like it did yours!!
+Hello world, awe, dang nightshifts again 
+@LaToriana Hello!  I know it's so hard to find time   but we will get there!
+Hello..jus fund out i going camping on saturday!! ..really dnt want to walkin for 4 hours 
+Smashed my laptop in a parking lot last week  goodbye old laptop  Hello awesome new 13 in macbook pro! YAY!!! great timing mac dude!
+Hello new followers! Don't be shy say hi to me!! I'm going 2 read up on others tweets then go 2 sleep. these pills I took r makn me sick 
+Hello everybody...try not to fall a sleep. because thunderstorm kept met awake all night 
+Hello people does any of u want my cold? Lol not feeling 2 good 2day  xx
+Hello I need sleep! And coffee! 
+Hello we appear to have resumed twittering .... A day without service 
+@dannyintampa Hello! whew...it is hot at work! absolutely no A/C at all! 
+@selenagomez Hello! I wish I could be at the premiere tmrw. 
+@avidjon @calliedouglas Hello, loves. I miss this place, but I can only be back in 2 days. 
+Hello people. Can you hear me? I can't hear you 
+@elevensestime Hello to all new partakers of #elevensestime ! Everything tasting yuk after my cigar. 
+Hello @squarespace , I'm having a bad day  - How's life? #squarespace
+@StarlynnB rip to swag.  tear. Hello splashy and groovey.
+Hello everyone. I've been off tweeter for a hot one. I apologize. I dont hv a phone app yet.  lol
+http://twitpic.com/7sc2z - Hello weird arms @ 5am.  haha
+Hello is there anybody out there? 
+@lyokog Hello - it was really nice this morning but it appears to have gone overcast now 
+Completely forgot about my class tomorrow and I just sat down to twitter too.   Hello and good night everyone.  I must be awake for class!
+Hello peeps is friday night so that means waiting for my girl to stop kissing ass to the boss ,probably be out by 2 am 
+Hello all,have been quite ill so not been on for a while.Getting better now thank god! how are you all? comp still not fixed yet sadly 
+@LishaKatherine Hello. &lt;3 how are u 
+Hello guys im having trouble with twitter at the moment it wont let me chage my backgroud  xx Demmi
+amkhub Hello! shop manager say my phone backplate can exchange but out of stock .. so complicated 
+Hello zoolander. Does anybody fancy buying me more cookies? 
+Hello hang over  no i dont think we can be friends
+&quot;People living in competition&quot;.               Hello world. I'm awake now
+Hello doctor, fix my ear please. 
+...Hello world hope you're listening....forgive me if I'm young or speaking out of turn...there's someone I've been missing...ugh. 
+Hello sports day tomorow boo hoo 
+Hello humidity. I want my 80 degree weather back 
+@danimercado Hello, me too! And you've probably gotten farther than I have. Heehh, I wannt school. 
+@sociaIIyawkward  Hello!  
+My english is getting worse . aish .. boohoohoo      *tsktsktsk*  Hello , everyone (:   I'm getting crazier .
+Hello everyone! I'm back on twitter after a stomach bug that sent me to the hospital for a week  but I'm all better now!
+Just realised I haven't Tweeted for four days. Hello 
+@michaelmagical Hello thank you 
+@MmmBaileys @carli_chick Hello  x
+Hello, I just joined twitter, so I don't know what I am doing 
+Hello everyone 
+Hello to @njection @lemon_tea_movie @tedmurphy @rockhistorybook @oedesigner @overyy and @starspank. 
+ahh... first time a long lost friend found me on twitter.  Hello @mjsivy 
+Just hit 50 followers! Hello friends. 
+@BeinCent Hello! 
+is leaving the office now.  Hello home!
+@selenagomez Hello Selana  i'm peruvian =D ... you are the best! xD my mail is john_28_94@hotmail.com
+@nhoie Hello Noweh! 
+Hello everyone, my first tweet  Just been setting up my new pink netbook
+@reedoh Hello lovely! Wow it's great to hear from you, and glad you're well! I'm still figuring out this twitter thang doh  x
+@BeccaDuffy @Sammiiboii Hello new twitters 
+Hello new followers! If you haven't already be sure to check kerihilson.org &amp; of course follow our girl  @misskeribaby  
+Upgraded to club. Hello free booze in the lounge 
+@christopherburt Hello partner in crime. I found you on twitter! 
+@aninah Hello, darling! 
+Hello everyone  Thoughtpick will be preparing a very nice surprise for you  Be on the look out!
+@YagoTheGnome Hello my dear! I think I'm one of the few. 
+hey  i am new here so i wanna tell to all of you here , Hello
+just woke up from my afternoon nap. Hello! 
+@MagicalStinkyTe Hello! 
+@xxmarypoppinsxx *waves* Hello there! 
+@CupOfStartup Hello there. thanks for dropping by. 
+@Hello_123 aliee! its not our fault they choose to make stuff so bloomin addictive! how was your head after la party? 
+Hello, i just got twitter 
+Hello twitters 
+Hello again world! Its a beautiful day to shoot a commercial! 
+Hello everyone on twitter!! 
+Hello everybody 
+@jonmoss Hello from sunny West Yorks  enjoy the evening.
+Hello to my new followers 
+@SpiritSurfer  Hello again 
+@krunchie_frog Sounds like a good enough reason to me! Hello 
+Hello to my followers please bare with me ha ha do tell me about your day!! 
+Hello to @richstyles - my 600th follower. 
+Hello everyone on twitter i'm new to twitter so please welcome me 
+@joannayoung Hello there  We really need a blether - are you free at some point today?
+@gambuzino Hello, hello. 'Twas great meeting you at #oneoverzero . I sure hope I can attend some more of those great meetings 
+To do list as long as my arm, but distracted by everyone returning and saying Hello!  Hello 
+Hello twittos ! 
+@FlashDenFeed  Hello, I am FlashDen author.  and new to flashden.
+@chantaleto Hello! I deleted the picture for mistake, so made the upload again!  I concord with you!
+@JohanJJ Hello  I am great  How are you?
+Hello people 
+@GeoAtreides Hello SuckingDevice  a fost si pe la mine...
+@wallenfelsera: just say &quot;Hello&quot; - love you! 
+@v23heartsxf and  @FoxyDana Hello! i'm glad that we are folowing each other  x power on!
+@AngMoGirl hi, my twitter crazy friends asked me to check your twitter page out, so anyway, Hello!!  
+Hello all my new followers 
+@JanetDamitaJo Hello there! 
+@3djay Hello 3djay's little friend.. 
+Hello world - using php  http://jin.vn/eVK6w
+Hello twitters ! 
+@golddigga856 Hello there, hope things are good with u, and welcome to twitter 
+Hello to @vincestev the latest person to click follow 
+@OTHFTW Hello 
+@lowleeta Hello to you too 
+@tgardner Just stopping to say hello to you. &quot;Hello to you.&quot; 
+Hello all, hey it's another sunny day 
+Hello Ma'am, it was fun attending your class.. I really like the way you treat your students.. Hats off to u 
+@Avaygduygdu Hello, and thanks for the follow.. 
+@Jotebro Hello, my new friend down under! So glad @TheTAZZone connected us 
+@ChEmIcALbUlLeTs  Hello 
+Hello everyone in tweet world...sorry, I'm not on here much, I suck at this.. oh well, I should be writing a song anyway! 
+my interview went great...meet the new marketing specialist!  Hello!
+Hello new followers! 
+@AYellowHouse Hello! 
+@dealdfrid Hello new follower 
+bye bye @HouseOfTwits, I'll still come back and visit! Hello @HouseOfTwitsLab 
+@ayascliche Hello too 
+Hello twitters!  What a wonderful saturday...
+Hello all, It another beautiful spring day here  
+Hello, I feel pretty embarrased that i sent an email to someone saying i shant be in on saturday 17th...when the 17th is a sunday! :$ 
+@HeatherBabyy_x Hello there 
+shazzyfizzle - Hello hello! Thanks for following  http://tumblr.com/x4n1p3h5l
+@sbmblog Hello new follower...listened to our songs yet? 
+@MichelChagall Hello again! 
+@cheth Hello Cheth, I hope you are doing well today.  
+@brendonismyslut yes... Hello 
+Hello everyone! I'm in a dancing mood today  ? http://blip.fm/~5h10b
+@drjoesDIYhealth Hello my friend, how are you? 
+Hello world! Its a new day and im feeling good! 
+Hello everybody! what's up? 
+@ComedyQueen Hello fellow coffee hater! How are you? 
+@alliegriz Hello, I'm feeling okay, I think I'm getting a cold or something though. And yes, I am! I just need to finalize everything 
+@jasonmitchener Hello! 
+Hello everyone 
+Reading all my emails and doing some online works.    Hello to all of you, guys!  
+@GlitzyGloss Hello!! sounds very good, you can count on me, I follow you!!! 
+Hello my lovely followers  love and peace from my house lolz We just need the weather!
+Hello everybody!  I'm back on the job, back from the children camp (someone had to look after my sis' pupils)... and totally exhausted 
+Hello twitter 
+@shaddybabybitch Hello there 
+@Woywegian  Hello there hope your over your flu now 
+@HemalRadia Hello pal..nice 2 c u today...have a gr8 week 
+@MmmBaileys @carli_chick Hello 
+Hello to all my new followers..    say hi @ me so i can say its nice to meet you too!
+@ioeides Hello you! welcome to the twitterverse 
+@a_tall_blonde   ~~Hello~~~  and thanks for the follow.   
+Hello everyone im just sitting here rocking out to 9412 sam on the air The best classic rock station on twitter here 
+Hello all my new followers, there is suddenly a lot of you, so will take a little time to get round to you all 
+@ethmet Hello  ...hehe yup we sure do ...lovely to 'see' you xx
+Hello and thank you to my new followers, great to have you along 
+I've got 7 more followers. Hello! 
+Hello twipple ! I would appreciate it if you visit our website and give us your opinion if you like it or not  http://bit.ly/nhTC5
+Hello new follower! 
+@KittyKatana Hello! I really envy ppl who can sing! 
+@amateur26 Hello to you too 
+Just joined twitter  Hello everyone!
+@adityakothari Hello friend, nice 2 connect with u...have a gr8 time tweeting 
+just came back from school. Hello twttrppl! 
+Hello twitter!! 
+Hello all 573 followers igot  I really should be sleeping lol
+Hello twitter - more work today. I hope it rains soon, my car needs a wash! 
+@DavidArchie Hello david ! im your number 1 fan . i love all your songs . your so cool ! 
+Hello to all my new followers  How did you find me then? 
+@lXriRr Hello how are you? are you only spam? If you reply i'l follow  haha
+Hello twittervill the common wealth of hu-manes survival for the truth reaching out to live amongst the stars 
+Hello world! We are having thunderstorms here, hoe pretty! 
+@Strarny i agree about the reason why you tweet. Hello 
+Hello world 
+Hello there too deardre  top of the mornin' too ya! haha
+@garymac1965 Hello,you! 
+@SparklnFirefly Hello, thanks for following me. How're you? 
+Hello world! I'm back from holliday.   Thanks to all my new followers!
+Hello world  can I defend myself @purpledeeee ? And wassuppp @ms_monet!!
+Hello everyone! 
+Hello!  Eughhhhhh. I feel soo ill. I don't even know why I'm up yet ^-^ xx
+@SkittleMittens Hello back at cha! 
+My first twitter message : Hello everybody 
+Hello followers  thank you for following me x
+Hello , I am into making cards and playing with my new toy bind-it-all machine lol , come and join 
+Hello to the double date soon maybe around 3 
+Hello @issbtay how are you 
+@its_ZacEfronn  Hello!
+@themayocynic Hello printcess! 
+Hello twitter world  Just a twitter to follow my favorite musicians 
+Hello my Tweetamigos, I have a new video up  http://bit.ly/19D2Z0
+@PSKT  .. Hello  chaitu was supossed to be looking at some directions  .. but then i found out tat he was twittering ... watcha doin?
+@kristenstewart9 Hello i just wanted to tell you, that i think you're an amazing actress...keep up the good work 
+@TweetMelissa83 @sillylittleduck Hello! 
+says: Hello monday, I will promise to do my best today, please be nice to me!  #fb
+@goebicyu Hello how are you doing today 
+Hello sunshine 
+Hello 200th tweet! ear candy: http://bit.ly/mwDCV   the vid is cute too
+Hello people 
+@rathoggie Hello  I suggest you choose #musicmonday instead, because I missed your djing performance for your stalker the other night 
+@Roughlyhuman Hello 
+Aww, I love study leave. Literally just got up  3 weeks &amp; only 3 days where I need to be in school. Hello doing nothing 
+@gbfans Hello there  Thanks for the follow... you seem well worthy of following too, good times 
+@ssagajiyeji Hello unnie! This is EBAE! I got a twitter, LOL  have fun at home!!!
+Hello everyone 
+@TrishasTravels Hello 
+@NYFDizzy Hello sweetheart   hope you are doing well. hope to see you on sunday 
+Hello working world. Money money money! 
+@dermotwhelan Hello and welcome to twitterville! 
+@no_but_whatever Hello, I'm good thanks, thanks for the follow  how are you?
+@Cassandralool Hello same here it's heavily raining 
+@treborlady Hello to you too! 
+I been slippin on my twitter game the past few days..but I am back &amp; in full affect twitches! Hello 2 all my new followers  enjoy the ride
+Hello, world! 
+@indiegoddess Hello stranger!   How are you doing?
+@shelbymartel @cybersixonline @kablyden @ROCtheSHO Hello and welcome!! 
+Of course if you are interesting, have a reasonable link to info to amusement ratio...  Hello! I like you 
+Hello awesome tweetmates, we kinda need your help. 
+@BethxCore Hello, thanxx for the follow, how are you?  
+Hello twitterverse, I'm back 
+Hello  feeling sooo good 
+@thaumata haha! Hello! I can't keep up! I will try and poke my head in more often 
+hello beauty ;) | fadzli.com | blog: Hello there, nice body. hope you're here to stay  nope, this one defi.. http://bit.ly/UFkX8
+http://twitpic.com/5ohy5 - @bencoder Hello bc  it's a meta-game. Watch this space ;D
+Wow - a big day for us yesterday and another today I think - loads of traffic! Hello all of you, bear with us while we weather the storm! 
+@shannongrace87 Hello 
+Hello world, what's going on? 
+Hello everyone, off to take the dog for a stroll in the woods!  x
+Hello Tweeties 
+@yateoh Hello twitter noob  What phone do u have at the moment? tweet me via web 1st lah
+typically, I'll start my tweeter as many programmers start their carreers: &quot;Hello world!&quot; 
+This is just a test post. Hello world! 
+Hello everyone ;-) long time no see  I'm just registering for blip.fm so back in a mo 
+Sending myfirst phone tweet. Hello 21st century! 
+@FrankieTheSats Hello  if you don't mind me asking, when is the video coming out? love the songs, the best at a party xD
+@twm_driver Hello over there! *waves*  How's yankee life treating you?
+Hello @obscenitease , love the t shirts and stickers 
+@popcorned Hello from across the globe! How are things over there 
+Hello to all my new followers 
+Then I wonder why son is griping cuz I haven't done the update for his website!! Hello!! I have important stuff to do during the day. 
+Hello all my twi-friends! 
+I am sleepy but I am waiting for people to tweet. Hello, @ddlovato and @DavidArchie ! 
+Hello everyone 
+Hello world 
+@jimsharp That is such a scary idea. Hello stalkers! 
+Hello Tweete 
+Hello to @hgtvpro, our 700th follower! And they're part of the media, so even better! 
+@MuddTheFirst Hello there 
+@erinharada Hello again! 
+@MartyHolcomb Hello and thanks for the re-tweet. 
+Hello everybody!!! I just woke up and ate lunch! 
+Hello world! 
+@kiana_b live chat with who? Hello Kalabawsky! 
+@FranchiseSmart Hello! 
+Hello there to @Envirogisgirl my 300th follower. 
+via @DirectionWorks: Hello and thank you for following me. I look forward to getting to know you. 
+@lexia Hello world too 
+Hello  the sun is shining and it smells fresh bread 
+@heavenlykevinly Hello love of my life 
+@LeedStudentLife Hello there. It certainly is 
+@TheLastDoctor Hello to you too, thanks for the follow 

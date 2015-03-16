@@ -1,0 +1,605 @@
+Most common words for this cluster:
+[('mac', 606), ('pc', 56), ('i', 47), ('tweetie', 42), ('http', 36), ('tongits', 30), ('windows', 26), ('os', 26), ('www', 23), ('version', 21), ('macs', 21), ('mini', 20)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Mac', 0.9698291420936584), (u'Macs', 0.7618106603622437), (u'NA_NOVEMBER_ISSUES_Freddie', 0.7406817674636841), (u'Photograph_Dara', 0.7167834639549255), (u'Co._Kelena_Farms', 0.7056671380996704), (u'Macintosh', 0.6966748237609863), (u'StuffIt_Expander_Windows', 0.6794072985649109), (u'OS_X', 0.6543025970458984), (u'Irradiated_Software', 0.6542748212814331), (u'Mac_OS', 0.6540728807449341)]
+
+
+
+
+
+Turtles are better than my Mac - lasts longer and moves faster 
+@ktml I think its iTunes fault I cant download it on my Mac now &quot;store busy&quot;   if you got it, anything awesome in the camerakit update?
+yesterday was a bad day. found Bernie Mac died last year  where was i??
+@AlexJReid - nice of it to inform you during the install, eh? Silly Msoft. It works on the Intel Mac but not my G5  shame, it's quite cool
+@evarley I think it's Mac only. Sorry 
+I have way too many applications running - feeling very sorry for my poor Mac 
+why isn't BumpTop out for Mac yet? 
+@evernote crashed two time while creating new note after my last update... (Mac) 
+@_everaldo I saw #squirrel some months ago on your twitter. I'm sorry it's for Mac only 
+Good trip to shops, new Mac mag to read with cuppa. Almost lashed out on new lense for camera - decided it was too many hundreds 
+not eating out. Dialling for Macs with a heavy heart. 
+@louisgray there is a Tweetie for desktop Mac? What about PC? 
+Working on the Mac... trying to do a clean install of OS... not easy when you have been a PC all your life.   
+The Microsoft Office 2008 SP1 update is taking FOREVER to install on my Mac... and I can't abort it 
+Why won't my Mac/internet let me attach/upload files? 
+Does anyone kow how to unpack a rar.-file on a Mac. Every program I installed so far doesn't work  (me being an idiot is also possible)
+@storycorey Hey &lt;3 I gotta go offline now, get sleep and stuff  But we can totally call tomorrow or something? ILY, congrats on the Mac &lt;3
+@yannleroux : quakelive.com &quot;Support for Mac &amp; Linux, along with alternative browsers is under development.&quot; 
+My Mac has crashed twice today while playing video. I can't work out why 
+its a mac, like WOW. Pismo screen cracked  Anyone wanna give me one, no seriously. - cant afford to fix it and need it for school lol. Mac
+I've gone and done it. Now I have yet another Microsoft app on my Mac 
+Pretty nifty way to work on a PC from a Mac http://www.gotomypc.com only problem is there is no cut and paste 
+@random_michelle For me it blows. I use Office 2008 on Mac when I have to. Here, I have to try porting a docx from one to the other. 
+@AlaijhaPffaf I knowww! I'm gonna watch it online. I miss Ben Mac. 
+The weekend was waaaay too short  Waiting for Tweetie for Mac!
+@aidilfbk Ah, yes. It's got something to do with the Shockwave Mac client. 
+Now looking at a picture of a Apple Mac, I want one noww! 
+http://twitpic.com/3nfla  Trying to buy Tweetie for Mac but i get this 
+Im missed Mac's Live show  
+Trying out tweetie for Mac to see if it fits what I want in a twitter client.... No 
+Tweetie has no growl support  I thought that is a given on Mac applications these days?
+@tweetie Your site says the Mac app is available but there's no link. At least I can't see it. 
+I'm tweeting from the new Tweetie for Mac. It's nice but I'm not sure if it holds up to the power and design of DestroyTwitter. 
+is hating having no Mac and ya that's pretty much all 
+Is testing the new Tweetie for Mac. It's cool but I have some kind of problem with the tweet window... 
+Tweetie for Mac multiple accounts aren't working for me right now 
+@T1beriu Mah skimmer m-a cam dezamagit si m-am intors la twitterific ... iar mai nou mi-am pus Tweetie pentru Mac ... MacOS only  genial!
+Tweetie for the Mac needs to update faster, or have a preference setting to do so. Sometimes, I'm not even sure if its gone deaf 
+Sigh. Was looking forward to trying Tweetie for Mac. Can't use it at the office--OS X 10.5 only. Will have to wait 'til I get home. 
+I really would like to download @Tweetie, but I sadly have a Mac running 10.4  
+bugger - still can't set up multiple accounts in Tweetie on the Mac 
+Thinking it's a nuisance that tweetie on the Mac doesn't have any indicators / notification of unread tweets or messages (or groups) 
+@molinera I know! &amp; It's a pity 'cause #tweetie is the closest Twapp I've used that felt like a native Mac app, but without groups ... 
+So tired.  Ankles and knees  in pain from carrying my fat ass around all day.  Must lose weight, but ate Mac&amp;Cheese for dinner 
+Mac suddenly wont write to external HDD 
+@roundonefight presumably brought up a load of your coursemates.. good times. I like twitter ... I cannot find the hash key on this Mac 
+Argh!!!   Son's laptop won't boot. So glad I have a Mac. Computer repair is NOT what I had planned for today 
+Watching Guess Who w/ @aplusk and Bernie Mac. R.I.P Bernie Mac 
+@steffanwilliams I love Macs for their design, but Im quicker on Windows. Really annoys me when tech goes wrong though! I feel your pain! 
+@Biansta I don't know. I might go to the Apple store and try some out, but I've no idea what kind of thing I'm looking for. Mac noob 
+@tsevis Atari!!!  I do miss frogger; too bad I'm a Mac 
+Doing the Mac equivilant of Format C:\  There is no reason for a my machine to be this damned slow http://ff.im/-2xTXU
+I wonder if my Mac is giving me Carpel Tunnels.  I swear this is not how one's wrist should be feeling 
+@lildobe You're right about that! Too bad I feel dirty about using Firefox on my Mac.  Only use if I have to.
+ive manged to crack the screen on my Mac 
+flagit crashes my mail app on Mac. Feels like working on a PC again. 
+@ThirstyFire The SDK only work in Mac 
+google failed me, does anyone know if there's anything like Skitch available for Windows yet? I miss that most from my Mac 
+@Isa_Marie your very welcome!!! I tired to watch it on my computer but I have a Mac 
+So I install Ubuntu on my iMac (agaaaiiiin), knowing 10,000 apps will be at my fingertips. Nothing replaces the 3 Mac apps I use. 
+What a great TV Commercial for the #GoogleChrome: http://bit.ly/uXUEs Too bad no Mac version yet. 
+Yesterday my notebook suddenly just died on me  If I have to buy a new one, should I buy a Mac or Windows, and why?
+Looks like Mac mini is sick. Spinning ball on start up, doesn't see hard drive when insert OS X CD  Hard Drive problem or RAM maybe 
+@wendy_fred6 It's REALLY cool! No, I'm on a PC now, I don't have a Mac  well I do but it's ooooooooold  I do have an iphone tho 
+@RedTechie Bahh, I have a bookshelf there on my desk. No room.  Mac Mini is also 2000 bucks cheaper heh.
+@genne Sounds fun, but I'm on Mac/Ubuntu right now 
+Re-installed OS-X on macbook after a broken bit. Guess this one will turn out to be my last Mac. And I screwed up backin' up yesterday 
+@Muzzzza deciding between an iMac &amp; Mac Mini now..  Mac Mini I can get bigger screens in future if I wanted.. hmmm
+@greenlasagna  I'm sorry to hear that  poor little Mac.
+I forgot that T-Mac even played for the Rockets...SMH 
+Watching bernie muthaf*ckin mac I miss uncle Mac!!! 
+Any clues how to get a Kaiser Baas photo keyring to work on a Mac? Damned thing doesn't show as a USB storage device 
+Many problems with flash videos since i upgraded to Mac os X 10.5.7 
+@TimNeill It won't let me download from a Mac  Thankfully I had a secret stash of college-ruled paper in a drawer.
+@rachelnixon Fleetwood Mac may be cancelled tonight? Did you know? 
+@banteringblonde I have a PC, sister-in-law is a graphic designer uses Mac, she's a pro at it but no time for me 
+Need a Mac pigments supplier. blah! No more golden olive 
+@zZeb Sorry, it's a Mac client... no iphone version yet! I forgot... 
+Wondering what's the problem with my YM... It's been days that I can't login on my Mac.... 
+I will not be able to run Sims 3 on my Mac. I don't have a good enough graphics card and will not be able to upgrade. So upset about this 
+@g33kyscotty I really need 2 more, however [A] do they even make the 2405 anymore? [B] Mac Mini's suck donkey balls. 
+@TYfiTY I really need a Mac. My dad wants the chipin money for the camera. I don't want him to have it, I'm working as hard as I can 
+Making the Mac switch... and fixing my broken iTunes links at the same time. 
+Desperate for a Mac  - I need iMovie and FC. Please God please!
+Mom is getting ready for radio show, so Mac and I have to go out on the back porch. As if we would bark when she was on air/really 
+@JonnyPotter I want a powerful Mac too  but I want to put it on my lap as I sit on my sofa.. MACBOOK PRO!!!!
+Can't find any super-duper nice Twitter app for my Mac.. 
+Can get my Mac to properly connect to my Windows VPN. 
+Apple store. My Mac is sick. 
+Right, back to working on my projects. Currently, I'm working on a PSD file that is HUGE. Stalling my Mac no-end 
+Can't get my Mac to properly connect to my Windows VPN. 
+Ugh. Mac with the error 
+vueling.com, your site does not work with Safari on Mac! 
+Anyone know useful stuff for someone switching from Windows to Mac? Preferably stuff like getting things to work like you're used to. 
+@mmnvie It would be nice if all of us still had Macs.  
+@Shaun_R Yep, can't get access to the desktop without getting rid of it, and I can't get the thing to boot of the Mac OS 9.0.4 cd either 
+Hooking up an older Mac G5 for our summer students so they can see how easy it is to develop on a Mac.  We're primarily a PC house. 
+@SubVee But I have been duped into thinking it's a system font - doesn't work on Mac's! ANNOYING! 
+Oh noes, maybe moving my CandyBar icon library from Mac Pro to Dropbox was a bad idea. MacBook can't see any of the icons.  
+has had soup all week for my lunch whilst every1 else in my office munchies on Mac D's, subway, chocolate... 
+Happy Google Chrome 2 released - but still no version for Mac 
+@techsutra - True, but it's very crashy on my Mac, and it feels like it's a piece of linux software; a little choppiness 
+@RobPaller re Digsby - looks like I'll have to  wait for the Mac version. 
+I'm struggling with adapting to the Mac version of Logos. I miss BibleWorks 
+The presentation did not go well.  1 Mac for all demo's, I was not logged in when I thought I was.    FAIL
+Oh no... my Mac G5 won't start. It's stuck on displaying the Apple logo in the beginning and it's making a wheezing noise   
+@nicolerichie Thanks for sharing the pic of Fleetwood Mac with us, the unfortunate ones who wish they could be there but can't 
+FUUUUUUUUUUUUUUUUUUUUUUUUUCK! My Mac Mini Superdrive just died 
+@gNotapipe I'm on a Mac - I have to use Crossover for Mac to run IE6 to test 
+Soul men is the best fucking movie ever. I really miss Berne Mac 
+Working late at night on a Dell notebook, Dell's quality has gone down hill, warrenty service sucks too, poor people  buy a Mac instead
+@dtothealex really... I'm an alumnus, and I don't know myself! and we didn't have Macs yet when I was there... 
+@mistermagnus A friend uses Logic and I must admit I did like it...but I don't have a Mac 
+Installed office for Mac &amp; messed up all my fonts on safari, crap on a stick! help! can't even read the solutions online  #badmicrosoft
+http://twitpic.com/667hh - this is what happened after installing office for Mac  #badmicrosoft
+Now I'm all sad because I'll probably never see Fleetwood Mac. 
+Woo, Hulu Desktop! My poor Mac is kinda struggling with it though, poor little Core Duo just can't keep up 
+@kujakupoet My computer got screwed to hell by viruses. I just finished wiping the drive and reinstalling Windows XP  I want a Mac...
+gprof problem on Mac  why ??
+Bummer. MacBook is bugging out  Any Mac heads want to lend a helping hand.
+Hulu Desktop: http://www.hulu.com/labs/hulu-desktop  No Linux version  but atleast they have a Mac version
+@bingofuel My lil' old Mac did the same thing...and it was never to charge again. 
+Back from town and my Mac crashed on me  but it's better now
+@ShropshirePixie opps try that again the keyboard is all back to front  Mac to PC and back madness really Chef
+@inkswamp No FTP/Browser on the Mac  I may visit an old Mac Lab or Sneakernet with ZIP100s to Kinkos. Anyone with Fetch on a Floppy? DM me
+Watching the Bernie Mac show. Aww he was so funny R.I.P Bernie Mac  http://myloc.me/22zF
+Microsoft Word hates me.  Guess that means no more work today.  Oh how I miss using a Mac. 
+@brewstermax can't.. it's a set time for her to use the Mac... I need to get my own 
+And I thought my Mac was fixed.  Sadness...huhuhu
+Before you buy any cellphone like LG, please do a simple search if that phone can sync with your PC/Mac 
+@cassandra2603 yeah coz its Mac and im using Windows 
+I want to make a .mov file into a screensaver (Mac) - seems too complicated for this gal 
+Mac mini much slower editing video on  Going to get this uploaded &amp; then 18 holes w/my bros. Always love hanging w/them
+Got dragged off to cousin's house for a while. Trying out their Mac. I want one, but I'm broke. 
+Going to the Apple Store to see whats wrong with my Mac 
+Pre-game at Taco Mac.  They are out of Corona. 
+Just listened to Fleetwood Mac the chain, and it got taken off early 
+Wishing i had a Mac  Someone please buy me one!
+Im Mac less for 3 days! 
+@adipedia Dude I got your Kimya Dawson albums ?? When are you gonna take em ?? I am running out of space on my Mac HD. 
+Having a blast with Mac - first time using it and it seems nice. Needs getting used to, but it's not like I'm going to get one 4 myself. 
+@coollike I would suggest switching to Sony Vegas for the trip, but it doesn't work on Mac apparently 
+@Britneezy I DONTTTTT. But my parents want me to go to a HBCU and thats the only one I applied to  I dont want my Mac to get stolen..lol
+oops, forgot to register my lame duck copy of Crossover Games/Mac from Nov and thereby do not have access to free updates 
+Just contacted AppleCare cuz my Mac apparently has Alzheimers and the memory is bad. But they were awesome...no Mac for 2 - 3 days 
+@svartling only excuse for not using Chrome is if u r on Mac.  
+Downloaded Nambu for the Mac but the desktop icon only bounces when clicked. What does that mean on a Mac? Disappointed new Mac user 
+@ashley_SODMG Mac &amp; cheese !! now im in tha mood for that !  Eazy noodles are done quick though !
+debian businees card on Mac(tm) but failed to put in MBR boot load. my bad 
+Mac mini's hard disk is corrupted 
+Yeah 7 hours of backing up to send away Todd (my Mac) to get fixed. 
+Night, Night guys, Yikes school tomorrow  but i'm getting my Mac Book after school hopefully!!! Wohhooo
+no computer for 5-7 days, not cool. I miss you already, Mac. 
+@therealslimdavy I am consistently getting bad Mac feed back.... which is making me sad 
+Still using a Mac.  You have to PAY to have a decent archiving program.  Such bullshit.  Another reason not to get a Mac.
+@HollywoodHames I wish i had a Mac 
+Wow my Mac just had a fun lets not display the red color level coming back from sleep mode. After a restart, it booted twice.  Worried.
+@wazza12 Does not work on Macs 
+Using a top of the range iMac at home makes working on a Mac mini at work all that more painful. Only took 15mins for PS to freeze today 
+wants to see Angels and Demons tonight at Mac Centre but with noone to see it with 
+What's the best screen capture software for the Mac? I love SnagIt for PC, but there is no Mac version 
+@smileyeily Oh fuck, Mac, that sucks! 
+@marketingwizdom - don't have a Mac ... 
+Feels frail after that out of date Mac&amp;cheese demolitioned his guts 
+Hmm the Mac just died on me.. 
+@qualbeen Yep, always hard to get right when not in front of a Mac. 
+Thinking about how much more I am gonna appreciate my Mac when I get it back. Being repaired, expected return 7-10 business days 
+Installing Windows 7 RC on my Mac, w/VirtualBox. Free Windows on my Mac for ~1yr.   In other news I am still doing battle w/new server. 
+@LamarLee my friend told me that until heavy d dies saying &quot;Mac Daddy&quot; is fair game... i feel sabotaged 
+Infecting erm I mean installing my Mac with WinXP *sigh* damn script only runs on windblows 
+@katili Awwwh, you can't get a Mac version?  Gah!
+@DeenaS71 No, no Semagic version for the Mac that I know of. I've been using XJournal which has been great, but no DW access yet. 
+@skahealot LOL yeah it's retarted.  I'd PChat but I remember Macs don't like the program 
+Really up in the air about PC or Mac on my new computer ($750 vs. $2,000). Macs are SO much better, but I don't want to spend that much! 
+i want a signed Mac picture, but my momm said no 
+My Mac's HDD died on me 
+wishes he had a Mac so he could play The Sims 3. 
+@atmb82 Oh no you're right   Mac versions all taken down http://mac.oldapps.com/itunes.php
+@BadAstronomer  Mac is teh greatest.
+Thank you for making Sims 3 Mac-friendly! But I have to wait till the 5th before NZ has it. 
+Steadily chipping away on Tomb Raider Aniversary on my Mac and watin for a customer to drop by so I can go eat. Then more work 
+#truth i cant stop using my TV as a computer screen my Mac seems too small now 
+how do I take a pic on Mac?! Wheres J-si when I need him??? 
+I'm craving some good old fashion Kraft Mac n' Cheese out of the Box. Damn that sounds good right now 
+@rsuenaga @dote i tried to see if the MIL would b open to a Mac, but she wants a PC, this is replacing that old Dell 8400 that i service 
+@anotherfool - Bu-bu-but! A Mac is a Mac. 
+I want Sims 3. There's none for Mac in GH 
+@carlocasas I can't find any for Mac!!! Tweet it if any of you find it 
+@Deanna_Mac haha me too! this so bad 
+My Mac won't turn on 
+Yay! Telltale is going to release a 5-part series based on Monkey Island! Not for Mac, though.  http://www.telltalegames.com/monkeyisland
+@clarinette02 good morning! Why is it freezing inside? It's really warm here... Shame the Mac screen is so bad in the sun 
+Really need Photoshop for Mac  my Vista PC is going nuts and crashing
+@blindcripple And I want a Mac  I think you have a better chance of getting what you want before me...
+Mac-less for a week  was just warming up to the twitter-concept..
+@seelix I really want to play KOTOR now, but it won't play on my Mac. 
+@digsby have you guys even started working on a Mac client? 
+anyone got o2 mobile broadband for la Mac? can't get the bloody thing to work on mine. 
+@Orli tried to click through - got some Flash panel that didn't allow me through  (using flash blocker on Safari/Mac)
+@IFightDragons Yes it does, however you both play as Little Mac, no character selection. 
+The boss just came and took the Mac away 
+@SonomaLass Oh noses! I am sorry!   I'm sure someone will make one for Mac! &lt;3
+@lsealy XP on the Mac....so sad   I guess it's better than Vista on a Mac.  How big is your hard-drive?
+@chuongvision Got the airport before the TC came out.   Gotta love TimeMachine though. Switch to Mac, you won't regret it.
+fuck.. Mac mini connected to lcd tv all of a sudden decided to fuck with resolutions and is now fubar. Tried everything... 
+At da harbor n Mac fell twice but still doesn't want us to carry her 
+@Keegen14 Yes! I hate it, lol. Do you have a Mac? I do. Apparently it's not working correctly on certain types of Macs 
+@michelehsu Thank you! I looked at Mindapp.com looks really good - down side only works on Windows  Mac user here 
+@danbruno I wish you had said that before I got the Mac digi-dist for my MacBook. 
+Darn, was hoping the new Adium for Mac supported Skype chat, but it seems it doesn't 
+@Jenny_OReilly Mac dont have right clicks lol 
+Have 2 PC's and a Mac to fix tonight, and thats before I play football.  All I really want to do is get nice and stoned 
+I dont think windows was meant to be. I just blew away the primary partition on accident. Fun times. I'll be reinstalling Mac OS later 
+Firefox on Mac breaks my Search layout  Every other browser looks good!
+@kiwimmigrator apart from the fact I own a Mac, I'm rubbish at drawing &amp; physics 
+I need a copy of Mac OS X Lucida Sans true font, can anyone help?  (via @ob1wanski)
+getting ready to eat lunch, then feed Mac his lunch. The grass will get cut today as well 
+@tim yeah, not sure my decrepit Mac has the capabilities.. 
+@JerryLundegaard it didn't work on my Mac just there when I tried it 
+I lied  Apparently my version of the Drobo in combination with its firmware and Mac OS 10.5.7 is a formula for usb connectivity disaster!
+@ElaineGiles We don't buy our Macs, we just rent them... and we don't even get to use them much during the rental period.   
+@yami_mami lol me to I need to get the apple store to fix my Mac 
+addicted to Sims 3  now i need to go buy the Mac version too xD
+Can someone with a Mac please go to apple.com/safari and tell me what the minimum specs are please. I can't see them because I'm a PC 
+@atebits re: Tweetie Mac, 'Refresh All' is much more useful than 'Refresh' (does the same +more), yet doesn't have a keyboard shortcut. 
+Anyone else at #locmia presenting on a Mac? Having a dongle issue 
+Downloading parallels to have some PC software running on Mac. Yeah, there are exclusive PC-running softwares yet. What a waste of time. 
+i'm coming home today after a super fun trip... glad to be with my B-Mac tonight, i miss her 
+looking @ the Sims 3 requirements.... I do not think my PC will run it, and I don't see a Mac version.... 
+@jestdempsey Fleetwood Mac canceled at the last minute here in Cgy due to illness.  Some very upset ppl who arranged flights/hotels.
+@karlroberts You do know that The Sims 3 runs on Mac? I have it on my MacBook but since my RAM isn't good, it lags, alot 
+@oilman bummer, I can't use that tool on a Mac...we need a web based tool! 
+I thought I got a new Mac today - but I was mistaken since I haven't even touched it yet 
+@tonyadam @oilman just more proof that Microsoft isn't a Mac fan-boy and they're missing a lot of users. 
+@shahidkamal Ah man... I had a Quadra 950 (the muther of Macs 20yrs ago) until recently.  It's gone now. 
+Testing google chrome on Mac OS X, it don't work fine 
+@expandrive Since I bought mac version do I also get windows version? Mac is in the shop Im stuck with windows till its fixed 
+What is with everyone on my twitter home page buying a new Mac today? I have to wait till Dec at least till i can justify doing the same. 
+Sometimes I miss the bay  All my old friends are back there.  im listening to Mac Dre 
+Oh man  I have a Mac Reviewcast egment ready but can't record it because I have a cold...
+@eirajane - Sims 3 is not available on any of the consoles I'm afraid.  PC &amp; Mac only at this time 
+No b-day shout out from Joey Mac     lol
+Fleetwood Mac couldn't even walk past each other so I could get one pic with them in the same frame. 
+Hubby thinks I'm going to load everything into the Mac tonight - I married a crazy man!  Supposed to be my weekend OFF!  
+A good friend was unloading tour bus in london, has his bags on sidewalk+ a thief ran by+ stole 2 bags, 1 with his Mac+cell, cash, etc 
+argh..the RAM from PowerPC G5 doesn't work in a new Mac Pro????? tis is sad. 
+Will the SIms3 be able to be installed on a Mac and a PC or am I going to have to buy it twice? 
+Oh sad I can't even get Sims 3 for Mac yet. 
+It's like 2:02 in the morning... I am so hungry  Christian is making Mac N Cheese &lt;3
+No Mac N Cheese  I hate my life.
+@jonbuscall That's one cool tool Jon, pity it's for Mac oly... 
+@bahales I can't afford a Mac.  I'm a poor college student with a dead-end summer job... 
+@cloudberryman Mac, sorry. Sad state of affairs here, I'm afraid.  (Dear world: please write a MacFUSE plugin, kthxbye)
+@drwave Dude, do you ever NOT have problems with your Mac? 
+Our Mac is officially dead. Currently purchasing a new one. 
+@thebgn My Sims 3 won't work either on my Mac 
+My Mac is dead today ... 
+Looking forward to the WWDC keynote tomorrow. To bad I want see Mac OS X State of the Union with Bertrand Serlet 
+@grantklopper sadly crossword not working on Mac chrome 
+Homeee  &amp; it's really bad weather    Goiing to eat @ the Mac with SoophJ
+watching X-Men and waiting on Mee Shell to get outta the shower. Mac &amp; Cheese for lunch... no solids yet. I still want a cheeseburger 
+@kellxmcr oooh that sucks  is it on a PC or Mac?
+ My computer is so bad it doesn't meet the system requirements to run sims 3 #Sucks #Pc #I #Want #A #Mac #or #awesome #PC
+@ohlillielove Awesome, I need a new Mac to play it though. 
+@rachelstarlive  Mac users are angry people.
+Would take @urbantaco over Rockfish any day, but free wi-fi is the deciding factor when Mac is with me 
+My Macintosh SE has finally died 
+Still pissed computer is tripping. Agrh this is why I want a Mac 
+just checked my MacBook in to the Mac Hospital. I'm hoping for a swift recovery. Poor Sad Mac. 
+@DynamicShock 160/2GB is not that good for a laptop, which is one of the downsides of a Mac  the looks/feature/safety=amazing but size=not
+Love my Mac but the Apple Airport Express sucks! 
+i seriously prefer Mac books to any other comps. 
+Am gettin up @7am to play golf. Y am I still f'n with Mac OS. Jebus don't want me to have a hackintosh 
+@tammcturk You should be able to _download_ in Mac - &quot;Download Snowball setup&quot; at http://www.trmem.com/download/. But run it in Windows! 
+I'm Mac!!!! Yay but now back to revise for a exam that I am definitely going to fail 
+Little free tool to check your Mac's battery's health: http://bit.ly/LYUme  My work Mac is severally hurt. 
+@Mac20Q no fun Dave. Back @ work 
+is angry for accidentally deleting all her photos from her Mac (yep all the ones I just transfered) 
+@GuyWritesCode It's connected right to the Mac 
+Ugh! I now have no right click! it'd be fine on a Mac, but on Windows?! Dammit! 
+@planetMitch Macs never get good game support unfortunately   If there are windows drivers you could try using it via bootcamp maybe?
+Now I think I want a Mac.  I should get out of hurr.
+@Soenn Yup. And if its like Spore you have a rootkit installed as well now on the Mac  
+Nothing works to sync my N82 contacts. Zyb gives an error, Nokia CD's don't want to install on my Mac, Mac iSync plugin doesn't work 
+I think the time I really start lusting after a #Mac is when I'm forced to use #Windows. Unfortunalty that's every day at the momenrt 
+i have to move to the boring old PC.... Bye bye Mac!! 
+@zokdok nope, didnt do that. But everybody around me is experiencing the powerdrops in Mac. Think it's update related... 
+An update to my tweet on #safari4 font rendering. I've just been told the Mac is the same, its only on the PC version they're correct 
+'Bout 2 start scanning, won't b abL 2 do nethn else cuz my Mac won't multi-task if scanning's involved 
+Trying to remove &quot;corrupted CTF&quot; AVG file on my dads Vista notebook. Wish I'd told him to buy a Mac instead 
+Even with Mac Built-in spell check I still make mistakes 
+No twitter app works correctly on Mac. You get tweets 20-30 minutes late 
+Hubby and I decided to go Microsoft-free, so 're-sized' our digital stuff.  His Mac arrived today, but I'm still waiting for my netbook. 
+On a mundane level missing my iPhone - in for repair - can only Tweet on Mac 
+@mikeyil Unfortunately I'm not lucky enuf to be using a Mac... stuck on a Dell. 
+Gonna set up today with laptop to work in bed. Storms + dogs = they feel safer under the covers. Baby Mac slow compared to Mac Lovin. 
+Mac crashed 
+Hoping QB Online supports Safari 4 and FF for the Mac soon!  I *hate* booting Parallels just to login to QBOE 
+Had to shell out for an Elgato tuner for my Mac.  I've only got analogue signal here in the middle of nowhere so 'The Tube' won't work  
+I really wish that sound on Macs were louder 
+@zenbitch I'm on a Mac at home and can't install things on my PC at work.  I can look for a list for you, if you'd like.
+@Peachdoll don't think it's Mac compatible 
+@Stokestheeditor @Boomshard This sucks not having my Mac out. I can't see u 
+@ghostkid What happened to your Mac? 
+@tweetdeck fail you're NOT syncing the columns from 0.26 on my Mac 
+Grrr! I couldn't get my new Mac tonight because I used my card out of state then tried to make a large purchase so they had it locked! 
+@KimberlyKane enjoy the Mac, they're so much better than a winblows machine ... to bad I'm stuck on it for work 
+Mac grill in monrovia/arcadia is closing down tom 
+Back-to-my-Mac sucks  I thought it would be web-based AJAXy like the rest of MobileMe. It doesn't even let me access my files over the web
+what's up w/full episodes of the closer only being avail for windows(?!) on the TNT site? NOT cool  i'm a Mac!
+It's like half a centimeter but it very slowly grows. I'm so scared my Mac screen will break. 
+@kevin_love @madsen_mark was hopin Mac would be back he seemed to work well with you guys  .. Hopefully they find a good replacement
+so many Macs in the office today, but Lindsay gets none of them  No fair
+I want my 3.0 - but i cant - its not there yet and im syncing my iPhone with my Mac Mini so will have to wait till tonight 
+PC running like a bag of s**t this morning - I hate PCs!  I wish I could use a Mac at work 
+@rupinjapan only got Mac version 
+It's days like today when I all I want is better gaming support for Mac's... I don't want to boot Windows anymore 
+I've lost my Mac selling mojo 
+@Gary_Mac sadly not  !
+@_meeks_ LOL! get yo' tail up! I wish i coulda slept till 9:30  How was taco Mac?
+@KalanMusic I'm infact in the Tat parlour getting that done RIGHT NOW... but on both sides. &amp; WTF u got ur Mac back?! I'm still waaaiting 
+Congratulations to Taylor Swift and sorry to Mac who stayed up all night and still didn't get the iPhone 3.0 Software 
+Got a driving lesson in like 30 minutes, weather is bad too  #squarespace ++++ Mac tommorow wooop
+@thecreativeone http://twitpic.com/7mndh - I also want to start developing for the iPhone, but I don't have a Mac 
+@erialcgrove Our amazing Mac world is crumbling around us.  Do not like.
+It's no more fun! No #flashplayer !  No #java ! No whatever! The CD drive is not working properly! My Mac is a cripple! #helpless. 
+#iPhone 3.0 Notes sync seems quite weird - Mac stores Notes on MobileMe, iPhone can sync Notes w/Mac but not MobileMe??? No live update 
+@alfredb Okay, I get it! I need a Mac. But for now, I can't even turn on the laptop. The fan error message shows up, then shuts down. 
+Your making me jealous. I want a Mac 
+@Beirutspring you set up the preferences right? Maybe an extra option you overlooked? Office for Mac is also horrible with rtl. 
+It's never good when an iMac won't recognize the HD and keeps spitting out the OS disk like it tasted something rotten. Sad Mac 
+does anyone know a software to copy songs from iPod to Mac that is free without a song limit 
+my Mac crashed. stopped by Apple store. tons of other mac peeps down too. 
+@TheJesusFish Indeed there are. Not fucking sure what happened. They WERE on my Mac and now they've vanished 
+Just leaving work... Gunna go have a few adult beverages with Mac before she move to AZ 
+@R_SK Fun. I need desktop for Adobe, mostly. But games would be cool. Mac wins at all things CS4, it's medicore on pc  so i may not do it.
+Hamsters are good, PC is ill, Linux server is nearly there, Mac is old  What a fun time I am having
+I can't get wheel tilt to work on Windows or Mac  #logitech
+My Mac is slow  I hope it is going to be OK.
+Installing 8 updates on my Mac so I can't use it for like an hour  guess I should revise...
+I need my Mac, like now.... 
+I want a Mac.   .. Haha.
+Wondering if I should buy another Mac Mini or build a monster PC and virtualize. Feeling the squeeze of 1.66GHz and crap video today 
+@phi  Damn. I have to say that I don't remember there being a force shutdown function in Mac OS... Apple confirms. Huh.
+@knoxlight Currently we do not   - we are starting to get more and more requests for the Mac version though, so you never know!
+@Scobleizer hey rather than throw your old Mac out for the Dell Z, I'll gladly take it as my 6yo Mac PB just died 
+@steven_chia no... it doesn't.. because I can't do it without forking out 2 grand to buy a Mac 
+i guess im have to download the regular YIM for Mac... i really prefer Adium tho...  ill see if i can fix it later
+@pdempseyfansite No I don't have a Mac  But I never leave my laptop on for more than 12 hours. So it's not that bad...
+Spent two hours trying to get an @eyeficard working on my Mac (works fine on XP) with no luck. I'm done with it. What a pain 
+Sims3 isn't running very well on my Mac.  Found out it doesn't do too well on GMA950. Darn, I don't wanna get a new Mac but I want2 play!!
+Total FAIL!  Clear WiMax modem doesn't work on my Mac   WTF!
+I miss photoshop.  Since I got a Mac I no longer have it. However, I'm loving my new $3 sunglasses. 
+I really want Mac&amp;Cheese! 
+Poo. Was going to buy new Mac with M$ Office but too many compatibility issues so will have to buy PC with M$ Office. 
+Mac os x installation fail! Unable to set up wireless  now I'll have to reinstall windows again urgh!
+I want a new Mac 
+@markbyrne The only reason I haven't jumped at 'Things' (which looks brilliant) is that I don't have a Mac. I want at least backup on PC 
+Some of the sync functions on the 3.0 iPhone software are buggy! I lost 2 notes! I hope they're on my Mac and not gone forever.  
+@docdelete I would but its not available for Mac yet 
+@fearoffish We had to call Adobe and fax the reciept to get them to give us a Mac Key 
+My Friend is going to buy a Mac... and i'm trying to put the shit head off... I have told him he won't use it properly... 
+@HUan thanks! looks great. bugger i don't have admin rights to my Mac. 
+@kreatre2009 I used to be a big Xara Xtreme fan, unfortunately there's nothing really like it on the Mac 
+tweeting for Safari in OS X 10.5... I have to close it to install my Adobe apps... I thought that was the magic of Mac... no hold ups 
+My awesome Friday has been foiled by a lack of support for thread process shared synchronization on Mac OS X  Damn you Apple.
+@eecue Mac only  QuickPwn is still pending....
+@delonm I wish. I want to get into iPhone programing but have no Mac.   Do you think a Mac Mini can handle the task?
+My TweetDeck for Mac just isn't working. 
+Aw my Mac order didn't come today  it always only takes 2 days and its already been 4 !
+Mac &amp; cheeese is grosss without milk 
+@pooping76180 well, its a great thing, unfortunately but am using Mac os x    ..
+My Marist Thinkpad arrived in the mail.  Still upset I need to leave my beautiful Mac at home 
+I dub the Big Mac the greatest sandwich ever created!  Alas, I must watch it from afar. 
+guess i wont be gettin that Big Mac and McFlurry 2nite 
+@AlanahC Oh no! What happened to your Mac? 
+My Easy Mac is hawwwwt. 
+Looking for nice RSS reader for Mac. If I don't find anything soon will end up using Safari or Mail 
+And why Mac's sausage patty taste so nasty nowadays?? 
+#Numbers on the Mac really is pants ! 16k rows from a text file to a graph please without crashing. Excel does it with ease why not you? 
+@juliemanchester sorry I bailed. Mac died. 
+@Scolmi more PCs in the stats doesnt mean, they are no Mac users. I had to refresh mostly at work with XP... 
+For Christmas, my mom wanted a Kindle. We got her a netbook. For her birthday, we got her...a Mac Mini  #kindlefail #hintfail
+I want to get the chip on my Mac sorted out but I don't want to lose it for several days 
+new MacOS dropped support for classic Mac programs  ... time to evolve
+No fishing   this weekend..bummer!  Rain, rain go away @ least on weekend.   Thank you iFire for letting me use xFire on my Mac.
+@cmuckley You got a Toshiba?  That's awesome.  I wish I could afford a Mac.  
+So far, I have to say, the state of play for porting .NET apps to the Mac using Mono doesn't look at all great 
+@iphone_dev Not having a Mac means I can't use pwnage so  can't get the Egg 
+Trying to figure out how to create a new folder for bookmarks on my toolbar on Firefox on a Mac.  Frustrating.
+Going to the Apple Store to get my Mac fixed...  Life without my Mac= Sadness
+YAY My Mac doesn't run as slow as it did a few hours ago, I relly think it was the Spotlight indexing. 
+is apparently allergic to Bis Macs 
+I go away for 2 hours and missed a Mac emergency and my favorite Australian, I fail you all 
+@w00dRabbit O don't play me like that  I want to have an affair with ur Mac....
+#Mac restarted  was not sleeping after upgrading #xcode or probably messing with airport config for #iPhone #tethering  any idea why?
+Mac is sitting at home, sick  man I got the sickness...
+@rinserepeat No, no Mac client that I know of. 
+When's a Mac versino of Quake Live gonna come 
+I just ate so much Mac and cheese! 
+@James7Mac for serious? for buy or rentage? come to melbs you fuck. live all pov-like but at least you'll be within visiting distance 
+@alsutton BAH - QuickPwn Mac only, no Windows at present 
+IDEA 8.1.3 crashes on Mac too often, lost a few file changes  , switching back to 8.1.2
+Noticing that Skitch is great! BUT only for Macs 
+@tbotwit Myeah, but Mac has apache &amp; php support built in. MySQL runs fine too now, but no success with file permissions 
+Taking the Mac soon to the Apple Store for a potential repair.  
+Moving my iTunes library from my PC to Mac is not fun - I have 25 songs with missing artist/album tags. And lots of missing artwork 
+*argh* #KabelBW internet fails again , and also #O2 Connection Manager on Mac also fails  #InternetViaNetbook #Win7
+Knackered. Spent all day ordering ink  too much PC not enough Mac
+@mitchmaxson Just saw your talk w/ another user that said you had a Dell A940. Unfortunately no official Dell Mac drivers there. Too old 
+Joey Mac shows us tons of love but I guess the other dudes @NKOTB aren't fans 
+What's a good video converter for Mac? I needs tah convert MKV to AVI format. 
+I have an idea for iPhone app, but no Mac 
+@flarewick Hi wil! I heard ok daw yan, but sadly, di naman ako Mac OS e. 
+is still scratching his head about the set up of RemoteTap to control the Mac via iPhone over the internet... bloody security issues! 
+wtf!  My Ipod nano only goes into charge mode when I hook it up to my Mac... it no longer synchs up or is seen by itunes! 
+is at @iChantz's. His Mac isn't working.  
+i-Mac in the shop! hard drive kicked the bucket  I'm going through internet withdrawal, replacing it with hanging outside and getting bit!
+Hmm, so Mac multi-monitor support is both awesome and not awesome. Easy to set up, but I have issues with a vertical spread. 
+@MsKay_Mac im about to 
+is hoping that Mac feels better soon... sucks to be sick 
+@wtcc Yay Mac! I can not wait or the new video...do you even read ur at replies because u never repy..? 
+I wish I had a Mac 
+@enchantedquill Unfortunately I don't have any editing programs, just the iphoto on my Mac. 
+@thisismaxi - Yeah, heard it's awesome. There's no Chrome yet for Mac though, right? 
+my Mac is now eating yoghurt instead of me 
+@mrming Dammit - doesn't work in Numbers/Mac  YouTube vid looks good though! Will fire up Parallels now...
+I've got two 24&quot; Mac monitors on my desk - but I've been getting neck ache  So I've hidden half of one behind the other - so decadent!!
+@JonathanRKnight Thought you were a Mac 
+@JonathanRKnight or are you a Mac?  then you could do anything! 
+Although I am heading back to PC land for a some time, I'd still like a Mac Pro at some point  http://is.gd/r9zI
+I believe you have seen the new design for @atebits - http://www.atebits.com/ , haven't you? There's @Tweetie for Mac coming soon 
+@electroginge Buy an Mac  yay
+@oskar dude I so have both of those apps on my Mac 
+Building an app for Mac is not fun, specially when you don't have one.. 
+@RagnarTornquist The Secret World Mac client.... pleeeaaaassseee  Guess you already have started the development of the game with DirectX.
+@SteveShantz  Mac's don't need supporting. They just work. 
+iLove my Mac  very smart OS
+@MikeGrace I have all versions of windows from 95 on and about every version of the classic Mac and every version of OS X 
+@applenewsource on my PC laptop I'm using 4, and on my Mac I'm using 3.  goofy I know. Don't like 4 so that's why I didn't update the Mac.
+@macman2256 I see you're still on your Mac-collection spree! 
+I've finally got my MacBook!! Now I'm part of the Mac family 
+Ok...where does one go to educate themselves quickly on what's out there Mac-wise? I was thinking of buying a 2nd compooter 
+@Jackula ew. Tweetie will be THE Mac client. Just you wait 
+@EdLeafe nothing trite about willing to die for my Mac 
+@FearMediocrity i should be OK, its a Mac so straightforward, just router settings etc I'm figuring out 
+@kurishi In light of my recent purchase of a Mac, that statement is particularly poignant 
+@jeff_lamarche Bummer! Perfect justification for a Mac mini or iMac purchase to complement your laptop 
+@JustinMooney I have a couple of Macs for that very reason.  
+@wtcc: &quot;Mac loves Marisa.&quot;  Yes, I got him to say it. Heck yeah 
+After settling some confusion with Apple, I'm finally getting my own Mac 
+First post from Tweetie for Mac!   http://twitpic.com/3nf8v
+@jessicakorman So get a new Mac and all your problems will be solved 
+Trying out Tweetie for the Mac. I love the dialog box that pops up when you try to turn off ads and your not registered. 
+Has successfully connected to Loughborough Uni's wifi to download Tweetie for Mac 
+@CraigGrannell Given circa 300 Macs, I doubt the license fees are justified 
+@Tweetie for Mac uses awesome &quot;per user&quot; not awful &quot;per machine&quot; licensing. Kudos. Hopefully this is contagious. 
+Amazing: Tweetie for Mac runs stable as v1.0!  #tweetie #nambu #tweetdeck #seesmic
+Tweetie for Mac is here!  http://is.gd/tqBL
+@akulbe Yup, 1.2 - and Mac OS X client is in beta. @tweetie dev folks, please add me to beta list if you are watching and willing! 
+@atebits Just in case you didn't realise, you're home page still shows Tweetie Mac as coming soon 
+@chrispirillo We Mac users have been bitching about the Flash plug-in forever... 
+Mmmmmm. Tweetie is quite neat on the Mac, does what it says on the label. Will try it for a day or two. 
+@playfool Only because im not a big fan of PC's - would go with one of the new Mac Pros, if i was you 
+@NinaPA I did. Fortunately the iLife program for Mac will recognize this camera or I'd be sending it back. I have to load that today 
+@tommcfly ooooo tell him 2 eat 4 me 2 cos healthy eating is soo boring..Im starving! A Big Mac would go down a treat!! 
+Morning all! Trying out Tweetie for Mac. So far so good 
+@justex07 I agree! I'm liking Tweetie for Mac! 
+@xarro Need I urge you to check out Tweetie for Mac?  www.atebits.com
+Right, last Tweetie for Mac post: @atebits, you 'da man! It's a beauty 
+Haha, Tweetie SN at Mac-BB. It took half an hour. If u challenge the Mac-BB-Community u will eat your own dust! 
+Tested out tweetie for Mac this morning. Pretty nice. 
+@MsTeagan I like Nambu for the Mac....it's still in beta and has a couple of bugs, but I like it a lot  http://www.nambu.com/
+Macurial development officially started!  What's Macurial you ask? Well, it's a Mercurial GUI for the Mac. More to come!
+@CharBF wow - I finally get the Anna Mac reference!! 
+I'm enjoying Tweetie for Mac! 
+@jamesmb Well, with support like that, who needs Tweetie for Mac critics like me, eh? 
+@annamRO YAY!! This is awesome news Mac D.  I wish I wasn't so busy, cause I would be helping much more than I am now. =(
+Just got home; spent 2 hrs w/ HP phone support &amp; 2 hrs retrieving the data on my HD. I need a Mac! But... I'm quite happy I got my data 
+@toothsoup Last.FM has native radio clients for both Windows and Mac. You don't need Amarok. 
+@indycent dunno. but i've gen. not been happy w/Vista when i've used it. I do recom. trying a Mac. Once you go Mac you don't go back. 
+@Hornnes I am also working on the Mac 
+Bath's running, @eckafatcat watching #SaturdayKitchen and I'm having a little Mac time 
+Playing World Of Goo on Mac 
+@Cory_Mac_TF thanks for letting me know hope u get some racing there... will be  looking at results from here in england good luck 
+Mac and Cheese, clementine soda, and the first X-men movie. Wow this lunch is amazing. Wow this movie's effects were horrible. 
+@JoshRamsay I just noticed you look like Justin Long. the Mac vs PC commercial came on and for a sec, I mistook him for you. 
+@mikeschinkel This article says Parallels wins bnchmarks  - http://is.gd/pG79 - so VMs on Mac seems muddy. Just *try* Virtualbox already. 
+@NailaJ the IPhoto on Mac computers with the &quot;Faces&quot; recognition  it's ok I've had a long year.. and it's only May!
+Loving the world of Mac 
+@savannahstern need to get a Mac, it will last longer and hold its value! And if anything happens, i can fix it! 
+@brianhornback  -  a little Fleetwood Mac is never a bad thing  
+gave up: downloading JKAII:JA For Mac 
+renting FrostNixon on the Mac for a little movie action on the plane tomorrow 
+(me) so how's Mac, like it? (boss) awesome, but not compatible, ... not to our system but to our budget  *ambil DELL di injeg injeg*
+@scottjbarr Switching to Mac OS X 3 years ago has saved my eyes then  Woot!
+@nickfranklin No analogy here... just fact.  Get a Mac 
+@NimbleRareFox wow that's quite a long time for studying  Good luck with the job hunting though.Yes also a Mac user (iMac) this side hehe
+@dda Wow, that is good  I'm on Mac too with XP via Parallels if you ever need a tester ;)
+S-a reparat Mac-ul. Ieiii! M-am saturat sa car kg multe dupa mine 
+@inuyaki Macs, food, Spam ... I knew I had to follow you.  
+@Linds56 You may be PC but I love you anyway!!!  Maybe someday you too will become Mac! 
+@wendy_fred6 It's REALLY cool! No, I'm on a PC now, I don't have a Mac  well I do but it's ooooooooold  I do have an iphone tho 
+@CirkusMike tweetie is very good for multiple accounts too. Grab the Mac Desktop copy too if you have one 
+@jfxberns Its not Benching. Point was that Mac doesn't run DirectX games native. CounterStrike runs better on my WinXP. naturally. 
+@westham999 Hmmm... I'll handle it on my XBox or PS3... Unless they make a Mac version, or if I can get my CrossOver working online. 
+@Gaelicwolf  hehehe on a sugar high so i'm good  i put the bailey's up for the next 6 months.. i have a shot on Joe Mac's birthday too 
+@merytsekhmet All I need for pdf is a Macintosh.   (via @limako)
+@KevinQNguyen Windows 7 is pretty cool. I installed it on my Mac 
+@AAPC1228Mac1231 helloooo new friend 
+Can't believe I've been using Microsoft word on my Mac for so long. OpenOffice has made my day 
+@AAPC1228Mac1231 feel popular today i got like 12 followers in one day! 
+Dammit no Worldwide Telescope client for Mac. Sort it out  #TDC
+recommended Mac app of the month: MainMenu very good for cleaning and maintaining your Mac 
+@applefanatic414 oh ok then thanks i will have a look at it I cant wait to switch the Mac 
+I am thinking to get SSD for my next mac mini.  Maximizing your Mac mini http://bit.ly/teS5V  #feedly
+@ilkeryoldas202 That's crazy that the first web server was a NeXT! As a Mac user, I'm happy 
+@tebbo Re Mac/Win7 - more like liberating the BMW so it can reach its full potential on the open road 
+@webaddict For Mac? Don't think so  Tweetie or Nambu are far better, very lightweight, you can track everything and no AIR.. For Win ok
+@JasonBradbury I thought u only use Macs 
+I want a Mac. Not because it's a better OS or whatever. But because it's pretty. A fashion accessory worth wanting 
+@JasonBradbury sell it, get COD on console, replace desktop with Mac. Sorted 
+should I buy Tweetie for my iPod... I have brought it for my Mac but just waiting for proxy support! Any day now! 
+Mac's message is even more amazing everytime i hear it 
+@jockmac aaahhh .... Jock Mac !!! I totally didn't get what you said ! Nice of you to pop up and say hi 
+Fleetwood Mac was great (TAcoma Dome) lead guitarist and drummer-great. Crowd, oldish, like me, some dragging their kids along too 
+@lionl I'll be sure to save up for a Mac next.   They're very rare here, but 2 people at the office have them &amp; they always looks so cool!
+@jamie_oliver I got a Mac because of the kids as there is more for the whole family, plus loads of lovely gorgeous gadgets too 
+@Triptophobia I'm on my Mac. I don't have MSN. I'll be online when I'm done. 
+Mac commercials rock! So glad I'm one 
+@low151threshold You can also enjoy Tongits on your PC or Mac! Download from http://www.tongits.net, enjoy! 
+@ms_fhazzaweiy11 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@Dex833 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@franco1887 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@catherinecas You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@taipan2006 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@BigDevKumar You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@saritaonline You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@iamxc You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@imariep You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@taipan2006 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@lenlab88 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@rstout95 You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@PepeMcKunat You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@simplyjesslee You can also play Tongits on your PC or Mac. Download the game from http://www.tongits.net, enjoy! 
+@WoollyMittens Would be kewl if I could install AmigaOS in a virtual machine on my Mac 
+Photoshopping in Mac  perfection...
+Listening to the music library on an old Mac. RATT were never good 
+@terrideboer You have computer problems because you have Dell's. If you had Mac's you wouldn't have any trouble. 
+@dHeeLicious Get a Mac! 
+@(Mike Try Tweetdeck.com  #Mac
+going to the Mac shop to buy more make up  la di di la di da
+YAY my #snupped .com Custom Mac sleeve is in the mail 
+@bwags Good luck buddy with your last ALS Exam. If @annlavra can do it, so can you.  I also installed the new OS update on your Mac.
+Rawr?! in the Mac room in college, ran out of things to do now....hmm.........if only there was a pub in here 
+Training today: another Mac OS X 10.5 Troubleshooting certifications course 
+I got congratulations from the other Mac user at the office  We shall prevail 
+@penelopeelse Got Mac? Have a look at Omniplan http://tr.im/lEZ4 or Merlin http://tr.im/lEZ3 Not got Mac? Change that as soon as possible 
+@OdaRygh Ah, Mac... Da er du &quot;on your own&quot;... 
+can the developer of Tweetie for Mac create a web browser? 
+@KateKearney It's life changing, in more ways then one. Once you go Mac... 
+@jamie_oliver Kraft Deluxe Mac Cheese tonight!  God sent food that makes for a special treat after a long week. 
+WHOO! The forum post shortcut on a Mac is Ctrl Alt S   I hate clicking the submit button.
+Ecstatic as I've just solved my 32/64 bit problem and can run everything I need on my beloved Mac 
+Ah. Nothing better than Mac N Cheese in the morning before work 
+@Sims_Fan I downloaded it, google &quot;The Sims 3 Reloaded&quot; It's the full game, and working awesome. And it works on BOTH Mac and PC! 
+@TakeRoot And funny, we have a Mac in our house (my son's Mini Mac) and it's the only computer that freezes up. 
+@senfo You need a good twitter client that traces back conversations. Sadly, all the good ones are on the Mac. 
+Amazing how easy the Mac-Wii-internet connection is. 
+Just so you all know - Joe Mac did not break the piano!  
+@debruyndesign You might want to take a look at us - http://www.clarityaccounting.com - made in Vancouver, realtor and Mac friendly 
+@CreativeSoul I always have to be specific with my wife when I want to go to the *Apple* store and not the *Mac* store. No makeup buying! 
+@Wolfie_Rankin *gasp of horror*  You scratched you Mac?? A new Mac??  Someone needs their claws trimmed!  
+@indakno well I'm glad and welcome to the Mac world 
+Photo: Baby Mac in training  http://tumblr.com/x2g1vnb6o
+@charlesharper Hey, my Gateway notebook has served me really well, don't blow the money on a Mac! Check out Thinkpads too... 
+@futurebond I think twitter needs a &quot;like&quot; button cuz I could use it here. Mac all the way! 
+@adamwc Ya man, I've been on Coda since I switched to Mac. I can't say I don't love it too... but Expresso is calling me... 
+Video tweeting in Tweetie for Mac - powered by @yfrog  http://yfrog.com/0tv39p  - putting the final touches on the UI now  (via @atebits)
+Ohhh Chrome for Mac has been improved quite a lot since I last tried it 
+@TomFelton Macs are the best!  Yay for Macs! Congratulations. 
+@cdtaylor Once you go Mac... HA!!  You made my day, Chad!  
+@IdolScott I  hope you saved room for a decadent dessert, you do deserve chocolate on Scotty Mac Day   Keep the celebration going...
+@MissyWard sounds good to me...I'd rather be followed on a Mac than a crackberry anyway! 
+Heading to bed and playing with my new Hulu app on my Mac... so Awesome, long live TV on the interweb 
+@jpdimond Duh, you can skip/block ads in a browser, that's why. And it's actually pretty cool on a Mac Mini+HDTV.  Better than #boxee.
+is gonna have a clean Mac after this  burning all my movies away! http://plurk.com/p/wxqd1
+@chrisiinelu, @cnoble eating  whats left of OUR half of the  chocolate Mac Nut Haupia  pie  
+@iboughtamac Anyone wanna buy me a new Mac Mini to celebrate @iboughtamac's birthday?  
+Finally got rid of the Smart Board tools automatic launch on login on my Mac Leopard. 
+Secure Empty Trash on the Mac is eating up 98% power on each core on my Macbook. 900 files to delete. 

@@ -1,0 +1,461 @@
+Most common words for this cluster:
+[('stupid', 458), ('work', 37), ('today', 23), ('rain', 22), ('phone', 15), ('weather', 15), ('day', 14), ('tomorrow', 12), ('school', 10), ('hurts', 10), ('twitter', 10), ('people', 9)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Stupid', 0.9999531507492065), (u'Dumb', 0.6631050705909729), (u'Pathetic', 0.603674054145813), (u'Wrong', 0.601696252822876), (u'stupid', 0.5945433974266052), (u'Hate_Them', 0.5932039022445679), (u'Screwed_Up', 0.5904226899147034), (u'Dumbest', 0.5898125171661377), (u'Despise', 0.5896216630935669), (u'Idiotic', 0.5887938737869263)]
+
+
+
+
+
+Not feeling well again. Stupid migraine making my tummy upset.  and my whole body aches, shoot me now.
+Stupid m&amp;ms make my stomach hurt 
+Stupid 3 year project! feels like you've conquered something then you realised it's only 1 year down 
+I was in such a good mood this morning. Now? Not so much anymore. Stupid work! Stupid cellphone provider! 
+@nishitd NO!  I missed everything.. 1/4 onwards. Stupid work getting in the way of tennis.  
+Stupid glass and it's ability to cut my foot 
+@jharb_weave boo I'm sorry  Stupid eyes...why are they so important anyway?
+I don't want to go to school!!! I feel awful!  Stupid anxiety attacks kill me!!
+cant upload a picture  Stupid thing!
+@Iceeh I know! Stupid fox. 
+I ate lunch outside for no more then 30 minutes today. And I'm pink. Stupid burnable skin. 
+Stupid arthritis.  I'm too young for this crap.
+My throat hurts. Stupid weather. 
+I have a blister on my right thumb.  Stupid work.
+Stupid food 
+@PandaDementia Aww  I just seem to be getting worse  Stupid doctor wont do anything till I see specialist, which is a month away =(
+trying to master &quot;hard&quot; on rockband2.  Stupid 5th button 
+Stupid school tomorrow, i hate it. But i guess it shall be good to see my bestfriends again, but ahh homework 
+I can breathe now! Stupid flu  
+Oh I see I've been forgetfully stealing my housemates food. Stupid depression + bad memory 
+ok now I think there's a cat fight out there   Stupid animals I wanted to sleep in.
+Stupid allergies and headaches! 
+Is bored and thinks my pre birthday outing could have gone better. Stupid boys have much making up to do 
+Feeling crappy. Stupid bugs. I hate being unwell 
+Why oh why can't I find out what the beautiful perc instr x stained glass window thingy is called, and where I bought it!? Stupid web 
+is attempting to do her plan of procedure but has been sidetracked. Stupid cold, headache and other achy parts 
+Stupid Brother and his Stupid exams. wont let me watch tv!  grrrrr
+misses the days of skipping class and staying in bed. Stupid work and responsibilities  #fb
+Stupid bus timetable, its so confusing 
+I have art to post and no way to upload it from my phone  Stupid lj scrapbook doesn't like cell phone updates apparently.
+Stupid server maintenance. I was playing in Underbog. 
+Lying in bed wide awake  Stupid sunlight waking me up
+argh, had this cold all week, now i feel sick as well and cant stop sneezing.  Stupid malware inside me 
+no strawberry picking today. Stupid rain. 
+@xosandy Stupid pigs... 
+Stupid soccer moms with umbrellas! I keep getting poked with the tips 
+Stupid cat is sick again 
+My whole foot still hurts and dad's making me go to church  Stupid religion :/
+Stupid cat woke me up! Why can't I go back to sleep?  *yawn*  
+wants to go riding!!!! Stupid rain!!!!!!!!! 
+is home from work, but feels terrible.  Stupid hangover.  
+Stupid mat  anyone not using theirs?
+Stupid dvr didn't record brothers &amp; sisters 
+is up and awake at stupid o'clock on a bank holiday. Stupid stupid work 
+@shaundiviney Gahh I wanna see you guys in liiiiiiiiiive. Stupid parents won't let me go 
+Stupid sister and her boyfriend made me change the channel. I waited all day to want sonny with a chance 
+My first thought about what to do on this extra day off was: let's go shopping! Stupid bank holiday 
+I feel so used  Stupid boy
+I came home to find that all of my newly planted flowers looked as if they were shredded to bits  Stupid hail.
+I'm breaking out omg  go away fucking pimples. I never break out. Stupid life.
+Stupid piece of shit. You made my best friend mean! 
+Stupid me turned the oven on instead of the grill. No wonder my pancakes weren't toasting 
+Stupid mac just froze on me 
+... I want to taste my pie  bwugh. Stupid mum won't let me.
+Stupid camera deleted good pictures 
+@DjDATZ Awww, you always ask at horrible times   Stupid essay!
+I'm sitting in the car revising before I go into work. Stupid exam  just want today to be over 
+The outside of my foot won't stop twitching. Stupid muscle spasms. 
+if instead of referring to the datasourceid I refer directly to the datasource I get no data. por que?! Stupid web forms. 
+Stupid vending machine at work ate my dollar. 
+Stupid mould getting me in trouble with the land owner and the real estate peeps 
+I wish I could just find a reasonably priced make-up palette for contouring. Stupid me being all pale. 
+ARGGGG!  Stupid computer just &quot;formatted&quot; memory stick without me telling it too! Now I must find a program to &quot;unformat.&quot;  
+Stupid soda machine stole my dollar. 
+really could do with some chocolate right now. Stupid diet! 
+my muscles have tensed up  Stupid gig and probably stupid sleep too.
+Everything in my room is on the floor  I knew I shouldve waited till the week to clean. Stupid earthquake!
+Stupid mouse isnt working. 
+I missed a fight! Stupid bein stuck in my lil coffee shop 
+Stupid cheap razor.. just cut myself again 
+Stupid motherlkajsdflkajds proxy! Why do you not work? 
+Stupid mondays  I wish i was still in bed.
+Stupid birds woke me up at 5 am today. 
+@VodafoneUk i missed it by about a minute. Stupid buses 
+My foot hurts  Stupid glass!
+Stupid mommy never came home last night. 
+..and my jaw hurts.  Stupid wisdom teeth.
+@rainbowbritelez  That blows. I need to get past the first 100 feet and I'm fine. Stupid not feeling safe.
+@GummyBear78 @BetyPS very true lol. Stupid uni!  
+Stupid thing wont let me put a pic up! 
+Stupid dental office saying I owe them money that I don't.  I am going to have to march in there with little papers and be such a bitch 
+@emoisforluvers  i never got your reply. Stupid twitter.
+So much to do and so little time  Stupid year 12 
+Stupid twitter won't upload my picture 
+is very very tired  just want to sleep.  Stupid work getting in the way!!!
+Stupid kubuntu keeps on freezing on me. I thought linux never freezes 
+My back is killing me. Stupid softball 
+Stupid competition stuff keeps getting in the way  But I am going to get some words in today if it kills me   @heather_writes
+Stupid idiot who ran a stop sing and almost killed me and my car! 
+@lindentreephoto yeah, its super crap today   Stupid writing!  ugh
+No pool today.   Stupid weather.
+Stupid jobs, idk what to do. 
+Stupid freshmen ruined theatre class.. Now we don't get to play warm-up games for the rest of the school year 
+Stupid sun i  actually have to work now 
+I was hoping to sleep in tomorrow ..I guess it's not happening  Stupid blood tests grrr..
+24 hours and $400 later and I hav a new telecom phone that dosent work.  Stupid telecom
+Stupid shopping bags left a red mark on my arm 
+Stupid bipolar weather ruined my day off 
+Stupid stupid fever.  It just came back.  Why is everything spinning around in circles???  - http://bkite.com/07Ypj
+Stupid #cat crapped on the floor right next to litter box yet again. It's clean &amp; she's an older cat. Why has she started this? 
+I may need alcohol tonight  Stupid pain will not go away. I gotta get sleep at some point. I look scary! LOL
+Stupid braces. There goes my fun. 
+Stupid cast is itchy can't play  guitar and don't get to play nrtball or footy for state 
+Stupid legs being randomly achey. 
+Stupid airline prices 
+I should think about dinner, not bee wishing that i could get a loan at the loan market place.  Stupid calculator says that I cant afford-
+Stupid card machine on the train isn't working, its fucking hot and there's no water 
+Stupid weather 
+Stupid, having tommy problems, while the sun is out and so nice warm and all I do is boring ironing 
+Stupid frozen boob juice broke my foot! 
+@evilkittywonka That would be awesome. I'd love to go abroad to see a band! Stupid air fares 
+Stressed out, strung out, exhausted and need a break. Even a mini one might help. Stupid uni work. Not going to happen any time soon 
+Stupid trash man woke me up 
+Thanks lakers for winning and making me get drunk.  Stupid hangover 
+@Jonasbrothers Fly with me I listened to it for over 24 hours straight. (more in next reply. Stupid word limit  )
+Wished WOW was never created... Stupid video games these days 
+This weather is soo lush. Wish I was aloud out on my balcony. Stupid restrictions! 
+Stupid thundaa! your ruining mine and cassidy's pool plans 
+Stupid cold, dont want to be coughing or sniffling anymore 
+Thinking about my new bike!  Stupid work preventing me from riding 
+@dubbayoo  Stupid pubs and their lack of veggie fare. Now I'm even more hungry, may have to raid cupboards.
+Stupid weather made me lazy. No more range 
+I find it quite annoying when I come online to check if I'm loved and I find out who's gone through or won this like that :/ Stupid me! 
+Stupid twitter won't let me change my picture. 
+Seriously, I had to restart it about 7 times. Stupid phone. 
+@deidrefunk you hate me even more now then??? Stupid new layout making me be hatted 
+Having trouble getting the wings game online.  Like I didn't have enough to whine/cry about today!    Stupid corporate computer security.
+Stupid thunderstorms cut my date short. 
+Stupid animal plant shows always make me cry 
+Why have all the hot chicks got mega attitude issues? Stupid perth girls...I failed again 
+Stupid essay makes me wanna cry. I wrote one yesterday, why do I have to write another one? 
+Stupid standing room only. I can't feel my butt. 
+@hottvampchick I know...until 2 weeks ago, twitter at work was there, now it's blocked  Stupid city job
+http://twitpic.com/6bhne - Stupid iphone camera makes my hair look oily 
+Stupid #brightkite won't post my updates to twitter 
+Waiting for my allergic reaction to go down... Gahhh. Stupid sushi. 
+Stupid hiccups 
+Slowly cleaning out @CabbetteNZ's stashes of painkillers and anti-inflamatry drugs. Starting to get a feel for chronic pain. Stupid chest 
+Oh NO! I chewed all my nails away and they took so long to grow  Stupid neurotic auto - self - cannibalism.
+MY friend gave birth without me being there. Stupid game... 
+Stupid cat just threw up something 
+Stupid throat- no Colonial for me today 
+@livy_rose_y Haha yea. Stupid fancy chocolates  lol
+@atheistium don't u just hate that  seems to happen a bunch. Stupid ebayt rules.
+is really disappointed she missed out on pony trekking today. Stupid ankle 
+Stupid crepe ! I spilt it on my shirt  now its stained
+Totally bummed that all the raining has stopped.    I miss my rain.  Stupid sun and heat!  Stupid Florida!  Grrrr!
+is really cold and needs to go take more medicine. Stupid flu. I always manage to get sick for exams. 
+Stupid coughhh 
+Stupid dvd player won't work 
+Stupid mondays,, theyre so cold n  just so fuxking boringg 
+Stupid training program!!!  if only I really stuck to it!!
+Stupid leg is being a bit weird. If this keeps up I'll have to go back on injections I guess. 
+Inviting people over to drink some coffee, don't I have enough condensed milk *turning red* Stupid, have to call my mother 
+I want fooooood. Stupid contractors 
+Stupid computer    why is when I want to use it the internet always broke.
+ah great i smell like a freakin eucalyptus tree. Stupid flu/chest infection. 
+Stupid satellite service screwing up the TV sked. I don't have the last hour of @BTToronto. 
+My head hurts. Stupid heat  It doesn't help that my uniform is black trousers and shoes and navy polo shirt ...It's sun heaven !
+@roxiijonas  damn. Stupid rumours. Would have been amazing :'(
+Stupid paintings 
+Stupid streaming... isn't streaming... trying to follow announcements in a chatroom is like pulling teeth! 
+@fourzerotwo When will a video be released? I'd really like to see what happened. Stupid internet  #e3
+Stupid parents  they promised me when they split up nothing would really change and suprise suprise it has :'(
+Stupid non-eligable contracts..... No iPhone for me today.  I will get it though.... You just watch.
+Stupid imovie!!  your dumb!!! Ahah oh well, life goes on :p
+@Austincarlile dude that was sick!! Stupid spamers are gay!! It sucks my computer was laging!!!  but really cyked to hear the new songs!!
+@deckacards Stupid fans are stupid. 
+I'm never going to get to shower. Stupid storms. 
+Stupid twitter told me to reply with &quot;leave @rachelnator&quot; to stop her messages and i got soo sad  i'll never let go jack!
+If i can't sleep with socks on why would i be able to sleep with hot feet ? Stupid weather. It's soo hott 
+I'm feezing outside! Stupid wifi won't work inside no more. 
+The warmer it is outside, the colder I get inside. Stupid climate controlled buildings 
+@AngelaGillham I did. Stupid spell-check delayed me tho 
+Stupid oral exam. I have to wait till everyone else is finished till i can take it 
+Stupid leaf blower woke me up 
+#goodsex is something I miss. Stupid long distance relationships. 
+So exhausted I feel sick  Stupid video game documentary keeping me up til 4 am! 
+Stupid weather... Makes my head hurt  
+@ThinkInStereo   I want some...  Stupid allergies
+Stupid chris phone keeps hanging up on me 
+Stupid hgtv has me wanting a story where s is having j's bb and j is freaking out about s breathing in paint fumes. 
+I finished typing three sections of biology notes in 2 hours.  Stupid biology. -.-
+Aahhhh I have so much shit to do when i get home  Stupid corporate visits suck.
+@Shelbyy14 Stupid summer  i am going to die
+really upset that my next semester of law school is going to be busy and lame again  Stupid schedule conflicts!
+I want to teach German.  Stupid budget cuts. Stupid counselors. Stupid parents who think it's a waste if time. Stupid, right?
+Stupid work... Stupid parents... Stupid stupid stupid. I hate when my parents argue and make it feel like it's all my fault 
+@_doodle  Stupid bosses.
+Should NOT be up this early.  Stupid work.
+About to take off... Stupid biking to school... 
+I must go to grammar school after this school  I DON'T WANT TO!!!! Stupid parents...
+@swanskin  No kidding--having the same problem here.  Stupid people and their machines at 8am... 
+I actually, really, REALLY don't want to ring student finance  am too stressed out now. Stupid fucking life.
+@TwoPeasandPod It is their modus operandi so kind of use to it right now. Stupid curse of the goat 
+my head is pounding...and not because it's thinking too hard! Stupid sinus infection! 
+Stupid food....food poisoning...SUCKY 
+I have to go have an ultrasound on my leg today because I might have a blood clot. Stupid charlie horse 
+All I want is to sleep. Stupid work and stupid fall transtion shoes. 
+Stupid phone didn't charge last night..... 
+Worrying About Stupid Skool &amp; Stupid Friends 
+@Robbysh Aaaw!!! Stupid respnsibilities! 
+Brain thinks it's quitting time. Stupid time-zone change. 
+Aw, I missed all the fun.  Stupid work.  
+@WestCoastGal88 ugh, I wish I could watch it. Stupid cable! 
+Stupid plane tickets...why are you so expensive...anyone have buddy passes? 
+Stupid att at best buy was overflowing with people  No phone so far 
+So i hurt my wrist again tonight... Stupid bats! 
+My back hurts.  .... Stupid back.
+: Stupid skunks keeping my pup from going outside. 
+Stupid head cold has gotten worse thru-out day. Even tho I've been taking meds every 4 hrs!  womp womp- hopefully 2morro will be better?
+Stupid bitches who check id suck 
+Stupid ipod. Stupid stupid ipod. I freaking love you. Why must you deceive me now? 
+Off to get a new coat for tomorrow.. Might have to invest in some wellies too! Stupid weather!  #fb
+Stupid medicine is making me sick  off to sleep.
+There is definitely a sense of pathetic fallacy today. Stupid weather 
+@emilysarah2303 eeek just had cornflakes without thinking!!!! Stupid nut based cereal! 
+Why is it I voluntarily chose to live in the allergy capitol of the world?  Stupid mold 
+Stupid girls &gt;:/ why am I so jealous? 
+Has never been so hung over  hurts to open eyes. Stupid self!!
+@DWDRUMMER3193  i wish i could come. Stupid bilo 
+Stupid @westzhang's comp don't lemme update properly. 
+No fun for me today  maybe candy and chrome tomorrow not sure yet though.... Stupid house work. errrrrrr
+Stupid finals, i dont want to study 
+Stupid cough never seems to leave me 
+Stupid tower in the water is mostly non-accessible now 
+wishes the #48hbc was next weekend. Then I could do it.  Stupid finals that need to be studied for.
+Stupid me fell back asleep and was an hour late for work. 
+Stupid rain means no bonfire. 
+Stupid me, stupid laziness and stupid usual (for Russians) delays in everything. 
+Stupid yoyo wont even come back up when I throw it! I wanna throw it out that window! 
+@aianna21 *sniffles* I want twin tiiiime  Stupid revision. *kicks it*
+I need to get a phone one of these days. Stupid washing machine killed my old phone.  epic fail.....
+Stupid rain better not cancel the races 
+@jaybby_ oh. EWWWW. Stupid people and couples  HAHA. I'm so cruel to couples. Friends should pay MORE attention to friends!
+Stupid steve and brenda D: third wheel 
+Stupid tree born frog,gaaah I do not take losing kindly!! 
+@a_simple_girl Thanks, love. I've been dying to see it. Stupid technological difficulties... 
+@davidgilray i'm ok for being basically half deaf in my right ear. It's acting up something fierce today. Stupid sinuses 
+@midnightsunx I would've went with you if I didn't have to work!  Stupid work. I wanna hang out soon though deary.
+My braces cut my lip  Stupid..
+Stupid bro woke my mom up to yell at me for being up &quot;late&quot;..he is soo gay..grrr  &gt;:o like I'm gonna go2 sleep:-p
+Hopefully one day this summer I'll actually sleep. Stupid migraine 
+really wants to go out tonight  Stupid work tomorrow
+Stupid sunshine chasing the rain away 
+I feel crappy this morning. In other words, I don't think soccer's in the cards. Stupid body. 
+I'm soooo tired. I have to get up at 6:40. Stupid work exp. 
+@quackstervu It tastes the same as if I'd made Japanese curry. Stupid curry powder 
+Stupid cough is getting worse  gonna fight thru and hit the lake b4 I go pick up  our pool table
+Why when I get a headache it always manages to migrate to my neck?  Stupid headache. 
+feels a bit crappy...  Stupid bad weather -_-
+Stupid mother woke us up an hour eairly 
+Ughhhhhhhhh why is batista wwe champ!!?? Stupid 6 year old wwe fans 
+Coughing like a mad woman! Stupid allergies! All of the pollen and stonedust from the softball fields are vacationing in my lungs! 
+Stupid fucking cough. I better not be getting bronchitis again  
+Stupid manhattan streets givin my poor whip a flat tire! 
+Stupid coyotes howling at the sirens, freaking me out.  glad both the cats are in.
+Morning, running late. Stupid alarmclock that doesnt wake me anymore 
+I'm wayyy too tired to wake up!! Stupid general studies exam! 
+Stupid headache.. 
+Stupid twitter won't upload my photo  grr.
+@wimjimjam it's okay... thanks. Stupid thing  haha
+Stupid postman needs to hurry up with LVATT 
+@mikebailey01 what's anvil? Stupid time difference usually makes me miss your tweets 
+Is missing her girlfriend so terrible. Stupid internet at work is not working 
+Stupid rain, messing with our swan feeding plans 
+Stupid shuttle driver I got here too late to check my bag and now I have to wait on stand by  I will never pack much again  oh well
+I've been up since fuckin 2:14 and I hatee it. I want sleep. I want jeremyyy to hold me while I sleep. Stupid teenage cravings 
+@aianna21 Yaaay for the nap. I want one  Stupid hot weather.
+Stupid flies ruin everything ,, its so nice outside but the flies ruin it ! 
+Running home real quick to take a nap during my lunch hour. Stupid allergies forced me to take Bendaryl this morning.  #squarespace
+I'm soaking wet! Stupid rain 
+Finishing on-line traffic school  Stupid  waste of time and $ haven't had a ticket since 1984.
+@Soccergirl  Stupid hearts...
+Stupid phone is still frozen so im being forced to use my old one. 
+@fineartsfreak56 I wanna dance with you girls!! Stupid work 
+I want to go on an Egyptian cruise.  Stupid school always getting in the way.
+I wish there was a way of laying in the rain without getting my back dirty. Stupid mud 
+Oops, just tweeted that msg 3x. Now I know why it's trending. Stupid mouse button.... 
+If they didn't do that it may not be so embarrasing telling new docs I have bipolar. Stupid ass stereotypes 
+Stupid story! Why won't you write yourself! 
+@KNichole25 I'm so jealous. I wish I could move away soon. Stupid school 
+No tattoos today  Stupid tweekers!!
+Stupid biology calendar  ruining the summer vibe!
+Omgosh it did cut me off! Stupid tumblr. 
+Stupid people annoy me... Huggggeee headache 
+Stupid deer  what am i gonna do?
+Stupid twitteric!!! I don't know what my friends are up to every minute of the day... 
+Stupid ant bites....  I hope they go away soon.....
+I'm really sad its supposed to rain tomorrow  I wanted to wear my new dress. Stupid rain.
+Stupid bus doors nearly closed on me again 
+Stupid city! I can't find a job 
+Stupid rain, why is it always raining whem I am outdoors...? 
+Stupid transmitter  engineers are fixing things should be back up soon
+Stupid tuesdays and their downtime. 
+Stupid sports. 
+Stupid bank problems... payday will not be happening this week 
+Really sick! Stupid stomach virus! 
+Stupid bloody cricket 
+Ughhhhhh! Stupid twitter. it wont let me upload any pictures accept for the one i am using of the horse. not even a crop of my face. 
+Stupid refrigerator just bumped me and made me drop my plate on the floor. now my hand hurts from picking up all of the glass 
+On break at work. Stupid gigantic barn 
+Stupid rain.. you're spoiling all of my plans for the week!! 
+http://twitpic.com/7juug Stupid woman. I hate this programme, I want to watch the big bang theory 
+I really want to go to jazzercise again  Stupid knee
+Stupid mr reinhard has to go n stress out my best friend senior drum major 
+@CBChaz I've never been! But yes it does suck  Stupid back!
+Not liking the sound of that. I'm so confused. Stupid boys. 
+Stupid xbox live still not back up, cant use media center extender,  i have to watch tv on little monitor, its like the dark ages! 23&quot; ahh
+lkajflalfahlkaklsd! Stupid A- history of consciousness grade, messing up my 4.0 
+I may have just completely flipped...and then shared way too much. Stupid things I do in freak out mode. I'm sorry. 
+What? No internet on my phone? Stupid rain storm...now I have to lean forward to my laptop... 
+It's official I hate the cat, she peed on the carpet right in front of her litter box &amp; yes the box was clean. Stupid cat errr 
+Why is it so much harder to get out of bed in winter. Stupid warm snuggly bed n cold icky outside! 
+Stupid cat peed on the couch. 
+SHIT, have to wake up at 6:30 tomorrow  Stupid early flight
+@stuartcwalker I can't get it to work from my phone actually. Stupid twitter 
+@waxkrayon awww, again? Stupid xbox live 
+Stupid twit freeze again not check tweets 5hrs but can only get 1hr bak! 
+Stupid cramps, stupid sore joints, stupid work in the morning 
+Stupid rain means an hour of running on the uberboring indoor track today.  #running
+@epidemicover  I was going, but I couldn't get thereeeee. Stupid rentals
+Stupid shop dodnt cut my films for me!!  humph - http://tweet.sg
+Ugh why am I up??? Stupid early ortho. 
+@skadz I hear it's not til noon!   Stupid west coast...
+WTF Stupid earphones i can't hear my music now...i'm sad 
+Just got pulled over for speeding!  I was only doing 44 in a 35! I dont think I should have got pulled over! Stupid!
+Stupid car troubles  doesn't look like it is going to be a very good day
+Stupid electronic circuits 
+I'm bored and alone in foothill ranch  Stupid car repairs!
+Urrrrgh, I feel so ill. Stupid headache 
+Ugh...just took the magnesium citrate...I'm in for a rough ride the rest of the day!  Stupid surgery requirement 
+rats, I hate having to cancel plans with friends! Supposed to see my best friend tonight. Stupid car situation 
+Stupid twiiter wont let me get on my account on my computer  &lt;*single-icious&lt;3&gt;
+Stupid swine flu shit  Hmmmmff
+@TraceyPenny I wish. Stupid work tomorrow 
+Stupid traffic! I should have exited crow canyon 
+Looks like its just you and me full bowl of mac and cheese.  im pathetic. Stupid parents.
+Stupid shuttle is late to pick us up! 
+@ddlovato I wish I could come tomorrow night but no I have to study my butt off for science instead... Stupid exams, I wanna meet you! 
+Idontwannagotowoooooork  stupid airplanes. Stupid packages that make my hands nasty 
+Stupid public service announcements, for a second there I believe there is such thing as house hippo, scared there for a second 
+I want a milkshake and my foot hurts now   Stupid coat on the floor
+Trying to fill out my debt profile for tomorrow... but I dono what I'm doing..  Stupid credit cards!!!!!!
+Stupid 7am flight tomorrow 
+Tired  Really do not want to get up. Stupid work.
+Stupid character limits! 
+Stupid broken down lorry meant i was stuck on m1 this morning 
+@itsanno  It's in the water. Stupid water. LOL
+Stupid pumps aren't working right.. This really sucks!   
+I have a feeling I'm gonna be dealing with this migraine much longer than I want. Stupid weather. 
+Face is still super itchy and pained  Stupid medicine allergies.
+I was going to ride a segway today. Stupid rain ruined my plans! 
+Stupid pinky hurts thanks to stupid mike! 
+I need to find a pair of shorts that doesnt show my underpants. But I need monies for that. Stupid cut-offs. 
+@LaujBadAss we definitely do. I swear everytime we even say work I feel the pain  Stupid fucking work!!!
+Stupid rain makes june go away and puts a wrench in extravagant bike marathon shitshow plans 
+Stupid bus broke down so will be late to google #waveapi day now  #fail
+@oliver I agree. But how do you vote against stupidity? Stupid people have the majority in every political party. 
+Something I just ate didn't want to stay down.. Stupid bar food 
+@jodyroo I am jealous of your yum. Stupid frozen lemonade taking longer than I wanted to wait to thaw 
+@jstevens428 you haven't? :o I'll write you a new one! Stupid mail 
+Stupid dundee busses! 8mins late!! And over priced! I miss edinburgh  #fb
+Stupid police ruin all our fun 
+just found out she worked a whole weekend for nothing. Stupid payroll 
+They denied me when I tried to give blood today!  Stupid colds that don't want to go away completely!!!
+Stupid douche who cut alberts nails made him bleed   I know he was only a student and albie wouldn't stay still but still!
+Stupid sleep apnea kicked in last night. I was suffocating in my sleep and was semi-conscious for it 
+Stupid black eyeliner where are you????  I need you!!!!!!!
+Stupid southern railways website keeps telling me there a fatal error in the tickets im searching for 
+@heartoceann I didn't go to the zoo  Stupid people backed out because they thought it would rain. it's been sunny all day. stupid people
+I have an extra hole in me now  Stupid blood tests...
+AGGGGHHHHH!!! Stupid cookies are trying to ruin my diet 
+Just cried a little from a thing on oprah...Stupid war 
+Stupid hotel computer won't let me reply to people's comments...rrrr 
+My cat had to be put down. Stupid neighbors ran him over with their truck. 
+Stupid tweetdeck! it seems like i tweeted to much 
+Stupid power failure...it's so boring without my daily dose of t.v. 
+Stupid boyfriends paying more attention to the xbox instead of me.  
+It should not still be this warm in our house. Stupid rain making me keep the windows closed 
+@xelena good but nothing 2 watch on tv. Stupid golf  and u?
+Stupid thunderstorm. 
+Stupid broken water supply 
+arghh just realised i can't take my laptop manchester! I am going to be as bored as ever! Stupid laptop breakage 
+Stupid rain, no golfing this morning. 
+My dad saw his surprise family portrait we got for him for father's day.    Stupid facebook.
+Why can't it be nice out? Stupid rain 
+Stupid phone had the volume down so I couldn't hear it ring when my hubby called 
+Ugh, I hate soldier flys.  Stupid things scare the crap outta me once i get outside to get the mail. Urghh.
+Stupid rain  can't go to the beach
+Is @ work   Stupid computers! :p
+Stupid weather not blowing enough to get to staines in time 
+Stupid pocket watch has decided to stop again  grrr
+Stupid being poor. Stupid everything. 
+I don't see any clouds outside. Stupid rain ruined my plans; I could be outside right now 
+Stupid vending machine @ work won't take my dollar, and its not even that wrinkled 
+Stupid rain! I want to play softball 
+Dammit. They're only $12 today.  Stupid one day sale.
+Stupid helicopter circling over the neighborhood is keeping me uo 
+ my neck hurts!  Stupid sleeping postions
+is hating biostats. And vodafone. Stupid fuckers wouldn't let my phone work earlier. Who knows what I've missed out on 
+Stupid laptop just turning itself off randomly  have to go now
+Stupid cable wont work, something wrong with the audio cables is fuked up.  man im soo bored and its late i suppose. Might fall sleep.....
+So what will today involve? More resting, more tablets, some more visits and a bit more resting I suppose. Stupid heart 
+@Rellacafa ...yay for you?  Stupid elbow.
+Stupid cold, with your sneezing and sore throat! Also where has the sun gone! 
+@SammyWammy1 and then typically I had an even worse one last night/this morning. Stupid brain! 
+@rcmannjr ..following you.At least, my twitter says so.Stupid...  anyways, ive unfollowed you and followed you again..its good now i think
+I wanted to bake a cake for my dad, but we don't have enough apples  Stupid stores, why aren't they opened on sunday?! T___T
+promised she would go into central today and meet up with her drummer. Stupid central with their stupid tubes being closed 
+Why...! Why doesn't my background image change size depending on the size of the screen!  Stupid thing...
+Pants &amp; double pants. Now flight has been pushed back 2 1425hrs. Stupid SqeezyJet! 
+Stupid weather...no boat ride for pops and me 
+Stupid patiio0 tablle bro0ke iin a milliio0m piieces    piickiing iit all upp
+I would go hug my dad but, sadly I don't have a dad anymore. (Stupid divorces) 
+is tired of watching her money dwindle without a job to help it go back up! Stupid economy 
+ phone is dying. Stupid car is so far away.
+@btub wish I could make it. Stupid work 
+...fighting over the avaliable washing machines at my apt for the last couple of hours. Stupid lady has been using them the entire day 
+@OfficialAS naaw -huggles- i hope you feel better. Stupid food tech! 
+Stupid work stopping me from going jetski'ing 
+Hrmpf! Stupid bandage, can't play any game now 
+@krist0ph3r I am still at work too. Stupid vtiger migration seems to have gone wrong 
+Stupid breaks on my car failed not a very good day today 
+i'm cleaning my room.  Stupid bribes. :-P
+@lavenderstars I was trying to but the app on facebook isn't letting me.  Stupid glitches 
+So I might need back surgery?  Stupid dance. Blechh.
+Stupid scanner putting lines down the middle of my pictures. 
+http://twitpic.com/8cper - fail! Stupid summer hours. 
+Stupid, beautiful dreams that most likely will never come true... 
+Stupid prom kids...thank god this is the last one!!! If it wasen't I would seriously cry...and cry some more 
+I hate O2 - they are evil  Stupid iphone.... nothing but trouble!
+I wish I could go to the @atub meetup. Stupid having to work at 7pm 
+@stellawella Stupid girl la she  Okok, she needs the rest, gaspz
+Stupid dentist appointment tomorrow  goodnight!
+On the train running late!  Stupid alarm clock!! D:
+And my picture still isn't working.. Stupid twitter 
+Why is our toaster sooooo sloooow  Stupid cheap company.
+Stupid les got me sick and i feel like shit 
+Morning twitz! Stupid jury duty today  there has to be a way out of this....
+Stupid bots - must be careful with tweets 
+Stupid braces are making my lips so dry 
+Stupid tired right now. @empressserica made me look hot. 
+@PandaDementia Aww  I just seem to be getting worse  Stupid doctor wont do anything till I see specialist, which is a month away =(
+enjoyed a good time out tonight.  Stupid movie, but good times losing at the pool table! 
+@adrianlang Ahaha.. I should do some real research before I do stuff.. :| Thanks for letting me know! Stupid me.. 
+is hyper!  Stupid caramel tarts...

@@ -1,0 +1,1031 @@
+Most common words for this cluster:
+[('twitter', 1050), ('quot', 72), ('people', 67), ('time', 46), ('day', 45), ('today', 43), ('lol', 39), ('thing', 37), ('phone', 35), ('http', 34), ('thanks', 32), ('work', 29)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Twitter', 0.9999629259109497), (u'twitter', 0.8918054103851318), (u'Twitter.com', 0.7695633172988892), (u'Facebook', 0.7671328783035278), (u'tweet', 0.7649917602539062), (u'tweets', 0.7512309551239014), (u'Tweet', 0.7306918501853943), (u'tweeting', 0.7269160747528076), (u'Tweets', 0.717422604560852), (u'TwitterTwitter', 0.7062097191810608)]
+
+
+
+
+
+thought it would be interesting to get F1 updates from Twitter, slightly regretting the decision, I can't see anyone elses's updates 
+Today was a less interesting day on Twitter. @cboyack , @igeldard , and @iidiocracy were all kind of quiet today 
+It seems that Twitter lost some updates yesterday - again!!  #twitter #fail
+I understand nothing from this Twitter 
+wishes twitter had a translator!! Twitter just hasn't caught on in the southern hemisphere yet!! They'll get there aventually I guess! 
+@fireflies_uk Twitter is really playing up! Braces...brings back memories of bad gagging reflex 
+wow I missed a lot on Twitter last night!!....I'm soo sleepy 
+@balmeras - hey, I tried to respond to the wine invite yesterday, but issues with Twitter.  
+Company blocked Twitter today  oh well i still have it on mobile 
+Really need to be getting work done, but Twitter is more entertaining right now 
+What's the best tool for sharing pictures on Twitter? I noticed that @henriliriani created dznr.org but I'm not invited to that party 
+@SandyGuerriere I admit it. It was all my fault.  I accidentally pulled the power cord to Twitter thinking it was for my laptop 
+SMS tweets still fail. Twitter hasn't acted on my support request, either.  
+Starting to be far too many spamers and bullshit followers on Twitter.. I tweet about moving furniture and 3 furniture companys follow me 
+@rossm I find it pathetic, not funny. Just like splogs in blogosphere, we'll have more spammers than good users on Twitter soon. 
+I thank everyone for following me. I am on Twitter most of the day, I am unemployed at the moment 
+@Twitter_tips can u believe firefox acting up again? Ayyiya LOL can't win 2 day  r u the main tweeter or is there a group? You have be ...
+is annoyed to learn that someone else is on Twitter with my name  no worries they aren't a fake me,  its just they have my name!
+ThinkReferrals, is the only one I've had a chat with on here. Other than that nope. Twitter sucks, people don't wanna chat 
+Missing my Twitter folks these last couple days.  Haven't been on much. 
+Morning Twitter sorry for the neglect, feel like crap today  Looking for a sympathy vote 
+@NyckiMidTown omg! I totally did not get this until now. I've been slacking on my Twitter stuff.  hope ur havin fun! Thanku 4 the invite!!
+Aryayush and Preshit, Twitter doesn't seem to be the place where anyone is interested in your queries, I've learnt it the hardway 
+This is my last hour on Twitter for the next week 
+Twitter is getting boring because no one talks to me..and barely any of my friends ever update 
+@DexterVonDoom  do You know he just joined Twitter!~ =  @MatthewSantos ...cant wait to hear it...broke till next week 
+But I don't love that @Twitter's gone mainstream so fast 
+I haven't been on Twitter for ages! I have a blinder  going for a bubble bath 
+Finished the last of my 18 extras for this week whilst on camp with year 9s. Twitter is likely my only contact with the outside world 
+@Beverleyknight sorry 2 hear u feel under the weather  could you please follow @sophiewilkinson she is the bravest girl on Twitter :O) xxx
+has been abandonin Twitter for last few days  must be serious about life for the next 2 whirlwind weeks
+@LHudgens What makes you think I'm a Twitter spammer? I'm just very low in my twitterring! I'm sorry if I hurt you by any chance! 
+is confusing her game chatter with Twitter.  
+doesn't enjoy Twitter...it's mighty confusing! And I have no friends 
+finds it sad that no one I know is on Twitter...boohoo 
+Trying to find people I know on Twitter, but having no luck. 
+I think Twitter search is broke....   Why am I still up anyways?
+I cant see anyones profile pictures.. is that happening in Twitter today? or is it my computer 
+I'm actually still confused about some things in Twitter 
+Twitter could be ruined   http://bit.ly/psZVD
+Lately, I find myself spending my breaks thinking of cute things to write to Twitter. Twitter is turning more and more into a girlfriend. 
+@boztek Really? What point is a Twitter client with no notifications!?!?!  I depend on these constant distractions! They are my life-line!
+@davidbrussee Too bad our working schedules have some lag. I'm always too late to send Twitter messages while your on the train! 
+Still not quite sure about Twitter   I feel I have more interaction with people on a certain other site.
+Twitter has become my boyfriend number 2, boyfriend number 1 is working all day 
+@deenahagen @LoriBartolozzi  Twitter is showing that you guys aren't following me anymore - did I do something? 
+Twitter is over capacity yee sure or u maybe hate me?  haha goodnigth guuys! (= see u tomorrow hehe
+@joycescapade gambaru! everyone seems to be jumping onto the Twitter bandwagon now. 
+I don't have firends on Twitter 
+Twitter I said change my profile pic, not eat it 
+OFF to school; ugh Twitter needs something where you can &quot;text&quot; your status to them through regular messaging. I dont got twitterberry 
+@jordanknight TINK = Twitter wink, fart, sneeze, burp... please, just tell us what it means. I need to get to bed 
+I talk so much on Twitter, sometimes I wonder if half the stuff I say gets read 
+@ChunLum Yes, since there were problems with Twitter refusing to change our avies, I figured we should postpone #cartoonavie weekend. 
+@shaw_ty ...and no invite? Not even on Twitter? Hrmph 
+I'm afraid recommendations is useless for the time being... unable to follow for now. Twitter limit is reached? 
+pfffff Twitter's sloooooow today!!!!!!!  cmon peoples tweeeeeeet!!! xD
+back in Varezhe- a bit lonely here in Twitter, there's no one i know! 
+K, so I am still new to Twitter..&amp;feel like a dork. I'm disappointed so far. I thought i could find new people across the globe &amp; whatnot 
+What Twitter client are people using under 3.0b4. I like twitterfon but the reply button crashes it 
+@bannersrus Your banners a beautiful!  The link to your shop doesn't show up very well in your Twitter profile, didn't see it at first 
+figuring out what the heck Twitter is!!!!  I NEED FRIENDS!!
+Chating with my homies one i might never hear from again  shes a great girl but she cant make a Twitter or any thing idk
+k night Twitter. *sigh* regrets and desires go hand in hand I guess. 
+doesn't like that Twitter hurts feelings  so sad! that never happens on facebook...
+@FluppyCrack  oh fu**ing shit   And like me your first way was Twitter, right? 
+A Twitter page devoted to not texting while driving just started following me. It's like having your mom go with you to a party  
+@LadyDi612 I still don't appear. Twitter doesn't like me.  I only changed my username I didn't delete/restart my whole account...
+Who can help me post Twitter feeds on my blog -I'm not winning  I did take my light switch off now to find a new one store didnt have it
+Hey im up and already tired of home. I &quot;love&quot; being treated like a little kid.  also, i woke up with 24 messages. Twitter is takin over!
+Is it immature to be disappointed that some of my friends won't &quot;follow&quot; me back on Twitter?  
+Twitter is acting real quiet. I'm guessing its behaving badly for us all.  twitter-dont u know ur my life line to the outside world?!?!
+@shoalsbiz is prob having cache issues right now.  It should fix itself, but I'll let @ev / someone @Twitter know about it too. #shoalsbiz
+Twitter is lame with nobody to follow and no followers. 
+No one responded to my saltshaker question  Twitter is a lonely place 
+Twitter is becoming a depressing place bound to be sucked into a black hole. 
+Get out of a sick bed, log onto Twitter and see I've been purged, abandoned on the Twitter highway like a cast off script. 
+People I actually know are disappearing from Twitter daily...     Even the one friend who told me I should get one!
+@BrentSpiner Really missing your updates...Twitter is much less fun without you.  
+@chuckdarw1n brilliant! hope Twitter-groupiness isn't annoying! 
+Theres only so much you can on Twitter! really need to log on facebook and im only 12 hours into my no facebook week 
+@MadgeC catching up on some tv, emails, Twitter, need to start an essay later 
+Figuring that none of my friends update Twitter. 
+I wish Twitter had privacy controls for individual tweets, so I could send 'em out only to specific people. 
+Following tiago leifert at Twitter, BUT he don't notice me, and this make me cry!!! hum.....I'm so sad! 
+my boyfriend thinks Twitter is ridiculous and that all the people who are pretending to be celebs arnt real 
+I'm finding out from Twitter, many years later, that apparently I'd had a reputation for feeling up my juniors. @squarefaced says so. 
+Twitter is dead tonight, everyone must be out having a life.  Or sleeping, at this point. I remember when I used to sleep normally...
+seems to only be able to login on alternate days. Why this bugginess, Twitter? 
+thinks Twitter hates her. I can't figure anything out. 
+@archujonas Haha aww that's too bad.  I'm having issues with Twitter also. It never gives me all replies even tho I have it set at that ha
+When this first started I thought Twitter was blocking my account or something    I felt very alone.
+Twitter is stupid... I had three @ messages that I just now saw.  boo, twitter, boo.
+I don't know why but lately there's a lot of random weird followers, following me..? Twitter is slowly losing it's coolness 
+@elhubcapo Thanks, i really hope Twitter switch it back or at least give us the option #fixreplies 
+It's my best mates birthday today, she doesn't get Twitter tho so she's not here 
+@BuddyThePuggy sorry, Twitter went down last night so mama turned it off 
+@AlohaArleen What a mess? @#Fixreplies  petitions, worka arounds  causing a massive ripple in the Twitter pond 
+Still no @snipeyhead in my feed this morning. Twitter can so choke on a bag of dicks.  #fixreply
+@badassdad05 You say that like it's a good thing.  Seriously, if I quit Twitter, it's the east coast spoilers that'll cause it.
+@DWiley224 what be tweetdeck? I dont know all of these Twitter utilities....  sad day. haha
+My laptop screen has died again  No Twitter today 
+Watching saw. Yay. Twitter and saw.. guts and social networking. No, I have nothing better to do. 
+iPhone on her way to T-mobile repair center, hope she will be back soon ... Twitter on low level 
+@ipathia You're right. It's blocked at school at least so work can be Twitter free. 
+The man is multi-using names on Twitter to harass and blackmail people - please beware people 
+I wish some of my actual friends were on Twitter, what is the point of me posting with no followers... 
+@JaneHungOz also wish I could play more along with you guys but at work again and my Twitter time is limited. 
+@MarkyMac Twitter changed their coding. Now you can't opt in to see the tweets when someone you follow @s someone you don't. 
+Wants to make a Twitter account for her bunny 
+Twitter won't work from my computer  so now i have to go though all of this crap just to update it.
+@priyankarocks madam, are you following me? And how come no recco on mr. Twitter 
+Slowly recovrng from injury.. wil take time to get active at Twitter 
+Haha, okay. I'm done. Hopefully Twitter decides to work back home. If not, well, I'll get on when I can 
+have been managing web site at work - was too busy to Twitter 
+Twitter seems very quiet this morning. Really need to #fixreplies i think. (via @RJay45) &lt;=&gt; totally agree there 
+I can't stand foolish people or things!!!!   Why don't people use Twitter to feed the world with food for thought
+@maxvoltar Agreed and I love your blog post. Twitter is just dead now. I used to have an update every few seconds and love it, now 
+Twitter is awfully quiet today ..  tis so cold in my house..hmm need a cup of teaaaa (: kisskiss xxxx
+we're wondering in the office: what's the new Twitter? nobody seems to be using the old one any more... (via @drepsac)- agree  #fixreplies
+My Twitter wont let me upload a new pic.  that sucks booty ass flavored cucumbers!!!
+still no sign of @xthemusic  there must be  a way of hacking Twitter to find his number through hiz txt updates :?
+@bigxminh Apparently can't send you direct message and I'm not totally confident putting my email up on Twitter for the world to see... 
+@icetchr  I think Twitter just didn't like me yesterday.    I am back in its good graces now, I guess.  I finally have a picture!
+&quot;There's a hole in my shed roof, dear Twitter, dear Twitter...&quot; 
+working and then heading out cant get Twitter to work on my phone 
+ Twitter wont even let me use my custom background and I cant change back to my old one either this suck
+@Twigsta glad you enjoyed my Twitter nightmare  damn uni computers .. all is well now ... hopefully
+@rachyfbaby @ work, or supposed to be @ work.  Twitter will probably get me fired. 
+4hrs and nope...not so far!!!  Twitter schmitter 
+@idea_mill It was one of those brain tests you sent LOL!!! I dont really know anyone else on Twitter 
+Twitter icon upload seems Farked! 
+@IronAngel210 I am sad cuz I just realized you are not stalking me on Twitter 
+Twitter has some problems. Cannot updat my picture 
+I'm not sure exactly why i Twitter! i'm almost positive nobody reads mine anyway.. 
+lol everyone at school thinks that Twitter is gay    
+@ryankanno ack, no can see @mustheartdogs either.  and weird, these tweets are in my mentions, but not my timeline (oh wait, new Twitter)
+Logging off Twitter app to preserve battery life. 
+Right, fuck the whole Twitter silence experiment. The last four days have been murder with the inability to mouth off 
+@moniqhar heeeeey! You abandoned me here on Twitter momma dots? 
+Still hating the whole Twitter replies thing. I feel like I'm missing bits.  #fixreplies
+Sorting out Twitter issues....very frustrated that you can't talk to someone and they respond slowly to issues - capacity the challenges 
+@Jonasbrothers come on guys.. you shouldn't promote here :| it's kinda disappointing. Twitter's for UPDATES 
+@tweetvisor what happened to my real-time feed? Now friend feed is just like the Twitter website 
+I also concede to my first Twitter grammar fail. 
+Answering detailed questions via Twitter can be very difficult. It's a challange to get everything in to less than 140 charactres 
+@HelenCrozier Yes- It was fun to connect with her! Pls tell her hello- can't find her on Twitter. 
+Oh god! I had to look at &quot;How to use Twitter&quot;.. how hopeless is that?! 
+@ArieleMoonfire me too!!! Very sick of them, coming to work email after I created work Twitter account  so I guess that is related.
+@highhiddenplace I'm interested.  A couple of other people tried it last month, and a Twitter meltdown got in the way  #beatwittyparty
+Still trying to figure out Twitter? btw this is the real bootanner! So all you haters can quit trying to be me...jk no one tries 
+Oh no, it appears the thing I like about Twitter is coming to an end. Twitter games!  http://playspymaster.com/
+@enterbelladonna You've got to be kidding me!  Twitter makes me feel like a creepy ass stalker......... 
+A day without Twitter is like a day without food! Though I didn't do either today because I was/am sick! 
+@lolporn looks like you've got a pervy match made in Twitter heaven ;) But it isn't any fun that we all can't watch/read 
+@dougiemcfly 	 I received a message from Twitter I thought I had answered, I was without air   hahahaha
+OK. I got back into my Twitter account. I keep spelling it tweeter 
+interesting, Twitter decides not to display my profile pic 
+@nqbao http://twitpic.com/68fjo I don't know that you registered Twitter 480 months ( 480/12 = 40 years) ago babe 
+@Samtagious This seems like the hundredth problem Twitter has had since I joined. I'm almost convinced that I broke it 
+is wondering why her phone won't connect to Twitter.  And i wish more ppl would have twitter.
+@baileemarshall ha girl i know! Twitter is stupid somethimes 
+Twitter twitter, sun is shining and I'm headin t work 
+Or:  &lt; _   &gt;   If Twitter takes out the spaces, that's so not gonna work. 
+X &quot;has been suspended for suspicious activity&quot; - what exactly does this Twitter message imply?  @irinaslutsky @GreeGreece @lethebashar
+Already getting a bit tired of Twitter trying to add adds.. buzzwords, my thoughts on certain products? More spam if you ask me.. 
+Twitter is so stupid!..instead of increasing my followers its decreasing it!...so dumb! 
+Interesting day ahead. Looks like I'm putting a hardwood floor in our office, to start. No Twitter for a while... 
+Lol. Twitter is having a profile picture problem. 
+on twitter after long time....cant help it...Twitter blocked in office 
+I seem to be an &quot;internet marketer, guru, consultant, social network strategist, make money online, coaching mentor&quot; Twitter magnet!!  
+@missmeester lol I'm so glad to hear that it wasn't YOU posting that other stuff on Twitter I stopped following it last week and was sad 
+@MakinItMatter I didn't  I told ya that Twitter has been messin with my profile and I couldn't follow or unfollow peeps!!
+@MakinItMatter I didn't do it on purpose gurl! I told ya already Twitter has been majorly insane messin with my profile!! 
+Arrgghhh why can't I make a background things, or save a picture I need Twitter help 
+Twitter wont allow me to change my pic 
+Twitter has problem!?! I can't change my theme background, as well as the avatar... What's up?!? 
+@robpattz_addict yeah, pic not showing up today  weird. Twitter is occassionally evil!
+Twitter is not letting me change my profile pic and I'm mad 
+going to sleep .... family day tomorrow guess I will be out of home ... so no internet and no Twitter  gd night all !
+@curlydena oooh fellow leo.  Twitter isnt big enough for the two of us as we can't both be centre of attention. 
+@ColorblindFish Twitter has been doing a lot of that lately 
+Ah, Twitter won't take my picture. Always having trouble uploading a picture or background on here. 
+.@DigitalRoyalty And this was a perfect example of why Twitter should #fixreplies since you already answered the question I just asked. 
+Today is not a good day; I've had to block 14 non-spamming ppl today in defense of others thanks to lies being spread on Twitter 
+@Firstbussiness why do you keep repeating yourself like a broken record and never tweet about yourself? You miss the point in Twitter... 
+@frogcooke I tried, doesn't work, then tried a different 1 but didn't work either. Twitter confirms the upload worked but nothing changes 
+Enough with the &quot;I'd like to recruit you into my spy ring&quot; already... (via @stephenfry) this will turn Twitter into facebook. 
+Twitter y are u being such a twat! I only wanted to say I played poker for the first time and won...but u wont let me 
+Twitter is down and has been for about 30 mins according to twitter status page which I got from google tweetdeck not working at all 
+Twitter is back up! YEY;; mamas eyes and mine still red and swollen; how do you get rid of the *sad?   would like suggestions please?
+@BenjaminReid Aww thank you!  I would have replied sooner but Twitter wasn't loading on my laptop or my iPhone for a while 
+@subzero77 Twitter is very much not behaving for me tonight  So i'll say night now! X
+@PreppyYankee Twitter is messed up they even screwed up my other account  So follow me here
+Twitter is a mess tonight 
+@TimRyanCW I'm good thanks  But I hate that Twitter is being shyte 
+@sillyokio Twitter hates everyone tonight. I've been using m.twitter.com to get through. 
+Tired of Twitter dying a slow death tonight. Too many whales spotted  back online in morning
+Twitter down? - It is to me  http://tumblr.com/xi71wt79t
+I guess alot of people are having trouble with Twitter tonight 
+Twitter is being dumb. I tweeted from my phone a couple times today but they never went thru... 
+@YoungQ Twitter is being a bitch tonight. Everyone is having issues 
+My laptop hates Twitter 'cause it won't let me log on &amp; says he site dsnt work 
+@dan_mcweeney No Twitter account and not knowing why, that makes one feel really powerless and small. 
+@dogsmycopilot it is just not you.. Twitter is givin everybody a hard time tnite 
+OK my Twitter account got reinstated. I really hate being a spam/worm victim like this...should I be changing all my passwords now? 
+Twitter is driving me crazzzzzy tonight. There is a major twitter overload going on  grrr
+Twitter, i've never gotten a build-a-bear  someone take me!
+Twitter 1 of 2: man.. I was jus thinkin about wet n wild n how much fun that place was  I would totally still go if it was still open.
+My arm is still throbbing it feels like its about 2 blow up sorry 4 the pic no shows Twitter was tripping n wouldn't let me send pics 
+With Twitter's little change on: posted mins ago from sumwhere, I'm bit  that would mean, error or can't explore new external twit apps
+@mthompsen totally missed this tweet.  Couldn't get on Twitter all day...dammit!! i love picnics too 
+Still something wrong with my pic. Twitter!! I have done nothing to you.... 
+Twitter still haven't sorted the photo problem though 
+If I had a programming language proficiency, I would write my own Twitter app. But I don't. So I'll mutter about other apps instead. 
+I wish I could have Twitter updates by text on my phone, but O2 doesn't support it 
+@firebucket I'm sorry man, that's not going to happen till the day I quit Twitter. And that day would be a sad day. 
+@vivmondo I was enjoying the game last night and then Twitter went apeshit 
+I think of Twitter like my blog, but, you can't blog about much things when you can only use 150 characters. 
+ Four more fake people added me. Is this why people don't like Twitter?
+@DarkPiano I've been following at a normal rate, and I did file a trouble ticket- Twitter takes too long to respond to those requests. 
+I made the last message on my phone but Twitter doesn't tell you if u did it by phone or on the computer anymore 
+No results for #doyourememberwhen yet it's the top trendiest topic. Twitter has way to many problems. 
+Twitter won't approve TwitterFUn anymore  any one have any idea for another name?
+@CherylRMonaghan I guess it is a know issue with Twitter and has been for a few weeks 
+Twitter isn't allowing me to update my profile pic...so right now I have none  http://ff.im/3r5f0
+sadface I'm not at E3-- but at least everybody in my Twitter feed is going to tell me all about it in terrible detail 
+Hey @wilw, I just noticed: why do you look kind of worried in your Twitter avatar?  Does it come from a larger picture?
+@kelcakes yes we do, and  they had a whole post dedicated to making #ontd a trending topic. It made number 1 and Twitter removed it. 
+@schtimpy27 bejeweled is what i go to when Twitter is down. or when waiting for sleeping pills to kick in. mine is 131,000ish.  addict !
+tried to upload my picture which is 160 x 160 pixels and it won't accept it  ... Even Twitter rejected my pic!
+Following a bunch of games journalists on Twitter during E3 time makes me so, so jealous/sad. 
+Twitter won't update profile pics again, don't try and change yours.  It's broken  
+Just created Twitter thingy, should be fun, heard it's good! school 2moro 
+Twitter background manager is really full of bugs, I cannot upload my background whole day 
+Twitter hasnt been too exciting to me,,,,,    hello anybody,lol
+@waxinglyrical wrapped in banana leaf? oops, am going against Twitter's short and concise &quot;rule&quot;.anyway,i need a coconut milk-something! 
+@thecraigmorris I cant follow people right now, Twitter hates me 
+Twitter stole my picture i am trying to upload again and nothing 
+@macywillow my profile pic? I can see it, but if you can't then it must be Twitter picture trouble methinks  will try to sort it out
+Getting used to the fact that I now get most of my news via Twitter - but it's still pretty much all bad 
+Hating Twitter cuz they hatin on my pics and Backgrounds 
+No one is updating Twitter today!  I feel so unloved 
+I love seeing everyone's faces with your tweets!! Twitter hates me ... every time ... &quot;That's a nice pic&quot; ... no go! 
+@alissakaye gotdang Twitter to heck &amp;&amp; back, iDIdnt get that sent to my cell  but she hates me, she delet ... http://shortxt.com/ur13crsy
+Haha I shortened the lyrics of YourBiggestFan on that last update, Twitter wouldnt fit all of it on one line 
+@KristenCampisi hi love...Twitter is being wierd with my pic right now too! 
+http://twitpic.com/6dpfq - Twitter stole my pic  and keep saying to me &quot;thats a nice picture&quot;
+Twitter is getting full of spammer, it is very hard to find right person to share some time 
+Twitter just said the saddest thing to me, &quot;you cannot follow yourself&quot; 
+I'm about hating Twitter right now.  I'm unable to follow anybody I try to. I know this media is free, but sheesh! 
+Exploring Twitter...Didnt get my all time fav login id 'sumeet_chawla' 
+wonders when Twitter will fix the image issues! 
+Twitter has a new bug? I can not follow/remove/block somebody 
+Twitter says I've &quot;exceeded the rate limit&quot; and that I can't receive any new tweets for an hour 
+@mobbsey   maybe some subtle attributions about where your ideas are from when they come off Twitter could help?
+WOW i'm now a Twitter chatterer ha ha ...  I'm getting a headache searching for houses to live 
+@salandpepper I saw your pretty face earlier but now you've gone again - playing a game of Twitter peekaboo! Auditors in all week 
+It seems like a special day for Twitter spammers. I get many of them recently 
+@oscarrf Your background just looks blue to me. Looks like Twitter is having some background uploading issues. 
+@Appsanity Twitter suspended my account..... For 2 days. 
+@BJoie Twitter has been having background issues for a while now... I know, it sucks! 
+@putchyanako Twitter has been having major background problems recently. I feel your pain! 
+I have to wade through 50 tweets from the 'stars' just to read the ones I even give a crap about.   I am not liking Twitter so much.
+My computer sounds like a vacuum. I thought it was just Twitter sucking my life away, but nope, this thing might be dying.  
+Obvsly the universe hates my picture... or Twitter eated it.    Is anyone else having this problem?
+Twitter, up yours mate, I can't change my picture! 
+@DigiMediaMavens Haven't been able to. I submitted a request to Twitter's support last night. But now it won't let me do anything at all. 
+@MichelleinCal don't know 'em yet, and it's still going until $33k is raised.  Twitter was up &amp; down a lot that night, hurt efforts 
+eish. my Twitter can't upload photo oh  fuck
+@austenw coughFANBOYcough lol. You'll have to Twitter the omg's as I'm stuck in a bus all day 
+&lt;- goes to mod @kayecee then realizes this is Twitter not podforyou.com forums 
+I might ignore Twitter the rest of the week. All this E3 stuff is making me really sad that I decided against going. 
+don't think I really get this whole Twitter thing 
+Twitter is going crazy with #e3 tweets I love social networking, but its overshadowing the awesomeness that is jolicloud and my shit isp! 
+@iainmacl PS: I really need to get a better Twitter client. Only noticed your message now. 
+Its so hot outside and i am stuck here in work on Twitter 
+Why can't I upload a background yet, Twitter? It's been days. 
+Turning Twitter off so as to avoid further E3 spoilers. I can't watch the live show right now. 
+Twitter wont change my picture ! 
+@doodle79 Twitter stole my brain..... there really is no escape for me....  lol
+Activity made on: Twitter won't give me a verification code for my mobile device!  http://twurl.nl/16oxz1
+Twitter is teasing me with non-existent direct messages 
+Twitter is kinda boring no one accepts you and when you try search for your friends nothing comes up im getting bored i only hav 1 person 
+Twitter is just such a less exciting place since I can't see other's @replies.  It was such a great way to be .. http://twurl.nl/8jsqo7
+and if my entire body being burned and having a sniffly nose weren't enough, my Twitter avatar is missing. 
+@tallslacker OK, hold on. I didnt get a pop up on crackberry. I cant access Twitter on it either 
+Twitter won't keep me signed in today. What a pain. 
+I think it's a Twitter-wide problem. @TamekaRaymond is having the same problem. 
+I've just noticed that I end way too many of my Twitter posts with unnecessary capslock. Whoops 
+@iHaps tweetdeck tweeted about it today too. It's a Twitter based problem apparently 
+@howlertwit thankyou for following me, for some reason Twitter wont let me follow you back  I will keep trying!
+@cathybaron Twitter has been locked up on several things for a while. 
+@CJtheDJ I noticed that! I looked it up in the Twitter help forums. Apparently it's a widespread problem.  Hopefully it'll be back soon!
+Espousing one's particular point of view on a &quot;heavy topic&quot; via Twitter in 140 characters or less, not so good  mayb not the right venue?
+Aww man Twitter stole my pic! Where did it go? @MISSNINA12 how do I get it back  I know u were a victim before
+Night Twitter, hopefully tomorrow is a better day. 
+Mannnn, my beloved Twooting podcast, &quot;The daily podcast all about Twitter&quot; is changing their focus to twitter for business 
+I'm just up. But 18 hours have passed and I still don't see any sign of my Twitter picture! 
+WTH is Twitter doing? I can't see anything! 
+My thumbs have gotten bigger - Twitter self spell check fail.  
+@dalastmil62 @ja3rok did tell me to only update Twitter when i added something new...sorry, you guys 
+Twitter isnt letting me change my picture  
+@leslieberg Not a good idea to change your picture on Twitter!  
+@jbs_lovebug xD and it's because someone's leaving Twitter. 
+I need a picture but Twitter claims everything I try is too large 
+I can't seem to change my Twitter background? What's the problem? 
+trying to update my profile photo &amp; background image, but is not going well.  Twitter is having another tech heart attack 
+All the cool people are on Twitter when it's bedtime. 
+Waiting for Twitter to fix my account, thanks to Lukester for the help  *sigh*
+Waiting for Twitter to fix my account...thanks to Lukester for the help. Why me?  *sigh*
+I don't like Twitter anymore. 
+@1BAMBi I should've waited as well but I thought Twitter would've fied the problem by now.Even my background had to be set to default 
+@JunieD180 Twitter search is kinda pickey that way 
+I can't upload a Twitter picture  so it's just a little annoying question mark.
+Is Twitter the launching platform for a new species of genetically modified cat? Does'nt sound very cuddly 
+is trying to find her friend on Twitter with no luck whatsoever.... 
+Twitter's a little bit useless without a fancy shmancy phone-a-ma-jig 
+i never update Twitter anymore ..  so sad! one week of summer left! :'(((
+@rem ya, I'm more into trying to fix the incorrect rez images, which uses up a lot of bandwidth and memory for Twitter desktop clients 
+@SArmypez I see you have also fallen victim to the crappy Twitter profile pic uploader.  
+@keytar Twitter is usually dead at this time, yeah. 
+I see it's a great spamming day on Twitter 
+Twitter rocks but need 2 go 4 a shower so a need 2 put my iPhone down well gutted 
+@TheFAKEJamaaL .. I think so .. Twitter is on a rampage right now, like ppl are posting shit that is making me want to get off ..  lol
+Twitter really doesn't like me changing my user pics. Goes spaztic and says I don't exist. 
+@cguanche ME TOO! I keep trying to put one up but Twitter is being a bitch.  There's some bug on the site or something.
+My Twitter profile is worth  $14 http://tweetvalue.com ...  awww  thats not much lol
+@alyankovic It makes me sad to hear that there's people unaware of @nerdist's magic Twitter validation powers 
+and my picture isnt showing up!!! Twitter hates me 
+Sounds like Twitter is still having background image issues. 
+at home trying to figure this Twitter thing out. 
+Twitter is not working for me  I am not getting any updates... doubt anyone will see this... not sure it my tweets are being seen?
+Twitter rate exceeded again  be back in a bit. I can't stand the waiting.
+STILL can't logon to Twitter via twitter.com.... and now it appears as if lifehacker is down too 
+@mUsIc4eVeR323 Twitter wont let me message you 
+@AtlantisJackson  yeah, @TehKimber sucks.  I can't get a response even running around naked on Twitter. 
+@chrisabad none of my #spymaster tweets seem to be going to Twitter! 
+TaVona is sad because she can't respond to those showing her love via direct messages on Twitter for some reason 
+we have been in touch with Twitter support... still no luck with adding our background image 
+@MizLiLBit Twitter is really cool once you've gotten used to it... I'm addicted! I dont think i'm gonna watch that.. Nightmares later... 
+just found out that none of my friendfeed posts made it to Twitter 
+Wow, 6 days of not using twitter? that is bad. my PC got sick again.  Its good now. Twitter on Babies!
+I've had a clear out of followers this morning, lost several who had never done an update in their Twitter life! shame 
+@twitter Twitter is too slow after the last maintenance ! Why ?!?  I always have to refresh to post something new !! &gt;&quot;&lt;
+Today might honestly be the worst day ever. For reasons I'm not entirely comfortable sharing on Twitter. But, ow. OWOWOWOWOWOW. /work 
+wouldn't it be great if you could categorize Twitter? like: art people, film people, job stuff etc. I think I now miss 50% of twits 
+@TownsleyBoy Twitter is doing something strange - wont let me still 
+My phone is out in a bit. No more Twitter updates then. 
+I just woke up and saw my beautiful niece is on Twitter.... I miss my family 
+@aryousavvy I will soon because I don't know how much longer I can look at it everytime I load Twitter... which is a lot. 
+@SherriEShepherd: #Twitter made even more changes. I  can't reply 2 ur direct messages anymore, bc ur not following me 
+Lunch updates might have to wait. Twitter juice perilously low 
+@bonnieroskes sounds like Twitter site problem. [well, that'd be unusual  ]
+Wow Twitter is going crazy with messages... 
+@hotdogsladies Ugh, that's what happens when I don't read Twitter on an app that supports those little graphics 
+@YeahThatsKosher @ahoova Aw man. I was hoping for the Twitter Shadchan title. 
+Twitter seems so very quiet today.  I feel lonely without all the constant pop-ups 
+Searched Twitter for Lions: I looked up Lions and showed me the score  i am putting it on now
+#Twitter confessions - I fell in love when I was 19. I treated he badly and I have been paying for it for 20 years 
+Twitter open but nothing to tweet,no reply,nothing.I'm feel lonely 
+@erikries Hopefully your shit client isn't a follower of your Twitter feed.   I've made that mistake before.  
+Twitter sous fring, cest le twitter du pauvre. 
+I also think I have a Twitter crush on @mediaphyter, but I get no love from her. 
+Looks like not much people have Twitter 
+is wondering whats the point of Twitter if no one replies?? 
+@nitch79 lmao....yes quite....but wait...then they might shut down Twitter completely!!  Arrrgrggghhhhh Nnnnooooooooooooooooooo lol
+Wow Twitter is kinda quiet...guess everyone but me is out doin fun stuff  LOL
+@wooderson34 haha someone's back on their Twitter game. I really wish I could leave but I can't. It's gonna be a lonnnnnnng night 
+so Twitter's gonna be down from 11-12 tonight; well that sux 
+@kel7alpha That's why I'm WTFing it. I haven't gone to Twitter online as much today as others either. It'd just randomly low. 
+It's 2am and i'm discovering Twitter...i don't have friends yet 
+Twitter has just raised my hopes and burnt them as i saw my number of followers going up but half of them are fake accounts 
+@KenNiko @tameraclark It looks like someone up and quit on his Twitter feed without telling me. 
+Ugh, Twitter's going down for bloody maintenance 
+Just doesnt have much time for Twitter right now.. 
+Who are these random people who follow you!? Twitter stalkers?! Yay for forgetting relish on my hotdog tonight 
+Twitter's going to be down for an hour... in an hour!  What will we do???
+@1indienation How am I going to live without Twitter for an hour?  the world is going to go in to meltdown.
+baaah! i'm trying to verify my phone, but either my phone or Twitter is bein a jerk cuz its now workin 
+Twitter added ads on this new update.  bleh!  
+Less than two hours in Twitter and I already have 2 spam messages 
+@ErinAKAPink I might have to catch up with them tomorrow. Twitter about to go off for maintenance 
+I don't like it when Twitter goes bye-bye... 
+so now that I actually have time to check Twitter online ~ it's down for maintenance 
+Twitter was down  lol anyways boys are stupid and mornic sometimes and my now ex bf was two timeing me....it was a good day ha ha ha
+No woman no cry. Also, no woman no poon tang  I love that Twitter says &quot;poon&quot; is misspelled. No it's not...jeez
+Is it just me or Twitter has been having problems lately.. yea, i think it's just me 
+after an hour of maintenance(sp???) Twitter is being flaky for me. 
+Twitter is actin' too stupid! I been trying to tweet all night with no luck 
+Twitter's high maintenance! I finally beat @DBtheDragon in the follower race, so I let my cold win &amp; slept all day. Now he's overtaken me 
+Starting up Twitter and going to sleep.....think I got a damn cold 
+@fjkinnit Yes Twitter is being very stoopid at the moment  So how are you anyway?
+Our son's graduation yesterday was gr8.  Only one HSer left.  Speeches were amazing. Twitter was mentioned at least 6 times.
+looks like my web application isn't doing well with Twitter 
+Most of my friends still think Twitter's only a platform for status updates. I feel sad for them.. 
+can't even spell &quot;connection&quot; anyway, nothing is loading but Twitter seem to be free of this.... shrug 
+That and the proliferation of the spammer/splogger friendly shortcut urls (tinyurl, bit.ly) etc are negative side-effects of #Twitter 
+Bout to head ova to big sis house hope i have fun no more Twitter 
+bloody football spoilers, looks like I'm going to have to stay off Twitter until 11pm now 
+sitting @ computer thinking about what pearls of wisdom i can impart on the great Twitter public...... mind has gone a blank! 
+@ladygbd Ah I've had a blog since before I joined Twitter, but I've been slacking on it for a couple months 
+I hate how I'm not so obsessed with Twitter anymore, and always seem too busy to @ anybody anymore. 
+Twitter bugs a little bit around  200# tweet real  http://twitpic.com/6rz0o
+It would appear that youtube links don't work on Twitter  anyway hillarious video: http://www.youtube.com/watch?v= jXNmCgOUVBo
+changing my retweet format thanks to the new Twitter rules 
+Taking a break from Twitter for a few days 
+@astrup Found that out the hard way.  After going up &amp; down the mtn 3 times &amp; storms &amp; truck crash traffic &amp; Twitter being down I gave up
+@janelle30 And Twitter - there used to be this thing that you could randomly see every tweet - so sad that went away. 
+Aghhh I cNt work with this... Twitter jail.. Aghhh 
+@twitterworld wishing Twitter was more than 140 characters... sometimes it is just 20-30 characters short. 
+Twitter, i miss you. I havent gone on since like 1 cuz my sister took the laptop to a friends. I think i just might die 
+I keep forgetting to use this thing...not good. I miss you Twitter. 
+It's late. I'm not tired. I'm bored. I just sent a problem thingy to Twitter. I hope they can help me.. Blahh...whatever. 
+10% twitter users produced 90% tweets overall. Twitter is a 1 way stream largelly 
+@trent_reznor it's sad, there seem to be lots of haters on Twitter these days 
+@jiggleaud lol ah they booted me out too...  Twitter is just a bunch of evil bitches... hahaha good! xxx
+anyone else being bombarded with rude naughty followers this morning??!! This will stop me using Twitter if it stays this bad.... 
+@officialsonny I add new fav @YoungCash keeps goin down the list  Thats not good I wish Twitter had an option to keep favs of the favs LOL
+Twitter is a bit quiet today  suppose everyone's still asleep :s
+Twitter sucks!  i want some dairy queen.
+@katieboocat tnx katie... hope my problem is still negotiable for those on the Twitter creators. 
+Twitter put me on timeout last night for tweeting too much  So I have to try to pace myself today.
+no va el link Twitter-facebook... 
+Twitter is no more safe for children ..especially when such account names @madarchod are appearing on timeline.. Some plz report abuse 
+This is incredible, I only have famous people on my Twitter: S And the worst thing is that I do not speak English very well 
+Ahh! Twitter doesn't register my phone anymore! The frigg!? 
+@BrandyWandLover Your tweets aren't showing up in my timeline anymore... just my replies tab.   Twitter's being weird
+@tb78 - guess you're still travelling  Twitter misses yooooou! x
+@BellaScottx haha YAY. Twitter may take over my life for a while. I'll probably get addicted haha 
+Twitter succeeds but the video streams can't keep up. Not going to see a beluga give birth today. 
+It's fun finding other Giants fans on Twitter.  But I'm getting off now, because sadly my TV is not next to my computer... 
+@justin_foster Actually I followed you previously.  Twitter sadly just auto-unfollowed you for me.  Just ask @secbarbie &amp; 100's others 
+Twitter is kinda silly with the way that people can DM you but you can't DM them back. 
+There was &quot;a problem with my Twitter feed&quot;....I PANICKED!!!!   I know it told me not to, but I couldn't help it!  
+@CharliePlyler I see that now, but not following most of them.  I'll have to figure out what I can do.  Lots of spammers on Twitter 
+My Twitter's page background is gone.  I don't know why.  Or is it just my computer?
+@mrgibb I know. Twitter on my phone sucks 
+Twitter is just not the same when everyone i talk to has the day off 
+I wish Twitter would shut down spammer accounts faster. I delete several every day of pr0n spam on here. 
+My brother thinks Twitter is gay. 
+@donniewahlberg - l better get off Twitter b4 l say something l'll regret.. 
+is back on Twitter with the awesome power of my SpaceBerry...where in the world is @OddLittleDucky? I miss her!!! 
+watching psycho 2 before i go to bed. took a motrin but i doubt it will help  gonna code the night away. Twitter multi tasking is ok
+@KABclaire I don't have a Twitter app on my phone so I don't see the responses until I get home!    Haha, damn sowie...
+BOOOOOOOOOOORING Twitter is making this fun yet  lol why isnt anyone replying and when you do heaps of people do and then confuses me ;'(
+I keep getting on to Twitter @ 3am and then realize that no one else is posting. boo  guess i will get back to my homework!
+could kill Twitter!!  sent me a text at 3:30 in the morning and I   never got back to good sleep!!  
+&quot;What is The Twitter?&quot; no really i have tried it and i still don't get it. I must be getting old 
+Wow, gone from twitter over weekend and find 1/2 of my new follows are spammers  or porn sites! Twitter needs to clean up things.
+@jonkeefe cheers - though Twitter isn't appearing in drop-down list of blogs that I can select 
+Trying to figure out this whole Twitter thing 
+For some strange reason, a lot of people in Twitter seem to be crying to day. 
+Looking for something in Twitter &amp; found a tweet that seemed funny and clever at the time, but probably was not so good after all. 
+oh man i haven't logged in to Twitter forever!! had a busy week 
+is rubbish at Twitter and hates the thought of work in 3 hrs 
+I have to disconnect the internet connection so I can force myself to finish this video lol. Not kidding though, bye Twitter! 
+In case you're wondering don't ask...And now to find me something to eat...I never did find my banana!    Ttyl Twitter-ites. I'm out 4 now
+I am starting to see why Twitter alternatives exist... their customer support is worse than non-existent 
+@iamgeoffpope How ru neway sir?  I feel like we only talk via Twitter 
+Since I can't modify anything on Twitter til I change my name guess I can't turn green.  
+Twitter app, why are you not working on my phone ? 
+Twitter, please postpone the maintenance. It's vital that twitter is available or we will have no news about #iranelection  #twitterfail
+@MatthewAE ahh same with hayfever here mr, pain in the ass.  just so you know. convos on Twitter like appear to everyone. lol
+oh que triste los Fans 50 y 51 son Spams de Twitter 
+@blue_raven I wish people would read Twitter's maintenace page. It's the host doing the updates, not twitter willingly doing so 
+feeling a bit.. sad that I seem to have been blocked by a listener on Twitter 
+@andyprovidence , weird. I finally found your Twitter and it wasn't even hard. Now I feel like I copied your twitter name, oh noes 
+I thought Twitter was supposed to help you not feel so alone?!   It's still pretty cool anyway....
+Twitter check in so you know I'm not dead of swine flu: It's so cold  I want a cup of tea but I know I won't keep it down 
+Most recent two posts on my Twitter homepage: &quot;These socks are depressing&quot; then &quot;Two killed in freeway crash.&quot; 
+@dyannnnna You might have.. I don't get half my @ replies for some reason  Twitter needs kicked around a bit or something. lol
+@JessicaSieghart I think it's time to check and make sure Twitter hasn't involuntarily unfollowed some of my favorite tweeps 
+@ariannaxmychem  not surprising..Twitter eats tweets every once in  a while..
+man this sucks. I can't for the life of me figure out Twitter 
+@leahjones You had me all excited about @rachelmaddow on Twitter... bit of an anti-climax when I clicked 
+Twitter is a place for thoughts..... LOL. I'm a dork. I wanna have a pool party... But u don't have a pool. 
+Twitter 'z blocked in here for a while..  didn't make it for one fuckin' week... huh....
+Following people that are successful on Twitter makes me sad. They're always traveling and doing fun stuff. Not me. 
+@lauchlie Congrats!!! Finally got u on Twitter. how the heck do you use this thing?!? must teach me 
+I need Twitter to become 180-200 characters because the bits I get usually are about that long. 
+Right I need to get ready &amp; get going.. (Twitter felt weird &amp; different yesterday, at least to me) .. post office first then to work... 
+@etheya did your account get compromised by a Twitter bot?  
+@maxcamsnet :S the Aplication for Twitter hummm for the customised u site in twitter $50 &gt;_&lt; wow  i no have money.
+@emkattt Haha, I hate it when your on Twitter when you should be doing other stuff 
+Trying to understand what it is that you do on Twitter? I guess I don't get it. 
+@kimberlychanel yup Twitter needs to figure this spam shit out but it will never end 
+A lot going on lately. I apologize for my Twitter absence 
+@johnborthwick suggests we follow his prezi online, but we just tanked his site  7 principles to sustaining the Twitter ecosystem...
+trying to get this Twitter app going on my g1 its not working though  help me
+ woe! even after updating my name, I'm not searchable by &quot;brilliance in sight&quot; maybe Twitter will catch up!
+@PuertoRockin I'll let you know the minute I hear anything more definite! Twitter needs to watch these sites more closely! So hateful!! 
+I don't normally curse on Twitter, but fuck! I washed my dress watch.  I needed to change the battery anyway, but damn man...FAIL.
+Doing some revision for a science exam, be off Twitter for a while. 
+Liking the look of this whole Twitter thing, site seems to be a bit slow though 
+@michaelmcgaw actually to make sure that my phone ans Twitter account were still connected - I am not getting my tweets to my phone 
+Awww mayne, back to work...womp wompity womp womp  Twitter is goin to be down in an hour so ONEZ!
+@phillydesign People making fun of me on Twitter always creates lols  @LunaTechie
+Twitter isnt working for my phone... crap 
+oh no.  Twitter is going down at 2pm....
+2 minutes til an hour of Twitter silence 
+Just ordered dinner. And oops! Twitter is down 
+Twitter seems to be having problems today... 
+Twitter was gone for ages. Mnerrr. I have an exam in half an hour. Prayers plz. 
+Someone needs to bequeath unto me the secrets of Twitter. plz? 
+thinks Twitter is stupid because all of the followers are fake people.  
+@mr_billiam no I'm sorry - having a slight Twitter stalker issue  it's always some dick that spoils the fun
+Aw man Twitter is being stupid again 
+@BuddhaBelly09 For some reason Twitter isn't sending updates to my phone so I haven't gotten any messages all day 
+I can't see any of my @s.    Twitter is contributing to my obsessive fear of missing something interesting...
+@yellowhippo Twitter was in maintenance mode for a while.  So that might have had something to do with it.
+@walkingmac very cute! Twitter isn't going to my phone at all today  that's why I said hello to it, cause I wanna know whered it go :'(
+Twitter keeps pulling me in...n draining my phone's battery! I guess that means put it down 
+I can't follow people today on Twitter. i don't know why! 
+@nithinkd I'm missing Twitter a lot. 
+@FLYYPRINCE   Twitter family cares about ur feelingz!
+@Shnooky303 fuck that...dont fucking dare cancel your Twitter account..i need my twitter buddy 
+@iammandurr hahaha, yeahh. I wish I could be online everyday.  Twitter needs to fix their problems... lol.
+What's the deal with Twitter tonight?  I think it's totally down right now (again).    
+Wow, Twitter didn't update me all day  Not cool, man...
+@CynthiaBuroughs go to sleep huni. Twitter will survive without you. It will be hard, but we will cope.  *hugs* luv u.
+Twitter sucks poopybutt today and tonight. Its not working for me 
+Sure wish Twitter would DO something about the SPAMMERS!  
+@FADjewellery hey Breanda, you need to come back to Twitter, missing your Tweets - we will prop each other up, I know how you feel 
+@mayhemstudios I'm here too. But no one is in my feed because of the new Twitter @replies that censors what I see from my chosen follows 
+Twitter isn't going to my phone anymore 
+So its like 2 something n the morning and i'm hella sleep from work  but cant sleep. Twitter babies hit me up!
+@foodbymark oh that's a shame! really, it is.  Twitter search should go further than that.
+so many people are getting Twitter, it confused me who each person is 
+how come I don't get all Twitter notifications on my new followers when they turn out to be spam/robots?! don't like it at all 
+@antoniothonis DM niet gehad by the way denk ik....rot Twitter 
+Twitter wont let me fix my background  makes me sad man !
+Wow, the one night I go to bed early, my man @donniewahlberg does a Twitter marathon 
+Another busy day, cutting on my Twitter time 
+nobody's here on Twitter? 
+someon tell me,Twitter it's not for me this kind of people to play! Not for fun, only for business! 
+So bored... Twitter is my only lease of life in work. 
+Twitter doesn't want me to reply to people for some reason. 
+@DeviantPlay I don't, kind of think that goes against Twitter ethos but then you have to remember not to post stuff that is too personal 
+wtf, peoples, don't change yr Twitter names, you make me fail whale myself 
+My sister just called me a fag for using Twitter 
+Twitter is being a pain the butt right now 
+My Twitter is very S.L.O.W. &amp; wonky tonight. 
+@allhopeislost Your sidebar thing on your Twitter page goes off the bottom of my screen so I can't see the stuff at the bottom 
+@peterfacinelli we miss you on your app, your all Twitter now and no time for us  whats up with that? #peterfacinelli
+@ThePhene I see from Twitter-stalking you, you're not actually getting the train tomorrow!!!! I can't rollerskate behind you! 
+@peterfacinelli I don't like this. Twitter isn't team carlisle 
+My Twitter love  for the longest time i didn't know she was my mom.
+I wish that someone would explain to me how Twitter works  i have no clue whatso ever and its annoying me!!!
+http://twitpic.com/7nmy1 - Twitter gone crazy!I simply refreshed!would ahve been nice if it had said over 500,000! 
+@peterfacinelli sorry  i'm trying to help as much as I can, but my twit count is only at 214 thous. Twitter = broken
+@brightondoll yea Twitter has a tendency to be a little annoying sometimes! i usually have to keep refreshing for it to actually show! 
+@BeyondAnyDoubt My phone doesnt want me to use Twitter I guess 
+I don't have friends in the new stalking media.. Twitter 
+@andynyman didn't even realise you were on Twitter till @charltonbrooker mentioned you. I tried getting your sig once, didn't happen  nvm!
+@k_zulu U know?  I can't tell u how many experiments I've ruined trying to follow ya'll tweets.  Twitter jacks up my productivity 
+This Twitter stuff is so nuts! I'm trying to learn it, and yet I still don't feel like I'm doing everything right...but then, I never do! 
+Twitter is addictive...lol been Tweting just about all day, time to get back to the real world 
+Why doesn't anyone reply to me on Twitter anymore?  I'm sad 
+I thought that it was extracorporeal experience when you reach the 100 updates on Twitter but nothing happened. what a deal   #deception
+I don't think my new phone likes Twitter.  
+In an emotional crisis....damage control mode.  Lets see if I can sleep..gnight Twitter... 
+I don't really get the whole Twitter thing...I'm challenged 
+Morning everyone! I don't know how to post pics on Twitter  but here's the facebook link....
+finally managed to restore my account! What a dumbo, deleting it by accident like that. Twitter and I don't mesh.  
+3 days since i was last on Twitter... blimey, i have had such a crap last 3 days 
+I'm wondering if any &quot;established&quot; person on Twitter bothers with us, 'mere mortals'... 
+Is bored, no-one esle is following me on Twitter 
+is bored, no-one else is following me on Twitter 
+Twitter is mainly used for conveying some information but these people used to chat here 
+mmm somehow I don't get mail from anyone who has started following me on Twitter....wierd, had to dig trough following list to find out 
+can't understand why my Twitter keeps randomly UNtwitting people off my list  
+at college stilll. glad Twitter works.. i'm off to go home soon cause i've finally finished my docuentary! woop. still have more to do 
+Why are text updates failing me? Apparently replies @ me aren't making it through. I wish I had a decent Twitter client on my phone 
+@_Lyrical_Guess_ haha.. I don't know how that works.. I think Twitter did it.. sorry I'm not much help.. 
+@agersh Twitter apparantly isn't releasing old names, but may do so at a future date without notice.... So, keep trying? 
+@KMPHFOX26 everyones a Twitter winner except me?! 
+Apologies for the previous tweet (which has now been deleted) - my Twitter account got hacked. 
+@rljd when you put that kind of stuff on Twitter you hinder further discussion. 
+What is wrong with Twitter today?????  I can't block the stupid ppl following me  
+Ugh!! I've just blocked a spammer and it's still on my timeline!  #Twitter is really screwed up today!! What's going on?! 
+Twitter fucking hates me. I get maybe half the tweets people send 
+@Blogography Twitter had that before, if a &quot;GaryLaPointe&quot; went through the tweetverse I'd get a text on the phone, but they took away   
+Twitter won't let me unfollow one of the annoying celebrities I mentioned. 
+Still trying to figure out Twitter....and I am usually good at this stuff 
+Not home  only one Twitter about tequilla? No context on that?
+my girlfriend thinks I am a nerd for having Twitter....  oh well
+Why doesn't the rap group Atmosphere have a Twitter acct? 
+I am feeling in a pants mood and even Twitter is not raising my mood...duvet therapy methinks 
+@sinkingducks hmm, clicking in-replyto no longer works! Twitter must have changed something 
+@promotingyou @CristalBubblin lol  It was a joke but Twitter was slow with the execution of my joke. 
+@peterfacinelli still needs more followers to win his bet... or does he? Twitter has really been twitterpated this week. 
+I'm loving the whole 'green overlay layer' thing but let's be honest for 1 sec, it looks like somebody vomited(?) all over Twitter 
+I don't know if I can last a week w/out internet let alone Twitter 
+Twitter is not showing all the pictures of peoples defaults or pics they post 
+ut oh, I think I broke Twitter.  
+Twitter, my tummy hurts  No more greasy food.
+Twitter you are not being friendly with me right now - i might have to take you out back and show you that you are boss 
+So my phone is cut off and it killin me gr bye Twitter till the nexted time i get my hands on something with internet 
+@jacquesny I love your niche. Also, your background is classy. Twitter hotties better watch OUT!...I think that I'm addicted to twitting 
+@w2scott only way now is to use Twitter api but only works for an authenticated user...search.twitter.com no longer going back that far 
+@BDOTSTRONG my cell phone? What the heck can I do on here except Twitter  when I'm sad &quot;internet window shopping&quot; soothes me. Lol
+is still trying to figure this Twitter thing out! 
+trying to work out Twitter :S so confused right now. and mums giving me a headache i have to clean the house 
+@kristijan_k I heard about that man! Now you need to Twitter #squarespace and hope you get the new iPhone! 
+Man, this Twitter ish is getting boring! 
+#followfriday @mikegrant Twitter is too quiet without him, miss ya dude 
+hmmm ... Twitter no update facebook 
+Twitter is still &quot;Unfollowing&quot; people ~ 
+Twitter's down?  on my way to @kevrosaa's house early =]
+@maddisondesigns no Twitter??!!!    arggh  that would be a disaster of epic proportions in so many ways on so many levels 
+would like this Twitter virus to leave him alone. I don't WANT 100 followers a day!! Nor do I want involuntary status updates 
+Twitter didn't let me on 4 time and I had shit 2 say, but the moment has gone now 
+@lobstress Cheers, its all working now. But about 11 hours ago both my following and followers list fell to 0. Twitter was broke again 
+@justinescobar omg I'm addicted to Twitter now like it's crack haha I miss you  can we do breakfast/lunch this weekend?
+thinks it's lame that Twitter won't let me use my normal username because of their dumb character limit.  I am now farmtownkitty LOL
+I want to be on Twitter but have to save my battery for the drive home. 
+Twitter w/o twitterbones drama is like box of milk chocolate. You always know what you gonna get 
+Twitter's about conversation, @bonniea. If someone starts a tweet with an @ of someone I don't follow, I miss the thread entirely 
+fishbyte web server is having problems.    We'll keep you posted on Twitter...
+Twitter is slow at sending tweets to my phone 
+@leonkay evening mr kay how's things? Twitter ain't the same without ya 
+Wish I had something exciting to Twitter about 
+@booboosbowtique Thanks for the follow! I'll follow back as soon as Twitter lets me--I'm temporarily at my limit 
+ @JeffersonReid is never on Twitter anymore 
+ssshhh...here's a Twitter secret: as a kid, ate my 1st and last open-face pork grease sammich on white bread!  yuk! )-:
+Death by Twitter? http://tinyurl.com/lzng84 That's not a good idea 
+Where are you shannonsimpson? She's been suspended by the evildoers at Twitter. I guess no stalker for me. O well 
+@Winterheart Ah, can't really help there as I only have the 1 Twitter account - sorry 
+Checking my Twitter account and confirmed my suspicion that I&quot;m missing alot of updates! 
+I just realized that I forgot to sign off of Twitter on my cousins computer. 
+cant find 2 of my friends on Twitter! 
+So, I found that Twitter won't allow two user accounts with one email address.  Now I write tweets to our education students generally.
+I really gotta pay more attention to these @KOEIcorp Twitter giveaways.  I want! I want!
+@ConniePrays I was just thinking about that earlier Lots of profanity on Twitter. 
+@rampantheart I too was a voracious reader... Twitter and google reader killed it...  have to rekindle it...
+Oh no! I need to stop looking at these Year One reviews on Twitter! Ahh people are saying its not good!!  It will be! I know it!
+Twitter can't be loaded on my mobile phone today.  - http://tweet.sg
+I realy dont update Twitter enough  I'm ganna try and do it at least every day from now on
+Wondering why people like Twitter I stead if facebook or any other status bases peer site... 
+My mom doesn't wanna believe that celebrities use Twitter and that it's really them, it's soooo hard for her to believe me  pray for her!
+@shinyshiny's new Twitter profile picture scares me.  *hides from the evil bandaged one-eyed green lady with stars coming out of her head*
+@CJHatter It might really be from your friend, but if you answer, it makes you follow the service's Twitter and tweets from your account. 
+@JLKulio I agree Twitter does suck today... I do not even have any reply icons  Are you warmer now or still shivering?
+Is wanting more people to add her because she doesn't have any friends on Twitter 
+Twitter,i don't hate you  I'm sorry hahaha &lt;333
+I think it's time to model my Twitter shirts. It's time for some Twitter love. I miss it. 
+okay why is Twitter not letting me delete certain updates. I highlight one but the trash bin logo goes right up to the corner 
+My Twitter is stll crazy 
+@domster yeah, it's a Twitter problem, @tweetie posted an update but it isn't approved yet 
+@whowatcheswho What texting to Twitter? does it work now?   but i think it charges me on my phone anyways ! 
+Is new at Twitter &amp; has nobody to follow! 
+tweeting on Twitter. @TinkFan out cleaning our backyard. I'd be out there 2, but I'm allergic 2 dog saliva. 
+@KimmyT22 that was meant for Desti sorry...my arrows have disappeared on Twitter... 
+@asuttles yep, that was for you but for some reason whenever I try to text your name I hit Twitter instead...sorry 
+@johnlela thanks, I've noticed. All of a sudden I have a lot of followers who just started with Twitter  @iranelection
+Twitter ate my profile page background. 
+I have to sort out my Twitter apps access, i hate that they tweet to my account automatically 
+Haha, great. Twitter's message IDs went out of &quot;int&quot; realm as it is understood by postgresql. This was causing @upwitter to break down.. 
+@spam how do I stop the &quot;Twitter train&quot; from posting with my account? 
+misses the Twitter parties with her besties 
+boring..........i want play!!!? any south american people have Twitter 
+Wow, Twitter is awfully quiet tonight. People must be sleeping or partying.  I have no $$ so I am stuck home alone. 
+@yelyahwilliams I don't have friends in Twitter  .. wanna be friends? 
+Research is ONE click away, but from Twitter tho. 
+I am @ work now...form now on I am working 3 weeks in a row...SHIT..not much Twitter at that time possible 
+This whole limit thing on Twitter sucks!! 
+what am i doing? hmmm trying to get Twitter to play ball, so far it hates me.........the feeling mutual 
+@cakeandcoke hahaha! Twitter is boring  - http://tweet.sg
+is anyone ells ahving problems on Twitter my profiel pic not comin up or ev  ??
+Twitter is dead again  everyone must be in bed, where I should be..
+My worldcall net was stuck  Twitter updates bardasht nahi kar saka.
+@Chelssurs - I wish Twitter had a &quot;Like&quot; application too 
+@barbprince I fail pretty greatly at this Twitter thing. 
+@GavinDeGrawFan I din get on cuz u said u wouldnt be on!  N..I couldnt know u were online on Twitter. I just assumed u were sleeping!!
+This has to be a Twitter problem. I can't see any of the userpics in my timeline  via twitterberry or ubertwitter 
+Thanks to all the Twitter excitement from @dorionbet. I got no sleep last nite. going straight to bed when I leave work. No gym tonight 
+#Twitter fail? I can't block the #spam people 
+@dannydiggle- I'm doing pretty good, just kind of mad b/c Twitter has stopped me from following more people until I get more followers!! 
+My Twitter app isn't working  can't get it to load  hope this works...
+@neoxdonut You're a friend of @toastkun, right? Why is his Twitter page gone, and his achievements and avatar gone/blank? 
+something is wrong with Twitter.  I am not able to follow back people who are following me. 
+@LMAshton  I'm having the same problem. According to Twitter support, it's a known issue 
+@dinkybean Twitter's support blog says they rolled out follow/block fixes 4 days ago. I think that they haven't gotten the bugs out yet 
+I'm getting realy sick of people calling me fat  note to self: never mention wanting to lose weight on Twitter...
+23 years after leaving school, still so easily distracted, get off Twitter and on with assignment 
+It's looking likely that I will have little or no time to Twitter this week   I'll be back as soon as I can.... promise.
+@tensh_iie Twitter is lame duck, I cannot block those strange followers 
+I don't know what nudging means in Twitter terms. 
+Why oh why does Twitter keep deleting followers of mine when i havent asked it too 
+Twitter is blocked on my new work system.  I won't be able to update as often anymore.
+@trickyshirls get days like that myself no worries..Twitter is strangely  A firm part of my life   Ambivelent x
+I was just informed that there will be no service up north... No Twitter for a few days 
+wow it's been almost 2 months since i have been on Twitter. bad bad me 
+I'm kind of hurt that somebody tried to report me as Twitter spam 
+Is wondering if I have an old version of Twitter? I can't include websites or mention people 
+I miss being able to visit Twitter at work  It doesn't take up much time and it was one of my only outlets, a way to get through the day.
+What after Twitter? @kellyfabulous69  ... betta see u this weekend and next twitter tues: .. http://tinyurl.com/nqw2zy
+Home from my hump-day outing...wish I had someone to be calling/texting  Twitter is my sudo-late-night boo...for now.
+Twitter is frustrating me. I'm only getting updates from certain people and I have more than just their updates turned on. 
+@mrstevenla That's because that stupid Twitter app sucks.  #ILOVEIRANBUTSCREWYOUADMINDASHLDASJAHEDAED
+I have nothing Twitter about..but here I am people..addicted as ever..it's gotten worse I swear I need help 
+Twitter: what do I do when the people I'm hanging out with don't use you...  I want to talk about them but you haven't met yet. 
+@18percentgrey lots to tell? That is intriguing! I'm doing great but work is keeping me away from Twitter lately 
+A Twitter restriction means I'm going to have to unfollow people who interest me but don't follow me so I can follow others following me 
+Hey thanks everyone for all the Tweets over last few days. Not had chance to reply as much as usual as not much time on Twitter recently 
+@MontyRules Not sure if it's life without Twitter or no computer that's so goddamn awful... No PC doesn't do business any good though. 
+Carrying Twitter with me all day isn't good for time management 
+does not know how to remove people I don't want on here, anyone? I press remove but they come right back, makes Twitter really shitty 
+I need help!! I am addicted to Twitter!! I am neglecting friends and family 
+@QDax I know! As soon as I get home, he's outta there...real Twitter site is blocked @ work 
+I feel so out of touch with the world! I haven't been able to read gossip blogs, tumblr, Twitter or the news. 
+I hate watching people's break-ups play out on Twitter 
+@lhawthorn What a coincidence! I was just stalking your Twitter feed and the GSoC news. ;) I'm doing great, thanks. How about you? 
+would love to stress that her last status was directed towards her wonderful parents, not her amazing Twitter contacts! 
+@jhnewf  You inspire me to Twitter a lot 
+Twitter is a legacy app  http://www.youtube.com/watch?v=BeLZCy-_m3s
+having some problems using Twitter... trying to do some testing for our new platform.... yes, it's Twitter related  
+And all I want to do in life is eat lollipops and Twitter. 
+If you feel offensed by dumbass marketing on Twitter, too &gt; #retweet my ass. 
+@Mayyita U r still discovering something to do @ work haha... I  told u Twitter lol 
+@Moonflowerchild oh god. how can something as simple as Twitter be so complicated 
+If anyone else takes me stalking them on Twitter as 'the highest compliment', please send me your username and I will get on it for you. 
+@wendywings You forgot to put your clock back? Twitter says your midnight message was....an hour before midnight. 
+@nick_foster Right now, actually a Twitter app for automating a lot of stuff. I'm currently using it on this account to test it 
+I also sold my soul to the devil and advertised the bundle on Twitter 
+@nick_carter I love that you guys have fully embraced Twitter because we love knowing what you're doing all the time. 
+@britneylush Twitter must have had a meltdown last night, huh?! All good now. 
+hey hey hey, just joined Twitter. sounds like a nice thing 
+Company blocked Twitter today  oh well i still have it on mobile 
+At school, can't believe Twitter works here 
+greetings Twitter world ! and how is everyone today ? 
+@MarcPerel off to have a look &amp; listen at your Twitter on the couch thing-y 
+Folliday: @MissCorey23 please show my lovie some Twitter love 
+Twitter me baby! A-go head baby 
+@caffeposto recruit!  the aliens will only return for us if we can... er, um, tell them Twitter is very fun 
+now watching @aplusk and @iamdiddy on @kingsthings. Twitter mania continues 
+2 ways to earn off Twitter: http://tr.im/hIHv and http://is.gd/iRtR (answer dNeero questions thru Twitter) .. go guys! 
+One great thing about Twitter is you learn to &quot;skim read&quot; and screen content using icons. 
+@DianaShores Ive discovered via Twitter that pilsbury-can-pop phobia is at an epidemic level. 
+@ARoadRetraveled  Right ok, yes Twitter was having some fun too 
+@DianaWyatt haven't had much of one yet...I'll get back to you   What have you been up to today, besides stalking those on Twitter?
+@swalkingtree haha nice vdieo at http://tinyurl.com/c8979k {Anyone addicted to Twitter, give that video a watch!}  PEACE 
+@sodaly Haha, that's perfect. &quot;Twitter, circa 1897&quot; 
+@abbiirocks - Secret Twitter will eat your soul! I kicked that habit. 
+Taking a break from coding.  Twitter library can now update statuses  made good progress, probably needs some refactoring work though.
+@aaronmartirano  so easy to appreciate people who earn it by how they live and act - you make Twitter better 
+@sherryness It is kewl how organically viral new followers &amp; followees works on Twitter...! 
+@MCHammer congrats on the new show you have coming up. Couldn't happen to a nicer Twitter 
+@KhloeKardashian yay! finally u joined Twitter! i'm following u  how are u?
+@themiddleclass I felt oddly as though I was at some sort of Twitter-oriented dance club.    Pretty cool!
+@themudshow yeah then Twitter would a better community.You know, more interactivity. 
+@ThalesDotCom see my 10 things I love about Twitter at my blog http://hayes.net 
+Twitter is addicting. I don't personally tweet so much, but I love reading everyone elses tweets. Haha 
+like my new Twitter background, think my son likes it too, cause keeps staring at it 
+@mediocre_mum just send them here: http://www.commoncraft.com/Twitter 
+@darklord1 Aww sweet, thanks, but you will be late if you don't get off Twitter 
+#MrTweet I recommend @darrencarter because he likes his women like he likes his Twitter... customizable and done several times daily. 
+@aj_michalka No problems Twitter rocks  im a twitaddict ahah ;) why did you want a twitter soo bad xx ??
+@wattle_neurotic following cause your Twitter name made me laugh ! will stop now tho, have a great day 
+@Nutronic - the sort of problem you are describing can't be resolved on Twitter.  
+@wine_scribbler Definitely agree re. more local Twitterers - there should also be a local Twitter group - for beer 'tasting' 
+@jjprojects Sometimes a company that you didn't even know was on Twitter comes along and fixes your complaint...quickly. 
+@KirstyWrites Interesting thought...I've never really considered Twitter that way but I guess it is a forum for all kinds of networking 
+@MartinMillmore Twitter integration is working fine now - thanks for the support.  I've emailed you my log file etc.
+@fritzymom Signing up onto Twitter...gettin ready to start the day don,t  know how to use this yet, but i,ll try  
+@gandalfar Maybe even a &quot;pierce&quot; function? Twitter's hardcore after all, isn't it? 
+is trying to figure Twitter out  any short cuts please feel free to let me know
+ha, i needa update this thing more often  Twitter is Schweet.
+@jordanknight yes you do want to be on Twitter..u'll read first-hand how crazy we really are 
+@stephenfry It'll be a shame if Twitter replaces newspaper reading. I'm sure that Twitter will become a complementary adjunct! 
+trying to figure out this Twitter thing 
+@lindawadman I think Twitter is super fun, although it took me a while to warm up to it. 
+I want to join in the competition, but my Twitter goal is going to be more attainable: 100 followers. Pleaseee tell your friends 
+Still debating on whether or not I like Twitter .. kinda leanin' towards yes .. 
+im happy becouse now i m a Twitter-er! 
+newbie to Twitter! hi friends 
+lol because I think Twitter is ridiculous...but I joined anyway...now gotta fold clothes and study 
+@brokep well, u can't follow everyone who supports TPB. That would be half Twitter. lmoa. 
+Wow the men I'm following (only on Twitter, to be clear  are twittering a lot.  This seems to be THE communication channel for men. ;-p
+ps: follow @mistahfab mistah &quot;hit me on Twitter&quot;, keep that song goin! 
+@nyappyrhiiee I will miss you. Twitter is nothing without you, my sweet princess.  Also hurry up and help me.
+Setting up my Twitter account and arguing with my kids.  
+@UltactI  I'll probably end up posting the entire synopsis on Twitter at some point.
+good morning, Twitter friends 
+@lesanto THink Twitter is glitched Ive got the start message the end message but not the message in the middle that says what happend 
+trying to figure out this whole Twitter thing 
+I wouldn't blast the geese. I like animals too much. For starters none of them Twitter.... 
+@dtunkelang If you defined having a good attention span as a form of wealth, then Twitter causes poverty for sure 
+Then again, there's this thing called Twitter.com - I quite like that too 
+@paulschaeflein maybe or just general rudeness  I am literally stuck here stopped so Twitter keeping me from boredom
+awesome! found another way to earn off Twitter: http://tr.im/jdtY .. payout is $10 via paypal. tnx @inkgenious!  #fb
+@ev - Does Twitter have emoticon's yet? I'd like to add some sparkle to my 140 posts   #follower #retweetist
+@fightshy oh, and in twitter, @BritneySpears follows me.  Twitter is a stalker's paradise
+@djmoneystl Lmaoooo nooooo don't be  I'm the nicest person on Twitter!  lol.
+@adamstrawson hehe . Just set you Twitter location to east bourne for the time being  hoping I'll get time to finish my up date this week
+@lee_milton as long as you have Twitter, there's always something to do 
+OK All - Eventuful as it was - I need some sleep - Twitter at you later 
+Twitter is now my official random thought outlet. Probably nothing good will come of this 
+@arfike79 Twitter's entry length is the same as a standard text message. It was meant for phone updates and just kinda exploded. 
+@jayneale really - wow that's cool! This is why I love Twitter lots of great info 
+Thanks god the western hemisphere is sleeping. Twitter is quiet and I can concentrate on the less important things, like work 
+@kirai Actually I take that back, for some reason my Twitter client displayed the kanji as blank spaces....  But yes, very rainy 
+I have about 200 more blip.fm followers than on Twitter - guess my music choice is more appealing than my little messages here 
+@orange_hat Twitter is just a sickly methodine compared to the epic facebook addiction, but well done, you are on the road to recovery 
+Twitter, baby, keep me company until midnight, yes? 
+Note to doubters: Twitter does provide value and opportunity! Thanks @poprepublic 
+is watching everyone move over to Twitter 
+Twitter is like a facebook status no one can comment on, which is good because opinions annoy me 
+ok..i guess spending more than 30secs on Twitter makes it all better.... 
+Thanks to all those overly-kind Twitter friends for the #followfriday business - will have to do a blog shout out to you all! 
+OK my cool Twitter friends..I might miss to mention your name on #FollowFriday ~ but, I'll try to b better next time  have a nice weekend!
+I feel like Twitter is made for moments of laughter 
+@tehkubix check out http://www.twitzap.com/ - It lets you refresh Twitter in realtime via a web interface 
+Twitter 4 unborn babies. Now that is taking the pee 
+Twitter me your tour thoughts... What cities? What songs? What shall I wear? 
+via @nicole_uk: Twitter really makes our lives different, dont you think so? 
+@davepool Don't always judge a Twitter by its cover! If that was the case we would be hard pressed to find a face to trust. 
+After seeing last nights tweets from @katecraftorama, am pondering the wisdom of drink + Twitter 
+@janalaiz Your gettin' it. Now just go snag a bunch of buddies to make Twitter more fun. 
+Some people have brains the size of algae. Of course, none of you on Twitter meet this &quot;criteria&quot;. Those who tweet are real smart. 
+just trying out this Twitter thing before I go back to bed.  
+i have no idea who are the people following me on Twitter (well except for 1) hahaha 
+Twitter is stupid shit but still it's funny 
+I love that @jologon's facepalm pic sort of colors everything he says on Twitter. 
+@DoubleTroubleDi it's me lulu!! follow me on Twitter! 
+@chrisspooner you know what. your good deed won't be counted as you have mentioned it on Twitter  hahaha
+You know a bus ride is boring when all you can do is update Twitter haha 
+@danjoyce TY for wishing me happy birthday on Twitter. U were the only one. 
+@_christina_ I don't stress about keeping up with everything on Twitter, just what I have time for. That's the key. 
+I hear from a lot of people these days who are wondering if Twitter is a passing fad or not... We'll know soon (1 yr? 2yrs?), won't we? 
+ugh, my parents are such dickholes. Haha, my mom has Twitter, lets hope she reads that 
+My cousin's stalker found me on Twitter. :roll: yo, block buttons are good. 
+@abrakapocus Thanks you so much for following me on Twitter; I hope you find it as exciting as I do! Looking forward to your tweets! 
+@danesh_m hey you found us! And went all the way with Twitter oauth I see 
+(... beyond 'Her' -- and my desire to tickle ... yet respect boundaries, and so whisper from afar ..  Twitter has made me a better poet 
+@milestorres I try to minimise it, but fortunately I'm in a job that necessitates being on Twitter from time to time 
+@Turbostation hahah i thought i was the only Twitter treadmiller  thanks for following, &amp; good luck with your goals for better health!
+i am interested in analogy between Twitter and group psychotherapy. very good book. I shall be quoting from it 
+*Twitter name..  caqn't see what I'm writing cause the person's laptop I'm on sucks ( the laptop not the person ) 
+it's funny how we always try to make things more complicated than they really are...Twitter is not confusing 
+Hey you can get money from Twitting in Twitter: http://twtad.com/index.php?id=7023   check these out! 
+@Bad_girl1983 welcome to Twitter 
+@mswas There's also widgets to show Twitter feeds, as well as blog comments or posts. Widgets for every freaking thing, really. 
+@emily_deon Thanks you so much for following me on Twitter; I hope you find it as exciting as I do! Looking forward to your tweets! 
+@PinkSlipPerks Thanks you so much for following me on Twitter; I hope you find it as exciting as I do! Looking forward to your tweets! 
+@Stres2 Hey welcome 2 Twitter, now I can follow your exciting life 
+@ScottBourne I'm a mac user on Twitter, ready to win something. 
+@christinerob Thanks, just made a few more changes  I just found a great online design tool for Twitter backgrounds http://bit.ly/HAEDe
+So many giveaways and so many tweets to go round. If I seem like I'm bombarding Twitter with contests then you should be happy about that 
+refuses to follow someone so egotistical and two-faced.. even if it IS &quot;just&quot; Twitter 
+@SherriEShepherd Twitter is no excuse to act that way and I doubt any of them would say it to your face! How is your baby feeling? 
+@edhenrycnn oh you are quite welcome...but you should know I am blaming this Twitter war for my sprained ankle! 
+Getting my Twitter back!  No blocking me this time  
+@ohhector me likes  (I don't know I figured I'd reply and see what happens next on this Twitter thing, lol)
+Finally, no longer a Twitter virgin and now online! 
+@prateekgupta Not surprised u liked that bout the 2nd computer, remember u chatting last night bout Twitter addiction. LOL 
+I will update my Twitter in the middle of the night to piss everyone off that has me linked to their phone 
+@shetouchthesky You should direct your &quot;wanting to invest in @Twitter&quot; questions to @ev or @biz.  They are the big cheeses.  
+is starting to get this whole Twitter thing! 
+@ElvisHsiao Twitter doesn't have photo support built in, but I welcome you to try my website http://woo.sh to share the photos 
+@mashable Thanks to TweetStats, I confirmed what I long suspected: Twitter is keeping me up way too late!  http://tr.im/kpc1 @tweetstats
+@mashable Thanks to TweetStats, I confirmed what I long suspected: Twitter is keeping me up way too late!  ht.. http://twurl.nl/oaerf4
+I'm a new french girl in Twitter! And I speak English very bad 
+@philwalters fickleness seems appropriate for a Twitter user 
+@ankitbathija Thanks mate, just came on board here at Twitter ...  .. tweet up sounds great..
+Just opened a facebook account, I'm a little confused I don't really get it. Twitter seems much better 
+@stephiekwan And ooh, you changed your Twitter name! I approve whole heartedly. 
+haha! and i just got an email that truth is now following me on Twitter  A sign that I need to do away with the obscure mind games?
+now that was my first try at any other language on Twitter other than english 
+Figuring out how this Twitter thing works 
+Has no idea wtf Twitter is about but willing to give it a go!  Going out for a bit!
+Twitter is officially the BEST way to advertise something. 
+Adding names to my Twitter account and learning how to use this amazing thing! 
+Just starting integrating Twitter with Forexforums.org ... looks like a great partnership!  I welcome all to our chat room tomorow all day
+@traceym75 Thanks! I will tell her my friends on Twitter say so. 
+@xVOJOx It's kind of like learning as you go...the blog thing, and Twitter, too! 
+Twitter is useful in that it reminds people what they forgot to ask me about on a given day. It is also excellent for inspiration 
+OK - so I can't sleep...  Twitter it is 
+My friends are awesome! @JNBlack @koreantomcruise -- and the non Twitter ones here right now too!! 
+I didn't check Twitter till just now. Thanks everyone for all the Congrats! I really really appreciate it  #fb
+@jdlcaro,  In pre-Twitter days, I'd need   to wait  for a formal  invitation  to speak on edu2.0  from @rom  #Y4IT  
+Finally came around to shorten my Twitter username from @pascalfinette to @pfinette. If you follow me - no need to change anything. 
+Twitter is kinda confusing , but fun 
+@sendsome2me haha, yeah. Twitter has many uses. For me it's just to know what the ppl i care about are doing 
+Working on another cute mom design, based on a quote I just saw here on Twitter. 
+@jimmypage1 Thanks you so much for following me on Twitter; I hope you find it as exciting as I do! Looking forward to your tweets! 
+Currently wandering. I'm kinda new  LOL. Exploring the wonders of Twitter 
+doing nothing but figuring out Twitter today 
+@Poshey22 I not on it as much anymore!! Twitter is my big addiction now! i added you so log off n back on! 
+@lorimcneeartist Thanks you so much for following me on Twitter; I hope you find it as exciting as I do! Looking forward to your tweets! 
+@MariKurisato I don't get much time to even talk to people, Twitter notwithstanding, so when I do I try to give that lil bit of time 
+Thanks for the comments on my new Twitter page.  Trying not to take things too seriously.  
+@s1mplyadorkable your  my gmail account resulted in Twitter automatically placing you in my &quot;Following&quot; category .. I am glad it did too 
+@maxine nice  - who'd have thought a random comment on Twitter would result in a website being updated?
+I'm on the bus &amp; some girl in front of me with the same phone I have, is checking either her friendstimeline or getreplies on Twitter 
+@renu19 haha. Twitter has a latency today. Its like something stuck in its digestive tract. 
+@hotpatootie Its raining.... (gosh this time delay on Twitter is getting worse  )
+@matty_gibbon thats what happens when they don't have a business plan  Twitter, you're fired! lol
+Morning. How goes? I been a bit quiet on the Twitter front this week, too busy grafting. I'll try and be a bit more sociable today. 
+http://tinyurl.com/phfl3v (answers: name, city, email addy, Twitter) 
+Bobsterrrrrrrrrrrrr my freaking cool dog is being my alter ego on Twitter right now 
+Twitter update  hurray for people who get my updates via cell phone!
+just trying to find out how this Twitter-thing works 
+Off to the shower . Twitter ya later  .
+@MikeChapman Progress for those of us who want to see all @ replies, but a step backward for those who don't. But hey, it's Twitter. 
+This is a taste of the drama you miss on Twitter if you only use it once a week  http://twurl.nl/xby6lo
+@enormous  we've come a long way together in our great Twitter journey
+At home! And has time for Twitter again 
+@ingridmusic LOL screw people who think Twitter is dumb....they have no idea what they're missing 
+So this Twitter thing condones -nay, encourages, and is built upon- self absorption? I may be a fan, yet 
+Twitter universe  i have returned lol surprisingly didnt mind not going on twitter much today, ah the obsession is waring off 
+@PeterBestel I assume that doesn't apply to the myriad of dogs and cats who have Twitter accounts! 
+@HomeBuddies I was just thinking today that with Twitter it's not 6 degrees of separation anymore... more like 2! 
+@lalayu You're havin too much fun on Twitter tonight. I'm having what you're having. 
+yes, @bluebonnet21, yes it really is. I think my intelligence is too great for Twitter. 
+@snappingturtle Your personal &quot;tagline&quot; &quot;message&quot; thing gets sent to Twitter when you update it.  @nimbuzz It'd be cool to view the stream
+@bluebonnet21 yes, yes it really is. I think my intelligence is too great for Twitter. 
+@TreylinRae yeah, I could see it now. Twitter has a pretty good logs 
+...and so begins the shy, awkward phase of Twitter and I's relationship... 
+@pcdisorder Maybe your kids need Twitter time too...You'd be surprised 
+@maxgrinev @mariagrineva Twitter research - how did you guys use the datamining timeline to save public timeline msgs? thanks! 
+just added @IvyBean104 to my following list. She's the oldest person on Twitter I believe, 104 years old  kudos for technology!
+@lili_z @hoppke Twitter is definitely the best way of communication of three people sitting in the same room 
+lmao &quot;Twitter status: all good&quot; HAHA brings back memories 
+regrouping Twitter Friends now  do reply if you want to be included (in case I miss any!) thanks!
+My first facebook update straight from Twitter 
+I'm like sleeping by the laptop...checking after every five minutes cause @DavidArchie might be online in Twitter! 
+@flipchilln too much material to tweet about last night. Twitter overload, sorry bout that. 
+Twitter is becoming such a powerful communication tool hello lovely followers 
+@ariherzog A good question. With Twitter it may not...  Endless loop of people trying to have last reply.
+At the computer for most of the day today catching up on emails and other work.  Would love to hear from my Twitter friends 
+Realizing that the last part of the question might be skewed since it's being asked on Twitter 
+@gjwagner That's great~you really demonstrate a powerful way to engage with Twitter! good for you! 
+@audiophile_tom I was leaning toward that, but I need Twitter confirmation for my every decision. Lol. 
+@NicksTutorials Thank you for this. This answers a lot of questions I have been asking here on Twitter. 
+@rowent Haha, never fear, Twitter teaches us to embrace stalkerificness...and who is your aunt, pray tell? I am intrigued 
+@ symbol turned 473 (or maybe 472) last week: http://is.gd/AOqu. I have an overwhelming urge to reply to lots of Twitter folks. 
+@mrsvc_sp LOL! I think Twitter has been extremely busy today. 
+Wow...our expectations of quick response to events by media has risen dramatically after using Twitter 
+Wow, I've spent almost my entire Twitter day checking oot and following new interesting folks 
+#twitterfon - no way to see &quot;full size&quot; user avatar/picture.  Twitter web site has this function. I need it to see small icons better! 
+There!  I think I am now following everyone on Twitter who follows me. You scratch my internet back, I'll scratch yours! 
+@Bastaway he makes a custom paint mix, apparently.  We could ask him; he's on Twitter. 
+Testing my mobile phone works with Twitter 
+@GeekGirl_ This is true. Or in my case it would be hoping the ad break is long enough to go to the loo AND check Twitter 
+@radioedit ok... but he's not on Twitter is he?! Makes communication a bit harder. 
+Serious lack of Twitter over the weekend, been trying to avoid it for a bit and find interesting stuff to tweet about 
+@dailytwitter ok curtain twitchers then  I don't think it's about trembling, but being acknowledging the responsabilities. Twitter is  ...
+i've  just  join Twitter ... tring  to  understand the new neighborhood   ... 
+Twitter on steroids - follow or unfollow made simple  lovin it today  http://tinyurl.com/ppjt2c  -
+early day at work, hope the weather is nice   Later Twitter!
+@MoocherGirl  I'm not so organized to know more than a month in advance if we will be available. Also my wife thinks Twitter is too geek
+@pepper5431 no offense taken  we keep it real here on Twitter &quot;twitter is not for the faint hearted&quot; LOL
+@frecs Twitter needs a like button. I liked this! 
+@fiercethimble quite alright  you should get your sleep..and now you know you'll get the message eventually. Twitter is great for that :
+@MarketingProfs ha I'm sure  I've been subscribed to the newsletter for some time, but really interested in your latest pub on Twitter
+@artrox My reply was &quot;we got a few pennies which is all we could ask for.&quot; and then I went and complained on Twitter 
+@JonBouman Twitter is more like a symptom, than a platform.  The disease is the one that is killing the traditional advertising model. 
+@rebeccalamey hahahah DONE.  I'm Twittering at work.  For every 1,000 followers I get for my store's Twitter I get a dollar raise! 
+Twitter is way too much work for me.  No one needs or wants to know what I am doing or where I am all the time.  
+@jimanda2 Yes!  That's exactly what I was looking for.  Thanks!  Twitter for the win! 
+@SarahGNYC I've had more time on my hands to pick up Twitter so I can help you. 
+@bradjward We looked for Twitter commentary while we were live-tweeting graduation at @ithacacollege and interacted with the chatterers. 
+I'll need to get the @TeeMonster book on Twitter.. seriously  it does boggle the mind sometimes
+My appt with the plastic surgeon is in 7 hours, I better sleep  'Nite Twitter!
+@nikki_morris lol- was after a couple last night, and i was trying to educate a few mates on the power of Twitter- twas a bad example 
+@jimmyfallon say my name on your show! I know you check Twitter during commercial breaks! 
+And on that note my Twitter peeps, gnite. 
+What am I doing today, Twitter.com? I'm playing website-website and fixing some old pages. 
+@jimmyfallon if Twitter hadn't of cut me off - You'd know I miss your ridiculously crazy self  xx
+Doing a Twitter search for &quot;Oerol&quot; 
+i'm now in Twitter! twit! twit! hehehe 
+just finished my #FollowFridays thanks to all you amazing people who make Twitter such a great place 
+just joined Twitter.............and trying to find out wht da fuss is all about 
+@Ices24 oh and how do i put my Twitter on my blog?  heeeehe! my twitter tutor. hahaha
+getting ready to go out with karima...finishing some stuff. Twitter is kind of enjoyable 
+Morning @gekkko @williamsmckenna @jsrowe - really interested in talking to you for our Twitter column in the paper - give us a shout 
+Off Twitter for rest of day - too busy - on mobile if anyone needs me 
+I'm happy to see lots of new familiar faces on Twitter 
+it's a blast finding all these bands and following them on Twitter. especially since they all seem to be working on new albums. 
+No more international charges! Twitter is back on  wooohooo say hi to me!
+@Nicoleugenia I care not for leverage, Twitter should be used for fun, not ego! Now go and vote for me. Seriously though, made my day 
+so no one will join me on #favLP avatar?  i'm in &quot;exile&quot; on Twitter? 
+My #followfriday Twitter recommendation for ya all is @sockington. You might be thinking, &quot;what????&quot;, but it's seriously funny reading! 
+#Aion peeps. Next Twitter milestone is 1500 followers. I'll think of something else than posters to give-away for then. 
+Cooking all but the eggs &amp; cheese until taters are tender. Wish I could send the aroma over Twitter!  http://twitpic.com/5owht
+Hey... now you can see the no: of characters remaining to reach 140 ,while you type your message. Excatly as in Twitter 
+@4play2nite I wish it was literal party time! I guess we will just have to &quot;Twitter party&quot; until works over 
+@sull Thanks!  It will be fun to make one for you--you've got great Twitter style 
+@wilfernandez Thanks for the follow.  I'm a photographer, too, but this is my personal Twitter account.  
+RE: into twitter: i dunno. boredom makes people do random things. my random thing is Twitter 
+@minijesus Don't say such silly things! Twitter aint shit! But you...you be amazing 
+Twitter just reminds me of how much of a life I have. I don't have time to tweet every minute of every day??? That's awesome! I guess! 
+@CraftyMamaof4 They definitely are! I love Twitter parties, too. Of course, @ResourcefulMom 's are the very best! 
+Success has many fathers and failure is an orphan. All the investors who invested in Twitter, think they are visionaries, go figure 
+@emilymcglothlin well see I was gonna say that but Twitter and it's 140 character limit just wouldn't hear of it 
+@LisaHumphries - You're welcome  I've been trying to upload Twitter backgrounds for clients and realized you gotta be persistent 
+Up to 33 followers on Twitter; want to break 100 by next week...are you willing? I'll try my best to be witty  www.twitter.com/sandralongo
+I'm such a Twitter noob. I bet that Twitter vets hate kids who type something every minute. It won't be like this all the time, I promise 
+Computer's being slow. It really sucks. Twitter is cool. YouTube is a fun word. Blogtv is kinda addictive. MySpace is also nice. 
+now its my turn for bed, night Twitter-ers 
+@erin_w84 lol. I wish I could read all your tweets. But the small dose I get when I look quickly at Twitter is good for now 
+@starwing No lah. I'm walking for charity. But just gonna Twitter cos er, saja.  #relay4lifekl
+@hummingbird604 thank you for the Twitter love 
+Twitter is so addicting,I need to step away and do some work..please tweeple hlp me ovcome my addiction by not tweetg for the next 4 hrs! 
+Get paid to use Twitter  http://atomurl.org/1884/
+Get paid to use Twitter  http://atomurl.org/1884/
+Get paid to use Twitter  http://atomurl.org/1884/
+Get paid to use Twitter  http://atomurl.org/1884/
+Get paid to use Twitter  http://atomurl.org/1884/
+I'm waiting for my momma to get home I've missed her  gooood night Twitter babies you all are in my prayers I love you&lt;3
+@gdb_ Twitter is like a toy,  you can't just quit playing with it. 
+There is no way I can rock with Twitter...how many times during a day can I tell you what I'm doing?  
+#followfriday @stevenhealey for always finding the best in Twitter apps and sites  40 minutes ago from
+@jwillock haha its okay  good to know u got one! didn't expect it to finish so fast.. Twitter's just great for things like this..
+It must be really anti-climatic for people who will attend one of @ppk 's presentations if they happen to follow him on Twitter 

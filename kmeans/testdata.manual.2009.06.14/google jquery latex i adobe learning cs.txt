@@ -1,0 +1,49 @@
+Most common words for this cluster:
+[('google', 8), ('jquery', 8), ('latex', 7), ('i', 4), ('adobe', 3), ('learning', 3), ('cs', 3), ('stanford', 3), ('d', 2), ('university', 2), ('silverstein', 2), ('exam', 2)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Firefox_Toolbar', 0.7252652049064636), (u'Firefox_Extensions', 0.7207692265510559), (u'Display_Coleman_Liau', 0.718196451663971), (u'v#.#.#_Released', 0.7057248950004578), (u'LaTeX', 0.6987306475639343), (u'Personalized_Search', 0.6979745626449585), (u'Keyboard_Shortcuts', 0.6899811029434204), (u'Featured_Freeware', 0.6874967813491821), (u'Google_Docs_Viewer', 0.6869702935218811), (u'Macro_Recorder', 0.6867271065711975)]
+
+
+
+
+
+need suggestions for a good IR filter for my canon 40D ... got some? pls DM
+RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR
+Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.
+It's a bank holiday, yet I'm only out of work now. Exam season sucks:(
+@psychemedia I really liked @kswedberg's "Learning jQuery" book. http://bit.ly/pg0lT is worth a look too
+jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631
+Very Interesting Ad from Adobe by Goodby, Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT
+RT @jquery: The Ultimate jQuery List - http://jquerylist.com/
+jQuery Cheat Sheet http://www.javascripttoolbox.com/jquery/cheatsheet/
+Naive Bayes using EM for Text Classification. Really Frustrating...
+Investigation pending on death of Stanford CS prof / Google mentor Rajeev Motwani http://bit.ly/LwOUR tip @techmeme
+Safari 4 is fast :) Even on my shitty AT&amp;T tethering.
+Google Wave Developer Sandbox Account Request http://bit.ly/2NYlc
+Talk is Cheap: Bing that, I?ll stick with Google. http://bit.ly/XC3C8
+@ArunBasilLal I love Google Translator too ! :D Good day mate !
+http://is.gd/ArUJ Good video from Google on using search options.
+Stanford University?s Facebook Profile is One of the Most Popular Official University Pages - http://tinyurl.com/p5b3fl
+I'm really loving the new search site Wolfram/Alpha. Makes Google seem so ... quaint. http://www72.wolframalpha.com/
+Learning about lambda calculus :)
+#MBA Admissions Tips Stanford GSB Deadlines and Essay Topics 2009-2010 http://tinyurl.com/pet4fd
+Math review. Im going to fail the exam.
+Learning jQuery 1.3 Book Review - http://cfbloggers.org/?c=30629
+RT @shrop: Awesome JQuery reference book for Coda! http://www.macpeeps.com/coda/ #webdesign
+Adobe CS4 commercial by Goodby Silverstein: http://bit.ly/1aikhF
+Wow everyone at the Google I/O conference got free G2's with a month of unlimited service
+I'm ready to drop the pretenses, I am forever in love with jQuery, and I want to marry it. Sorry ladies, this nerd is jquery.spokenFor.js
+I spent most of my day reading a jQuery book. Now to start drinking some delirium tremens.
+7 hours. 7 hours of inkscape crashing, normally solid as a rock. 7 hours of LaTeX complaining at the slightest thing. I can't take any more.
+Twitter Stock buzz: $AAPL $ES_F $SPY $SPX $PALM  (updated: 12:00 PM)
+I just created my first LaTeX file from scratch. That didn't work out very well. (See @amandabittner , it's a great time waster)
+using Linux and loving it - so much nicer than windows... Looking forward to using the wysiwyg latex editor!
+After using LaTeX a lot, any other typeset mathematics just looks hideous.
+Ask Programming: LaTeX or InDesign?: submitted by calcio1 [link] [1 comment] http://tinyurl.com/myfmf7
+On that note, I hate Word. I hate Pages. I hate LaTeX. There, I said it. I hate LaTeX. All you TEXN3RDS can come kill me now.
+Ahhh... back in a *real* text editing environment. I &lt;3 LaTeX.

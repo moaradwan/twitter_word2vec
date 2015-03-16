@@ -1,0 +1,29 @@
+Most common words for this cluster:
+[('china', 8), ('iran', 7), ('indian', 2), ('india', 2), ('pelosi', 2), ('the', 2), ('fifa', 1), ('beijing', 1), ('spring', 1), ('africa', 1), ('back', 1), ('general', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'China', 0.7737928032875061), (u'Iran', 0.6616471409797668), (u'N.Korea_nuke', 0.6555994153022766), (u'Foods_Limited_HKSE', 0.6381291747093201), (u'Nuclear_Talks_Resume', 0.630252480506897), (u'Nkorea', 0.6297919750213623), (u'UN_Nuke_Watchdog', 0.6293046474456787), (u'Beijing', 0.6259424686431885), (u'N.Korea_Nuclear', 0.624209463596344), (u'India', 0.6222027540206909)]
+
+
+
+
+
+Why the hell is Pelosi in freakin China? and on whose dime?
+Rocawear Heads to China, Building 300 Stores  - http://tinyurl.com/nofet3
+Climate focus turns to Beijing: The United Nations, the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n
+myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba
+Three China aerospace giants develop Tianjin Binhai  New Area,  22.9 B yuan invested   http://bit.ly/mMiDv
+Just bought my tickets for the 2010 FIFA World Cup in South Africa. Its going to be a great summer. http://bit.ly/9GEZI
+The great Indian tamasha truly will unfold from May 16, the result day for Indian General Election.
+The Times of India: The wonder that is India's election. http://bit.ly/p7u1H
+@foxnews Pelosi should stay in China and never come back.
+Weird Piano Guitar House in China! http://u2s.me/72i8
+How to Track Iran with Social Media: http://bit.ly/2BoqU
+Shit's hitting the fan in Iran...craziness indeed #iranelection
+Monday already. Iran may implode. Kitchen is a disaster. @annagoss seems happy. @sebulous had a nice weekend and @goldpanda is great. whoop.
+Trouble in Iran, I see. Hmm. Iran. Iran so far away. #flockofseagullsweregeopoliticallycorrect
+Reading the tweets coming out of Iran... The whole thing is terrifying and incredibly sad...

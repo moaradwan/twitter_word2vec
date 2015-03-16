@@ -1,0 +1,460 @@
+Most common words for this cluster:
+[('going', 449), ('day', 51), ('today', 50), ('home', 37), ('school', 32), ('tomorrow', 30), ('night', 20), ('time', 20), ('work', 16), ('weekend', 15), ('week', 14), ('morning', 13)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Going', 0.9978903532028198), (u'Coming', 0.6713048815727234), (u'Heading', 0.6597697138786316), (u'Moving', 0.650916337966919), (u'Looking', 0.5948607921600342), (u'go', 0.5368419885635376), (u'Pushing', 0.5221328735351562), (u'Walking', 0.5201118588447571), (u'going', 0.512484610080719), (u'Went', 0.5075488090515137)]
+
+
+
+
+
+@kel_marshall tell me about it, had some mortgage quotes last sat. Going to be skint for the next 30 years. 
+Up since 3:00. Going to be a looooong day. 
+I posted my '91 Golf up for sale last night and I'm already getting a fair amount of interest! Going to be sad to see her go.. 
+GEORGOUS day Pittsburgh! Going for a run then spending the day studying 
+Grey morning is killing my happy buzz  I wish it were sunny. Going somewhere soon, not sure where though.
+I have a cold  Going to relax on the couch and watch 300 (for the first time!) with Eric.
+@JoeyDavidson I unfortunately traded mine in   Got $40 for it last month.  Going to rebuy it once it drops in price again.
+I would have gone just that tomorrow i have school  I hate it. Going back to the boring old teachers!
+@cupcakesfortwo no sorry  im too far away at the moment sorry But Lauren's Going
+It's official, printers hate me   Going to sulk and make a cup of tea...
+Is sitting in the sun working on his DISS! Going to be another all nighter 
+Not such a good day.... Going to college 
+What makes me hate getting up @ 7:30am for class EVEN more?? Going  to bed 4 hours before I have to get up 
+@WizardCM Going to be going to school soon 
+@DawnRichard Going 2 b &quot;hell no&quot; weather 4 2 more days 
+@dashift Aw I will miss it  Going out with some friends tomorrow!
+@FashionGuru Going to sleep, disappointed!! 
+Bedtime finally! Going to wake up early and finish some last minute packing! Last night in this room for a long time... 
+Omfg im a freaking RETARD. Going over liiines  I can't get them down to save my effing life
+I'm excited about tonight!  Going to be a beautiful day too. I hate it that Ray has to sleep through it! 
+My 1st day on TWiTTER! Going to kick back at home, cause its rainin here!! 
+@cybie2k I agree! He's utterly fantastic. That Dominic impression - I'm wowed. Going to be sad once show's over  What do you think so far?
+Finally home... Going to bed now 
+Migraine  Going to bed.
+tired and going to bed soon! Going to eat some chili first tho. I am sick and my appetite has been crappy all day! 
+My email just so is not working   Going to tidy my scraproom later and check out all the awesome challenges on www.scrapinstyletv.com
+is overtired, and her mind is running out of control. Going 2 b tough getting out of bed 2moro 
+Crap! Going to be late for work. Overslept dreaming about WoW 
+uggh. bored. missing my bestfriend sleepover.  At least the festival is 2daY! Going with gracie! XD
+I am tired! Going to bed early today. I hate mondays 
+haven't even started the grading I'd planned    I am so far behind it isn't funny. Going to bed now anyway.
+Night night!! Going home tomorrow morning  but back on wednesday :p haha
+@richardepryor doesn't sound good. Going through a bad time? 
+My knee still hurts  Going to bed have 2 be up soon.. 2 days off and nothing to do w/ nobody to do with with.. AZ has made my life so lame
+Exam time. Going offline for 20 Days!  Wish me luck!
+@reland1 Double muah! Going to have to run tho - think I'm about to lose power and I hate sitting in the dark by myself. 
+Still 45 minutes before my flight takes off... Going through my mails and stuff, I am really bored 
+I miss you crystal. Going to a party then home finally but will miss my baby 
+at mom's place. Going to spend mom's day with her...she's making me get up early  but it's her day so why not? can always nap later
+I'm nauseous  all of a sudden  Going to bed.....
+@tanaralandor I second that!!!! I'm wearing flats for a rest of the week! Going to get my hair done! I wanna sleep so bad!!!! 
+Why do i feel so ill??  Going to lie down for a bit.
+@livepath NZ -makes weekend visits a little difficult  Going for continued study or work? Grandparents &amp; you must all be proud.  Congrats!
+Listening to etta James and billie holiday. Going to bed soon, I hope I can slep tonight 
+@ home...missing Rahsaan's show. Going to bed since I can't go anywhere tonight 
+Not doing so well  eff the flu! Going to bed =\
+@ashleegaston best friend was in hospital last night cos he had a breakdown... n yeah. Just got out today. Going to see him tonight. 
+Listening to popping fresh Prodigy songs for documentary, only if they where royalty free!  Going to have to write something myself! 
+heading to sister's. Going to miss Chelsea match 
+Todays my last full day in cuba. Going to miss this place!  the beach here is AMAZING! Wow
+Long weekend. Not at all eager to finish packing. Finally hitting me that I'm moving. =[ Going to miss SO many people, so much.  &lt;/3
+missed my train by 1 min  too much traffic. Going to be close now and time to waste on the platform.
+I'm struggling now. :s Going to update AviationWorld.aero but I can see it taking a few days. 
+Grrrr can't find my birth certificate and I need it! Going to have to order another copy which will take too long to come   
+had a month to enjoy the life with my parent. Going to continue my study, taking diploma. No more Animax for me!! 
+shit! don't have internet yet... maybe this week. Going to italy, barcelona and monaco next week!! yey! I miss my pc... 
+Morning ... Going to court 
+Bleh, knew when fell asleep at 8:30 this was not going to end well. Going to try to get back to sleep 
+Stayed up way too late. Going to pay for this tomorrow 
+It'sFriday!! Going 2 school now.... 
+@queenmeemee thatgon be cool for the holiday. Going to the A? I gotta work this weekend  boooooo
+wishes it would stop raining!! Going camping tomorrow and the only place forcast for rain is Anglesy!!!! Going to get wet 
+Wow just up! That was a long lie. Going for a shower and breakfast then work at 3-10 
+Watching katie and peter as i missed it last night. Going to be gutted when it's over  x
+So tired already and my day only ends tomorrow five pm  Going to a bbq tonight and at midnight, partying with the co-workers.
+Breakfast plans ruined  Going to make lunch with my sister instead.
+I really messed up my back today drumming. Going in to check it out tomarrow. Wish me luck 
+Just left the hotel. Going to ride a boat soon. I'll miss the beach. 
+summer school started today. Going to class is easy, it's the homework that sucks. 
+Walking to work on a gloriously sunny day. Going to be a good weekend in which I will burn as always even with suncream on  #fb
+Today is my last day of employment for the next 3.4 years. Here I come graduate school!  Going to miss the action at www.shugartbates.com 
+Ugh. Going to skool 
+Fuck traffic. Going to be late! 
+Tired. Going to take a nap. My finger hurts.  143
+I hate being reminded how weak my eyes are  I overdid reading today, they're sore as fuck. Going to rest. -sigh-
+Stuck on the 710 ... Going to my 2nd job ...  ... Why can't I find a good office job???
+K, just finished my last 2 clients for the night. Going home alone  Thats ok I need to be alone, must find inner peace.
+Ugh, it just turned into a Bad night.   Going to bed 
+can't stand it any longer! Argh! Going home now! 
+I feel like I've been writing the sixth page of this paper for 8 hours.  Why am I not duuuuuuuuuuunnnnnn?    Going to bed.  Over it.
+only 3 more days of sunbathing  Going to get dressed to go to the swimming pool now 
+@planetshhh i was! I am now revising. Going to be odd not waking up to danny wallace next week 
+Just got home from shopping school supplies and stuffs for school. :| Acck. Going back to school, *not a good idea* 
+rayjohnzJust got home from shopping school supplies and stuffs for school. :| Acck. Going back to school? *not a good idea* 
+Just got home from shopping school supplies and stuffs for school. :| Acck. Going back to school? *not a good idea* 
+Just got home from shopping school stuffs. :| Acck. Going back to school? *not a good idea* 
+Lovely morning, sun is shining and kids are with their dad.  Going to see friend this aft, went to Weight watchers this am - bad news 
+Sooooo nice out.... Going to work  !
+When we fight, we seem to go all out. But when we're good, we're fantastic. Going shopping with him later. Right now, homework. 
+Anyone know how I get an invitation code to #mixero?? Going round in circles, getting nowhere 
+@Sonadora What a great day. Going to a friend's for dinner so I won't be around to watch the tweets for #ttl 
+had a great breakfast (amazing how fast I get full anymore) and going to relax...feet are swollen bad  Going to party tonight!
+Just researched new tires for my car. Going to be at least $500... 
+Picking cherries, why are there so many of them? Going to be doing this a while 
+so sleepy  Going out to dinner soon!
+@elixabef with the rents, and I am the designated river.  Going home in an hour or so.
+Hates drum programming!  Going to bed I think. Night all.
+Yesterday I got hit and then today femaleness decided to show me just how much it hates me! Going to shower and then sulk 
+Now I'm getting scared! This flu doesn't seem to be going away... yikes! Going to doctor right away! 
+Feeling down :\ Going sleep, maybe tomorrow I see the things in other way 
+Feeling kind of down :\ Going to sleep, maybe tomorrow I could see the things in another way 
+In epic pain from my thumb.  Going to sleep now. G'night, y'all.
+Still down in my back this morning. Going to have to skip golf till next week 
+OK I've frogged them Going to go with my original plan of spinning up some handspun and trying that way. I haz a fail 
+@bumblebee182 I've been sleeping since 4pm. I woke up cause I'm hungy. Going back to bed now. NO study done  Camp was good.
+Lawns cut, cars cleaned, bbq soon but now to pack my sons case as he goes to France tomorrow with the school  Going to miss him sooo much
+Couldn't sleep last night, I got about 3 hours total sleep.  I feel tired but can't sleep. Going 2 try working out. I hope i feel better.
+Now tired and annoyed at the bus. Going to be late for work 
+Allie's leaving  Going out for breakfast soon.
+is wondering why everyone in her house is in a bad mood?! Going outside on the beautiful day...to study. 
+So incredibly lost  Going on a tweet hiatus, nothing good will be coming out of my mouth today.
+Doesn't want this to be the last day...  Going to play laser tag!
+Okay, done with uploading. So wiped out now. Going home by bus now 
+Costco didn't have any loose fitting jeans in 36/34 (my size).   Going to try the mall today or tomorrow.
+R.I.P Chewie, one of the bestest pets I ever had. Going to miss your tiny ikkle mouse paws and crazy antics 
+I'm broke cuz she got all she wanted! Going hoe finally!   AMR 
+not so good to go with cola in your hands while you drink it, in the dark. . Going straight into the door.. AUV!!!!  but nighty night &lt;3&lt;3
+is bummed the weekend is over, still have some work to do from last week    Going camping &amp; riding next weekend!
+Heading to havasu to start filming fo two weeks. Getting paid to party awww lifes rough sometimes. Going to miss my 2 loves though 
+Missing my lover already, wish he was here  Going to sleep now I guess.
+Its my offday. Going to The Gardens for @edlynch's farewell hi-tea w/ our lady boss. She's leaving tom for china, gonna miss her. 
+bwah. Managed to get through all the episodes and I am current! Going to bed. I hate working overnights 
+says good morning, I have a sick child at home, but I'm at work.    Going home to see her asap http://plurk.com/p/xmduc
+Macaroni was a bit like custard, but tasted good anyway .  Going to the gym, then to work 
+Another day at work. Going to the orthodontist today. Popped a bracket already 
+I got sunburned today!  Going out to eat soon!!  with my family &lt;33 xoxo
+My internets still down.  Going to school in a little bit.
+@infovestment  I am still waiting for my invite. Going to take a lot of catching up. lol
+realisation has kicked in. Going onto Sky Sports.com - football - preimer leauge and not finding newcastle there 
+http://twitpic.com/6f5m6 - my brother in Thailand. Going to miss him, going for a whole year without his smiling face. 
+@Fitzchev just arrived as well! Going to bed, work tomorrow 
+..at the airport. Going back to Laredo. 
+Just after midnight, can't sleep? I don't know why?  Going to read my book, may it will help.
+We just leave gabolito at his other home... I all ready miss him  ... Going to eat icescream ;D...
+@queensandradee lol.. How bizarre. We keep getting mixed patterns. Going cold by end of week. 
+is finally home from the hospital. Going to rest. Blessings 
+*foot hurts* hurt it at gym  baseball, while I was running, nothing major though. Going to go watch Spongebob! (he's awesome and u know it
+I haven't worked out in two weeks  Going for a run, gotta get back on track, the vacation is over !
+Says boo  to all the ppl who sold me out at the last minute. Going to jazid by my lonesome.Girls i love you but you f....... Suck :-p lol!
+People are the worst. I hate humans. Except sanjaya. He just rocked every challenge. Going to sleep 
+home finally went to dance strait from a 5 hour car ride. wow that was interesting... Going to bed, still havent started french isu. 
+how do u trust people anymore. fuck man!  and now its way more awkward than i ever thought it would be. Going to sleep. Focker out! :/
+Ugh bronchitis is horrible!!! Going to bed 
+@charlieleroo Strange  Going to get a bit of getting use to i think!! But i like it...
+I'm sitting outside enjoying the weather but keeping well in the shade. I'm peeling and its sore  Going to rub slices of cucumber on it.
+Ughh! Going to be in nj this weekend and gotta diet till then so I look ok in my bathing suit. goodbye coolatas !  
+I am sick  no time for a cold runny nose watery eyes sore throat ughhhhh!  Going to look at a building to open up a store soon! 8)
+@leighannirvine Almost 250.. 8 kids and 1 baby  Going to France..
+I feel worse than yesterday. Sore throat, then I got this bad cold!  Going to bed before this gets worse.
+One car accident, an arrest and a broken nose...why? Going to work while I should be with Lucas 
+Oh dear. Going to savannah, ga for the day. I hope i don't get chased by a hobo again 
+So depressed. It seems my computer isn't strong enough to play @TheSims3  Going to cry now in my cheese grits.
+@BalloonParadise not yet, I noticed that it was missing this morning on my way to work.   Going to scour the house when I get home.
+@JonathanRKnight Are you still sleeping? Going to Donnie's after party tonight? I want to but by the time I get there it will be all over 
+English was pretty easy. Going to chipotle with raymond if any one wants to come..then math  but it should be easy too..but tedious.
+I haven't sketched in forever....so bad.  Going to try and set aside time this weekend.  It will be raining anyways 
+@dressjunkie nope its a memory card, It seems to be the case that I've got what I paid for :/ Going to return it tomorrow 
+Getting ready to wrap up day 1 of shooting! Going well, but dreading having to wake up right after I go to sleep tonight 
+I took a 3 1/2 hr nap..so not good. Going to be up late now 
+back from the Ball, tired but happy. Going to miss everyone so much though 
+I'm outta here, Tweeps. Going home sick. 
+I didn't know Jay-Z song is out yet  . Going to listen to it now
+I am unfollowing you until I get my #FullService on wednesday, spoilers make me sad  Going back to work, tweet ya layta!
+@theebayk1d Going to try it to work tomorrow. It didn't play well with my \/P|\|... 
+I wish i wasn't so lame... Going home on a friday 
+@erkpod Yup. Going to be another busy week though. 
+@Robbiefowler Going on Tues? I can't make it 
+Not feeling well. Just out of bed. Going to miss 3dcamp. 
+@SteveReich Gutted! Going to be missing out on the competition, because I am away next week on a field trip without internet access 
+I recommend going to see The Hangover! hilarious.  Going to work until 430ish 
+I really really want to go back to sleep.  Going tubing in Helen with my mommy though.
+I hate being woke up at 8 in the morning for no reason! Grr. . . . . Going back to bed dont wake me  *jaimiereneelynn*
+I feel sore  Going to take a hot shower!
+Sending hubby back to Dallas today. Going to be a long five weeks without him. 
+Math written mock exam on monday  Going home to my boyfriend afterwards &lt;3
+My phone battery is below 20%. Going into power saving mode. 
+I eat rice with my kfc chicken.....WTF who doesn't! Feels fat....  but never will be. Going to work. Lol gunna sing with queenie all shift
+Feeling really chilly at home - very different compared to this time last week!  Going to turn up the heating as my toes are frozen 
+Ugh no tickets left at the roots picnic. Going home 
+@westham999   they lost    am depressed now. Going to bed.
+I'm cold   Going to play some WoW.
+So grateful for @TheHighwayGirl and @iambrowndog / @TheHighwayGirl !!  Going to miss them both 
+No sun!! No pool!! No tan!!  gota go to the studio early today! I got that booom boom pow!! Lol! Going live instantly tune in! Cardiland!
+Bad, Really bad day........  Going to read then sleep, hope tomorrow is a better day... 
+@torie007 We missed you!  Going to have to figure out another one to go to.
+Late night working on web site makeover. Going to take weeks 
+, Ughhhhh! Going to bed. I'm so stupid sometimes. 
+@MandyGM yeah, its quite swollen this morning  Going to Jaco Ferrrera on tuesday, will hear what he says, he might have some advice.
+Aint feeling to good this morning  Going to church tho been a while!!
+I have beat the house today! Won blackjack! Going &quot;home&quot; now. Tommorrow is pool time w/hubby b4 he leaves. 
+I feel gross  Going to watch one tree hill in bed.
+I looove brunettes, but I've never photographed one but me  Going to search for one when my exams are over.
+Boreeed  Going to school tomorrow.
+Sinus infection.  Going back to bed. 
+Ughhhh I feel like crap.  Going to get some movies to rent.
+just woke up  Going out to cut la grass before it la rains.
+@ChiefPWNZjoo Going to the stupid posy parade. 
+I'm hungry.  Going to a crash course thing for driver's ed at 1....be back after 5!
+@immortalisxamor Hey hun! Going to the beach? It's cold here! 
+What a beautiful day. Going to see my friend that is moving back to Atlanta 
+Still driving.... Ahhh! Going crazy! ....... And my tummy hurts... 
+UP was the most depressing cartoon I've ever seen. Going to cut my wrists when I get home with @IRockHisName282. 
+@InfamousChris You suck! Going to the zoo without me!!! 
+Working on research after 3-week hiatus. Going is slow, but it's hard to tell if that's because of time off, congestion, or both. 
+on my way back to sydney I should just live here. Going to the aquarium with Jay I feel sick 
+What the fuck happened tonight? Going to bed feeling very depressing. 
+yes, wrong but very satisfying. google chat is down  Going out to weed now. mwa xoxoxoxo
+At work without my laptop. Going to be a long night without 3 hours of mahjong.  Sadddface.
+is ill and spent all last night coughing. Going to be shattered today. 
+Morning. Going to Windermere today. Last day on holiday.  great time though.. But feeling fat!!
+Morning. Going to school now 
+So tired. Going to bed but have to be up at noon thirty, thats only ten hours  not a lot of time
+@jemimakiss stuck in mental traffic with york way being closed of by police. Going to be 10mins late 
+@DomZy I'm not looking forward to moving out of my house. Going to be a nightmare 
+Okay, so I lied. Going to the gym today and seeing abt some new jobs. I miss him... 
+@NYCtransplant17 poor thing! I'm sorry   Going to the nintendo store will make it all better!!!!
+Finally a good/better night's sleep tonight vs. last night's NONE. Going to miss my Aussie friends, why does it all seem perfect now? 
+@iantheeggchaser no they still haven't called back, they won't offer anything if we ring them! Going to miss the golf this weekend too! 
+Finished my English short story. Kind of bored. Going to practice piano now 
+Meeting fail, nothing resolved. Going to be a rough week 
+Too damn hot in the flat even with the windows open been awake since 3.30 am  Going for a walk
+I go sleep now...at least imma try to. Going to sleep hungry sucks! I hope my legs still work tomorrow 
+I don't have any more fight left in me.  Going to sleep.
+Finished the movie. Going to bed now 
+Got the (non-swine, I hope) flu.  Going home.
+Working..Going to the gym right now..and tonight a course.. 
+Last day at school:S Going to miss my clasmates 
+Last day at school:S Going to miss my classmates 
+might not be on again tonight, going town at 4, Going on drums for a bit at 6, revision.  Sorryyyyyyyy &lt;3
+I'm sick  my voice is totally gone. Going to the office anyways bc I have tons of files on my desk :\
+Sammy's paw has gotten worse  Going to the vet's 2morrow if the swelling doesn't go down... *clings*
+Eating at jacks bbq. It was delicious! Going to the airport soon  we have a show at hot topic in cali when were back
+the jonas brother new album is out YAY !!!!! Going to get it who's withe me...okay I'm alone  for this so sad, shame to the jb fan club 
+heading back to the gym after two weeks off.  Going to be painful 
+Being sick is really getting to me. Going to bed now. 
+Ugh.. Going to play the u18 girls in the effin rain! 
+Not feeling to good..Going StuDy SomethIng I HaTe Doing 
+Tired... Going to sleep, no #iPhone 3.0 tonight. 
+Godddddddddddd, rain  Going to see the hangover tonight, yes!!
+Cable just died.   Going afk for my own version of Kiampong.
+@Ang3l it's a wet and windy day. There's nothing to do  Going to lush for a bar of shampoo though (gay woot!).
+hungoverz!  but last night was awesome! Going for lunch with dad in a bit then prom tonight!
+Still fuming  Going for a run to quell festering anger and rid head of ache...
+@lizzclare Right I'm taking a leaf out of your book! Going to start writing down what I eat! Chubbing out when I'm supposed to be losing 
+Getting ready for this appointment. Going back to sleep when I get home. The update will be at 3pm 
+I just woke up. Going to work 11-9:30 today. Yay 
+Procrastinating the inevitable... Going to international mall 
+Car stopped accelerating. Going home via tow truck 
+Computer is definitly not fixed. Going back in today. 
+This years seal sslaughtering is over. At school.  Going to work directly after.&lt;3HopeHollywood
+Finally watched the last episode of Pushing Daisies ever, this morning! Going to miss that show! 
+@RoseOfTexan i appreciate the ones i dont have to make.  Going to have to design a process for tracking vuln remediation soon 
+Ugh. Going into the lab. No cell phones allowed 
+Tired of studying. Going to stop now, although i didn't remember a thing I've learned today.  but I just can't take it anymore. :s
+It's about to rain  Going to the gym
+It was so hot at the lakers parade... My chest got sun burned bad  Going to take a nap...zzzzzzzz
+Rough day today. Going to take a night off of work and work on some personal projects and snuggle up with a movie and hubby 
+says Going to start my work  http://plurk.com/p/11sarj
+@HollyWhiting yep and Going to the airport made me wana go away so bad 
+Feeling worse then yesterday. Not going to work. Going back to sleep. 
+This place is so confusing. Going around the world to get to 95. And I gotta peeee  I wasn't about to go at my clients house :/
+My cat Popoki is sick. Took her to the vet Tues night, virus, not doing well, it's distressing. Anitbiotics. Going back to vet today. 
+I'm tired out. Going to sleep now. Blegh  school tomorrow. Rly can't wait till weekend.
+I woke up this morning, and my whole face was swelling!!! Going to the doctor to have this looked at. 
+@lollipopdaisy The fringe is doing my head in atm, it's too long!  Going to get it all cut soon, and thank you muchly! =D xx
+Oh man i missed tmz  Going to go read vibes.
+It's chesney and Bianca here on the bus we had maccas yews and there was hot guy there can life get any better? Going back 2 school  bye x
+It's 5am. Eyes open, 4 hours of sleep... Jesus... Going for a shower... 
+@ReaFaceToFace Oh man  Going away this weekend. Next time, I guess.
+back to reality again. I'm in the office. Going back to work 
+I GOT THE FORM! Going to school now... 
+My vagina needs to be touched so bad! Going to sleep 
+Morning, fathers day assembly at pre-school today.  Going to be very cute, but won't see it as I'm not daddy 
+@dovevadar copy and paste is very helpful. Apart from that it looks the same. Going to try voice memo later. I want the compass 
+Just finished work. Going shopping 
+says Feeling really down today   Going to do some house work (gym) http://plurk.com/p/124qrk
+Leaving Cleveland. Going home today to a husband who thought I had left him. Should be interesting. 
+So sick...but, going to work anyway because I really do love my job. Going to miss it when it's over 
+Finally ! External exams have been wrapped up nicely  ! w00t !! Now vivas  Going home after 15 days .
+I waish the sun would come out  Going tanning, then attempting to find a new Job.
+Now i want a chicken chow mein, and some vodka lime and lemonade. Going to the pub would be quite nice too,but that ain't going to happen 
+@trent_reznor I'm not looking forward to that. Going to Leeds festival, uk. And the loo's stunk by the end of the first day 
+Having way too many issues with my macbook pro. and its been 4 days since i got it.  Going to the store tomorrow.
+@iFusion15 OMFG! U Going to 789?! idk if im going  how are we gonna meet now? im sad |
+Is STILL sick!  Going to go take a nap. Ahh....to lay my head down! 
+Got to camp 20 minutes ago, ate, now I'm soundchecking. Going solo tonight 
+I love sunset beach the party is amazing!. Going to miss my girls when i move to Mo-Valley 
+@Sparky___ I didn't get the new phone, but patrick did. At&amp;t somehow screwed up. Going to try tomorrow to fix the problem 
+The sky here is black as a dogs guts! Going to be a shite cold night! 
+@Dripps Not yet. Went to apple store at 6pm yesterday but it was too crowded  Going again today. Still debating on color, 32gb for sure.
+Suppose to rain.  Going home early.  
+Bleh. Going to stuff alone makes me anxious.  This better be fun. I'd hate to drive two and a half hours just to be awkward.
+Email problems on the outbound.    Going to have a mango for lunch in the interim.
+it's still light out at midnight!!! Crazy! Going to bed, jetlagg sucks!! 
+is ready to sleep. T'as been a long day. Going home tomorrow too 
+Thanks for not calling me for 3 days! Hmph!  Going to waikele with my ma.
+Way beyond the point of exhausted. Going to work some more... 
+Going 2 bed. Going home 2morw. So sad 
+ooook - this is the 3rd prezi file i have started...its khacked. Never had these issues before. Going to have 2 say bye 2 that idea 
+I'm freeeezing! Going back to bed now, I couldn't fall back to sleep since Brandon left almost an hour ago &amp; I miss him already 
+Just can't think anymore. Going to bed. Exam is at 11am. 
+is not impressed by the rain! It's thrashing it down so much it's stupidly noisey and i can't sleep  Going to watch it and have a smoke...
+@avasamone You know what I find worse than having kids and not supporting them.... Going thru so many women u don't know you have them. 
+Migraine all day  Going back to bed...
+well...they had a swim team practice so we had to leave early  Going to K &amp; W (I feel like an old person lol) with mom in a bit.
+Hanging out, Going to summer school tommorow to make up some of the work i didnt do in my school. 
+too cloudy  Bad lighting  ...Going out to eat with my clan.
+I feel really lousy. Going to Proctor 1st care. 
+I seem to have been attacked a lot and lost lots of cash.   (Spymaster) Going to work soon.
+I hate to be called, fatty.  Going on diet soon, tml.
+Voice is Going 
+@rawrjackie No sadly No   im Going effin KARAZYYY!
+No, no. Quite painful. Going to take the day off work 
+About to go to bed in a lil I have to go to work at 10:30 and get off at 7. Going to miss the NBA draft 
+@qormi101 No I've just woken up and showered. Going to grab lunch, petrol, pack then bye bye Nottingham. 
+@EmilyJDuncan Going to a wedding in the 'boro 
+Finally left the office. Going to the gym to work off all the snacks I had today 
+People are talking bad about the movie Transformers  I guess ill be the judge of that. Going to see it this morning....
+Got a parking ticket yesterday   The roof is being fixed. A neighbor called in and complained. Going to try to get out of it later today.
+Going out in the sun now! But working. Going to miss Wimbledon 
+@nazzie86 No didn't get a chace to watch TF  Going to hit an I-max this weekend with any luck! I need it in my life soooooo bad lol ;)
+it's friday !! And i just got on the bus .. Going to work later today again 
+Feeling very very sick... Going back to the doctor so they can check if I have mono... 
+Last session.... It's sad  ... Going to be back home in 2 days
+Really tired. Going to prepare for bed. G'night! 
+home time! Two days to go  Going to walk the puppies if I can be bothered...
+@rosiesd So far, you are quite honorable.  Funny how that works, right?! ; ) and yes, I've been having a great night. Going to continue...
+what were your favourite songs from the 1990's?  Going through a nostalgic phase 
+Planning to renovate small bathroom. leaning towards &quot;subway&quot; style tiles on the tub surround (white) Going for the 1930's look 
+Fuck it, I can't sleep! Going shopping today 
+just bought latest edition of OXM. Going to give that a good on my lunch break. 
+@louisabouwer Going to the airport just now 
+Is heading back to Halifax for some lunch. Going to a really nice Italian 
+W00t!  Really productive today. Going 2 release a new program soon!  
+@Tabz I can't wait either, lol! Going to start rewatching the series to get his style in my head. And also just for fun. 
+Picked up my new mountain bike, got my ass kicked by a small ride.. Going to take a while to get back into riding shape 
+The day's almost over. Yay! Going outt..! 
+@AndyLeigh You have an photography estimate in your inbox. Going to pack my @acmeBaby photo / overnight / snack bag. 
+Likes tweeting...likes that I can tweet and update my facebook all in the same breath.  Going to bed..goodnight.
+Just downloaded so much music. I officially have no memory left on my computer...but it was so worth it. Going to sleep now 
+is finishing her final paper on tues. Going to shop for things and move on to the next phase of life 
+Earliest tweet ever. Going to stockon for a race 
+It's a new day. And it WILL be a good one. I'm determined. Going to church and then hanging out with Blaine 
+counting down: approx 13hrs to start of first paper. Usher and svc were greattt! Going to sleep soon. Slp is more impt than keep mugging. 
+Getting all ready! Going to lunch with my best friends family today 
+It's a beautiful day here in Sedona. Going out to play now 
+Ergh, I'm so tired! Going out in a min 
+Over at Rachel's house... Going to babysit and then off to the egg hunt... 
+I love being in good company. Makes me feel all kinds of good inside. Going to bed a happy camper. Night 
+@Wenchy Thats where I went  - Clicks  Also got some vitamins which were k8k expensive! Going to attempt the bday cake on wednesday!
+Feeeeel nauseous =/ Going to start homework now, then a piano session 
+researching all things Colorado  Going to bed soon so I can have a productive day tomorrow!
+Writing a video game script blind is fun...then again, I have full creative license!   Going to take a lot of tweaking though...
+Going... Going... Gone! 
+Out. Going to buy a smoothie 
+is so glad the graduation party is over and went well! Going to bed then off to see my cousin off to prom 
+Press conference over. Going to technopark for the first time, with @kenneyjacob @theanand and @benjacob... 
+Morninggg. Going to Reading today! 
+Is out and about  Going to...........
+Morning!!! Going to get ready and go to the market  Then a full day of revision is ahead of me-oh joy!
+An old friend is in town! Going to meet him! 
+Working around the house and yard.  Going to buy flowers in a little while. It is spring in Wisconsin! 
+Its nice out!!! Going to brunch now! 
+meeting went great but no power left to hit the gym. Going for some beers with the dudsons instead! 
+I woke up so refreshed today!  So ready to start my day. Going down to breakfast now... mmmmm
+YAY. Going out later... 
+Wow 11 hours sleep and i'm still tired haha. Going to get food 
+In such a mood for the cinema. Going later  mmmm popcorn x
+My new shower is amazing! Going back to the old house for a second then swap meet with jord and anna 
+@TessMorris fine! Going to do my big walk today 20 or so miles 
+@petabridges I do my humble best  Going on a works paintball day soon so that should fuel a few strips, no doubt 
+Sneaking out. Going to work for a friend 
+@JofArnold  Going to try it now and report on the results 
+Oh oh! Going shopping with my best friend today! Yaay! Going to be so much fun  Need to get alot of new clothes..
+Exam 1 today. Going to get my license renewed  The birthday is getting closer!
+Less than 24 hrs until GRADUATION!!! Going out tonight to celebrate 
+got a lot of shopping done today...really excited bout my new travel journal! Going to go to sleep watching a movie with my cousins 
+What a fantastic full-on weekend!  Going to finish on a high, with a cheeky chilli thai fried rice &amp; a few glasses of red 
+In shower and getting ready after I come out!  Going Christening!
+@_anh Hmm, tasty!  Going to have curry rice with peas probably. ;)
+Loads of little jobs to do today.  Going to be playing walking themed music today from BrickMan 
+Going to take it quite easy today actually. Yesterday was great but it took a lot of energy out of me. Going out for some pirating later. 
+Workinggggggggg....Going out to dinner with the family. 
+Brunch at the Wynn was soooo bomb. Going up to the room. Going for a pool day!!!!!  happy mothers day ladies. You are so special!!!
+Long day at work but its silly how the thought of 30 min of my morning can make it all better  Going to bed tired but happy 
+doing a little old othing. Going to bed fresh and clean ...my day starts late tomorrow 
+Today was a happy day.  Going to have a friend @flamingcatnip cut my hair tomorrow.  
+Heading to bed. Going up to Erie for a while tomorrow to check out the new apartment and move stuff in 
+Yay seth is home  got to spend some time with him tonight. Going to bed now.  http://myloc.me/QOD
+Reading. Going to bed  Heil myself.
+@shurlybee Layhawke is amazing.Going to see her tomorrow at QMU - so excited  I have listened to her album to death.Every song brilliant
+is attempting to do her music essay... damn zoe at least knows what she is doing! Going to see Prey in half hour!!! 
+@Apocalice It was great.  Going the other way around tomorrow.
+Just woke up. Going to art today. Last Class!!! 
+Anyone want to meet me down there?  Going with friends but feel like a third wheel. LOL
+Everyone is fed, 2nd load of washing in! Going to try get the next section done before heading to JHB for a party 
+My profile looks so sad with out &quot;cicm intern&quot; all over it. Going to miss my internship, but I still get to write guest posts 
+Just left tavern in pacific beach. Going to the hotel 
+just got back from diving pool session. Exhausted... Going to catch 40 winks. Or more. 
+Wow this weather is tempermental. Going to draw for a bit 
+has put on a DRESS today! Going out in the lovely weather soon, to celebrate the constitution day and listen to bagpipes 
+Circus day!  Going to refrain from running away with them. I don't know Russian, so it might be kinda awkward.
+Next running lap 4 dimensional!~ Going for 21 days fast! 
+Morning! Going off hunting and i'll be back soon. 
+I'm not off actually. Cbf to walk up the stairs so going to pass out on the couch. TWEET MEEEE  Going to be fucked for exams tomorrow 
+Making a new myspace. It's looking baaad ass  Going to put our own production on it too!
+Just go off a rollar coaster! Going again! 
+@MathiasOlofsson Going to white castle? 
+I've decided I love my curly hair! I take great pics with it!  Really really bored! Going to text him..I wonder...
+Last day before I have to return to the hell that is the weekday. Going to make the best of the time I have left. 
+Part till ya pass out drink till you're dead. Going to the hot pots again  but this time...we're wastedd
+@stefanitoo Thanks! Some of the guys on here were really uncool! Going to lock my account after I find my old favorites, like you! 
+Oh yeah... no school tomorrow! Going to the cittaayyy!! 
+@dstack30 Yay!!!! Going to watch it for the first time in ages 
+@oolamoola I like that! Going to do that with my daughter - she'll love it. Thanks! 
+On my break. Going to head to the mall to get holiday clothes for my egypt trip 
+Home from the most boring place on earth  Going to do my homework, that only that exists because of school btw...
+At CHI&amp;Partners. Going well, I'm enjoying it. 
+@Larkn0298 My agenda for the day is...Going back 2 bed, then getting a massage, and picking up a godiva chocolate from somewhere 4 my son 
+Is likin this morning! Going really well. 
+@koriannespeaks Threadless is definitely awesome! Going to do some more exploring around there 
+SS501 fanmeet in HK. Going just for fun  awesomeness!!!
+@A_sourgirl I'm good! Going home in a few minutes! How are you? 
+@blckbettyboop Merning sis  Going to @brittanybosco video premiere tomorrow?
+At shark club. Hella wack!!! Going to leave soon and get 110octane for the new software. Anyone wanna run tonight? 
+Back from a very refreshing walk on the beach... Going to look at ovens for the new apt now 
+Soon leaving for &quot;Karlskoga&quot;. Going to visit some Finnish relatives 
+A monkey could do my job. Going to build a fort again later 
+I've now officially finished uni :O.  Going home til Wed now 
+Morning! Going to do some shopping today! 
+Looking forward to next week holiday.Going to Birmingham Monestry.     
+Last day of work before a long weekend   Going camping in Streetsboro with extended family 
+@Schofe Ahh so many fond memories of Going Live! 
+just woke up  such a good lie in! Going to watch the da Vinci code in a minute - really shouldve watched it by now...
+It is SO beautiful outside! Going to the park with some people. 
+Just left the house. Going to my kuyas graduation at usf . Sooo proud  haha
+Goodmorning!! Going home today 
+@AndreeaBerghea Croatia is my favourite. Going there yearly for the past 3 years. Going again this summer 
+So tired... ha! Going to workout, then work!  #fb
+Staying off chat in an attempt to get more sleep. Going to sleep... now! 
+I love @meggx33. She's such a good friend! Going to sleep. LAST SPEECH TOMORROW, please say a quick prayer if you can. Goodnight 
+Such a lovely day again today. I hope it stays like this for the long weekend. Going to try and get stuff done eary so I can enjoy it 
+Morning!  Going out with the girlies today!
+Up and about. Going by my old school today. The 9th graders have to make a show today, and my friends brother is in it 
+Only a week till The Sims 3 comes out!!! Going to buy a new laptop to run it smoothly 
+@Booooothman I will survive neil!!! Going well so far!!!!!!  x

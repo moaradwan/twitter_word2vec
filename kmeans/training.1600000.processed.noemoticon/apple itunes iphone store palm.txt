@@ -1,0 +1,1207 @@
+Most common words for this cluster:
+[('apple', 483), ('itunes', 348), ('iphone', 236), ('store', 151), ('palm', 94), ('app', 85), ('pre', 82), ('quot', 69), ('ipod', 68), ('i', 68), ('http', 66), ('amp', 55)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Apple', 0.8381025791168213), (u'iPhone', 0.83710777759552), (u'iPad', 0.7841293215751648), (u'iTunes', 0.7708162665367126), (u'IPhone', 0.7476991415023804), (u'iPhone_Firmware_#.#.#', 0.7446956634521484), (u'iPod', 0.7374753952026367), (u'iOS', 0.7303910851478577), (u'IPhone_4G', 0.7260280847549438), (u'Iphone', 0.7235992550849915)]
+
+
+
+
+
+Nasty budget due and my iphone is being sent to Apple today. 
+@bengottlieb Great idea with the iTunes promo codes - they don't work in the UK iTunes store though 
+@tacce dang, I'll get HOUSE off iTunes. I hear it was a devastating episode 
+wishes Restaurant City or Pet Society could be ported to the iPhone/iTouch.  http://plurk.com/p/n0lb0
+Flight of the Conchords album has *vanished* from Spotify  What gives @spotify_com ?
+Why is Changes by 2Pac not on iTunes? Boo 
+I'm getting more and more people asking where they can buy the #Ambients album. Simple answer is &quot;not yet&quot;  It'll be on iTunes eventually
+Another set of iPod earbuds dying - left going quiet  Apple charge GBP20 for replacements. Better options at around that price point?
+All Apple stores closed today  maybe inventory day??
+The only reason why I bough @MacHeist 3 Bundle was Espresso. This is, however, the only App. I haven't received a license key yet   
+A robot just called my iPhone from UVA Credit Union saying they disabled my account. I don't have an account. Spam on cell phones now? 
+iTunes rolls out variable pricing for songs 
+@Grayda mine just shows the Apple Logo when the computer boots the install disc. Its been like that for almost 2 hours now 
+My iTunes just deleted ALL songs off my iPod!!! NOOO!!! Ugh! 
+Pondering food, pondering updating my Zune, pondering being an uncle to a pair of nephews 2300 miles away.  I has a sad. 
+I should send Apple an angry email along the lines of &quot;Hey d-bags, 'we fixed your computer' generally means you actually did something.&quot;. 
+@hoopyfrood  I was disturbed that all the Apple Developers teaching the program are 12 year olds  ...  frightening.
+Lame that iMovie '08 sucks so much that Apple had to offer '06 for free, and that they don't offer it anymore now that '09 is released 
+Actually, that's not totally fair, with a Windows license it's more like 2k. Wish Apple made a mid-range monitor-less system 
+Apple Juice just gave me heart burn 
+Just saw my first up-close and personal Kindle in use. Even more badass than I expected. I want one. 
+Now all I need is one of those Apple comuters. This will cost me 
+Crashed my Apple and try to survive via Nokia E71 and old MS Laptop 
+Apple juice drink is not the same as apple juice 
+I hope my Morphie juice pack ships today... the Apple Store already has them 
+@alardw what's your experience with Spotify.com? Good? I've been looking into it, but unfortunately it isn't supported yet by Sonos.com 
+App Store is incredibly broken right now. Release date is all wrong (looks like update date!) and flooded with SlidePuzzles 
+lost my Zune's usb cable 
+ My iTunes card just ran out.
+@davecazz and have emailed Apple 2 or 3 weeks ago, and still no response 
+My MacBook has been at Apple Hospital a week awaiting a hard drive transplant. There appears to be a shortage of supplies 
+Getting mad that my iTunes playlist won't freaking save whenever I close it.. this has only been happening as of late.. 
+@fallbrooke when you go to iTunes store and it goes featured.. it changes but it should still be there 
+Follow up on the Tiger Woods iPhone game....it sometimes crashes, idk why...hopefully they give it an update or I will be 
+App cancelled  wait till thurs now... Looking like an ape!
+Podcasts on iTunes still unreliable 
+Just noticed a new feature in iTunes Connect - crash reports. All mine are for UIKit things though...so I got all excited for nothing 
+I want to buy the new TFT song but the stupid Itunes Italy hasn't got it!!!!   
+kids playing with water pistols in the garden. S is winning. Jobs done, house full of food. I think time for some knitting, or maybe work 
+I think i broked iTunes, whenever i try to play something it crashes 
+Aha! A workaround: search iTunes via iTunes.com, click what you want and it pops up in iTunes desktop. Desktop search still timing out 
+Okay Oklahoma, I need my lights cut back on please. Laptop is dead, iPod is dead, my berry will be next. Take me instead, lmao 
+@maccast The 5.01 ep isn't on iTunes mobile yet. 
+Has broken pixels on his iTouch  maybe they'll replace it with a new generation!
+@plind Jailbreaking will open up a whole new world of neat tricks for your iPod touch, unfortunately Flash is not one of them right now. 
+Why does the Gadget show website crash safari on my mac? 
+My Website is getting Shutdown By Apple 
+@Breezy_Bree nothin much, just bored and need a job! i don't have money to get anything i want. 16GB iPod Touch, Sony HTS and a Cybershot 
+iSnort - unfortunately this will never make it to the App Store  http://tinyurl.com/983z82
+Bigger Kindle2   How can Amazon do this? Upgrading new Kindle 2 only 3 months after launch? What about existing recent proud owners?
+@adamrowley &quot;The main difference appears to be an enhanced UI for the shopping cart screen. &quot; from TUAW. Nothing exiting 
+With so many rumors abt the Palm Pre, I'm starting to think the whole Palm Pre is a rumor  good god @sprint @palm_inc release it already!!
+@trent_reznor sucks that Apple removed the NiN app 
+@bridgetneval You know what I think about censorship... I'm fan of Apple, but sometimes they take wrong deccisions 
+For some reason my app has 5 reviews but it's not showing up in iTunes.. 
+@macosken i'm only getting about 3:56 minutes even though iTunes says it's more than 16 minutes 
+drat ... tried to share iTunes lib b/w #windows and #mac and lost it completely  time to re-rate everything  #itunes
+@billkollas Not ME, Bill! iTunes! I don't know how exactly, but iT. somehow erased the music lib. from my iP. and now there's just space. 
+@ChristFinnegan Finne! Au Contraire isn't available in the Australian iTunes yet. 
+Curse iTunes for stop working again. When I'm just doing an update if play count it works. But when adding songs, it crashes as soon as 
+I am trying to install Airport Express for my iMac, phone, printer, music, but I am stuck  I'll be on the horn w/ Apple tomorrow 
+Okay Apple Online Store online again (haha).. nothing new 
+@savamaloy We bought Dr Horrible on iTunes. It's very good, worth the price IMO. But would be nice to watch it on Hulu 
+I dug through my to-be-recycled pile 4 my Amazon receipt only to find it's been 43 day since I got my #Kindle. I cant exchange 4 the DX. 
+Talk crap and think your still my friend? News flash your not. Broke my iPhone screen last night  my life is hell.
+@mikiw Bad Apple...Macbook sleeping too much  #applefail
+I wish my Sidekick worked  HMPH.
+@shiben Dude the Metal Gear solid Touch for iPhone is just aim and shoot game. Not as good as I have hoped 
+I just want my Palm Pre. 
+@teflonted I recorded 3 shows think I was using an Apple iSight as a Mic (great mic too) and the built in mic was really being used 
+@OwenC Saw Streetview demo on @bbcclick. Neat. Android doesn't fit well with me. HTC Touch HD looks ace, but is WinMo  Still N97 for me
+http://is.gd/zPa2 - Deceptive and unfortunate marketing: sadly, the BeBook eReader does not run BeOS 
+Is Google down for iPhone? No email, search or Reader 
+@geekaholic cool! thanks! shd check Apple ones. but I still cdnt find a maemo meadia player with an equalizer.  gonna check xmms now.
+@tamaradix I don't have Windows or a Mac at home  So no iTunes. And none of the Linux alternatives are compatible with the iPhone...
+Steve Jobs wont be speaking at WWDC  http://bit.ly/Qw4xC
+I'm so frustrated it makes no sense. Heading to Apple Store to drop $1700+ on new software. At least the prob will be solved finally. 
+Tweeting from the Apple Store...waiting while the screen on my phone gets replaced 
+I've tried several ways of recreating my iTunes library, but it would seem that most of my songs are lost. 
+For Steve's sake, can we get some fracking flash on the iPhone &amp; iPod Touch? I would &lt;3 2 see it in 3.0 but am realistic. 
+#3turnoffwords Crappy iTouch Speakers 
+@lpfmfan I`m excited too.But i haven`t an iTunes account 
+Something seems to be wrong with Apple.com... Both iTunes and App store are inaccessible. I need a game... 
+@theauroraprjct Never mind the lyrics. I just want a means to either pay for the album with Paypal or buy it on iTunes... 
+I've been stuck at the Apple store for the past hour and a half... they don't know what is wrong with my phone. 
+is bidding adieu to Apple Valley for a while 
+@Phonedog_Noah Dogfight: iPhone vs Palm Pre!!! (i have verizon  so it makes no difference...but it would still be cool)
+yep, my iPhone is well and truly broken  Hoping Apple release a new one at WWDC!
+Testing #Sugarsync, a #Dropbox alternative. No Linux, but Mac &amp; PC, Iphone app, Blackberry.. but also no Paypal  http://www.sugarsync.com/
+@AnimaxFan where did you get new divide from ?!?! I can't find it on iTunes! 
+@domness Won't let me add the new Twitterville in iTunes? Drag drop not working 
+Johan Palm's album is out on iTunes today and I can't afford it. 
+Keeping It Real still isn't on iTunes. Gahhh I was hoping to download it before school. 
+My iTunes library has aweful tagging 
+i've sent Apple Support about 20 crash reports about Mail. 
+Lotus Notes is so-not Apple-like. 
+iPhone down  - won't start up; needs &quot;restore&quot;. Service call into Apple.
+im sick  the only thing that would make me feel better would be if the Palm Pre came out today, or i won the lottery...
+grr my iTouch is being really stupid. don't mind the first tweet I did from this morning it posted my accident 
+i want to email Apple but cannot find ANY email address!!!! 
+Why won't my Superstition and Paranoid appear on my iTunes library on my comp?  They are syncing 
+Why won't my Superstition and Paranoid appear on my iTunes library on my comp? They aren't syncing 
+Apple's Java 6 only 64 bit 
+This is the week I put my PowerBook G4 to rest.  Bittersweet, but new Macbook is only way I'll get anything done besides browse the Web.
+@whalec I'm already up to 13.9Gb... Mind you, I was 28.6 until iTunes ate half my music 
+Apple Cinnamon Cheerios at 12:00AM = A bad idea. My tummy hurts 
+ugh...just saw the name of my latest major earworm on iTunes.    I hope it doesn't pop back into my head.
+My musical taste has gone from bad to worse; I shouldn't be allowed to open iTunes after this one. 
+Installed Boot Camp drivers for Apple Keyboard as I'm planning to buy one tomorrow...pity the control panel doesn't work 
+???????? ? Apple Support ????? ?????? ?? ????????? ?????? ???? ??????? ????????! ???? ??? ???????... 
+@MsSpark Like 30e from Apple. I went to the Nike factory and they were like &quot;Nike+ who?&quot; so yeah, I think you can only get them online. 
+Zune gets more cracks after a Charlotte airport drop.   http://yfrog.com/0uwx4j
+@timdifford cheers, I spotted that - couldn't find it on the App Store though 
+The bummer is that Apple wants to charge me $199 to replace the screen and backlight  wonder if I should just wait for the new one #iphone
+@two_Ot &lt;3 listening to her bootlegs on Spotify,diff. versions of the same songs, prefer the old T tho. worried that this will disappoint 
+@LenEdgerly Thanks.  Wish they would back port that functionality to Kindle 1. 
+WHY ??!!?! Spotify has been deleted by the VirUS software scanner, NOOOOOOO!!! I want my music back, damn it 
+@zeldman You seem to have bad luck with updates  did you get iTunes working in the end?
+@danielleg1709 pshhhht!!! it tastes like liqud Apple Suace.... 
+Missed another instance  ill just have to grab it off Zune 
+@microsoft @tridium Zune HD website, linked from pres release = unreadable 404; Microsoft, Fail. 
+@davemorin - you &amp; @cinevegas should talk... he had the same problem earlier but I don't think he had success with the Apple Genius 
+iLoseWeight for charity rejected by Apple for the app store. We have to remove all &quot;for charity&quot; cues.  wtf? #iloseweight#
+ My Palm wouldn't connect to the laptop. ERRRRRRRR
+It would be nice if things like Hulu and Kindle were Canadian friendly. 
+Apple push notification service...trying to implement development environment now...still got stuck 
+@hemantmehta dang it, just tried to get your book but its not available on Kindle yet 
+Can I get tonight's SYTYCD online anywhere...streamed like Hulu or paid like iTunes. I missed my favorite judge and now I can't sleep. 
+@kegrocks I did one last night  it will be available in dvd, blue ray, and digital download via the iTunes store by the end of the week 
+@paulshadwell Thanks for trying! Done just that and no good  If I can't fathom it I'll take it to Apple Store. Sigh...
+Why am I limited to only being able to sync with 1 MS Exchange account on iPhone?  ... same goes for Outlook. Why can't I have more? Lame.
+Rickroll'd by iTunes on shuffle 
+Okay so I'm dedicating my 300th tweet to the fact that I'm going to the Apple store because there is a HUGE crack on the glass screen! 
+i have an ipod nano i never use.tut for the love of all things Apple 
+Just got notified my podcast was accepted into iTunes. http://budurl.com/SBit Of course I then realized it was miss formated  Fixed now.
+uploading PCD onto my iTunes xD i used to have it but certian events caused me to lt sadly 
+So much for Skype for BlackBerry in May 
+Apple is expected to launch a new iPhone this summer.  Hi my name is Judy and I am addicted to Apple products. 
+Draining my iPhone battery in half a day without making a single call sucks!!! It's only 9 months old! Huge FAIL on Apple's part 
+@Paperclippe My iPod headphones have gone kaput.  Wanted to buy new ones. Should I buy some Bose instead then? Do they work with Apple?
+is tired. 04:30 alarm setting will do that  Off to bed as soon as my bloody iPhone Backup and Sync finishes.
+@JasonCalacanis damn I missed the live show, guess I will have to wait till it is available through iTunes 
+Apple is also rotten in the center, just my luck 
+The Palm pre doesn't record video 
+*sniff sniff* I want thie App for my iPhone but it's only in America. Free Anime, Games shows and more for you iPhone = Win. But no UK = 
+Almost made it out of the Apple Store with my MBP, but they didn't have the replacement fan in-stock. 
+@pleazurs Woot freaking hoo, tho Mad World isn't doing well on the iTunes top #100 chart. 
+Why is #Apple so expensive... 
+I could search on iTunes, but the last time I tried to install/use the iTunes software, it kept crashing my PC... 
+Search for Apple's iTunes Application Store is down - returns no results for all queries 
+wants to watch another movie but iTunes wont download very quick  HTLAGI10D was amazing. &lt;3 one of my favorite movies now.
+@zaggdaily When are you coming out with a Palm Pre Invisishield? Looking to get one now w/ that 50% off and you don't have it yet 
+My Dvorak typing speed's 17 vpm... How long I must be practice to get the same speed as Qwerty? 
+is gonna take foreverrr to download one episode of gossip girl from iTunes!! 
+iBody price reduced for the next 3 days to $4.99! 6 hours ago but iTunes and App Store lags a little bit now  #ibody #iphone #health
+@captainboo No doubt! I can't listen at 2.  I'm going to cry! But at least there is iTunes! Yay!!!
+[Retweet] iPhone screen went wrong today. Backing it up so I can make a trip to the Apple Store. Wish me luck  http://bit.ly/FzTwe
+Bug with searching stops have been found  Updates are now under review with Apple
+@bensherertz bad news: the HDMI is in the dock, not the Zune, and it's just an mp3 player/web browser/etc., not a phone 
+I'm gonna uninstall Safari 4; at the moment it's just a Toffee Apple of Chrome...and what I liked about Safari is gone in it 
+Man this damn Blackberry Storm is starting to have a mind Of its own   can't wait till nex week wen the #Treo Pre comes out.
+@palmwebosblog wish we were getting the Palm Pre 1st 
+@adrenalynntoao yeah...I've been sitting around trying to find stuff to do.  Starting messing with my Zune again   Insomnia's a bitch
+Playing with Spotify very good so far  - I used to like Pandora lots but the service to Dear Old Blighty service got chopped 
+why is #iLounge always so damn slow?! 
+Just did some research on Chrome.. it's not available to me  I have a Apple! D'oh!
+Just did some research on Chrome.. it's not available to me  I have an Apple! D'oh!
+i've just watched a video of the ZuneHD. looks like a really nice bit of kit. will probably never come out in the uk though like the Zune 
+In the Apple Store checking my twitter feed. Oh Christ, what have I become? 
+R.I.P TwitterFon.  No more internet on my iPod!
+Watching Heroes season 3 on iTunes it's pretty good! Neighbours still being as noisy as ever  m
+I have 4 cent left on iTunes..... 
+My G1 just upgraded to Android Cupcake. Good - A2DP profile support (streaming stereo Bluetooth). Bad - my Google Talk client disappeared 
+TUAW: Future iTunes versions could block the Pre, but why? http://bit.ly/MfApj (via @oneofus) not a good idea... 
+Apple Care has possession of my compueter for the next 7 to 11 days! 
+@Ihnatko only way you'll manage that is hypnosis 
+Less than one week. Hopefully I get the Palm Pre. This HTC Mogul doesn't want to text anymore. 
+L.J. is down south at &quot;Clone Wars&quot; the dog breath! I'm at the store fighting with Intuit &quot;POS&quot;, right now I hate my computer!!!!  
+i Luhv the new song &quot;paranoid&quot; by the JoBros but i dont have any iTunes to buy it 
+@DudeAsInCool I know, it's a shame they are so ugly in comparison, but Apple are really taking the piss! 
+i really hope the ZuneHD takes off and comes out over here(UK). i want a nice new music/media player!! will probably be DRM heavy anyway 
+I love my Zune but hate being chained to this unstable, unreliable Win pc 
+Hand you back ailing iPhone (with no phone) and say: bizarre! He tells me Apple store will give me new phone, testing that theory 2morrow 
+So the soonest Apple can take a look at my iPhone is Tuesday afternoon.   Well at least it will work a few hours between charges.
+lost 112 songs off my iTunes 
+I'm sad that Apple took down the links that allowed access to the new TV/Movies section of mobile iTunes. I wanted to have a look 
+I'm in pain  I blame it on my iTouch
+@sbmczh lol, this ones a 27&quot; - Apple's only got a 24&quot;, and that wasn't cutting it for me, 30&quot; is discontinued! 
+@LadyLucius LOL- I do not have AT&amp;T so NO I-Phone for me!    Believe me I am a total Mac/Apple Whore! I was in the Apple Store today!
+@USA_Network iTunes and Windows does not like my Psych eppies that I purchased. It's like watching a side show. I miss HULU. 
+Tomorrow's my last day with this Apple laptop. ]: I'll miss Apple!  Cause we turn in our laptop to the school so that they exit image it.
+is really tired of his Palm Treo 800w. It does not work correctly and never has. But I'm too broke to get a new PDA phone. 
+WTF Apple: don't change the behaviour of layer backed views in minor point releases! drawRect is no longer called when wantsLayer == YES 
+@GameFocusdotca The podcast feed is broken for me though  iTunes says its invalid.
+@iPhoneDocked Started seeing that a couple days ago. Seems like Apple is cutting down on OTA and cracking down on multiple downloads 
+Playing with iTunes DJ between my nc10 &amp; the Touch. Quite good fun, I had to install iTunes anyway after PC death 
+&amp; running #Apple Hardware Test on said install disc throws up an error! Great... 
+My Sony Erickson takes a full 8 seconds to change between DRM'd tracks and it drives me mad 
+Apple Now Charging to Re-Download Apps on the iPhone? http://bit.ly/rwa5x (via @iphonefanatics) this makes a sence to me anyway!! 
+Awesome, a Spotify client for Android. It's not out yet and it's for subscribers only  but still... http://tinyurl.com/phae7b
+Apple shirts galore. This is probably just 1/4 of my stash. Brings back the good days of when we wore black   http://twitpic.com/6coyk
+@Jstg Without actually checking, I'd guess $35 from an Apple store, or $3.50 on Ebay.   
+@almtalkies my Macbook sounds like it has asthma so taking to the Apple store tomorrow. Don't know what i'll do without it for a few days 
+Grr! My dad is nomming all the internets with that damn Netflix box. There's none left for me. YouTube videos can't keep up on my iPod. 
+And Grease 2 is NOT on iTunes 
+@tim_blackwell u lied, still can't podcast thru iTunes!  thanks 4 trying; is it rude 2 ask u 2 try again? I really need my fix of u guys
+@madam3181 Yeah, all Apple products are the same version everywhere. Just expect it to be hellish expensive here due to 19% VAT. 
+is amazed how fast dropbox actaully works  and how slow idisk is  so probably not paying for MobileMe and switch to other services??
+is amazed how fast dropbox actually works  and how slow idisk is  so probably not paying for MobileMe and switch to other services??
+So my phone definitely just died and my charger isn't working.  Off to an AT&amp;T or Apple store tomorrow then?
+@2Henchmen  I wish Apple had customer support...
+  Cats in the Cradle just came on random on my iTunes...
+Note to self: Fill up Kindle before leaving the country. Wireless for Kindle doesn't work in the UK 
+(@ThatDwayne) Note to self: Fill up Kindle before leaving the country. Wireless for Kindle doesn't work in the UK 
+Apple didn't received my fax 
+says e bakit may complete eps ng Shuffle! sa youtube  me want tooo http://tinyurl.com/nylgfw http://plurk.com/p/xnni2
+I #Bing (ed) Lightsaber Mobile App. for Windows Moblie Phones... No Luck! 
+ the Apple repair guy can't come to fix my IMac until they get the parts. SO, a few more days without Chiaki  (yes my comp has a name!)
+RIP The Best Hackintosh Ever: Dell is phasing out the Mini 9.  It looks like I got mine just in time! http://bit.ly/2JDLd (via @Ihnatko)
+Getting ready to board my flight to Cincy, then to Toronto. Once there, my iPhone 3G will become an iPod Touch for the week 
+@orangefruits  I'd be lost without my Zune
+@Gartenberg And we're not there 
+Lots of Palm trees but no sun 
+@ringorang why is the app doing a pop behind? 
+http://twitpic.com/6fa7g - Wasted trip to the Apple store.. The kiss up sign's not really helping 
+@halbpro Not on iTunes yet 
+7 days to Apple's WWDC and still no Steve Jobs  http://bit.ly/h7MiQ
+For some stupid reason I was thinking Apple's WWDC was this week instead of next week. Premature imaculation. 
+My iTunes isn't working 
+Apple diet day one is a bust- starbucks icecream, double cheeseburger, and a few cokes 
+I need to be restricted from buying apps on iTunes.  I only use them for a week before they get  boring/ old to me   sorry mom
+@zoomkennedy It's so true, and yet, I need to get that into my mind. I even worked for Apple! I always said it'd come down to $$$! 
+yay, Apple extended warranty on the faulty NVIDIA card models to 3 years... sadly mine is part of faulty ones 
+yay, Apple extended warranty on the faulty NVIDIA macbook pros to 3 years... sadly mine is part of faulty ones 
+@peterfacinelli no fair don't have an iPhone   Just an iTouch. Good luck with Nurse Jackie 
+Apple software taking foreverrrrrr 
+Hmm, CSSEdit documentation says Go to Line should be &quot;Apple+L&quot; but then I get the preview windows instead  Anyone who can help? #CSSEdit
+@pixelbase The update isn't applicable to the unibody mbp - was speaking to Apple, they said it is hardware, need to drop in to repair 
+I got the third TiVo about a month ago. Seemed fine until mid last week, when it started to pixelate, freeze and reboot sponteneously... 
+#13 is an unlucky number... I'm restarting my mac for iTunes on the #13th day and #uptime count got reset 
+@mitchelmusso LOVE the Album! Got it on iTunes however the Digital content doesn't work when I click it 
+My new iMac is getting a new DVD drive, but it will have to live at the Apple Store for a couple days 
+@ghandlin yep, rebooted Zune and restarted computer...still nothing. The software gets an error when trying to sign in. 
+I taught #Apple 's #WWDC was today   #FML
+iPhone is restoring in iTunes... i actually felt a bit sad saying goodbye to my setup! I spent many an hour tweaking 
+@lanaveenker Jobs would be wonderful!  That's what I'm scouting for right now 
+just got my laptop back from Apple.. gonna try to retrieve all my lost data now 
+I never thought that not having a working Sidekick would be so depressing. It wasn't even my fault 
+Yuk!  To get a vague tech fix I had to take a shortcut through an Apple store 
+good morning  i'm hoping i find my iTouch in school today otherwise i'll be freaking out :'( have a nice day tweople xx
+Watching CSI On my iPod... there is a HUGE Thunder storm.  OMG
+Why did the Apple Remote stop to work with Keynote? Just a few minutes before the presentation 
+@plasmaegg good luck with the iTunes library update. I lost mine (and all the tags I'd done) when updating to iLife 09! 
+@BeirutNightLife I use Apple Mail personally, but at work the option is limited to MS 
+@NaiveLondonGirl I love my AppleTV just wish it allowed supported other video formats natively without having to hack it 
+@pokestuff As time goes on, Apple macs seem to be getting faster and i seem to be getting slower. 
+have trouble like me to play the GeekBrief podCast (mac iTunes &gt; Connect360) on xbox360? It's freezing and skipping sound is not in sync 
+@StaceyJarvis no worries about the Bing event, spent an hour at the Apple store getting my wife's laptop fixed 
+@AtlantasAList skipping the Tab tonight 
+@isabelledomingo  Borrow someone's Apple acct, or use your momma's credit card #! Haha, there are a lot of free stuff anyway. :&gt;
+Needs to make a playlist on imeem on my work computer. Argh I wish it had iTunes 
+SUCK! The pckg I thought was my laptop came but it was my free iPod Touch. Laptop will be here June 8. 
+@Cocoia #WWDC T-Shirt... must have this, and you only made 6? 
+iDay Deluxe 2.2.3 with minor improvements is available in the App Store. 18 days review by Apple, very long  #iday #iphone #birthday #date
+#javaone The dominance of Apple laptops continues to grow this year. Sun and Apple's bickering over Java on OSX really screwed us all. 
+is wondering why she never got the email she was supposed to get to buy the Palm Pre early today. 
+Fiiiinally heading home, via the Apple store, for absolutely nothing exciting 
+i'm hungry...and Fiona Apple singing Paper Bag through my iPod is not helping 
+@TUAW It'd be great if us Brits had the kind of coverage where we could possibly not know what that symbol means 
+Alright, I give in. I want a Kindle. I also can't even begin to afford a Kindle. Why are they so expensive? 
+so sprint finally released the Palm Pre...now I gotta wait til next month 2 get it.  
+@felix Good writeup; re: Palm+iTunes, if I remember correctly (all the reviews blur together), you can't buy songs directly from the Pre. 
+Now have two apps on my iPhone that are no longer available in the App Store. NetShare and now the wonderful game Edge. 
+@TehDonDitty Fine, it's crappier there. But we don't even have Apple Stores here... 
+I am NOT getting ready for WWDC! Sucks!! 
+thinking about spending time with wife this weekend....oh - and getting a Palm Pre 
+Off to BestBuy... Buh Bye iPhone  well at least until the new one! =D
+Just got my activation code for the iphone developers license, but the activation failed  Apple seems to be having some problems....
+@beingnobody the spotify people are apparently working on a iPhone/Touch app. Though i can't really see Apple allowing it 
+#MotionX Share: @DunkinDonuts Bummed out - this store ran out of donuts mid-afternoon &amp; never got resupplied  http://bit.ly/wok1A
+Whether it's the release of Palm Pre or the new iPhone, I'm not bothered cuz they are gonna be over priced and I can't afford them. 
+ Palm Pre does not support card slot http://bit.ly/TWYJk
+@gear02 The Zune hardware itself doesn't do unicode. The software does. I have a couple of Japanese songs that show up as blocks. 
+wishes he could upgrade to the EnV Touch. 
+@jane_l Tab loves danger. She grew up with no parental figure.  #rrtheatre
+@sprint @palm Palm Pre Palm Pre Palm Pre Palm Pre. Too bad my contract doesn't let me get one till July 
+Trying to fix my iTunes, cuz if that don't work, my iPhone don't work right either. 
+Apple Support Expert says my new iPhone serial number is invalid. http://www.apple.com/support/expert  
+@ijustine Justine no way. If you bought a Palm Pre I'll cry  No more Apple fan girl?!
+Apple Removes Popular EDGE Game from App Store on Trademark Claim (not fair, i want the game now but can't get it  ) http://bit.ly/DvSDg
+listening to my most favorite band Burn Halo on my iPod ! They came to Kansas for rockfest but it sold out 
+Just wrote and ran a little console-base Ruby app on my iPod! I would like to try to add a UI using Rhodes, but I need a mac to compile 
+Apple, you're great but sometimes you drive me insane. 
+It looks like almost all of you have iPhones. That's settled. Most of you don't have pity for poor, poor Palm 
+I want a Palm Pre. 
+All the fun stuff is &quot;Not available in the Indian Itunes Store.&quot; You suck, Apple. (and you too Sims3, Kindle, et. al.) 
+@epicpetwars looks like iTunes store is having that annoying 8001 error, can't download it at the moment 
+@WordofSouth Add some Crown to that Apple Juice or Cranberry and you might have something. Without, its just juice 
+I like books, as it's made of paper and ink, but space problems in my room make me crave for Amazon Kindle. 
+Netflix online has Wall-E!!!!  I really am trying to go to bed....  i'm just too excited about everything...
+@GeorgeErbele Tweetie is on your Phone is it George? I can't activate the service here 
+Major issues this weekend our Mac has given up so not got Internet the way I like. Thank god for iPhone or no tweeting either 
+Sadly I won't be getting the Palm Pre today 
+I want a Palm Pre, damn I already have a smart phone &amp; got no excuses to get a new one 
+10.5.7 screwed up iCal... Would like to try to reapply the combo updater to see if it helps but the link 404s on Apple website... 
+@palm_inc Does Verizon support the Palm Pre? (700wx owner bummed with no 800w love from Vzw  )
+PS. I want a balloon when I get my Palm Pre. THere better be balloons available after #prelaunch day. 
+Palm Pre comes out today....and I don't get it! 
+Palm Pre, T-Mobile G1, or wait and see the new iPhone on Monday? I REALLY want a Sidekick 2008 but they aren't sold in the UK. 
+Palm pre's sold out in milwaukee, good for palm sad for me 
+Apple Store in Kenwood (Cincy, Oh) closed until June 12. 
+i wish i had a macbook  on a separate note, Palm #Pre is coming out today - the wife 'needs' one for work
+Apple today- then fido. No coldplay. 
+@Nive_94 sad I know  @priyankaheyyppl did the put the live chat in iTunes guys?
+Just seen the review for the Palm Pre! OMG I should have thought about the iPhone/Palm Pre conundrum  anyone else got one? #palm #palmpre
+I really really wish I had $550 dollars to spend on a Palm Pre. 
+Palm Pre synched with iTunes. putting my music and podcasts on it now!  Wouldn't transfer TV or movies though... 
+New iTunes update and it doesn't have OS 3.0. 
+Oh man!  Wi-fi Modem is on the fritz again.Which means no Internet for a week or two. Thank You Steve for the iPhone
+@Simriel I dunno, I've only got a dead Shuffle 
+@FrankRamblings and I CAN listen to them on Itunes, so it's not a corrupted file problem 
+We are 15 in queue @ work. Thanks, Palm Pre. 
+@pfspleen Apple, couldn't get pear from my little shop. 
+On the way to southern Iowa - my iPhone doesn't work there  Good thing I actually like the place!
+@TylerDurdan It's a summer 2007 model, without AppleCare. I did have it checked out by a Genius, who replaced my battery with no luck. 
+The Palm Pre came out today, wish I was getting one  !
+@Seanyybear is it any good on the iTouch? cant believe i lost mine  getting a new one though :/ lmao!
+I want a Palm Pre 
+My Zune is on the fritz.  Luckily, I still have my Ipod Shuffle. So I can have music while creating my darkroom! Insert evil laugh here.
+I have a strong need to listen to the Link Wray station on Pandora. No headphones on me for iPhone, on Amtrak 
+My taste in music is so weird that the Genius feature in iTunes hardly ever works. 
+@LordGU Couldn't find either of these on French iTunes. 
+really likes the look of the Palm Pre, I don't use my phone enough to warrant looking at a phone that'd require a contract though 
+I want the new Palm Pre!! But it's sold out valleywide 
+@hhernandez1230 I wish this could be done, but sadly Apple won't allow us! 
+Just tried out the Palm Pre and I actually don't mind the keyboard after the intial 30 second awkwardness. I miss tactile buttons 
+@rom That's another thing  (on getting a Palm Pre)
+unfortunately you can not delete the Nascar application from the Palm Pre yet 
+Apple &amp; cinnamon tea - how can something that smells so good taste so bad? 
+Thinks Apple's timing for a job interview couldn't have come at a worse time 
+@NastyTaiBoogy lol, iWant a dog now 
+I really want to try the Palm Pre for myself, but the early reviews are not as good as hoped, the feel is cheap  http://bit.ly/4JNhp
+Kickin it at BBQz! I can't twit pic!  Apple Martini on deck.
+Bleh, why does very iTunes update have to spaz out and mess up the library 
+I wish SW!TCH sells iTune cards.  I can't think without buying Sims 3 for the iPhone.
+Palm Pre looks boss/But no cool Apps/Sprint sucks/Only 8gbs of storage/and the keyboard is cramped/useless in lanscape view   #NoSwitch
+I'm having a Palm Pre envy..... 
+@MichaelJurewitz Uff... Away from my usual syncing iTunes... Laptop iTunes wants to wipe my apps to put on WWDC attendee app!  Workaround?
+@M3wThr33 Are there other ways of syncing? I really expect Apple to block this in the next iTunes. 
+(#iphone killer?)Closing slider crashes phone  - PreCentral Forums - http://is.gd/RjPI
+I hate when a new phone (Palm Pre) comes out on a phone company (Sprint) i no longer have.  It Sux big time : P
+I hate when a new phone (Palm Pre) comes out on a phone company (Sprint) i no longer have.  It Sux big time :.. http://tinyurl.com/oqgvsv
+Hate when websites dont update their homescreens or content regularly. It makes me mad that Apple has had that Shuffle ad up for 2 wks! 
+Just upgraded to Windows 7, everything works perfectly, except iTunes which has misplaced half of my music, piece of crap 
+Paranoid is number 65 on iTunes in Norway 
+@jaimiesortino Yes apparently she is wearing green. While I was busy uploading ProActiv, the singing DSi Ad came on, I Missed it  ~Artin
+@ShawnaLeneeXXX I luv my Kindle2!!! But I do get funny looks sometimes. 
+Pumped for WWDC tomorrow, though can't indulge in anything announced bar Snow Leopard 
+@ScottMillsGuru I did, its been no1/2 on iTunes chart for the past few days, going off of it really 
+I want a Palm Pre. 
+I remember when I applied for a job at my local Apple store. They never got back to me. I has a sad. 
+Just deleted my iTunes off my external...gotta fix 
+I never thought my first time sitting courtside at the garden would be for. WNBA game  - at least they have Henny and Apple Juice for me..
+Just found out episode 3 of Dollhouse didn't record and there's no repeat and you can't buy it on iTunes. 
+@curwiler yeah, and now my TiVo didn't even record the other station, even though I spend 20 minutes last night setting it up. Argh! 
+On the TechForCharity site it says I'm an Apple fanboy. I am not!  (please change...)
+Apple sauce for dinner. Its the only thing that will stay down 
+@EA_APOC RA iPhone makes me consider getting the iPod Touch over Zune HD. Why did you have to go and complicate the decision 
+Have a visit to Apple Store's Genius Bar in Regent St 2mrw nite as the USB ports on my MacBook stopped,so not able to connect iPhone 
+The screen on my 2 years old macbook pro is dead  Then I just found out that its an Apple problem. So they will fix it 
+@prof_ebral wish I could! My iphone won't play flash in safari  Apple r u listening?
+@saidinjest  I can use blip.tv, but i don't know how to get the link that they have their for iTunes on my site. 
+I'm always jealous of the lucky special few who get to go to Apple Keynotes as well as all the other successful people in the world 
+Went to the Apple Store, but didn't buy anything. Not even The Sims 3. I'm just not impulsive enough anymore. 
+shuffle on iTunes sucks....its not shuffling properly 
+Still not over not getting my Palm Pre  but I am tryna avoid the anger &amp; irritation
+Tonight I will read a dead tree book (The Somme) because there is no Kindle equivalent.  
+@peterfacinelli I can't get your app because I don't have an iPhone or an iPod Touch. Sad story. 
+iPod + rain = no more Wi Fi. Going to the Apple store in the AM for some help I hope 
+@long73 @jjackson How are yall liking the Pre, heard there were issues with Gmail and Pre?    If Gmail sucks what about live.com?
+Twitterific wasn't working 4 me all wknd. 2 photo shoots, 2 bday parties, 1 trip 2 EB, 1 piccino brunch, 1 DVD, 1 slocombe treat. Flew by 
+i lost my iTouch 
+I guess I'm never watching Netflix &quot;Instant&quot; again. You can't buffer the whole movie, and you can't leave it playing and replay it. Suck. 
+Loosed daily statistic for the first day of the previous week from iTunes Connect one more time 
+Either Apple or UPS are incapable of handling tracking data. Can't track my MacBook with my reference number 
+my iTunes won't open  .. i want to listne to music
+@macboiz Incessantly refreshing the Apple shipping status page to see where my new laptop is  And, weather is good so all is fine.
+minus Grizzly Bear 'Two Weeks' because it isn't on Spotify 
+My laptop is dead! Long live my laptop! (hoping Apple can do some transplants and revive it). 
+@zatechshow iTunes won't let me download it 
+Apple Genius bar on regent st: +1 on offering to replace top cover of cracked macbook for free, -1 for needing 5-7 days to do it  #ebay
+Apple Genius bar on regent st: +1 on offering to replace top cover of cracked macbook for free, -1 for needing 5-7 days to do it  #apple
+Espresso in your pocket! Courtesy of @toypaper http://post.ly/qpx (via @brendandawes) // crap... thought it was an app for the iPhone 
+@vimoh  Boss, i understand ur plight,..Have been using Sony W700i instead o my ROKR,.. Life is too harsh, at times,... 
+i broke my Kindle  ....dropped it on the floor
+My podcasts in iTunes can never be empty 
+Hmmm... Last night I connected my Zune to my Ubuntu box to charge. Today all my ZunePass content is disabled. 
+Trying out Rhapsody: I love all-you-can-eat.  But, no mac client, annoying ads (even when I pay), and no way to get music to my iPhone.  
+@brianlash ya I just had to give you problems.  Memory = couch change. I want an Apple again. 
+@tsevis able to replace it now that Apple stopped producing them.. 
+With Macs, Apple provide a good means to migrate from old to new. I've yet to see similar mentioned for iPhones. Anyone? Manually then 
+Apple is going over 50k apps. Is that the reason for the delay with update approvals?? that would be such an abuse of power 
+My MacBook is on its way back to Apple for repair, third time in less than a month, my love affair with Macs is quickly dying  
+Found a crack in the plastic of my iPhone...near the dock port   I wonder if Apple will fix it... * nudges @swirlysnail *
+jazz fest with Garret and then going to the Apple Store to get my computer tuned up before my apple care expires tomorrow 
+Uhg having trouble deciding. I want a Kindle but I want a new camera. I could buy either right now.. If only I had another $400 
+@AlexJReid It downloaded fine, but the file is stored on the server and the dodgy wifi means iTunes can't read it without stuttering 
+Oh and my laptops keyboard will never work again, Apple store said water got to some important hardware  but it still works
+Just had near miss with iTouch....and Radox 
+@chuckscoggins Unfortunately a G4 won't run Apple's newer software, which limits the use for me 
+I just might have to make an appearance at the Apple store on Knox Street because they don't answer their phones. What's up with that? 
+@mgrimes Am I too fat to be an Apple geek? 
+Yikes, we will get tons of iPhone app updates starting tomorrow when the 3.0 firmware is released by Apple. Download galore. 
+wait for a call from Apple my Ipod are broken 
+Just got my Air back from Apple. HD wiped. Everything gone 
+Installing Safari 4 and the iTunes that accepts IPhone 3.0! I hate how it makes you feel &quot;right at home&quot; with the windows look 
+sigh! no evernote app for android yet 
+@liz Aww dang, now I wish I pre-ordered with Apple instead of AT&amp;T 
+Son of a Bitch!!! One game I HAD on my iPhone I bought on sale for .99 now it's 4.99!! I am so pissed! I don't wanna pay that much.... 
+home from @sprint without any @Palm_Pre phones. 1 came activated on the wrong acct &amp; the other 1 was just on crack &amp; wouldn't go online 
+@bunnynikisha I really want something like a Kindle...but Kindle could only be sold and use in the US. 
+Why does the combination of ZoomText and iTunes make my computer slow to a crawl? Didn't used to... 
+I want an iTouch! 
+I saw &quot;up&quot; it was awesome! So mad cuz I don't got enough money on iTunes to by @Jonasbrothers new album Tomoro. 
+Apple Cinnamon cheerios have shredded my mouth. 
+@Xm4n  I'd watch him with you if I'd paid DirecTV lmao  uhm, boring. Read more Twilight &amp; downloaded movies to my iPod, laaame!!
+@brrmccoy @jsjamie Kindle is a digital book reader. The new one went up in price!  Been looking at Sony instead.
+Safari 4 is becoming unusable with its constant crashing. Amazingly, it even dies when I try to view the store page on Apple's website. 
+dang it, work kept me late, missed @iamknaan at the Apple store 
+@GeminiDragon  my iTunes won't download them
+My iTunes softwear says it  won't update till 6-23.   Thank god for the check for update button.  To bad I don't have the iPhone 3.0 early
+Another annoying reason to dig the Palm Pre - complete ITunes compatability.  Man I should get paid for this 
+@takemyyheart24 wooo!  i don't have any money on iTunes  but i'd buy it if I could.
+@uncyherb just read the Gizmodo article. I see how they could do it now. So that sucks. I'd be happy just to use the 700mb I've got. 
+Hmm, who knows what time iPhone 3.0 will be available through iTunes? I want it before I go out tomorrow  (a.k.a early)
+@PaulWestlake Apple are taking their time 
+@tmorello really hope the album is also on Finlands iTunes also. Yesterday it didn't know your band. 
+ i need followers-Statellite TV on your desktop PC, Laptop, Iphone, etc. go http://bit.ly/0MI93H
+Not liking still being stuck on freebie Twitterrific  Guess in the midst of a firmware update the Apple dudes may be slow on updates
+@meara76  that's happened to two of my friends. Apparently it's a fairly common fault- they both got free replacements so get on to Apple!
+How I wish #dongle was available on something other than/in addition to iTunes. I'm an unserved customer who wants to buy 
+Still no Twitterrific Premium update in the iTunes tore  Hurry up Apple!
+@Cranialstrain In Apple Mail, the RSS comes through with a couple of lines and then you click to visit the blog. Sorry 
+iWeb &amp; MobileMe are pissing me off, giving up work on bit.ly/kittehcam for now 
+Battery on my mac dies after half hour on full charge  ...  called Apple ... zero wait time... they'll replace under warranty... nice!
+Apple News 6/16: Apple adds G5's to obsolete list. 
+I need the latest iTunes 
+Argh! Looks I like a need a replacemente Zune to USB cable... good luck finding one in Lima... 
+@Apple_x360a Awww that isn't very nice  pfft i was a hacker I think i would have better completion rate  like you =O
+@bradnpx I know  iTunes is EVIL.
+@wouter_vda Grand prize is a $399 &quot;US&quot; Apple Store gift certificate. check the  quotes  else i did it myself ;)
+ For the first time ever, my iPhone crashed iTunes 3 times in a row. Also crashed &quot;Apple Moble Device Helper.&quot; WTF? Apple? Twitterrific?
+@tmorello Am hunting and cannot find SSSC on iTunes, do I have to wait longer still? 
+@korbz Got a feeling 3.0 will be released in the morning for each country. Chances are iTunes won't pick it up until tea time though 
+My iTunes is not working 
+@williger hmm, but i really love the curvy design of Palm Pre. Palm is almost extinct in India 
+Team 1040 went back to the old programming of EPSN between 9 to noon. Makes sense since hockey is over. I guess its iTunes radio. 
+What...my Zune is full  Ughhh,
+very very bored  I can't buy LVATT on iTunes b/c my computer is jacked up  sad* maybe I can buy it on my itouch...
+and maybe go to an Apple store to fix my Shuffle along the way. I can't work out without it 
+Apple can't replace my exploded battery  time to order a new laptop battery.
+i would love to know why i can't add the @brandnewshadows album to my iTunes cart. i am sad.   ,&lt;-------see. sadness.
+i would love to know why i can't add the @brandnewshadows album to my iTunes cart. i am sad.  &lt;-------see. sadness.
+Apple fast is scheduled for thurs. nothin but apples, water and coffee minus milk  
+@mollie413 i bought it! yes! but you probably got it on iTunes  loser.
+@tromboneforhire Aww........just a tad too far to meetup. And just pictures  of the Zune. 
+I'm dismayed!  The new #Aqua single is only available from iTunes Denmark!!!  #iTunesFail 
+@Cloud8745 hey Aaron can you give your old video to orther people on YouTube so they can upload it? I watches all the video on my iPhone 
+iTunes does not like my feed. 
+Previously the Apple/au store said 3.0 on the 17th. Now it says the 18th 
+@androidcentral Browse the world! World's First Mobile Augmented Reality Browser.  Http://www.layar.eu Wish they made it for the iPhone 
+@markbrown83  I think we'll be lucky if it's even then. Apple Australia now say the 18th... which would mean 1pm minimum 4 us 2mor. Grrr
+@RyanStar wish I could by music from iTunes in BRAZIL... we're not allowed here, you know... 
+Can't find the TweetDeck app in iTunes  Not in Canada?
+@Aqua_Gypsy It's a really good Twitter client for Mac and PC. They said it came to iPhone/iPod Touch, but I can't find it 
+@danyork how did you get it? Not in iTunes for me... 
+@KateEdwards When you find it let me know, it's not on iTunes yet 
+lordy lordy lordy! One whole day without XboxLive or Zune!  the renovation better be good!
+Disappointing tech day, downloaded RayV &amp; then spent day in Apple store restoring my system, missed out on #140conf &amp; #IMU w/@chrisbrogan 
+Switched from an Apple Store to direct shipping from AT&amp;T for my iPhone.  I do not expect to have one for at least two weeks, though. 
+Can't find Tweetdeck on the App Store 
+Pro tip: Don't buy your girlfriend or wife an iPhone. And for the love of God, don't tell her about iTunes gift cards. 3 a day is bad. 
+i would get the IPhone 3.0 software but my IPod Touch broke  but i'm getting the new IPhone 3G S so that's awesome!
+needs @jrdsctt on skype if he's not busy... iTunes crisis 
+upset that my Zune won't connect, so that means no uploading new music to it 
+My pics from #140conf today: http://bit.ly/141Z0v - sorry about the poor BlackBerry Bold shots. Left my SD card for proper camera at home 
+@Tuglatonic Apple.co.nz site says you guys down under get it on the 18th I'm afraid 
+@Megillo we submitted the updated Twitterrific 2.02 versions to Apple on Saturaday PM, we have no control over Apple approval process. 
+@kirbythecorgi I love to try on new &quot;perfumes&quot; ... Mudhen, Cowpie, Horse Apple...  But I usually end up taking a bath too     Dott
+@jschun sorry abt yr trouble, we submitted both Twitterrific 2.02 to Apple on Sat PM, we've no control over Apple's approval process. 
+My iTouch died on me  Currently charging............................................... Sucks.
+At The AirPort on data roaming... Wishing i had never come to BCN i got fired from The bar cause i didn't work on monday 
+Still no 3.0 in iTunes. Come on Apple ..... 
+I have a feeling Apple is going to pussyfoot with this 3.0 update. I need this now so I can go to sleep. 
+OK, I'll stop pressing &quot;check for updates&quot; in iTunes - there wouldn't be enough time before work anyway 
+@TUAW http://bit.ly/187Lcn is not worth it..sorry for the spam 
+I don't wanna share my car stereo or my Zune with anyone. But my bed, that's a whole different story. I'm so loney... oh so lonely. 
+So it would appear Apple are releasing iPhone 3.0 software 17 June 'American Time' as no update this morn 
+Tried to download iphone OS 3.0 to no avail... Guess its not June 17th in Cupertino yet... 
+@timbe2 I think Apple is teasing us ..... 
+@timbe2 I think Apple is teasing us .....  (via @69Pwned) I think apple sucks.. Jk--but it makes me sad.
+It's currently June 17th, 1:42AM and iPhone 3.0 software update is still not available!!  Come on Apple!! I want it now!!!
+@dementia other than iTunes syncing?wala ata 
+Damnit. I wanna getthe new update, but Ive got a longdrive 2morrow. Goin 2 bed w/ a sad face  Stupid Apple, I fart in ur general direction
+Apple asks UPS to delay delivery of iPhone. Earlier, the tracker inidcated that it would arrive on Thursday: http://tr.im/oKUw 
+My guess is Apple like to have a queue outside their stores... even the online ones 
+AAAHHHH!!!!! Apple is holding my package for delivery at a &quot;later date&quot; I should have known they wouldn't deliver two days early  boooooo
+*sigh* no love from Apple for developers  http://www.marco.org/122990476
+Rumours OS 3 being released when Apple employees get into work (9am). Therefore 5pm uk time 
+Software 3.0 is still not out!  What's wrong, Apple?
+Good morning tweoples! When is june 17 in Apple world? I don't see the iPhone 3.0 update 
+What a let down! Apple website now says the new iPhone software won't be ready until 6/18! 
+@halcyondaze6 it looks like they are purposely delaying your delivery..  Damn UPS.. Apple used to ship Fedex from China... its way better
+I already have 3.0 &quot;Gold Master&quot; on my iPhone but I still wanna restore just in case this one's more polished...but iTunes won't let me 
+People should learn country codes and how to read urls... Apple US still has the date as the 17th.  Apple AU is the 18th  #iPhone
+@JamFactory Bit gutted with that Apple OS3 page. I was expecting the Moon on a Stick on the new features page 
+@unravel101 6am or 10am pst. Apple doesn't do midnight unfortunately. 
+Apple says iPhone 3.0 doesn't come out until 8 AM  going to bed. NIGHT
+Cant play songs in iTunes while syncing with iPhone 
+Epic fail, they delayed the 3.0 release for my iPod Touch and iPhone 
+@leneux nope.  Apple is prbly laughing at us all right now Bastards &gt;:0
+@tuxplanet Have Spotify running on Wine (Ubuntu Netbook Remix) but periodically just stops working and requires a reboot to get it back 
+Waiting for iPhone update 3.0    Hurry up Apple!
+@greekshow I loved the song, can't find it on Itunes tho 
+Bummer, i guess the release of iPhone OS3.0 will happen on June 17th Apple Time? 
+Common Apple Already, do we really need to wait for the californians to wake up and Jam the servers? 
+Apple puts brakes on early iPhone 3G S deliveries: http://is.gd/14ib9 - early? AT&amp;T is still &quot;processing&quot; my order 
+Changed my mind about 'Spaces' on Apple - gets too confusing and some apps (Namely Microsoft apps) are of course not compatible... 
+Aw  Apple's holding my 3G S hostage:  http://twitpic.com/7lych
+iPhone OS3.0 : Apple delays until June 18th  http://tinyurl.com/nzm68t
+@jmons  I've seen that stated but also after 6am in Cupertino (which is in 4 hours) so not for a while 
+@loadedheart - But getting the Pre saves over a $1000 during a 2 year contract vs. the iPhone. Bye-bye thousand dollar bill 
+@damiancb unfortunately not at my winblows PC with iTunes installed, so no idea 
+@mschluepmann Seems that Apple didn't post the 3.0 Update yet. 
+Got up early to download iPhone3.0. No show. Rumor is 1PM Eastern. Way to go Apple 
+Got up early to download iPhone3.0. No show. Rumor is 1PM Eastern. Way to go Apple  LOL http://tinyurl.com/mkyggv
+Got up early to download iPhone3.0. No show. Rumor is 1PM Eastern. Way to go Apple  LOL http://tinyurl.com/mgro2f
+Up and need to work...but iTunes isn't letting me upgrade to 3.0 yet! Why does it have to be on U.S time? 
+@JustynaSaid Your iPhone got shipped out but Apple but a hold on all orders til Friday anyways 
+@jemzkat I paid Apple, Apple sent to me.  And I still have the money I paid them in my bank account! Unless they're gonna take it later 
+@chillyphilly You staying up/getting up early for Firmware 3.0? Apple finally turns on BT for you 2nd gen users. My 1st Gen misses out 
+iPhone up early enough for me to get before work  damn you's at Cupertino.
+Anyone already downloaded iPhone OS 3? Still not showing up in iTunes Store. 
+@lou7788 not yet  it's not available according to iTunes
+@garethslee Well according to The Register website, they reckon Apple have released a statement saying its going to be delayed 
+17 June 2009, 3.53AM Cupertino Time (Apple), but Iphone 3.0 upgrade unavailable!!! 
+Apple states that OS 3.0 will be available on the 18th: http://tinyurl.com/l9hx2p! Won't make envious my apero guests this evening 
+@Klarabela No probs. Me too. iPhone has dust under the screen though  Have an appointment witth Apple to get it replaced hopefully.
+Thanks Apple for holding my iPhone in Louisville, I really didn't want it early anyway 
+Hejjjj!!!! - Apple, wake up!!!!!! 
+Trying to update to 3.0 but iTunes won't cooperate!!! 
+@gardnerisgod we submitted both versions of Twitterrific 2.02 to Apple on Saturaday PM, we have no control over Apple approval process. 
+Palm Pre??...got one!.. albeit not mine..       Nice,. and iTunes thinks it's an iPod!  It'll need a faster brain next time tho...like me!
+Apple slowed down the shipment. No early delivery 
+Looks like I might have been wrong - All is I see Amazon releasing the mods to GPL code they use, not the actual Kindle source. 
+Iphone 3.0 Still waiting - Apple 
+@richardholt Hmm on Mac there's games like A Vampyre Story or Penumbra, and there's a handful of iPhone adventure. Nothing on PS3 
+Coffee: check. Shower: check. iPhone update: not so much.  #squarespace
+@carlonicora have you got 3.0 yet? I can't seem to get iTunes to understand that 2.2.x isn't the most recent update 
+hmmm, looks like iPhone/iPod Touch 3.0 will be available around 11am MDT.  Too bad I won't be home till after 8pm tonight 
+@pauleapo waited until after 3pm, tried iTunes and it says I have latest version 2.1.1 so no 3.0 yet 
+@Caprica @ktml I've submitted a 3.0 compatible version of MoloPix to Apple, but still not approved... 
+Hat schon jemand das iPhone OS 3.0 Software-Update auf dem Handy ... Bei mir is in iTunes &quot;tote Hose&quot; 
+@faisalfarooqui Thats so confusing indeed. 17th or 18th?? Even Apple don't know for sure! 
+@_Aztec_ App is definitely clean only problem is my shake feature is not working 
+@dhreines I plugged mine into iTunes but no upgrade yet.  Tells me I have the latest version 
+So Apple just rerouted my new macbook AND cancelled my 3GS pre-order AFTER my phone was shown as being upgraded so I can't reorder. WTF 
+Silly MobileMe, duplicating all my contacts *sigh*. Further study of the sync order is needed 
+@avidbookreader I updated iTunes the other day (I dl from the Apple website and then install). Can't find cell cord so can't updte to 3.0 
+I've given up - Apple I was depending on you and you let me down 
+@Destrownage I remember when MobileMe launched, they delayed it a day and it only worked sporadically once it did start 
+@Harley_Dude Yeap I pre-ordered a 16GB black 3GS from Apple on Monday morning as soon as the delay rumors spread about AT&amp;T. Curve = ebay 
+Updated iTunes this morn &amp; macbook stopped recognising iPhone! Took a lot of clearing to fix. Glad I know abiut ROOT and shell commands. 
+@LondonElek Tony, I wanna buy sick music but don't have decks and hate Apple. Can I buy the MP3/ Ogg/ FLACs anywhere other than iTunes? 
+@dayodetroit yah dude, Apple told UPS to hold my iPhone 3Gs in Louisville until Friday. They don't want any of us to have any fun! 
+I want to buy the Bed Bugs iPhone game. 
+I'm pissed off with Apple waiting for the 3.0 update 
+@DaisyJo lol, it's an iTouch. I'm an Apple fanatic, but I'm not on AT&amp;T 
+So pissed I missed the Peggle sale on iTunes a few days ago. Went down to $.99 now it's back up to $4.99. 
+@hughsbeautiful How did you ge 3.0??  I can't get it yet... This makes me upset... do I need to get iTunes 8.2?
+We'll, it's officially 1:00 PM and still no 3.0 update on iTunes   #iPhone3.0
+erm, 6:01,  why!!! Apple, why!!!!
+No #iphone 3.0 for me just yet  iTunes: &quot;2.2.1 is still the latest version.&quot; For a few more lingering minutes, perhaps.
+@tedoe still not showing up for me on iTunes yet. 
+@swiss_kris  Where did you get the upgrade from? I'm refreshing the Apple site and itunes and can't find it anywhere.  
+I want the Palm Pre...  
+@iamglenn @vannyyy @antonatron It's available in iTunes already. I have to wait to start downloading on my lunch break in an hour 
+Downloading iPhone OS 3.0 right now, &amp; Apple told UPS to hold my phone until Friday 
+@theartofbeingg @mole1066 Obviously entered a special Apple employee cheat. Dammit - I had a gloat typed out already 
+#iPhone grrrr I'm not getting the update  my iTunes is updated, plugged / unplugged my iPhone a million times nothing yet
+@LeoLaporte  I'm jealous! I have to wait until I get home in 3 hours, no access to iTunes at work.
+App updates are slow, though. 
+@thorrad I heard is avail now. I'm at work w/ no iTunes so don't get it til tonite.   hope it's cool. you'll have to let me know
+@mcleodd Doesn't look like Tethering is supported by Vodacom either  GRRRR - From the Apple Help -  http://bit.ly/4cgRn
+@mcleodd we should have local cached versions of #Apple software for some of us with download speeds of 25kb/s 
+What's up with iTunes? 
+3.0 installd but iTunes store can't cope and won't respond! Got an expensive brick till i can get Apple's blessing to make it work grrr 
+iPhone in emergency mode. Guess updating in iTunes and crossing my fingers that the unlock will hold didn't help. Now I NEED QuickPwn... 
+@idiot_girl AHHH can not connect to the App Store to activate my phone 
+Oh great! iPhone Update complete but now I can't connect to iTunes to activate it  Unknown Error. #iPhone
+Woohoo - IPhone/IPod Touch OS 3.0 is available on iTunes - Pity it's not free  Visit my site:  http://www.ferigan.com/
+#iPhone - updated to 3.0 but cant activate because  iTunes store activation connection time out error 
+@lbeard Connect your USB cable to your computer, although I can't connect to iTunes.  I have an iBrick 
+3.0 update failed. Apple could not complete my iTunes Store request 
+@creamsmith oh no  does it tell you that you can't connect to iTunes or something? Sam suggested I switch USB ports, and it worked.
+@jimeh I'm super curious. Where are all the push activated apps? 
+@dmhprior just sucking down 3.0 auto update via iTunes, it's going to end in tears 
+Just updated my iPhone but I had to try 25-30 times trying to connect to iTunes Store before the phone was running again 
+Sigh .. Apple's &quot;activation server&quot; is mocking me and my inactive iPhone 3.0 update 
+@BadAstronomer Apple likes you more than me 
+On second thought, looks like Apple is blowing this one all by themselves. Oh, the horror! The horror! No iPhone OS 3.0 install for me. 
+@dubfire_scitec Apple's servers are overloaded 
+@art176 Thanks! It was still a no-go.  iTunes just doesn't like me today 
+First Time I wish I had an iPod Touch instead of an iPhone  Jailbreak Pleaseeee!
+@rothbart That's AT&amp;T's fault, not Apple's.  But yeah, it's true 
+NOOO! Apple's server is temporarily unavailable, as I was finishing the 3.0 download. That's what I get for waiting for dramatic effect 
+@ryanodonnell damn, something told me to get the Apple ones but I listened to the store review 
+Paid the Apple Tax and upgraded iPod Touch to 3.0 
+@jellibeen92 yeah its playing songs form my iTunes but nothing from that site  i dunno
+@Makula87 my iTunes is not updating my iPhone to 3.0  Is anybody experiencing the same problem?
+@morningsteppa I'd rather be able to download and listen on my iTunes 
+Freaking Apple servers are getting pwnd, so glad I already have 3.0 lol, spent 10mins just to agree with new T&amp;Cs 
+Why does iTunes keep saying my network has been reset?!?!?!?! GAH!!!!! 
+@cdnjay and now iTunes keeps timing out because it's jammed up with everyone downloading the 3.0  stupid iTunes.
+I really hate iTunes right now 
+@LuckyLobos looks like i have a major failure on my hands.    on the phone with Apple now.  thanks for the optimism!
+@songkick songkicker keeps crashing my iTunes due to a password change.  help me fix it!
+Upgrade to 3.0. went fine but App Store running like a dog 
+can't get my Zune to work. I'm so upset about it, 
+@michaelheredia not yet.. cant find my usb connector!  haha for iTouch or what? pretty good?
+iPhone 3.0 Rocks!!! I love the search screen, but I'm still waiting for apple to release the &quot;iDisk&quot; App 
+iTunes store is being hammered, so can't get push notification enabled apps  Also, am I the only person who seriously dislikes tweetdeck?
+always forgets how much she loves Indie103 until she opens up iTunes on the work computer. Miss having it in the car. 
+@davidkudrev I can't get it  It cannot process my request, I think the server is dealing with too much, dammit Apple!
+*sigh* can't connect to the iTunes store. 
+thinking that the iTunes update may be an overnight job... I hate being without my phone for this long!! 
+iTunes still down... 
+@kristofcreative No luck here. I tried getting the update for the iTouch, but apple's servers are completely bogged w/iphoners updating 
+Opera 10 with Turbo turned on is a heck of a lot faster than Safari 4.... Sorry, Apple 
+iTunes store must be very busy  
+Seems like ALL Apple servers are slow today.   Can't even update Shazam, because the App Store is soooo sloooowwwww 
+My iPhone is broken. Can't get any apps, anything from iTunes, or the iPhone update     #fb
+#iphone #OS3 upgrade not so seamless...iTunes upgrade first,slow &amp; cumbersome initially followed by SIM errors and crashing iTunes 
+well that's a fine howdy do. can't dl Evernote 3.0, iTunes store too busy 
+iPod Touch OS 3 upgrade doesn't available in Indonesian AppleStore yet 
+US App Store is worst ! 
+@Falgi is the prob fixed? apparently I can't get 3.0 for free for my ipod Touch- have to pay to get cut &amp; paste. Boooo, Apple! 
+Could not get 3.0from iTunes due to serverproblems since hours 
+ come on AppStore Approval. its been almost 18 hrs :p lol
+@SexyLiah  no my iTunes won't download It
+&quot;We could not complete your iTunes Store request. The network connection timed out. &quot; 
+Why Apple, why ? I wanted to pay, but you didn't let me do so. Now, I have no other choise but to ask TPB for it. 
+Anybody having trouble renting movies from iTunes, with either iPhone 3.0 or just desktop?  Wanted to watch Gran Turino on plane tomorrow 
+Ick...iTunes is being a padoodlehead so I can't download the software update 
+just paid more than 0.99 for a song on iTunes for the first time... Thanks @jannarden 
+@gfunkster, Apple's act is together!! It's all up to AT&amp;T now 
+Downloading the final iPhone 3.0 SDK from Apple at 180KB/sec  I tried finding it on torrent but no luck. Anybody want to seed?
+Does anyone know if the Sirius XM iPhone app plays all channels, including Howard 100,101?  Does it work over 3G?  Doubt it to both 
+@bkzzang @hyomini i think all the technology are striking out on me. now i have iTunes issue, it would just close down 
+ITunes is failing me 
+r @jabigabo iTunes backs them up. If you want them to &quot;sync&quot; to your phone, you have to use Outlook 
+@jessegoins the other day my iTunes kept getting stuck at a particular app during backup and I had to restart 
+watching sisterhood of the traveling pants 2 with the family. stupid iTunes wouldn't download the new software today  SYTYCD in 9 minutes!
+iPhone on Three (http://store.three.com.au/Apple-iPhone-3G-Coming-Soon) but in july .. I guess that means I won't be getting one on day 1 
+@luvcrash having to cancel my Zune doesnt make me #jizzinmypants 
+@WickdWeirdWitch nah I have a legit one. But no updates around! I hate the Indian iTunes 
+Apple &amp; UPS drop ball on iphone deliveries. Holding goods that are paid for after posting earlier delivery dates. Very poor customer svc 
+iphone 3.0 not showing any songs previously synced  +mediamonkey still doesn't support syncing with new OS ( I hate syncing with iTunes
+6 hours For 3.0 update and it keeps failing  Grow up Apple
+iPhone OS 3.0 still not available in the Philippine iTunes Store... 
+@RunPee Also, can't sign up from an iPhone... 
+@earth_mommy not in iTunes 
+@Pookthy not on iTunes 
+my iTunes is messing up 
+@tabfurtado  Tab my dear... you put up with too much shit ! 
+@Emmetjuh App store seems to be working here in France, the iTunes music store however seemed to be down when I tried earlier today 
+NEWS FLASH: The iPod is the official music repository device for God's elect...unless its the iPhone the Emergents beat us to it. 
+New OS3 on iPod Touch loses my wifi connection every time on startup.  @rude64
+@siviwekwatsha har har. It's fixed, I just had to sell my soul to Apple's zombie lawyers by accepting their terms &amp; conditions 
+Aaaaaarrrrrrrrrrggggghhhhhhhhhhh!!!!!!!!!!!!!!!!!!My iPod Touch won't restore!!!! unknown error 14, after trying to update to OS3.0 
+Good bye Snow Leopard I will miss you but I cannot make an iPhone app on you and therefore I cannot make $$$ to feed you with new stuff 
+Found out it was my laptop which hates me, not iTunes. Sorry iTunes 
+Goodbye Sydney, goodbye Apple Store... I'll miss you 
+Apple sucks!  Charging for the OS 3 update?  I guess cut and paste is worth $9.95   Here goes....
+Message from Apple, we know you're waiting for MMS, it'll be a few hours! 
+1,2,3 OPEN. iTunes won't open  naooo the silence is DEAFENING
+@amigastu That's annoying as MobileMe syncs notes across Macs. Never mind. 1 less feature I can use 
+my iPod is outta charge and iTunes is taking forever to load on my new laptop!! &gt;.&lt; Now I can't listen to Outta Here!!! Hahaha! 
+Does Push Notification work on the iPod touch? I've gotten no notifications.  (I've got AP Mobile with notifications enabled)
+upgraded my iTouch to 3.0 for $12.99  lucky Jen had an iTunes gift card!
+@BGostelow hey mate what was that web address that told you what you can do wit 3.0again? btw, p2p n booth only works on the 2nd G iTouch 
+@dre4mkid Aww man. That sucks. I'm thinking Apple's servers are too jammed up at the moment. We might need to wait a day or two to go 3.0 
+I'm sad again. I can't update my iTouch. 
+Looks like my iPhone is restoring. Thank the lord for that, taking forever though. And all my data is stuck on my Mac. I want a Pre 
+Using iSync to sync my old Sony Ericsson is annoying. I miss you iTunes sync and I've only been without you for 13 hours 
+@brianarhoades unfortunately you can't yet. AT&amp;T's fault, not Apple. Should b ready by late summer 
+http://twitpic.com/7pezh - I'm gonna get rained on in Liverpool  fucking Apple!
+Bah, still no iPhone OS 3.0 available from the Indian iTunes store!  http://twitpic.com/7ot6s
+iPod fail gets worse  Can't even restore to factory settings - Apple store here I come...
+@BeejiveIM Still waiting for Apple to approve the 3.0 version? 
+@Apple_x360a Okay. Buy it for meh if its so awesome 
+@JHongosh Wish AT&amp;T had as good a reputation as Apple. 
+Apple Store today..  Another replacement, let's go.
+@owlcity When's Strawberry Avalanche going to be on the UK iTunes Store? I've been waiting for ages 
+Apple tell me I have to wait 3 days for the new update for my iPhone (too much traffic) that is a joke 
+Just got off the phone with Apple. Mac hard drive is GONE!! Over 23k documents (PR, marketing etc) LOST!  uuuuggghhhh!!!!!
+Hoping to use my #squarespace cash to get me an Apple TV, but #squarespace needs to pick me first 
+Made the good finanical decision to use my employee cell discount, but now I'm not an iPhone user.   Can't wait till I can get a Palm Pre
+Domino's gives me a free pizza if my delivery is late, Apple.  Can I get a $25 iTunes gift card or something? #applefail ? #upsfail ? 
+@joshkocurek iPhone/iTouch only tho   Strange they don't have a more mobile friendly link to that story :/
+Can anyone confirm that Ocarina works for the iPod Touch 1st Gen? I don't mind not being able to use a mic. I @replied Smule, but nothing 
+@VetrinaGirl &quot;insufflating iTunes&quot;, really starting to hate it now 
+SiriusXM iPhone app is lame, no #NASCAR and no Howard Stern  Why would I pay 12.99 a month for that?
+Ugh, now Apple Store AND Fido are saying customers looking to upgrade to the 3G S who aren't eligible for upgrade pricing are out of luck 
+had to buy two songs involving Mickey Mouse on iTunes for a project I'm working on...now I'm broke on iTunes. 
+newsflash: Palm Pre is no longer spinning as long when I twhirl it on the desktop - smooth back is being worn matte and causing friction 
+Ugh, streaming Pandora cuz I'm burnt on my playlists so I'm eating my Touch battery &amp; my charger is @ home 
+@routesy: Hopefully Apple will hop on that soon! 
+Why can't I delete the icons for the Apple iPhone apps? The addition of voice memo means just another icon on my deadpool screen. 
+Software update beachballed my MacBook... It's hosed.  iPhone is acting up as well. Bad day for my Mac things.
+@hectorramos Extracted it and it created a new folder called Payload. iTunes still won't select the new file 
+I gave it a few to be sure, but it totally sucks. Apple keyboard keys are much mushier now then the one I bought in Feb. Mediocre at best 
+At an awesome motel outside of Pembine, WI. iPhone is Running on WiFi, no cell service up here! 
+@clielasus - yes way! It died at first startup and was just beeping so it needs to go back to Apple, have to wait for a replacement now 
+@technosailor good story about blackberry &amp; location services.  Palm Pre battery would have died long before you could ever locate it.  
+@HollaWalla Nope - need a data recovery company. Apple says hard drive crashed 
+@philhawley I am having to reload iTunes and all my music back onto my laptop 
+Complete reset, re-install and re-sync and things appear to be working. Nice UX Apple 
+Just bought an Apple bluetooth keyboard, really excited.  You could have paid for this, #squarespace.  You could have 
+@da_chosen01 the update took me forever &amp;&amp; I lost everything bc I had to delete iTunes &amp;&amp; restore my phone 
+@tromboneforhire Should have used Zune Pass.  (But, yeah, the record companies are crazy.)
+Lousy traffic driving through Columbus OH tonight. Tested the 'traffic' feature on Palm Pre's Sprint GPS Nav - no alternate suggestions. 
+@sternshow 1800+ reviews of the new #Sirius app are in &amp; about 99% say without u they r not paying the monthly fee.  App fa fa fa failed 
+Hooray! Leaving work at 6:30.  And I didn't win an iPhone gift card   #squarespace #trackle
+Sadly, pensioners can't afford Apple prices, so it will most likely be replaced by a windows desktop 
+My iPhone updates arnt downloadin..  Humm?do y no this new update ables u to copy n paste hehe... Dam iTunes!
+got yelled at cuz Apple sucks 
+@theRealCrazy  I went to the Apple store in the promenade today and They said even though we reserved it gonna be a long line 
+Just got off the phone with Apple Support, but got no support. Because it cost $49.99!?!?! WTF? My sound effects won't show up in iMovie 
+My macbook has some terrible cracks on the bottom case.  Apple wouldn't fix it because they said I dropped it although I didn't. 
+I wish I had iTunes, but I can't afford it. 
+I think my iTouch has died 
+is tweeting from Windows Mobile - it's interesting to note how expensive the apps can be when you compare to the App Store 
+Arrrgghh Apple why do I have to close an app whenever I want to reply to a text on my iPhone 3.0. Where's that jailbreak 
+@applevacations I wish I was leaving on a Apple Vacation this weekend 
+Gotta find the charger for my Logitech bluetooth headphones to test with iPhone 3.0. Oh why didn't Logitech use mini USB? 
+Need a book to read on my flight... Since JetBlue doesn't have WiFi  Any suggestions? I'm gonna try to pick one up at Borders or Walmart.
+http://twitpic.com/7rfx2 - Apple you're breaking my heart 
+drew the short straw and will be standing in line tomorrow morning at the Apple store 
+&quot;the iTunes Store is temporarily unable to process purchases.&quot; What, no apology for the inconvenience? 
+@mykesmith Bear, my missing you is turning me into a bitter old woman...all i need are alot of cats and Jeopardy on Tivo 
+Starting to have buyers remorse with this Palm Pre,  Ohhh well, at least I have 30 days to take it back to the Sprint store!
+Where is my @beejive_im  update  Come on Apple.... #applefail
+@kylefox takes me 2 hours to get to the Vancouver Apple store 
+If you use the iPhone Live365 app, the 3.0 update breaks it.   A new Live365 app that works is waiting in Apple's approval queue.
+Best iPhone OS 3.0 feature so far: email server search! Worst: I lost my YouTube bookmarks during the update and had to redo em all 
+exactly 2 months ago all the retailers near me stopped selling Apple Fanta  even though they had no prob getting it off their shelves.WHY?
+@LuvArabians You need to purchase the Touch update - $9.99 from the iTunes store.  It's only the iPhone that gets the update free. 
+aww. it's over.  i love that song. when i'm not broke, i'm gonna buy it on iTunes.
+@frankfil think so. Now I can't redeem things from the App Store 
+@aryayush Not seeing Glyphboard on my App Store 
+@KalCobalt I'm so sorry.  Honestly though, Apple isn't much less evil than Microsoft these days. 
+Day One Palm Pre Hunt  Palm Pre sold out at 5 locations... trying again next mon 
+Just splurged on some iTunes music...now I only have 6 hours of sleep to look forward to  really going to bed now.
+iPhone 3.0's playlist sorting is all messed up. playlists beginning with ! show up at the bottom, and sorting by date added is broken too 
+@filmfreak75 I dowloaded my missing app on iTunes and it didn't charge me at all.  But I found out the MMS is not working. 
+@nielsschooneman Apple doesn't provide news beyond &quot;Approved&quot; and &quot;Rejected&quot;  I hear that right now the wait is about 3wks from submis.
+@4ND3RS I guess that means that Apple gave up on CalDAV 
+Ok, new Blackberry and Internet keeps going down. Sick of calling Sprint Tech Support 
+@paulshadwell I keep looking at the Apple page waiting to see a similar deal for the old 3G as in the states but no joy 
+My brother's iTouch has wifi! Of course I can only use it when he's asleep 
+doesn't want to sleep  just won a free ipod case woot! WWDC Contest. btw there is a new girl at work...very nice!!!
+@BigMem gawd Nokia on the otherhand have gone outa there way... But I'm more an Apple fan 
+@LuCooper  it is nice, it just sucks that people such as your self have to pay for the  privilege ! Naughty Apple! 
+iPhone OS 3.0! Very excited, but there's no iPod touch 3g jailbreak for 3.0 yet 
+@reneritchie You're a brave man! I don't go anywhere in the rain!  I wish I lived near an Apple store. 
+@micaheljcaboose all I know is that I want flash.  Apple is against the idea even though Adobe is gung-ho.
+Hmm...can anyone else get Shake to Shuffle...shuffling...outside of the iPod App on their iPhone? That's the only time it seems to work! 
+now cuz Apple called, I lost the surprise   I'm gonna sue! Where's that Kramer's advocate? This is outrageous, egregious and unheard of!
+Apple just brought out umbrellas for the first 14 people in line. They are loaners and there is no logo 
+A watched kettle never boils apparently. A watched iTunes update is based around the same scientific principles! 
+We're prep'ing #tomeraider for #iphone and are scared of the Apple rejection risk. Removing the wordnet dictionary  because of &quot;fuck&quot; 
+A Coke bottle promised me a free iTunes download, then sent me an invalid redeem code. Stupid lying bottle 
+My new HTC Magic Android handset just turned up, which is good! Sadly, my number doesn't get transferred until Monday, which is bad 
+Middleton o2 was all out of Black 32Gig iPhone 3GS's 
+Just noticed MobileMe not syncing as well 
+Getting ready to head to the Alderwood Apple Store for the iPhone 3G S launch....  and it just started raining! 
+Putting all my songs back on my Itunes. 
+I synced tvshows from the istore to my touch and now I can't find them. Itunes def said touch had video on it before I unplugged 
+Currently at the Apple Store waiting in line, 1 person in front of me.  Unfortunately there's a separate line for people who reserved it. 
+So I can sync music to my iPhone, but if I try to sync any app iTunes crashes  is there any way to clear all the app data from the phone?
+@Howardsternshow why isn't Howard on the Sirius iPhone app? 
+@cindybrock that stinks. Have you tried AVI? iTunes may want to convert it no matter the file type. 
+Kind of makes me sad that I'm not lining up for a new iPhone. Then again, not even released in IE yet &amp; no Apple store here 
+@harrislacewell  How come I couldn't find your book on Amazon? Want it on my Kindle 
+I wish apple let you sync your contacts to iTunes. Since I jailbreak every time I have to upgrade/restore I always lose them 
+Apple's safety town graduation cancelled due to rain 
+Potentially no internets for the weekend at home.  Thank god for the Metro and the iPhone+Edge network (I never thought I'd say that...).
+When Palm Pre will hits Europe??? 
+This morning my iPhone became an iBrick. Looks like the dev version of OS3.0 expired, but iTunes keeps insisting it is up to date. 
+@TUAW But for US numbers only 
+Is not standing in line at the Apple STore.  
+Unless UPS pulls some sort of package routing Hail Mary, this weekend I'll be playing with my iBone instead of my iPhone. 
+Just found out his iPhone 3GS was in Sylmar at 5:55 am on it's way to Jeffrey's work. I'll see it Sunday tho 
+Apple now supports the MMS messaging but apparently it won't be available via at&amp;t until late summer...How ironic. I am bummed 
+Oh, no! iTunes says that because of volume, it may take up to 48 hrs to process activation!?! You gotta be kidding me  
+iphone 3GS at the Apple Store fail so far is a Fido problem 
+Nice Touch - AT&amp;T Customers, dial *639# on your 3G iPhone to see if you are eligible for the 3GS upgrade... (via @nicholasdr) I'm Not 
+@joereist I don't have an Apple Store   And I found out lastnight the only AT&amp;T store near me only had 4 32 white iPhones.
+i think I am the only one in America not in line for the iPhone today   maybe they will ship me one cause they feel sorry for me? #Apple
+@rainbowbrite15 no silly! i wuz using my sisters friend's iTouch... i wish i had 1 
+I do not miss working at at&amp;t on days like this.  Apple people are mean. 
+Demn! Batre Apple Remote abis 
+@MarciaHersh I feel your pain...stuck with Verizon and no NECC...No Palm Pre to talk about either...  
+Adding classic game types Bubblets Tilt as soon as the latest OS3.0 compatible update is out of App Store review...going on 11 days now. 
+@Delphine1974  I'm sorry. Waiting sucks!!!! FWIW, I couldn't even get in the Apple store today because I wasn't buying and iPhone.
+If it took Apple 3 versions to get the iPhone right, is Apple the new Microsoft? Say it ain't so 
+Having my first problem w/the Pre. Touchscreen isn't working in some places and I can't hear people when they're talking. 
+Hmm....strange. Ever since I upgraded to the new iPhone OS 3 for my iPod Touch, my volume slider disappears on me every so often. 
+My trip to the Apple store ended in failure. The line was too long for me to stand in during my lunch break. 
+@sofiafontes it's almost as if they posted my iTunes library... 
+@ashytaka EXCEPT!!!!! Our IT department blocked iTunes' internet access...so I can't activate it until i get home 
+Found old version of iTunes on web &amp; installed on old PC. Now doing from scratch restore and jailbreak of 2G iPhone again! 
+@ashlarr yup yup.  but my iTunes got all messed up. renamed my library (damaged) lost all songs  don't know what to do 2 get iTunes back
+@gaylondon Absolutely they'll have clout... That sucks so much. I feel bad for you that Apple screwed you around. 
+In line at &quot;The Grove&quot; Apple Store. They might run out   http://twitpic.com/7ttrd
+Whaaat. Skype calls are blocked over 3g networks due to contractual issues. So much for OS3 upgrade  it worked fine before in Canada
+about tethering on the 1st Gen iPhone: take a look at Apples Support Document: http://tr.im/p6fM and you now this does not work 
+i wish my iTunes would burn CDs without being stupid. off to work soon where i will be working on math.  
+I think the kindle DX is worse than the Kindle 2.  I love my Kindle 1 though.
+Looking for Jobs   I need one bad!
+Waiting on the Ipod touch 2nd gen Jailbreak . itouch 2g always left fa last 
+I can't wait for my new iPhone! Where the heck is my confirmation!  I shouldve just waited and bought from the NY Apple store.
+@jtbritto Pirate. I got a legit developers copy from WWDC but IT says I can't install it on my work machine 
+Walkn into tha Apple Store kuz my bitch ate my mac plug  grrr puppies lol
+@nyc_specialist COst 10 bucks to upgrade the iTouch with the new iPhone features 
+@jtesnani I retried to create a custom firmware and iTunes was not liking it.  *sigh*  I'm doing it the sanctioned way.  
+The iPhone is back in action with an Apple approved firmware.  Boooo 
+@bigepaz BTW- I decided to wait till next year for a new iPhone   I'm Apple comes out with a table/netbook thingy to spend my $$ on..
+@eldade @openhebrew did you guys figure out how to fix caller id? Apple seems to have changed this since 2.2 
+Apple Store only had white phones left, luckily my case covers it and you cant tell   When wife ran in ATT store they only had 2 white 32s
+@mmWine Does your Apple TV lock up / act funky? Both of mine do after about a week or so and have to be unplugged and restarted. 
+@nixterrimus I went to the Apple store to get one, and they only had white 32GB models left 
+Got my iphone and have to call Apple - just like the first one. Once they're activated; they're great.  
+Not what I wanted to happen on the way to the Apple Store   Just not my day today.... http://mobypicture.com/?7gtirg
+My #iPhones are named after horses, @brenden Seabiscuit was just retired  for Giacomo.
+After 4 solid hours on the phone with Apple and AT&amp;T, I have no 3G working on iPhone. Indefinitely, I can make calls, and that's it. 
+Guh, bus wifi is down and I think the unlocking ate my iTunes rentals. 
+is stuck in line at the Apple Store waiting to buy some bling for his phone. 
+r @codinghorror I would concur with your statement regarding iPhone, and iTunes. iTunes on the mac flys; iTunes on the PC is a dog 
+emptying Trash with thousands of duplicate songs from iTunes. hope i did this correctly. 
+iPhone joy is shortlived. The Apple &quot;expert&quot; deleted more than half of my contacts during the transfer. Including my date from Tues night 
+@z3bbster thanks for the Palm Pre update - i know a few people with them.. one thing i know is that they are not happy with battery life 
+@Kaiser_Machead hahaha yeah i always enjoy going to computer stores. especially those of the appleian descent. --but tek serve = 
+Can't get Palm Prefection theme working with my 3.0  On the flip side, I get Blackberry theme to work... Joy for Jailbreaking
+@KRAPPS Unfortunately, I've seen people with the same mindset over Apple products. 
+@michelleebelle sweeet we match! except my teeny little iTouch doesnt measure up to your big bad iPhone!  oohh well. im just not that fab
+@christinerose  They aren't on the Kindle.  They finally released LotR on the Kindle (plus other Tolkien works)
+i only have $0.62 of iTunes credit 
+Looking for novels to read on my Kindle on vacation. The most recent two Hugo winners don't have Kindle editions. 
+@jsuplido aargh! It's not available on the Philippine App Store 
+Seems Apple changed the USB ports on the alu macbook (5,1) so that it puts out - pwr than before. Need powered hub now for audio ixface 
+The 3GS is super fast but won't sync with iTunes! Something may be wrong with my phone  
+Read Mr Frys review of the iPhone 3GS - finding myself fall further and further into the pits of phone envy 
+@palm Enjoying my #Pre, however a bit sad that there are things my Centro could do that the #Pre doesn't yet 
+Stuck at work for another 12 hours  Thank god I have my iPod and iPhone. Other news, Lendinkegul? lemonade beer is pretty damn good =]
+I'm in my favourite store , the Apple store &amp; cannot afford what I want at this moment in time  new MacBook &amp; Apple TV will have to wait.
+3 times now, iphone crashed by windows iTunes while upgrading OS. Need factory reset  Does this happen to other windows iphone owners?
+Soooo, uuuuh, what do I do if all the playlists on my iTunes got erased? 
+@marknca From what I heard the Apple store is going into the Rideau Centre, they are hiring now. I can't tether  ... 500 MB plan
+Apple will replace my phone, but without my computer I'll lose everything! So now I have to wait until monday to replace  at least it' ...
+Apple's Steve Jobs had liver transplant in Tennessee 2 months ago.  I'd provide WSJ link, but it's for subscribers only 
+@shawncoons I believe ATT won't support the feature until 'late summer' if I remember the announcement at Apples WWDC last week. 
+Just found Supaman High by R. Kelly on #midomi Ultra for iPhone. http://bit.ly/18AEIy  beat had such potential... 
+If the daily AppStore download report is too good to be true you'll get an email from Apple the following day saying it was wrong 
+Using webapps on the Palm Pre...like the old ghetto iPhone days. Have to do until more apps come out 
+Has anyone been able to use the streaming live video in MLB Gameday for iPhone? Blackout location check fails every time 
+Resubmitted AirCoaster 2.5 (with the audio fix) to Apple with an email to the reviewer to beg them to not send me to the back of queue. 
+@Tanelg um it's the one you updated with haha. I think you're supposed to dl it from apple. I don't know where iTunes puts it tho 
+@thecoleorton my 3GS has got to go back to Apple 
+Big day at the Apple store. I would wait a week if I were you. To confusing to upgrade the IPhone now.. But try if you must I did 
+I'm sitting discovering the joys of Spotify, and thinking I need to get going for work, but wanna find my Stylus!!!! 
+I've had my new #iPhone 3GS for one day, and I already miss my Five Icon Dock, Fivelrows, and Mobileinstallation Patch. 
+I would like to send a shout out to my mom.  I love you to death, but my entire iTunes library is ruined. WHY?!  
+Another day of the Apple store saying no upgrades.   Calling again tomorrow.  Wondering if I should have just ordered on the phone.
+@changingmylife Damn I don't have a MAC to run iPhone Tether Application   Hay otra forma?
+@ijustine The Verizon wifi card was slow and for some reason had a hard time connecting to my new Macbook. Not a pleasant situation 
+Awesome Aussie-developed Commodore64 emulator for iPhone&quot;initially&quot; rejected by Apple http://tinyurl.com/lx4ppf 
+So sad because I just realized that I've only had my Palm Centro for a little over a yr which means no Palm Pre until next year. 
+Run'n through my iTunes, I need more music 
+Still waiting for the @beejiveIM update! Apple are just being plain nasty now! 
+@nkangel74 I don't know what's wrong...I can't see Tab's either 
+@ the Apple store my mac need fixing 
+@unegami My laptop refused to start up so I took it to the Apple store &amp; apparently my hard drive just decided to stop working. 
+@amyhahm My laptop refused to start up so I took it to the Apple store &amp; apparently my hard drive just decided to stop working. 
+its official. my iPhone is dead. Apple killed it somehow while I spent 4 hours on the phone with their support. no calls/texts until tmr. 
+Epic hack FAIL. Changing iTunes ID in XML and .itl database file only works in versions previous to iTunes 8 
+Wondering why the Zune Car Pack is so expensive - $70 for an FM transmitter and charger? $80 if you get it from Kmart. 
+@brianseitz And now my Zune is dead again. Hard drive won't spin up. 
+B: I'm sorry  Guitar and an iPhone, though! You're sounding more and more like me. It's fun. You could..sleep more. I dunno. Kinda limited
+Good news: I got my iTunes to work. Bad news: I STILL can't update the music on my iPod! 
+My iPod's acting retarded right now. It's just not working. I have to bring it to the Apple Store. 
+At the mall. Got a haircut, no luck gettin an iPhone. Last attempt at Apple was unsucessful. Boo. 
+No luck gettin an iPhone today. 2nd attempt at Apple was unsuccessful. Boo. 
+Are iPhone Notes supposed to sync by plugging to iTunes only or via MobileMe too?  Haven't successfully figured it out.   Anyone tried?
+@Karageorgakis yes i have the lastest version of iTunes, I reinstalled several times  and restored my iphone.
+my hubby's having Palm Treo problems. He can't get on twitter. 
+I'm not so great at this Star Defense Game for IPhone/IPod Touch 
+sofar my iphone is useless since updating to os3.0   Right now Apple feels like M$. I never had this kind of issue with apple updates BF
+Lost my phone  Lifeline has vanished! So I activated and am using old Palm Treo for now. Pheww... am still connected to the mobile world!
+@4thirty5  that is the saddest news ever. Zune salute to you.
+is really enjoying TweetDeck for the iPod Touch. Sucks that it's crashing for you, @kmerten. 
+Full Commodore 64 Emulator Rejected from App Store http://bit.ly/WaluU - BUGGER I'd been waiting a long time for this app 
+@iPatxx Nope our store iTunes Store is  crap we don't have it! 
+@Aydsman is iTunes always going to be an issue with Windows 7? Because iPhone depends on it apparently .... 
+Apple rejects Commodore 64 emulator from App Store  http://bit.ly/127gYp
+Trying to put JONAS - Fashion Victim on iPod but going really slow!!  &lt;3
+iTunes doesn't work on wine 
+iTunes is being really slow 
+Apple rejects Commodore 64 emulator from App Store  http://bit.ly/127gYp (via @chrisgarrett) -Me: Man, that really sucks 
+@wollepb @jamesclay @hiabowman @robthill Thanks guys. Apple mac inevitable, just other things I'd rather spend money on right now 
+#Songbird doesn't let you reset the play count of a track??!?! WTF is up with that? That's such a simple feature! Back to iTunes I go 
+@ihackinjosh beejive &amp; 2 more app will be out with their push versions soon. But all of them mention that we will need MobileMe account. 
+Does everybody and they momma have a iPhone3G? I miss my iPod Touch  The 3.0 update sounds good..funny how excited ppl get over copyNpaste
+@xstream MobileMe is not required for Beejive push. Apple getting around to approving the app is though. 
+@Mac20Q haven't upgraded the iPhone. Still got the 3G one. Haven't seen anything from Telefonica yet about upgrading it. Doubt they will 
+@techiekat I AGREE! doesnt match up to Apples App Store standards 
+I'm planning to buy a Dell Mini9 on next payday for the iPhone application development... poor me 
+Help! Has anyone got a post code for Brunel uni SU - can't load the web from iPhone en route. To #AMSU conference   
+Gonna start rummaging round the flat for things to sell on eBay, first thing to go is my 5G iPod, new iPhone will make it redundant 
+@TheBookResort - I am there with you. I have books coming out of my ears, but still purchase books on Amazon or at the eBook store. 
+@atebits &gt;1week w/o Tweetie search (iPhone) and still no update on iTunes Canada? Patience wearing thin... 
+Apple rejected OmniEX three times!?!?!? They need a demo account, but they still get it from me. 
+@Diaboundd22 I'm having the same problem with the iTunes app after using redsn0w  hopefully quickpawn for windows will be released soon.
+Re: Tweetdeck for iPod Touch: I tried, I gave up. I tried, I gave up. I tried, I gave up. I tried, I gave up. I tried,... I gave up! 
+Just read this about the Amazon Kindle DRM.  http://bit.ly/rBJG3  I don't think I'll be rushing to buy one now, when it launches in UK.   
+Another rainy day in Bremen.  Making the best of it while playing Wii, watching TV and searching cool Phone-Apps.
+I'm setting up the new Palm Pre!!! Installing bunch of apps, which are all but useless.  However it's Palm!!!!!
+Apple can't even fix my own MobileMe problem - took them 45 minutes to troubleshoot and they couldn't figure out the fix to the problem. 
+I'm so down... I really hope to win #squarespace iPhone gift card. 
+Old iPhone contents copying to new iPhone. Sloooow. Might've been done by now but for the fact that a text message killed my first backup 
+Sittin here on the bus, on Highway 101, thankful for technology, esp Sidekick's, cause I got a long way to go... 
+@GeminiAngel24 I am, but it's going back to Apple 
+@pauliecee Yes, seen her live a few times too. Having to Spotify the album because Play haven't shipped it. 
+I chatted with someone on the online Apple store and they said it would be better to buy a new one. I don't have $200 to waste   
+@mitchelmusso are you gonna put the music video for &quot;hey&quot; on iTunes anytime soon? i REALLY want it on my ipod, but it's not on iTunes! 
+@LarryFlick I love the star pilots song you play and can't get it on iTunes 
+Left the Apple store, the hard drive on my IMac died so I'm a week without my computer  I have to say I was tempted to get that Iphone.
+Still waiting for Apple to finish fixing my MacBook Pro.  5-7 days, my ass. Can #squarespace make me feel better with an iPhone 3GS??
+@Malechite I wish I could tether on my Palm Treo 
+@mitchelmusso are you gonna put the music video for &quot;hey&quot; on iTunes anytime soon? i REALLY want it on my ipod, but it's not on iTunes! 
+@chrwb It's broken  Dropped it at work, tried getting it fixed with Apple and they declined. Might buy the iPhone 3GS on Pay &amp; Go now.
+@arlodesign the G1 does as well via an app. myTouch should at least be similar. Included/exclusive apps aren't on mine yet. 
+@benzado Just tried it and Xcode sits at 'Waiting for Device'.  I'll give iTunes 7 a try later and hope that works.
+@JonathanNail Mornin', Nail! I didn't get my iPhone yesterday 
+Sending iPhone back today . . .   Apple does a good job at making you completely reliant on their product then yanking it away! ;) j/k
+@Kardiac I just think now that Apple has a model of revving it every year it conflicts with how cell subsidies normally work.  Ick 
+@palm_scout Unfort Sprint will not match my current phone &amp; data plan-its looks like I'm stuck with the BlackBerry Pearl. So no Palm Pre 
+@palm Unfortunately Sprint will not match my current phone &amp; data plan- it looks like I'm stuck with the BlackBerry Pearl. So no Palm Pre 
+@MilfordTimes I think Apple/AT&amp;T like to see how many hoops they can make customers jump through. It's frustrating sometimes 
+Apple realllllllllly needs to give us the ability to reinstall backed up app data on an app-by-app basis. I miss my Palm.  #iphone #apple
+Oh. My mistake. 2 things then 1.  My site is GetVideoArtwork.com which is for iTunes Movie posters FYI 2.  Card still hasn't come  ideas?
+is upset that I can't get the new iTouch software update because I have a 1st generation touch 
+@amyxo I really wish I could have 'Heroes' by Cook on the work Ipod but the beginning is too rocky  the rest is perfect tho! XX
+@xCyrusx @IIFOXHOUNDII Apple Juice = heart burn 
+I could get a BlackBerry Bold from Amazon for only $50 with contract extension, but.. have to add $30/month data plan.  I want new phone..
+Didn't go as expected, PwnageTool doesn't work on Mac PPC 10.4 Updated to 3.0 on iTunes and tomorrow will Jailbreak with Redsn0w... 
+@mikeb3408  That's awesome.  I was reading TUAW and they were mentioning that story.  I want to use it but not for $100. 
+Didnt win the iTouch 
+right now all the culture I'm getting is my iPod and a few snatches of Preview and the Inquirer 
+Wow, Palm Pre support pages look like ass on the #PalmPre. 
+@brandonleblanc Zune software is okay, but when I play music with it, it doesn't count a a &quot;Play&quot; for the &quot;Social&quot; so I went back to WMP. 
+@suntattoo66 Apple only supports 2 formats of Bluetooth which is only handsfree stuff crap considering they're state of the art 
+@implus &quot;Waiting for Apple approval&quot;... still. 
+@spaceinvader91 I can't believe I have to wait a week for Apples to Apples!  But yes, I enjoyed the movie. It's exactly what you'd expect.
+MacBook will not boot from SSD at all now. I hate you Apple! Tempt me first with nice hardware, then fuck me all over! I feel used! 
+@i6laswegian haha yep, so unfair weve got the 2nd biggest Apple store, which has the longest Genius Bar in the world. Go figure 
+last day of Apple Cadre.. 
+@Rellacafa I found a link from @butterflyb's US iTunes page to Marie Digby who sounds cool, but not available from Aus iTunes. 
+my Apple leopard on VMWare runs so slowly and not worth waiting and bandwidth that I committed into it 
+Oh balls, nevermind that last question, seems as if you have to have an Intel Mac to be able to create iPhone apps 
+oh great. Finally good my first piece of good news today from goDaddy and Apple, and now I have a major head ache! 
+ugh, my Sidekick 3 isn't working!  it's not letting me on the internet.
+we've re-submitted Commodore 64 for iPhone to Apple for review - hopefully all goes well. (via @manomio) &lt;- Sadly BASIC had to be removed 
+Steve Jobs called &quot;perishable asset&quot; 4 Apple by NPR. Cold way 2 refer 2 some1 who's been so sick  http://myloc.me/5Amf
+So evne though my issue with getting the pre connected to Outlook Live wasn't solved, Palm closed the ticket 
+@Tetanus Apparently   I had assumed the ~1 year delay on Push Notifications was Apple implementing it over SMS etc. rather than polling.
+I miss the people from the old days...Gametap, Helio, Htc...I don't have any nerd friends anymore 
+@jzdziarski Fuck Apple, let us Redeem codes for the App Store. And while you at it, let us use iTunes gift cards for the App Store too! 
+@manomio too bad BASIC had to be removed ... darn Apple! what are they afraid off?  #C6W
+@tnkgrl That's why there's still no official Qik App in the App Store and Sling is limited to WiFi only. 
+@p0sixninja tks, but this time Apple made things so hard. They hide all the weak points in the board  all ICs is the newest model ...
+I noticed a lot of Apple product placement tonight  #hhrs
+Skype for iPhone + VoIPover3G, now we can easily make voice calls over 3G or GRPS/EDGE. Cool stuff, thanks to Open Source community 
+Most awesome.. Built a fileserver/NAS/firefly server serving up my music to iTunes. 
+@rokchic28 no probs, I sell nothing other than my blog http://snedwan.com  I'll have to get a listen to your band, on iTunes?
+Stick around ... we will soon unveil Hacker Evolution for the iPhone/iPod 
+Just installed Facebook and Twitterific apps to iPod. I'm excited! These are neat! 
+Getting the new update for iTunes 
+@adamcurry It's hugely significant that Apple was the first company to bring Unix to the desktop with viable commercial app support. 
+@nikipaniki lol at your Fiona Apple comment. Yes some of us born in the 70's (77) know who she is. 
+@shartley I hope you got your @MacHeist super dooper ultra mega unlock. 
+@mlewis106 Everything is as normal, AppStore and iTunes all work fine 
+Getting a new iPhone from Apple!! 
+Just ate some Apple Jacks. I want some more 
+Up! This weekend should be fun! I'm probably making a stop to the Apple store. 
+So with me this weekend are: iPhone, DSLR, Camcorder, Shades, Chargers, Tickets, House keys, Revision stuff(no escape!) and that is all 
+@cmogle No Kindle. But I did return with more *real* books than I left with... 
+Here's a little snippet of information for you. Sparkling Apple Izze's from Starbucks are delicious in my mouth 
+@patdisco omg panic at the disco  I'd buy more songs if iTunes didn't raise their prices &gt;:O... now I'm finding an alternative =/
+@raintenshi It's on the site...Getting it on iTunes now 
+A May 17 release for the Palm Pre would be awesome since that's my birthday!  Hint Hint Sprint
+btw thanks Apple for the new iPhone 
+Now that JavaOne and WWDC are back-to-back. Hoping that I get to cover WWDC for Manila Bulletin this year. 
+@ruthy23 Yumm. I love meringues We've got Blackberry &amp; Apple crumble. 
+@gracesmith and yes, I'm following you simply because you're an Apple fangirl....Apple rocks! 
+@SarahStewart watching One Bad Apple Live right now  http://twurl.nl/yqxmgy 
+One word...Apple Jacks   YUM!
+@MsShan22 iTunes, Amazon and everywhere 
+@ARIA30 thanks so much! I hope so too, once the album is launched proper then there will be gigs. Hope u left a review on iTunes!  x
+@tawnyheath Are you going to get your song on iTunes so we can buy it?  
+@franquiz55 If you were a true Apple geek like your profile says, you would buy your movies via iTunes. Just saying. 
+I am determined to be the billionith app downloader on iTunes! I soo want a new laptop! 
+FixTunes is chewing its way through my iTunes library  Ahhhhhh
+@shaneshort It only took Apple how long? 
+Apple Newton I saw yesterday  #gadgetshowlive http://twitpic.com/3ngkr
+Thanks for the heads-up! @TeeMonster I should transfer that one to my Kindle 2 for better heat dissipation due to its big aluminum bottom 
+@KateEdwards the key of the app store is having an iTunes account. Once you have that it's just joy 
+@iasher Buying a new one this year, so I didn't invest on the Leopard. meh! Web or Destroy Twitter does the trick. Plus I have my iPhone 
+bed, up early to read my world art book, class 12 to 6 at FIDM then off to Apple 
+Remote on iPhone + iTunes on laptop + airtunes wireless link to stereo = Win 
+hoooray for eBay listings being bought!  (I am again using the Apple Store's internetz!)
+Likes sitting in the Four Seasons Starbucks stealing Wi-Fi and using Tweetie OS X before he goes for a swim! 
+The Apple Evolution ---&gt; http://bit.ly/1ayyj7 nice  (via @wilde_amazone)
+@VividVisions we won't fix that as it's a safari 4 beta bug -- you can help make the web better by submitting a bug report to Apple... 
+@th_in_gs Curse them, they're always making people buy their products. Personally I think that Apple logo hypnotises people into buying. 
+@garyhills Haha, of course not - thanks for link! Just got ITunes installed on other PC, ready to download 
+@inc_mpletexx I'm going to Apple tomorrow. Thank goodness for warranties.  But until then, I'm tapping everything out on my iPod touch. :|
+@lokeuei I really like my Zunes 
+@gene_moore It was worse than that...Apples to Apples. I promise better pics next time. 
+@acWho Good.. BRCM will lose some business. We never sold anything to Apple... and we're drilled into loathing Broadcom 
+@AlexMaine It can be done  Throw me your iPod's UDID via a DM, and I'll add you. (can find it by clicking your serial number in iTunes)
+@stuhelm For once I'll be fully on the side of the Apple community on this one 
+Upgraded to #Android Cupcake. Stereo Bluetooth. Much better camera. Video added. Works faster. Niice! 
+Just got back from the local Apple store to get this neat AKG headphone to stop bothering my gf 
+I'm in a Fiona Apple mood today. 
+I LOVE iTunes Movie Rentals! 
+@nsxdavid fwiw I've been unable to re-install the old version, even manually. seems iTunes got the new one and won't revert. no geo 4 me 
+Apple Store -&gt; free Wi-Fi -&gt;  http://yfrog.com/55cltj
+@Sidekick28 ta for the followfriday! 
+As part of our errands we have to stop by the Apple Store - the things I must suffer through 
+@JCred No. I'm eating right dammit. Apple Cinnamon rice cake it is 
+setting up iTouch... sigh 
+i'm sooooo NOT tired...guess i'll spend some time on the biz...reading/writing...  thanks Friends for an entertaining evening! I &lt;3 Apples
+is on twitter and facebook and youtube and hotmail and Microsoft Messenger and tacking pick's on Photo Booth and on iTunes all at ones  !!
+@alvinko Just got Tweetie for my iPod Touch, pretty sweet ha but have you got a chance to listen to Fleet Foxes yet? They're at Lolla 
+I can't believe that there is going to be The Sims 3 on the iPhone/iPod Touch!  So getting it! =P
+@liveatc - Good to hear the App will work with the iTouch 
+iTunes Terms &amp; Conditions are a little too strict  http://twitpic.com/4gzn1
+@hotmanila Haha sobrang pinagnasaan ko yung Foleo. But yes, it's expensive. Hope the Foleo 2 will be less pricey. Good luck sa Treo mo. 
+The Creeps: my very first purchase from the iTunes store. Yeeha! I love this app 
+@pinaldave overjoyed about what? share the cool app names you're trying out! 
+is glad Apple had a idea of magnetic power plug in laptops ... otherwise his laptop would have been long dead 
+go to iTunes - search liberty university or ergun caner. there are free sermons 
+Another week of 100% free &amp; confidential psychic readings starts today at 7pm east/4pm west.  Call 888-454-2751 then &amp; listen on iTunes.  
+downloading songs on iTunes... 
+Hello app reviewers at Apple HQ! 
+@Rhispect that song is #5 on my top 25 most played playlist on my iTunes 
+http://twitpic.com/4j4u9 - autographed iTunes photo of @dannygokey1 
+That's the Birthday Boy's iPod Touch and DSi set-up and sorted. Just to think I would have been happy with a ball + boots at that age! 
+@sonwright I'm an iPhone owner, so I don't really have a choice on which media player I use. FYI Apple makes terrible Windows software 
+Greg:Showing my friends AudioBoo http://audioboo.fm/ Everyone seems 2 love it. Ta for the headzup bro. So need 2 get iPhone. Roll on June 
+Oooh! Apple are in the trending topics again! xD Yay apple! 
+Less or more iTunes tuned up 
+I'm wondering how big the rumored new 'large screen' Kindle will be - http://is.gd/wyFI -and when we can start seeing K12 textbooks on it 
+NIN App Gets Rejected by Apple, Reznor Threatens to go Jailbreak - always entertaining  http://viigo.im/sXB
+@tristyB thanks, I couldn't find a way around it on iTunes though, found a little app called Switch that did the job nicely 
+@RavenousReader BTW, thanks for the gifts.  I'm wearing my shirt, having a dunker and Apple loved that chicken soup; just what she needed!
+Sent Twitterville 1.2 off to Apple for review  More screenshots etc will be released later this week.
+@DarkPiano I have my iTunes playing and one of ur songs just came on 
+@AsunUnique  Apple has done some impressive things for my almost 2 year old macbook. Except when I poured coffee into the keyboard. 
+Scream just played on my iPod. First thing that comes to mind, BEAR MACHINEEEEE!!!! Lol 
+Getting ready to go to the comedy club and listening to some Q-Tip  Who's on iChat or Skype right now? I need an outfit critique
+I love these App things, it be hella awesome bro. 
+Restoring new iTouch 2.  Excited to use it. Yeeeeeeeee. Goodbye iTouch 1.
+Restoring new iTouch 2.  Excited to use it. Yeeeeeeeee. Goodbye iTouch 1.
+Just got back from Apple Store in Robina. Managed to get a replacement iPhone because it couldn't access the web properly. So shiny 
+damn - Apple store is down for updates... what's coming, I wonder? 
+@markparton just going through some of his tracks in iTunes and buying his awesome tracks I don't have. Loving it 
+@jussinen I've just gone back on and can't see anything too obvious. Who knows, but off to the Apple store today anyway 
+Digging a downloaded film with mi familia. We love iTunes 
+Just found out I'll be a Food Engineer in a future life. Cool. *iPhone app called Afterlife 
+@82Apple yeah thats basically what it is 
+@mitchos I have only just downloaded Spotify! Bit late on the uptake I know..how good is it 
+@wolwol The App Store  The iPhone version is ad supported this free.
+@JadeLittish i got paranoid off iTunes 
+spending time with my mom and putting music on iTunes. 
+Is at Robina losing his Apple Store virginity 
+@eeeethannnn you tweeted &quot;apple&quot; so i was guessing the rest of your tweet. PCs suck. Apples rule. 
+@maxsummers btw Kindle vs iphone is a trick question - since there's a Kindle app for the iphone 
+Should be going to bed because I am exhausted but playing with my new #Kindle 2 instead 
+just bought paranoid on iTunes! you gotta buy it 
+@JennaMadison oh...getting settled in the studio and playin on my iTunes...got some cds to rip lol lol 
+Woohoo!  SendIt4.me (iTunes link http://is.gd/yVcY) is number #98 in the Photography category in the Netherlands. Small win, I know 
+iDay is cracked since last night! And the anti crack module is working well  could be start 5 times for testing then buy it or leave #iDay
+Nimbuzz V1.2 now in Apple store...1.3 coming soon 
+Thinks you should all hit iglu&amp;hartlys album on iTunes  http://itunes.com/igluandhartly/andthenboom
+bleh, turning off MobileMe sync. Popping up every 10m asking me to replace all data on my computer is not a longterm solution 
+@snowded Scribe &quot;I just don't get this rush to vellum from stone tablets.&quot;  For me, the Kindle is about potential not current product
+Oh cool it works! Tweeting from my Palm LifeDrive  
+@markbate Yes! Every few weeks I think to myself: &quot;Who the heck are Apple Unicorns?&quot; 
+my fingers are callased from playing guitar and won't even register on my iTouch!! Lol 
+How did i manage to go out for drinks last night with the Apple staff down here lol didnt kno anyone.. hopefully they wont forget my face 
+@PalmPreApps Hey guy the link for Palm is dead! 
+@nucof I can see it!!!!!    Apple software is very wise
+sitting in Starbucks with my Mac feeding of the Apple stores internet. fantastic 
+Oh what great timing Apple checks have.  it sucks my new direct deposit didn't go through tho...oh well. We take live checks too. :-D
+*begins scary laugh w/ crescendo*   @GraphicStart: New Apple iPhone (leaked photos?): http://bit.ly/HtErd
+Garden State it is for tonight's iTunes rental, thanks to the suggestion from @sarebeth 
+Apple store coming to Roseville! 
+@qcevolution tha Super C cover!! Though here where I live it's tha grey on iTunes but IDC 'cos it looks goos &amp; still get tha artwork!! 
+@jennafurbee those will be the first ones I check out on iTunes! And then I'll probably kick myself for not going to the concert, eh? 
+Endlich approved!  http://is.gd/AFpJ [iTunes-Link].
+@smartpen @livescribe Thanks for the message. P.S. Livescribe Pulse Smartpen has made my meetings so much more fun! 
+Just downloaded Twitterena from App store for 59p so far so good  love the little birdy sound when u get new tweets.
+Any player of Mafia Wars for iPhone/iPod touch out there?? 
+@kenloo Hey... they do have an Apple Store here in KL, they just cleared the forest we're in and we now have one in the city! 
+leave the Apple store, it was the magsafe, no need for a genius... 
+At the Apple store in Pioneer Place getting the ear speaker on my iPhone replaced! 
+@linssen uh yeah, I did that too! I am also that anal!  I like my iTunes library to be organized properly! ~ grin!
+I am twittering from a MacBook in the Apple Store...which is so much fun. 
+@ nan's        fun time at alysha's ;)         Belleville to &quot;Apple Bee's&quot; &amp; Shopping 
+Haha yes hi people down at the Apple store 
+@simoncurtis almost looks like a great ad for Apple 
+@derekpunsalan RunKeeper might suit as alternative to Nike+ for iPhone http://bit.ly/ZC9Lj - Pro version was free on iTMS for a while 
+I want a Kindle from Amazon.. those are super sick. And paperless 
+is proud to say that Tru Connect will be making it's first debut on iTunes and all major music stores with the 1st single in 3 WEEKS!!! 
+I just payed by iTunes debt of 79 pence I'm a free man again! 
+good morning twitter! Getting ready for school while listening to my iTunes  tweet ya laterr
+@paulshadwell so let me just check the flights to Zurich.... LOL  One day Apple will acknowledge Perth's Apple fans, aah yes, one day...
+@divabat Yes. I've bought all my music from iTunes for a couple of years now, and all the music on there these days are DRM-free 
+Uploaded Pixel Interaction Volume 2; should be on #iTunes in a few weeks.  http://tinyurl.com/alice-iTunes #music
+@jonoble having iTunes for me is a requirement 
+Spent 0.99 and bought Underworlds, now on sale in the iTunes store 
+@stingerx Playing Treasure of Montezuma on my iPhone 
+Listening to @electricfm, so far so excellent, adding bookmark to my iTunes 
+reading on new moon page and downloading iTunes once agin to get the free audio chapter of NM 
+@Lauratheexpat Apple cinnamon #muffin for me 
+#Apple please make #iTunes #music available in #Russia! We are many and want to BUY LEGAL music, too! russians, retweet 
+@blam Gizmodo wouldn't happen to be taking high school journalists, would it? 
+@sohailanjum Just bought &quot;Fairytale&quot; off iTunes  If anyone knows where I can buy &quot;Foolin'&quot; from, lemme know! I want that track!!
+Trying Apple Font Book for font management. Any horror stories or killer tips out there? Did you see what I did there 
+Full page O2 Joggler ad on p8 of today's Guardian. 
+&quot;Understanding Apple, Part 2&quot; http://bit.ly/bypu8 ~Software is at the heart of it all, as we saw in the &quot;Pirates of Silicone Valley&quot; film 
+@danoliver it's support for exchange is practically non-existent - I'm using Mail App and am a lot happier 
+@kidOhri  XDD no problem^^ I'm gonna download the song when its on iTunes. I can't wait til the soundtrack is released 
+is it me or have Apple bundled subversion with 10.5.7? If they did, cool 
+Shopping for apps for my iTouch! 
+@flyingspatula Really?! I've never seen it happen before.  Gah, this will be my fourth visit to the Apple Store this month! This sucks. :/
+@oxleyj Sadly, she is right. Here, the money we save with little Linux netbooks and Sun Terminals will go towards decent Apple Laptops 
+@cfong42 and that's another reason why I love you.    I fell in LOVE with Allison from the start. I dl'd all her songs off iTunes!
+#mindboggles: When Apple creates proprietary software, it's revolutionary. When anyone else does, it's a #fail.  
+My first acupuncture session. Interesting. Also, just walked by what seems to be the opening of the first Swiss Apple store - shiny! 
+I love my iPhone, I just placed an Amazon order while I was on the loo! Perfect! And it's a nice sunny morning too 
+50% korting @ ZAGG (Invisible Shield voor Mac, Nikon, iPod,...) - gebruik &quot;memday09&quot; bij check-out  #invisibleshield
+@nachojohnny B Cox, when's the next time you're coming to the Apple Store?  I didn't get a chance to help you last time you came in... 
+Film crew in front of Apple store Zurich. #aszh Almost more people gawking than in queue  http://yfrog.com/5eylej
+Whole computer = jammed -&gt; Apple - please release a macbook (pro) with 8GB ram - I will then convert -&gt; I need more power 
+Got my iPhone working again. Xcode restore didn't work, but option-click and selecting the beta image in iTunes fixed everything 
+Finally I have my own iTouch. So I can give my Nano's to my sist as a g'day gift 
+Nice  TheNextWeb.com: An Apple Tablet does indeed appear to be on the way - http://tnw.to/4K
+@dmclain55 ubertwitter is better.  Slacker is better.  And of course workexpress 
+I read somewhere: Apple's modus operandi: Enter a new market late, and wipe everyone out. ------ very clever 
+I can finally listen to electricity really loud on my earphones  buy that single. Its only 99cents on iTunes its by @jonasher, copp that!
+d/l some audiobooks to my Shuffle to keep me company while I work outdoors this weekend ... a good book and gardening at the same time!  
+&quot;The Next iPhone&quot; by @gruber http://bit.ly/1UoK5J ...rocks Apple-style: Faster, more memory &amp; finally a better camera! 
+@msars including the hastag in anything would be really useful, especially for us cack-handed iTouch users!! 
+@MaraBG Same with me, although I am on a BlackBerry  shall try to kepe an eye out  #followfriday
+@mkempton I won The Players at TPC on Tiger Woods for iPhone the other day 
+For those who ask how I afford the iTunes cards, etc., I have sponsors who pay for them  That's why i put few ads a week on twitter
+All chores and paperwork done...Jobs a good'n, now for the weekend!!!! 
+starting fatcyclist.com 100mi to nowhere (or 100laps of Infinite Loop @ Apple for us) w/ @Slonie , I just happen to only have one gear 
+@shanselman Just saw that on Google news. Really fascinating and exciting at the same time - even as an iPhone/iPod owner. I want one! 
+@jessicfor Saw your tweet and had to open iTunes and listen  I love that movie!
+All of them! Apple strawberry watermelon grape and cherry 
+I love the tune on the Apple App Commercial, Do you have it as a ring tone?  #jtv http://justin.tv/ijustine
+@heresmyhello92 If ur willing to call 911 for me than I'll look into Itunes just for you. 
+@evasnee The Walt Mossberg allthingsdigital blog post about the #Pre, windows mobile, android, nokia, iphone was heavy on UX. 
+r @lokeuei Wow Checkout the Zune HD hands on video!! http://ping.fm/Oxtru LOVE the UI  [yep, nice!]
+@cancersurvivorx LOL...you're right...saw Tab during set-up...pure jokes 
+@cognoscento I started iTunes Genius based on that song and this song was on the list.  One of my faves  ? http://blip.fm/~78s39
+@far1983 arre no US mein that stupid FOX news showed FF as no.3 most popular search engine after MS and Apple!!! 
+@jefflyndon that will last until the next version of iTunes comes out 

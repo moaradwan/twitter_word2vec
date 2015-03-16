@@ -1,0 +1,661 @@
+Most common words for this cluster:
+[('have', 208), ('monday', 158), ('friday', 146), ('sunday', 140), ('got', 95), ('saturday', 81), ('day', 65), ('morning', 63), ('tuesday', 62), ('today', 60), ('night', 49), ('weekend', 45)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Friday', 0.7039920091629028), (u'Sunday', 0.694619357585907), (u'Monday', 0.6903084516525269), (u'Saturday', 0.6816340684890747), (u'Thursday', 0.6813493967056274), (u'Tuesday', 0.672335684299469), (u'Wednesday', 0.6606626510620117), (u'Have', 0.6131840944290161), (u'in._www.mtvpress.com', 0.6092236638069153), (u'Get_HuffPost_Los_Angeles', 0.6007497906684875)]
+
+
+
+
+
+Can't sleep again. Face is kinda swollen. Don't let me be allergic to the thing that'll get me to Thursday. School tomorrow? Doubtful. 
+*Sigh* Rain??? Why did you decide to show up? Move away! You were not invited to the Tuesday-party  (this is not the start I hoped for)
+...another long day ahead. I think my voice may be returning, but my head is still pounding.  Is it Friday yet?
+Meeting Time!!! Is it Friday yet??? 
+@HasmukhKerai I Know, highlight of my Tuesday breaks from revising/essaying is OTH 
+So bored.  Need something to do on a Friday night.  
+Not looking forward to Sunday. Would rather be doing something else. but I am now obligated. 
+Been up since an ANNOYINGLY early hour for a Saturday, laying in bed attempting to fall back to sleep....it is evading me 
+@StephanieDrumm They say 75 today and snow on Monday  Gotta love Michigan
+Just about to leave. Have a good Saturday night guys, i'll be studying all DAY tomorrow 
+FAIL FAIL FAIL today. ABC starts again on Monday. Can I call this week practise?  I'm so fat and I have no scales.
+@aimers69 4 new caches in griffith park. Don't think FTF will still be there for me on Tuesday 
+Made my flight and just landed in Dallas.  Have to try to sleep so I can do Sunday AM... Starting to feel sick 
+@katiep68 @3rika Might have to make the next Taco Sunday. Got a story to finish and tonight's not looking too promising 
+Back in The Vault, arrived 30mins early as forgot it was Sunday and there was no traffic. Have to wait till 10:30 for Starbucks to open. 
+@traceylien Ok no worries I will speak to Mark, the ed, on Thursday. Haven't heard from Dan since Oct  maybe get a Fasterlouder ed too?
+Had a great week at work. Priscilla the Queen of Evil was on vacation but she is back Monday... 
+Need another 1000 words then I'm free of another assessment until Friday's exam   (I hope you're having fun in NZ Tristan!)
+Awake. Nice and early on a Sunday morning. Thanks to my child who wants to be an alarm clock when she grows up. Keep up the good work. 
+Just woke up... Want to go back to bed!! Watching teevee! Todays Sunday and I get to go home... But don't want to go to school  text meee!
+@heidimontag It's Monday here. Wasn't able to go to church yesterday. 
+Working on a Sunday. . . this is just wrong.  Got tons to do before tomorrow though.  
+Got a headache and it's Monday - could things get any worse?  
+@josephcorreia good morning bud. Have 3 workshops conflicting this afternoon. May struggle to attend yours 
+Morning peeps.  Another Monday morning  Only 3 days of work this week tho for me. Have a good day one and all.
+Got doggy back this arvo, crucius ligament is ruptured, she'll be having surgery this Wednesday  My poor girl. Also, my poor wallet, $860.
+is exhausted on a Monday! Must be the hard rain last night  Couldn't sleep eh   http://plurk.com/p/p4nhz
+Monday morning... Another day to do my soldiering skills. Argh. Got to love mondays 
+Let me know how your wrist is doing.  Have a good week.  Love you.  Off to work   I like Saturday much more than Monday.  Hahahaha
+@simonrim oh no that's terrible  Are you still going to be able to do SFTW on Sunday though..
+Can anyone here help me with getting some help on resolver one , sent email to company on Friday still no reply 
+Had a great birthday party Saturday night.  Thanks to everyone who helped me celebrate!  My Pens lost yesterday.    Bring on game 4!!
+Had a great weekend .................. it's a shame Monday has to come around 
+It is a yucky, windy and rainy day here in Maryland!!   Have a great Monday, my friends!! (((HUGS)))
+Tuesday morning. Awake at sensible time. Only drawback? Head still hurting. Get up and do things, or go back to sleep?  
+Forgot Monday= Inside Sport night, iPlayering it! I want Logan's job! Apparently 80-90% of todays rugby players will have arthritis by 45 
+Good Saturday morning lil kavities. Gotta go to work today 
+Have to work 11-4 today. Then going home and doing homework. Looks like its gonna be a fun Saturday.....not 
+New motor sorted. Have to say goodbye to my beloved Rover Coupe next Friday 
+Damnit! I missed the landmark 666 retweets of tweetmeme.com. It's now over 680... Must've hit 666 late Friday. 
+Dreading the doctor on Monday  Have to get the tonsils taken out! Get to play WOW yay
+Good night y'all.  Have P2 of my class tomorrow so it's an early Saturday... What a way to spend my birthday 
+I'm going to have a mathematics test on Monday about Pi. Can anyone help me? 
+@musiclikemercy I was glad you came by. We will have to watch The Last Five Years another night. Have board meeting Monday night 
+Borewell drilling opposite my house. Got to keep windows closed to beat dust, but its really hot inside  Bad Sunday!
+Spring cleaning today. Have already sorted receipts for April, now on to the backlog of paper bills 
+Wondering why I'm up so early. Feeling icky.  Barely any homework today. Woot. Skipping school on Tuesday, doctors appointment. 
+Feel the need to party again. Friday flew in too fast. Must be the sign of a good night. Missed all the models though 
+Ahhh. Want Jessie back. Why does she have to abandon me on a Sunday, when everyone is away, to go to a paaarty?  x
+Sunday morning. Need to relax and let this day go slow. Back to work tomorrow  Why does that always happen?
+@NADMEVENTS I know  tomorow have to wake up at 4am. Sucks! Def next Sunday. Try to see if @msaja wanna come. Have a blast tonight!
+Wow. Cannot sleep, what the hell is going on? Have to wake up early tomorrow morning for school.. grr.. Sunday's upset me sometimes  ..
+is not exactly thrilled that tomorrow is Monday. Had a really great weekend - except for the part where all of M's stuff got stolen 
+Another Boring Monday !! Is there anyway to Skip this every week 
+@5c6a 1:58 - hadn't trained over the last 2 months! Came last!  Slower than the fat guy and old woman! Have to redeem myself in June now!
+Going to school today! Finally! Haven't been since Tuesday!!! soo much work to make-up 
+Bad way to start a Monday. No weight lost this week  No more getting lured into drinking and eating by roommates. Gotta strap back in. :-/
+Yay! Got a great cover quote from a fab author. Monday is looking up--although, no milk for coffee 
+Back to work...Mondays suck  Devil Driver rocked Detroit Saturday night! Had a blast. Going to Clutch this Friday 
+511.org appears to be highjacked at the moment  Want to check out bike to work activities on Thursday.
+Weird angmoh and I jus parted. Not cool. Have to wait till next weekend that poor boy in camp ok Monday 
+@US_EUCOM Is there only the one photo of the Change of Responsibility ceremony from last Friday? 
+@bourach Not too bad today. How are you? Did you have a good night on Friday? Hope you're not missing the books too much 
+Down with a cold - very untimely   Had a very long nap. I love a 100% free Sunday afternoon.
+Was on the phone with #alice again this morning; they sent out a new splitter on Tuesday, but my DSL still drops out every few minutes. 
+Argh. Have to learn for my biology-test on Tuesday, but that's sooo boring. 
+@LJsBaby  Thanks, Got my last one on Tuesday, just so much to learn for this one, feel like none of it's going in! 
+The washing machine has finally died. New one will be here Tuesday. Need new tires on the car. Guess the Iphone will have to wait 
+It's bedtime. Gotta do a lot of cleaning and laundry tomorrow. I can't believe I start work on Tuesday. 
+Monday Again...No Mood to go for Office 
+Have to be spinning a lot of content for a Friday deadline 
+@kinagrannis  I just got invited to hear you at UCLA on Monday!  Too bad I'm out of the country.    Can you please come back in the fall?
+@Redwebtoo Not aware of anything planned for next Tuesday  Are you coming down to Lancaster? I am off to Amsterdam for a meeting.
+Im gonna have a long week! Gotta work Saturday 
+@designmilk will you be around tomorrow, I didnt make it out tonight  Did go to Design meetup at Bludot on Thursday.. very nice place
+Have had a lovely Sunday, lovely indeed! Can't believe it's Monday tomoz, the weekend goes too fast 
+Got the optical drive of my laptop replaced this Saturday. Weird, but it simply stopped reading DVDs although it was able to read CDs 
+@xSeaShellzx Don't say that word ! You know......the...the....h word....Never good to hear that on a Sunday........that means school 2mro 
+Thinking about what to cook for my food tech assignment on Tuesday. Have to get ingredients and stuff. I get marked on it  eh
+Do not want to work all day on a Sunday 
+Got the Sunday Nite blues 
+Have to go now  Bye twitter, will be away till Friday! I'm in Hungary, you know xD ? xx
+Had a great Sunday funday now off to work in the morning 
+Just got up.. Getting a cup of tea then going to start my politics revision  Exam on Friday  HELP!!
+Eek. I have all my finals on Tuesday! Gotta study for three exams. 
+@likeomgina haha. I felt bad cuz I didn't call you guys and it was Sunday   I sent them an email. Say sorry for me!
+Forgot it was Monday for a second there. On with revision 
+Have lost my phone charger  ... waking up for my exam on Wednesday may be a bit of a problem!
+Three more weeks of school. Will I survive? Find out on the next episode of.... oh forget it. It's Monday 
+Woke up... Got a shower. Now I'm almost ready for the last Monday of the school year 
+Coffee time!! Its Monday. WooHoo.  Need more weekend!
+So you know that field trip I chaperoned Friday?  ... someone gave me pink eye     Moral = Never Chaperon Field trips!
+Another beautiful Monday, the sun is shinging the birds are singing-but I donwanna go outside cuz I'm sickly.  Might make myself go anyway
+Disappointed. Gained a pound this week. I'm never supposed to gain while dieting. Upset and filled with self loathing. Bad mood Monday 
+Today must be &quot;Submit Bad Art Monday!&quot; 
+@Schofe Have you seen James May's plastercine display? I'm writing essay...boo 
+Goin 2 lunch. Short 1 tho. Have 2 b back to cover customer counter. Monday  my day this week. Friday is ALL day 
+Didn't get what she was supposed to get from the dean.  Deadline's on Monday. Huhu!
+Everything's good except I've got a stuffy nose.  Anyway, it's Friday...Have fun at HOME~~
+Bout to tune in to @colinkelly for the last time till Tuesday!  Will have major Face-Off withdrawl by then! lol
+@pinkSakuraDC Did you saw the weather? Saturday = rain 
+I can't get a Zoom for the week off and it gotta be in on Monday. I've only recorded one interview. Massive fail. 
+@rhemsworth Unable to listen in today, Ross...   On the road, heading back home. But here's a Have a good Friday greeting from me anyway!
+Haven't tweeted (is that even a word, LOL).Getting ready for what seems like will be a rather long day  But, Monday is a holiday, no work!
+Can't be bothered writing any more. Should probably go get ready for work  I hate Friday late shifts
+@megsimone You got me going there! Have a fun day today, and a good wedding on Sunday- though not yours 
+I won't get Punch-Out Wii until next Friday. I should have paid for faster shipping, but I was trying to save money. 
+@Alisha4FaceTime Have a Scentsy party Saturday night, thats about it. Nothing else 
+@blondemom978 I wish I could be unemployed!!!  LOL  jk  Have fun without me!   I'll probably meet them on Sunday, we're going to manch
+@rocuronium Could be old age!  Turned 33 on Tuesday   Out celebrating this w/e (and need to get back exercising as I've been slacking!)
+Didn't make it to the gym last nite. Sleep caught up wit me. That means double time on this beautiful Friday 
+@johncessna Correct  Will Bijoy be in town on Monday?  I could run the cash over before I hit the road with @screenrider. #LAftw
+Currently trying to get to level ten on this vampire thing, still wishing my damn PSP would work. Have to wait til Monday to get it fixed 
+Has a huge Headache and it won't go away  mannn this sucksss. Getting ready for bed.. Yayyyyy it's Friday!!!?nightttt
+@kchealy @gpsrunner @thazlett @bowerm Thanks for the support.  Need 2 get through a 5K with my kid on Sunday.    Then bike riding &amp; core.
+@endlessblush yeah  maybe move Friday to another day me thinks... Got blown off the other day for one of the others (O was home so no go)
+Oh hell, I forgot the non-alcoholic cider for Monday's dinner. MPP is teetotaler. Now must drive to Waupoos. Have 7 cases of wine in car. 
+@Rob_Hammond Were on the way home from a night in London! Was lovely! Now working all weekend and Monday  when the weathers nice x
+Hope ur all havin a nice Friday! Been feeling down this past week since my dog's passing... 
+Turned my alarm off this morning because I thought it was Saturday. Had to rush to get ready for work because its def not Saturday   #FAIL
+Have a happy Friday and weekend everyone .. TGIF for me is nothing 
+Searching apartments in Kaohsiung. Will go seeing the apartments on next Tuesday. Haven't found a good one with reasonable rent... 
+Did you guys figure out Saturday? I really wanted to go but my mom is sick so I have to take her to the hospital in Tampa 
+Wish my U2 beta key worked now. Don't want to wait 'till Wednesday to play 
+Have to keep bumping the mouse so my computer doesn't go to sleep. No Internet access  No files to work on. Slowest Friday eeeeevvveeerrrr
+Is anyone else having a bad Friday? Is not a fun day today. 
+I've just realised. I won't be able to talk to any of you crazy cats on Sunday. Is sad now. 
+Have to leave twitter alone for the night..last night in Barcelona   back to Philly tomorrow. Hope u all have a great Friday! Muahh!!
+Don't really wanna go school on Monday to be honest 
+Bored now  - Must improve my Friday nyts lol
+Husband Went off to bed, now off to missing him again until he is off again Tuesday 
+Have to wait till Friday to pick up my Visa for China- not as expedited as I would have hoped, but at it's done   #geeksonaplane
+Been so busy for the entire week. Be able to take a breath next Tuesday 
+put ad on craigslist/Quebec 4 tan salad plates with bird drawings  can only do 1 area @ time. I still need 3 more. Got 2 at my Tuesday AM
+Got the CofO to late didn't close today   Will close Monday....back out to meet a buyer tonight to show a few homes to
+http://twitpic.com/67wb4 - Gotta a show on Monday at 9.... hopefully my head will be better by then.... 
+@Parquette1 I just watched Medium. (I DVR them) Is it true that Monday is the last episode?      Say it ain't so.
+My exciting Friday evening plans: looking at the Kaiser website for health coverage. Got a bit late for game, and there's no dancing. bah 
+Got to hold my beautifully packaged Sims 3 Collector's Edition tonight! Too bad I can't take it home until Tuesday. 
+I hate rain. To all rain lovers, sorry. I hate getting wet. Be gone by Monday! Don't want to get soak while commuting. 
+Saturday!  Have to clean up around here.....cook out again today...taking care of mom, 3 more days till doctor day..............   
+Have a wonderful Saturday my tweeps! Think of me while I slave away for 12 hours. 
+Have to go back to hospital for surgery on Monday, hoping its not cancer 
+Back at work on a Saturday   Have a few new projects in the works. Some new jewelry ideas and a small line of boys clothes, Well see.
+@muhreeuhh I had to close on production and open server Sunday  ily2!!!!! Did u have fun?
+Been 1 week &amp; 1 day and my back isn't fixing. Hobble to my chiro on Monday. Very humbling thing to lose the ability to do physical stuff 
+I'm playing in a golf outing on Monday, so I really, really need to hit a few buckets today and tomorrow... Haven't swung a club all year 
+@flashlight Ugh...I'm with you on that...put my back out Thursday night while rock climbing.  Have been out of commission since. 
+Gotta take skyler to the drs Monday, he's not keeping any thing down   on a lighter note, were off to the zoo!
+Holy cow folks, what a beautiful Saturday. Get out there and enjoy it! I gotta sit in the office and write some SOPs today 
+Need cheering up! I've hit my Saturday bad mood 
+Am I late for my first Follow Friday? 
+@SynBen woman, I feel your pain! Think back to last Monday, yah that's how I felt! 
+Work has killed my body. Don't want to get out of bed but need to eventually for the last Tequila Saturday for a while.. 
+I feel like I'm swaying on a boat. Haven't been on one in quite sometime. Been this way for 3weeks  Appt on Monday.
+Been awake since Thursday night, I'm sooo tired 
+Lesson learned: Never stop taking meds abruptly. Results: disaster. I miss you all.  Haven't been to work/out/anything since Monday.
+Have had a relationship Saturday with hubby; have made my 1st batch of flour with no wheat in it. BIscuits here I come! Allergies are 
+@_calzephyr_ Wish I had Thursday off  Gotta work.
+Coughing so much I pulled my back. Cannot wait until Monday when I can see a doctor. 
+It's Sunday. All he wants to do is play GH:M... But no. Has to go to work. 
+@elgosso i got a car? no no. my car DIED on Good Friday. I've need my own car ever since 
+Just woke up, I hate Sunday morning teli! So wank! Need to do some more revision today aswell  hope everyone has an exciting day planned!?
+@RobTyrie Too short notice, can't re-org my day...  Next Sunday for sure. Wish G my best for today. Strength, courage, success + luck!
+@HAMMER32 @androidtomato Night Guys! Have a great Sunday... heading into Monday for me  SOOO Depressing! ewwww. Sweet Deans &amp; Sexy Jensens
+Got those Sunday afternoon blues 
+Cannot believe I am up at 9:30am on a Sunday  Stupid people and their need for phone numbers. Its called the phone book use it!
+Got to work on Sunday 
+Work on a Sunday....Gotta do what u gotta do! 
+Still hung-over from Friday night ... Never again in my life will I drink that much!! 
+Slept in and missed my Sunday game, Need to wait till Tuesday for a decentish game now 
+Sunday funday! No lake tho  pool party! Hit me up!
+Got NO homework done this weekend. Will suffer the consequences Monday 
+Done cleaning. Realized that I have an English exam on tuesday/Friday  grrr. Hate exams week.
+It's Monday already?? How did that happen? Working away and the office is freezing  Missing him xo xo
+Didn't win the lotto this weekend  There's always Tuesday.
+Didn't have time for bowling before curfew,  I leave for work in 30. Went to Friday's for dinner. They've overpriced for portions
+Had an awesome Monday. Love all the healthy discussion and idea generation. Wet weather rest of week = no biking to/from work though 
+Hay leaving today to go home, had an amazing time and don't really wanna go home but have to go to work on Thursday  Got my pics though
+Couldn't get a badminton court for tomorrow night - or Thursday! Boooooo  Will have to book up many times tomorrow am. Or just buy it... ?
+@vicsoto We play Wed &amp; Thurs plus pick-up games most wkends (usually Sunday afternoons). Was hoping to practice again tonight. Icky rain. 
+Thursday going to the doctor for my eczema. Had to take off my rubber wristbands, cause they may have caused it..  I hate going to the doc
+Having all 4 wisdom teeth pulled on Thursday, under a general  Got 2 coming through sideways - a dremmel job methinks.
+Cannot BELIEVE it is Monday... This week is going to suck so bad! Wish it was the weekend again, sipping on coconut rum 
+Back hurts.  Feel like crap.  Does it have to be Monday? 
+@moon_ferret I feel your pain. Checked Barracuda filters and looks like normal Monday traffic... Don't know what to tell ya on this one. 
+I am sooo...bummed! Had a huge presentation for ooffoo contest, and my comp died Friday. I am attempting to recover all data now 
+Had to begin with routine computer maintenance.This has put me a little behind schedule...not good for a Monday. 
+Monday Morning back at work.    Had a great weekend tho.  Did some shopping and just hung out and barely any cleaning..hehe
+Back from my first day of school. Got a science exam on Thursday 
+Anxious! Head to DC tom morning.. Have so much to do today... And worried I wont get a Palm Pre because I'll be flying out on Saturday. 
+Have to wait til Wednesday to get internet back, they sent us the wrong modem 
+Just saw one of my favorite drummers at the ball field.... Have not played with him in months.  May never get the op again... 
+Don't know if I can make it til Friday..... 
+20 mo minutes and I'll be 12 hours in, I will never do OT again!.. on a Monday! Can you say tired Dominican!!! 
+@NKOTB Can us &quot;cruisers&quot; get a red track jacket? We were in line on Saturday and they were all out of mediums. 
+I'm up. Goodmorning. Have to work on my portfolio. Deadline on Thursday! 
+Just saw @kittenishgirl off at the airport. Don't get to see her until Sunday. Makes me a sad panda 
+@thelongmile Make the most of the heat! Looks like it could change by Friday 
+@DoonaDoo not 'gone' no  ...i live in hope though  Shall we say Monday, 1pm, usual place? You met F &amp; S?! Live up to expectations? x
+WOW&lt; Mr Tweet working for me, I have alot of new followers.........what a day. More blessings..Need to catch up, Big Surgery on Thursday. 
+Root canal for abcessed roots  With drugs pain is nearly faded. Need week to let &quot;drain&quot;, then Monday for packing. Are we having fun yet?
+sad @  my house. we lost our little cat Sunday night  Only 10 months old / sudden illness. Need to throw self into work.
+Nothing but exchanges and customer service issues today.  Gotta love Tuesday's in retail.
+@JJ9828 I missed History Tuesday.  Can I read it somewhere else?
+Feel like I'm getting sick  if I do it better be gone by Saturday
+Lazy Tuesday. Got up, worked for an hour, came home, played Zombies, ate lunch, more Zombies, went back to bed for 5 hours. Still sleepy. 
+Its been a while since I watched regular programming with the playoffs going on - Never again on a Tuesday night... Reality TV Marathon! 
+Got a gig next Thursday, still haven't practiced with the others in like a month 
+Need to find something new to do on Monday nights! Medium is over 
+Need to find something new to do Monday nights. Medium is over 
+Made my first excursion (lol) out since Friday. Photocopy lady laughed at me for peering too closely at the change I was giving her. 
+Haven't tweeted for a while. Am enjoying the sunny weather although it's soon to be gone, just in time for my cousins wedding on Saturday 
+Good morning everyone! It's doughnut day Wednesday at the office &amp; hump day! Have a great day! I'm off to work 
+Gumby power reigned supreme at the Faversham on Tuesday! Is there any point to me having a day off when my return is this stressful 
+Done dealing with Austrian bureaucracy (until Friday) Only three got stamps! Took 45 minutes at the post office to get my mail forwarded. 
+Have to stay back in Korea until Sunday.  no Hanna Montana movie for me this weekend....
+@TomBeasley you lucky so and so... Have you got IT on Friday? S'pose you've got a lie in on Monday too, unless you have a Welsh exam 
+Tweet: Have to stay back in Korea until Sunday.  no Hanna Montana movie for me this weekend.... http://tinyurl.com/of5sbp
+I really wish that @thisisrobthomas Was playing the last day of the Fall Frenzy, not the first. I can't take that Friday off. 
+Have a seminar Saturday 
+@SteveGarufi Hot &amp; humid this morning. Could really use some Colorado weather. Have to wait until July 
+Going to Alton Towers next Wednesday and all of a sudden I've become really excited. Got to wait a week though 
+Is jealous that the Mr. got a Rise Against ticket! (well him and a friend) Guess I will be all alone Saturday night...  
+@cindythroop Under the weather 2day. Got drenchd last nite  Not sure if I can mk it morrow. Sunday arnd 2pm in DC? @aviars wanna join?
+Woohoo, Its Friday..... Gotta spend the day doing system re-install! 
+Been waiting anxiously to receive a price list on dung paper.... hasn't arrived yet, I suppose I shall hv to wait til Monday 
+Read over 500 pages in school books since Tuesday. Took 7 quizzes 1 exam and did 6 assignments. Only got a 75 on my exam 
+@Azlen I'm excited it's Friday too. In a pickle though. Have a graduation tonight and a b day party.  Did u get my DM?
+wont be online until Monday- B-day celebrations all weekend- no phone allowed  Have a great weekend everyone!!
+Have to work on Saturday  But it's with @411God and @votaband  I think I'll manage. #followfriday
+Got my first job offer. It starts on Tuesday. Damn! Can't start till July 1st therefore, I have to call and see if it's still open then. 
+What a great way to spend Friday....at school working on our final paper! Did I mention it's a 150 page report... 
+@jetforme I have not been able to try! Got home today, packed, and on road out of town right now. Sorry  will try Sunday night
+@studioindus @Shawnabarnscher @hummingbird604 Thank you.  I think food poisoning   Ah well, at least it's Friday!  Have a great wknd!
+I guess we will have our second no show Friday, will give it till 8:30 before calling it a nite. Need to ask GOD what am I doing wrong 
+shit shit and triple shit. this test matrix just tripled. Is it Sunday yet? 
+@Sinitron Hope your Friday night is going well. Have a great time tomorrow night. I'll be sad you are not at work 
+Have to work Saturday 
+Morning all. Had to get up early for a Saturday as I am working today  All I hope is it is going to be a short working day today???
+Boo! Have to wait until Sunday for game 2 of the NBA finals 
+Damn it! On Follow Friday I lost a follower! 
+Screwed up!!! Have GDPI on Monday and I know sqad about politics !! 
+@serioussarcasm I wish I could go with you guys!  Have a great time and you gotta tel me ALL ABOUT IT on Monday!
+Wish it was Friday  Didn't hear any of Scott yesterday
+Been to oxford street and back brought a pretty dress but looks awful on me will need to take it back on Monday 
+Just realized I typed an extra e in street. See below. Is it really Saturday? I miss my man 
+Got to learn for two exams this weekend. English + math.  But looking forward to the WWDC Keynote on Monday.
+Saturday night @ office!!! Can it get worse than this?  #fb
+@cloverdash Hmmm, I hope it doesn't go cold  Got the Saturdays on Tuesday, but more excitingly, it's Rent on Wednesday!
+my back is still killing from Thursday   Need a massage!
+Keep an eye out for another book contest: Sisterchicks in Wooden Shoes to start on Monday!  No one won the other giveaway 
+On the train home. Too busy. Have to go in again on Tuesday 
+Got to go to work. Its Saturday 
+@DavidKyle Sorry u have to work!  Have same free tasting every Saturday. CU Tuesday? Wednesday?
+OK... Better Than Ezra in-store has been cancelled due to illness. So, no in-stores for today, Saturday, 6/6. Sorry guys 
+Have a good one everyone. And heard the weather will be like this till next Tuesday! 
+Man. I miss my fam. Especially my daughter. Haven't been with them since Thursday. 
+@sweetiestar7174 This internship.. I have an interview next Wednesday! Are you okay? You seem stressed 
+Tummy upset today  Will need to spend tomorrow getting ready for our 1st co-op session on Monday
+Took a nap and woke up feeling sick!  my throate is very sore. Going to have to go to the doctor Monday.
+I'm thinking that there's a big conflict w/ next Friday's plans  Please,please,please tell me it's not so!  Been waiting so long for this!
+No bike race for me tomorrow.  Bike is out of commission.  Back rim apparently shot to shit.  Have to wait until Monday.  
+Got rid of the things that no longer serve me, can't believe how much junk there was. Time went by so fast, what happend to Saturday??? 
+Been up since 7 am on Sunday 
+Dud Sunday Morning! Just when I thot I could laze arnd, watch F1 &amp; Cric, summons come 4m workplace! Gotta go slog mmy a** off there! 
+Loved the MOs Friday, wishing there were more tonight 
+Don't want to go to work. I hate Sunday service buses plus work is gonna be boring today  grrrrrr
+Yay Sunday! Gotta do my accounts  but at least it's stopped raining
+Watching CBS Sunday Morning talking about Tim Horton Donuts. Never had one and now I MUST HAVE ONE..but they are in Canada!!! 
+Had got that Sunday afternoon, belly full, uncomfortable hypoglaecemic feeling 
+Gawd, I've been feeling sick since Thursday! Gotta visit the doc tmr! 
+@Lady_Gig thanks for the follow! Have a great Sunday! I would but I'm off to work in a couple of hours until 8 o'clock tomorrow morning 
+Was going to eat Chick Fil A but alas it's Sunday. 
+Last day of college on Monday...Total gutted btw!  Don't want it to end! x
+I'm waiting for it to turn 8, so I can go home and have a couple of days off. Been in every day since Wednesday 
+Haven't felt well since Saturday morning and it isn't making studying any easier. Pity you can't blame failing maths on a stomach bug 
+@LAMBinibabini I can always see the film with u another time...I just told Michelle I'd go with her Sunday.   Forgot u worked.
+Boring Sunday  N Work 2 Tomz  Just Got Lenkas And Enter Shakri Album 
+Got into some chicken on Friday night and have been sick ever since.  Left a couple of bad surprises for my mom today while she was out 
+Weekend is over, today is Monday but I see no difference. I worked the whole weekend.  Need some rest from the rest of the world. 
+Got the Sunday evening blues 
+Sick on a Sunday  Thank heaven it's not on a thursday. Stomach flu I'm guessing?
+Was supposed to see the hangover today, guess its gonna have to wait till Tuesday 
+Need to get an outfit for the interview on Wednesday. I don't really wanna do hotels but I'll still be crushed if I don't get it 
+Spent time with Mom &amp; one of her friends last Friday evening. I miss home! 
+Gotta log off now. Don't want to go to work, but pulling a &quot;sickie&quot; for a Monday's too obvious. 
+Did loads of work on Friday and weekend but no appreciation... instead dumped with more work and even tighter schedule, damn it.... 
+@Samwahlberg I wished I could come too   Gotta keep old husband happy lol.  Look forward to seeing you on 5th July, woo hoo!
+Today is a *very* tired Monday.  Weekend was not good for catching up on sleep as I hoped it would be.  Makes me write in passive voice. 
+Got to work this coming Saturday so have the day off today. Which means dealing with the 101 tasks I've been trying to avoid for weeks 
+Monday morning..bwaaah  And it's raining. Friends from out of town still here. Don't feel like getting ready for work, of course.
+Got Mike on his way.  He'll be back Thursday 
+Got the Monday Blues 
+Do work. Monday 
+Got bad case of the Monday blues! It's always the same after a great week end. Work just gets in the way sometimes.. 
+@chrispetescia  Feel better. What happened on Saturday? Any weird filming?
+Got a speeding ticket this morning....Monday's are the worst.  
+@tygerlyn  sawwwy. Did you at least win lots of $$ at poker on Saturday?
+Ordered my iPhone today...but I won't get it until next Monday.  Operation Waiting Impatiently is a go!
+wishing it was the weekend..... that is wrong as it's only Monday! Think its going to be a long week 
+The lady that gave me a facial on Saturday has done something to my nose - it's really sore! Think it was the white nettle potion 
+Had to pay $211 to fix my laptop... FML!!  Get it back on Monday  http://myloc.me/3WYR
+I'm having an early Follow Friday.  Wish I could find more people from around home 
+@ThinkTings you're right. Sounds much better that way! Was reply to a twit but 4got to press reply! Cocktail Tuesday! Its 130&amp; I'm awake 
+I hate summer school bc that means @agblair is 3 hours away  Will Friday evening get here soon enough?
+@SuperwomanAK Broken-hearted Monday. Never thought I could be so overly mooning over a guy 
+Got in a car crash of course  can't afford my life... May have to turn to hooking
+I got Ghostbusters the video game and Friday The 13th - Killer Cut. Xbox Live is down for 24 hours, though. 
+@xxxxxkarlaxxxxx - So.... did you...? have sweet dreams??? - I can't remember mine this morning...  - Have a Great Tuesday!
+@creatific on Friday. Lady fell asleep and ploughed into car full speed! Find out later if written off 
+Been transfer  Start new store Monday ;(
+crap. I am feeling sick! Must get better by Friday! 
+Pulled a muscle in my leg Thursday, now I messed up my arm. My entire right side is fucked 
+I was looking for the CMT Awards, but I couldn't find them.  Were they on next Tuesday?  I hope I didn't miss them. 
+Cox installed tv+internet wrong. Have to wait till Friday for them to come fix it. 
+No iPhone 3.0 Gotta get some sleep before long drive tomorrow.  Now I can't update till Saturday 
+Hey, i can see the Sears Tower out my window again!  Was so foggy and rainy on Tuesday that i couldn't see it all day.  
+Just got back from Beatrice.  Bruins lost 8-7 in 11 innings   Same thing tomorrow and Thursday.  Haven't ate since 6am!
+At home today, sick. Missed 3 exams at school  Following Peter Facinelli. Gotta get him 500k followers before Friday!!
+@LynneHutcheson Yeah  Will be til Friday night, possibly into early hours of Saturday. Have the hump today for no reason :/
+Dammit ferry isn't going when they said. Got to get it tuesday and get to the festival Thursday when it starts and less camping space 
+Haven't got the PAC yet from Vodafone so no point going into an O2 shop on Friday to get a new iPhone, bah! Just have to rely on DHL 
+Cripes - it's Wednesday! Would have liked to have been home in time for #SpicksnSpecks but don't think I'll make it 
+Need to study for an exam on Friday, but have no motivation whatsoever 
+ Otalia is only on 2 days this week! Have to wait till Friday!! 
+Hope everyone has a Great Wednesday!!!!!!! I Have alot of errands to run. 
+first night of packing. Don't feel like I got far. I'm gunna be up late Friday 
+Gotta go to the dentist today  ugh i hate it! I'm so ready for vacation Friday!!!
+Got to leave work AGAIN soon  Days off tomorrow and Friday yey!
+Got my run in before work (and the rain!). Now prepping my forecast for the Noon show on @WRAL. Friday could be FRYday. 
+@Victoria2105 Can I sponsor you after run?? I def will but payday is Monday 
+Have my 1st Alp cycling marathon of this year on Sunday - Weather forecast: 80% chance for rain - Seems I will take a looong shower Bah 
+Had my first cancellation for Friday. Lets hope there's not anymore 
+@Soomka  Not here Friday... Need to find some other time to watch the destruction of one of my favorite franchises...
+@lukeanderson meh! Rain  Got soaked earlier. Bloody jeans were all cold  Had a hail storm on Monday too! Better be nice on Saturday de!!
+Cannot believe that Supernatural finishes the series on Sunday 
+ was sick for the last two days..missed working out. Don't worry I'll be back on my game in no time. Friday!!!! Watch out Beyonce.
+First Spaceport Ever Begins Construction on Friday:  http://tinyurl.com/nlsqnh (what... no cloud city? I'm disappointed  ) #space
+Had a great time with the cuz and sad because she's going to college next Friday... 
+@webcrush Of course I won't get mine until Sunday because I'm leaving town. Feel sorry for me. 
+Great Thursday morning! Gotta return to work. BTW now working on Working Drawing! 
+Rainy. It keeps me not to be able to play catch outside.. Get out of here, please! Especially on Saturday 
+Have to work now... it will be a hard and long day  and then preparing all for the painter on Monday... OMG
+I hate quarter-hour clock ins  Got in at 8:00:42am &amp; clocked as 8:15.  Which means a 7.45am start for Friday *sigh*
+Thought it was Friday when I woke up. Gutted to find out it wasn't 
+Feel like crap. Got a cold  And I'm bloody knackered, still trying to catch up on Saturday's missed nyt of sleep! Roll on the weekend pls!
+My knee has been hurting since my 8 mile run on Sunday...  Couldn't even run yesterday... how do I make it better?
+ I'm feeling a little under the weather today! Gotta get good before Nashville pride on Saturday!
+@LexieLerro @mikeyil sounds like a good time for a Monday night but alas I won't be in town   Haven't seen that movie in ages too!
+@semipenguin Now I'm hungry again. Have had no starch since Sunday. Longing for potatoes. 
+Haven't won a #threadless shirt for #threadless Thursday. Sad.  I even wore my birdhotel shirt.
+102 fans on Facebook but only 14 followers on twitter  Help spread the word. See you Tuesday at 7 for our next walk.
+Another Thursday. Better be some Reward Points tonight!  #GuilDWars
+Have to wait till Monday to find out what we are having   Today has been the let down kinda day.
+@mistybelley me too! Got to love $3 buck chuck, how come we get no good trash tv on Thursday? 
+@GarveyBen I've just got back from the girl that I am seeings house. Got to leave her on Saturday though 
+@simonmcnamee onto the forth episode in a row man...SO bored! Need a friggin job, it doesn't feel right being in on a Thursday 
+Lol. Can you tell it's late? Lol. Forgot tomorrow was there.  I wanted to say it for Friday and Saturday - cool and rainy. 
+Recieved my tracking info for the 3G S. Have to wait till Monday 
+So glad it's Friday - but wish I wasn't stuck in the damn office  Have a good weekend everyone!! x
+Got work tomorrow and Sunday  ah well money is money!
+Ugh, AT&amp;T is gonna get an earful for this...  My order said Free Overnight Shipping -- it went out 2nd Day - no #iPhone 'til Monday  
+Friday. Progress made on various projs this week. Have to mow in 101F heat this weekend 
+@arataka ignore him/her    It's Friday!  Time to be happy!  Do what I'm doing later today... take pics!  
+@ShropshirePixie Sounds like a good way to start a Sunday, will you be up for the sunrise?Been packing again and realized how much I have 
+Have to take grandson to Albuquerque to his other grandma for the weekend.  Will b off-line 4 most of Friday.  
+@AngelaAtHP Thanks for the #followfriday!  C6380 arrived today. Will have to wait until Monday to set it up though 
+Its Friday!! Too bad I have work tonight  its all good though....Gotta make $$, that's wats important
+Need another nap, just too hot for anything else. Dogs/cats flopped out all over, hot too. Heat advisory in Shelby til 7pm pst Saturday. 
+Was beautiful week, ended with a rainy Friday... spent indoor with sick toddler 
+@musicologist012 Workin  hey u deserve to go out and do something... Enjoy the Friday LOL!!!
+@claudiagmodel why on Sunday   Would love to have checked it out
+Friday night and I'm bored, this is a great start to the summer...8-) Have to wake up early for soccer tomorrow 
+Omg Friday night! And I'm off tomorrow!  Yesssssss!  Gotta take @alexmillar to the airport tomorrow morning tho.  
+Had my MRI today...that was painful...grrrrrrrr...I don't get the results until Monday 
+Been waking up a 5:30am every day for a few days now. It's 11:15 on a Saturday night and I'm already exausted. 
+@thespunkyone I NEED to find something to wear Friday! Did you find anything yet? We are running out of time 
+Got sunburned  Hopefully it turns tan by tomorrow or Sunday 
+I hate it when I wake up too early on a Saturday, and can't get back to sleep  Would never happen on a work day!
+Had the most boring Friday night in alone   working tonight, what a great bloody weekend to be had!! Roll on next weekend!!!!
+@lostgirl66 u=very dull?  Never! if your work was tax accountant I'd agree - be glad its not!  Working on a Saturday isn't good tho'. 
+Can apparently only wake up early when she doesn't have to work. Yay 7:30am on Saturday.... 
+@BTCare Sent u DM, seems to be problem with modem. Had wireless been ordered correctly would have been fine, gotta wait till Tuesday 
+@ShaziaR72 So what's your plan re: September? Got tickets or are you unable to attend? Sunday nights are a bit impossible for me  I think.
+Just managed to get next Saturday off...then I'll be off for a week xD Need to work til 5 tomorrow though 
+Had an awesome time at Britney concert on Wednesday, Want to go again!!  ..... Boredd x
+Called Adam. He's out in Sigma, &amp; I don't blame him. Haven't spoken since Wednesday though  might call tomorrow afternoon.
+WTF? I seem to have lost the ability to post pictures to friendfeed via tarpipe... Have to check what's wrong Monday  http://ff.im/4eq0i
+Home now from kitten sitting, having spent time with her since Friday night I now miss her  Want kitten.
+@jshe Will check out your latest post shortly doing paperwork.  At school.  On Sunday.   Been here 4 hours already. 
+@HeatherRivlin you must have some pull b/c they said they couldn't get my images to me till Monday!  Had to disappoint some clients!
+Our police vehicle just broke down.. Had to push it a good distance. Hard day's work on a Sunday morning.. 
+@MattGanzak just left the city! Didn't think anyone was hanging there tonight, I went Friday 
+@GoCheeksGo hills in heels is NOT fun! Had to deal with that on Friday. 
+@BluntNate Looks interesting. Will just miss it   Coming up to Sydney on Friday for Supanova. Good luck with your presentation!
+A Sunday well spent! Don't feel like work tomorrow 
+@LucyKD Workin on a Sunday. Gutted for you  In that case make sure he pampers u when u get in 
+I woke up at 5 a.m.  5 1/2 hrs. sleep not enough, especially after only 5 hrs. Friday night! Must fall back to sleep!
+Up at 7:30 am on a Sunday.    Gotta be up even earlier tomorrow.  Doing some maintenance at 4:30 am.
+Sunday night  Wrote some good songs this weekend. Didn't want it to end.
+Was in a car accident Friday, no one was hurt though. Confused as hell... I Love him, but I like someone else too..  I need help.
+@frannyfroofroo just sent you an email.  Don't think Tuesday is in the cards for me   Miss you lots and lots and lots.  XoxoSee you soon!
+Had dinner Friday night to say goodbye to Vincent, one of Only Network's founders, now I'm the last guy that was there from the beginning 
+@ByronGlick Byron, it's you again!  How did U get stuck with Sunday desk duty at the DNC?  Are all the other Obamabots dads?  
+Haven't been on WoW since March. Midsummer Fire Festival's just begun. Need money 
+But shiieet. Gotta wake up at 4 in the morning Wednesday!! Layover in houstons gonna suckk. 
+@casket4mytears What's a matter Tiffola?  Break up shiz?  Are you around on Sunday?  We are all coming for pride
+Found parking in front of place I was heading into! For whatever reason thought it was Sunday. Parking meter guy thought different - $35 
+Went fishin and swimming in step-grandpa's pond 2 times this weekend. Goin to see Transformers at Midnight Wednesday! I miss my friends! 
+Reall bored. Don't want Thursday to roll around, Have to read out my 'Room 101' stuff, Stressing big time 
+I want to go and see Public Enemies. Could get free tickets for Monday but all gone. 
+damn - thought it was Thursday when the office girl gets me coffee! Was going to be highlight of day. Feeling very let down now 
+Was so sick the last 2 days Not making any videos until Friday 
+tired...Have school on Saturday too 
+Just found out I won't get my car til Monday or Tuesday  Was hoping for a weekend of driving! Never mind, will save on petrol/insurance
+@iescape Boo  Is still sort of sunny here in Dorset, don't mind driving in rain tomorrow but sun on Saturday please! Can you organise?!
+Feel like a right idiot - thought my final theory test was tmr when it was actually Tuesday!!! 
+Kottonmout Kings in Chicago this August.  On a flippin Monday... Want to go.  Sad..  
+@renabelle...um, why would you start on Saturday?!?  Boo!!!    Have fun in Dubai, though!  *Hugs*
+@traveladdict I think I missed it for today  Thank you for the pw though! Will try again tomorrow before heading to a box office Saturday.
+@ingridcoles The cyclazine doesn't seem to help much. Had some this morning.  Think it may be an ulcer. Gastroscopy on Monday - Yay! Fun!
+Have hit a snag with race wheels for Sunday.  
+@Nikkyface yes bekuz I was listen to that album too.. Lol nah not gonna make it this time.. Gotta a meetin this Sunday 
+@RAPEY Have a good Tuesday 
+All set for Get Diverted this Saturday at Plan B in Brixton, always a great crowd 
+OK, I've now recovered from a mental sesh on Sunday... NEVER again! Need to start concentrating on business and start making me millions 
+And no, Tuesday's not over yet - not by a long-shot! Have a good evening ahead 
+@hippielove Feeling good today I hope. Feels like a good Tuesday to me, cross your fingers.  
+@TomOKeefe1 Good night Tom! Have a good Tuesday. I'll let you know how Wednesday goes 
+@Floris Thanks Dinggggggg &lt;3 ... Have a wonderful Tuesday 
+@Piers_the_First Your show's on Easter Monday? Is that AM or FM? Will tune in. 
+Good morning tweeple! Have a safe and productive Tuesday. 
+Have a great day, Jen.  &quot;Somebody&quot; had me up early because she was hungry...it's Saturday.  
+What a wonderful Saturday! Have a nice day everyone! 
+Hey everybody! Have a great Saturday, because I will 
+Off to breakfast and then some shopping. Have a great Saturday everyone! 
+It is a rare gorgeous Saturday in the 'Burgh. Feel compelled to take the Schnauzer to the D-O-G P-A-R-K.  Yay - finally dog park w/o mud!
+Up early on a Saturday.  Need to run a couple of errands, then off to  Ancient Egypt.  
+@leslieberg April 29, just checking to see what movies we have on our flight.  Have you been there?
+Didn't realize how much I missed my Saturday whole foods runs 
+Getting ready to go to store. Have to get some black boots for my daughters class play Monday night. Its a Pirate thing. Should be fun 
+@didactylos yes! Will have to try it! Back home  to York on Monday so guaranteed good pint 
+Need new tires, but just to tired to go and have them replaced..maybe Monday  Now that's tired, LOL
+@BizAvWeekly Copy! And Wilco! See you on Monday Afternoon! 
+Had the perfect Saturday with hubby. Life is good 
+Today being Sunday, plan to chant 16 rounds of Mahamantra. Never done it before 
+Good morning busy MariSmith!  Back to earth!  Have a sunny Sunday!!! 
+Had a lovely Sunday. Nothing beats good friends, good food and good weather 
+gonna get off the tweets till later... avoiding F1 comments   - Going out for a BIG breakfast with a buddy.  Have a good Sunday all.
+@kinggayle You'll get the hang of it before you know it.   Got a kick out of watching you and O Twittering on Friday's Live Show!  =D
+Dad's curry is sooo nice  Need to revise Spanish for Tuesday, but i cant be bothered at the moment
+@TraciKnoppe sleeping in is such a Sunday treat! Have fun with your family 
+Have a ''SWEET'' Sunday  movie was awesome!
+@reikifurbabies Good morning! Have a good Sunday 
+@saralwin Thanks Sara!  I feel like such a twit here on twitter!   Have a nice Sunday. &lt;3
+All right, tweeps, I'm out for a spell. Good morning, afternoon, evening to all. Have fun discussing some heavy Sunday topics.  
+Enjoyin' the shit outta my Sunday! Have a great one everybody! 
+@equestrian Afternoon! We've been doing great! So hard to be inside when it's so lovely outside. Have a wonderful Sunday! 
+We had a package delivered by Canada Post just after noon today. It's Sunday. Had no idea they did any deliveries on Sundays. 
+OK time for a lovely Sunday afternoon nap.  I am cooking today! HOORAY! Will be back later. ((HUGS))  I've missed you all 
+another manic Monday  Have a good week everyone! 
+Off to bed!! Had a pretty good Sunday! 
+Hooray! It's Monday! Start of a new week. I love Mondays 
+It's Monday morning; time to start another week of work, and such.  Have a good one everybody!! 
+There is something very amusing about a 3yo singing &quot;Put on Your Sunday Clothes&quot;. She knows most of the words. I blame WALL-E. 
+@Samchampion http://twitpic.com/3ngrl - Great pic....you should do one every Monday! Have a great week from sunny Florida!! 
+Had a great weekend with everyone...back from Quebec....slept all of Sunday and now back to work.... ahhh so rested 
+@Kerrlaw Ah, the beloved Monday morning at the Attorney Generals Office...   Have a fun day and I'll see you soon.
+@SensualStories I'm very well thanks, no jet lag which is great. Off to Napoli and great gelato on Friday  How are you m'lady?
+Morning! Have a blessed Monday folks!!  let your light shine!
+Monday morning rain &amp; two appointments postponed...I'm pressing the &quot;Start Over&quot; button NOW!  Making calls &amp; creating a shift in my mind! 
+Rainy Monday here. Lots to do so guess I'd best get at it. Will check back in later. Wishing all of you a great day! 
+@ShabbyGomer It must be fun getting to play with ballons first thing Monday morning. Have a fun day today 
+@BulkyWebEU  thank you for the retweet glad you liked it . Have a Great Monday 
+@TownHallForHope So excited for Thursday.  Was on the streaming test last week.  Excited to see the real thing 
+Have booked my train ticket to go see beautiful men dressed as fairies in Newbury on Saturday! 
+Got an interview next Tuesday!! woo!!! 
+Good morning Twitters. Had a great Monday, lookin for an even better Tuesday. Tweet to youz by mobile if the need arises  Off to 9 to 5
+Thanks 2 all new followers! I will try and do Follow Friday late again - but really appreciate the interest  Have a great wkend!
+is very very sleepy.. Thinking about her mister..  Wish he was here.. Heading to bed soon. Such a loser.. Stayed home on a Friday night.&lt;3
+Red Wings take game 1. It was inevitable.  Cannot wait for Sunday's game and of course next Thursday 'cause I'll be thereeee!
+Earrings promotion was a blast!  Thank you all!  New additions coming up on Monday. Stay tuned! 
+Got LOTS of good snax for Study on Sunday 
+Ok. Time 4 some shut eye. Morning Twietnam! Have a wonderful Saturday ppl 
+Have a wonderful Saturday everyone!!! 
+@dennisirby Don't tell mom   See you on Friday!  (Surprise if you didn't know yet!  LOL)
+@knightopia your son in the stroller looks pissed off! Is it because you got him up so early on a Saturday? 
+IDIOTat)glorialynnglass Th*nks for the Follow Friday. Have a great weekend  (geltdesigns) #IDIOT
+Let people know: May is the final month to book a 2009 wedding for under $1200! As of 1.6.09, prices will rise! Have ppl email me! 
+added to the goody bag  Will YOU be a winner?? http://tinyurl.com/cjtlu8 Wednesday, May 6th at Doc's Place! See you there!
+This has been one lazy Saturday.  Been helping my sister revise for french exams, and playing the amazing portal from orange box . 
+@ceibner Have a safe trip back home. Was great seeing you again on Friday night. Don't be a stranger ok? 
+Sunday Morning. Flying Training today. An impromptu session due to some good weather this weekend. Will Tweet from airfield later. 
+finally off on a Sunday   Don't know what to do with my self now.  Go shopping or just rest mmhhhhh
+Got back from another crazy Saturday night, and this time, there was no ankle twisting 
+@cheth Just trying to recooperate from mini golf with the boys ;) Jk, Weekend has been a blast! Have a feeling Sunday will be a lazy one 
+What an awesome weekend!  Don't miss Chasing Corona Live this Thursday!! And the Hooters Charity Bikini Contest on Wed. May 13th!!
+@froggie775 Thank you. And do enjoy your Sunday too! On my walk I met a man with an RC plane that ran on batteries. Got to get one! 
+@Charonqc and put a spanner in the works for the military -level keep-fit regime! Have a great Sunday 
+Good morning all! Have a nice Sunday! 
+http://twitpic.com/4h0rw - Off to do grocery! My hair looks like a haystack! Enjoy your Sunday everyone 
+@jesscocaine thanks you too  all we can do is stay in our place. calm. cool. good. Have an amazing Sunday
+@skyblues4eva I'm o.k, thanks. Better than I was on Friday. Thanks for yesterday, it really cheered me up when I read your d.ms  xx
+Good morning! Off to breakfast w/ the family before political study  &amp; editing. Monday's work starts today  Need Bible study today, also.
+Have a lovely Sunday outdoors with friends. Greetings to everyone! 
+catching up on work and cleaning today. Had a lovely anniversary dinner last night....14 years on Wednesday!  
+Have a great Sunday everyone, and if you got a little extra love, stop by my place and share. I always give what I get. 
+@live1day Have a wonderful Sunday 
+@forrestfyr Pups are always game for a little sugar!  Have a great Sunday!    WOOF!
+@typezero3 Ohayo! Have a great Sunday..and maybe even a great &quot;sundae&quot;! 
+@TashaNiicole yeah I'll def go !! Don't front hoe ima tell toya. Anddd RENEEEEE is cumn home nxt Monday!!! 
+@rodjek Sounds like Friday morning when my toes went numb. First stage of frostbite  Better buy warmer cycling sox.
+@asplendidaffair night! Sounds like an exciting weekend.    Have a fantastic Monday!
+@ragdollgonewild No please. Make it Saturday 
+Did her pilates and her crunches... AND a facial  Ready for another miserable Monday....
+Had a gr8 Sunday relaxing enjoying the beautiful weather. Good nite 
+@IndigoGardens Lol! Joyologist? Love it - much better than the happy freak who can't stop smiling  Enjoy Monday!
+Get yer freak on-it's Monday! Have a Great one, if it's possible to have a great Monday! 
+Happy Monday!  Lots of little things to do today!  Tried to water plants out front very early in jammies! Got caught by two neighbors!! 
+morning... on Monday. Is it really?  
+@JasonBradbury Have a great Sunday wit the kids and Mickey 
+Had a great weekend... but ate too much I think..  I am looking forward to my trip to Hobart on Friday the 15th....
+Have don all my paper work now for a lazzy Sunday 
+Headed for the field.  Back Thursday.  Try to behave in my absence  
+@lynnmosher Here is the slideshow of the wildlife from Friday.  Have more to add from yesterday 
+@gfalcone601 hope the gig goes well Have a good Sunday, in what is left of it 
+I wonder if the matriculation exam results are released next Friday? I'm nervous as hell. Don't even know my predicted grades 
+Just got back from taking my dad to get a tattoo done...im getting one on Thursday! Can barely contain myself! 
+I might go to the gay club on Wednesday.  Should be fun.
+The Kills were so hot tonight. Look for my review Wednesday on @TheCultureBully (still have to get through my Mogwai review-so many shows 
+@laggsa2009 Thanks Laurie! I will tweet from my phone   Have a great Thursday!!
+@Boffbowsh Looks tasty, I left my selections to fate! See what arrives next Tuesday 
+@joeymcintyre Get ready to take it to another level...party starts tonight! No sleep til Monday 
+We saw Stephen Lewis here at the College last night - great speaker!  Have a terrific Thursday.   xoxoxo
+@ClaudeKelly Gmorning Claude! Have a wonderful Thursday! Today I'll spend my first lawyer's fees with myself! Nice! Brazilian kisses 
+Will be diving during the weekend, Madonna wait for me here i come  Wait for the videos and photos on Monday 
+Bored. HTT free gig in Mansfield tomorow. Want to go! Seeing them Saturday anywho. 
+Ha, five folks in my feed are tweeting about alcohol. Must be Saturday night... 
+Had an AMAZiNG SHOW!! May 9th Follow me for more info. on upcoming shows Plan on updating my twitter more often sorry guys! 
+@janole Thanks, got that also form @phoneboy yesterday so I'm cool now!  Have an excellent Sunday!
+@LorindaV @sarahlbenjamin I second that  Coffee is desperately needed xxx Have a beautiful Sunday girls x
+Another Sunday, day of rest, my a...! Not with a boxer around, suns up, lets go out to play!!    Ready to go and he's gone back to bed!
+@Inspirationals u r certainly welcome  Have a Super Sunday!
+Woke up after 5 hrs sleep - can't wait to share w the world how was this super weekend. And it's not over yet!  Have a wonderful Sunday!
+@masapong Yes, will be until next Sunday. Have fun in China! 
+Define fun. Sunday. Stuck in a bedroom with some cool fun people. 
+Are going to Stockholm this Friday, its going to be great. Gonna see my girls again, its been a while now. 
+@DavidArchie LOL. Does David Cook have any twitter? I'd love to follow him.  Are you gonn` be on Wednesday's finale?
+exam...so I still have to learn a lot :S Anyway...Have a nice Sunday 
+Beautiful Sunday Morning All!!!!!!! Have a Great Day Everyone 
+Heading to church..Have a great day...Be inspired and filled with peace and love on this Sunday Morning..It's not over 
+Did you use your Sunday to recover &amp; recharge or were you checking email and worrying abt the week ahead? Just something to think about 
+Friendly Fires Were Amazing Friday 
+Its Sunday  Watching George and drinking coffee  Gonna do yard work later and go do some grocery shoppin. Have an Awesome Week!!!
+@Dirtdawg50k WOW- what a fun day!!!!  Have a fab Sunday. 
+@MorningWhiskey Have a wonderful Sunday!! 
+@CheriePop Have a beautiful Sunday 
+Okay I better go help my hubby plant the garden Have a great Sunday  -S http://weightlosswiththefabulousfatties.wordpress.com/
+@Sunday28 Haha, it's already past midnight here. Have a nice nap now 
+Enjoying a lovely Sunday afternoon  Got back from babysitting and now gonna go shopping and get a coffee!
+@mr_rogg Have a great Sunday! 
+Cooking cinnamon rolls and generally enjoying the day! Have a good Sunday tweeps! 
+Okay - really have to get some housework done - LOL  Have a wonderful Sunday afternoon all.  I wish you all SAFE passage into the week 
+Long weekend here in Canada! Heading over the border for a little shopping and a change of scenery.    Have a good one, see you Tuesday!
+@jamesmalach Love the Netherlands! Going back June 12  Have fun!
+omw 2 th gay pride parade! Im sure Ill b uploading sm interesting pics l8r  Have a good Sunday every1! xoxo
+Got some new digs!! Moving next Saturday! 
+@rtkmusic Don't forget about Tuesday night...and thanks for the compliment on the new track 
+It's Monday morning, the sun is shining. Must be time for a run before work! 
+@ work...... totally hating Monday.  Want to go to NY!! NOW! 
+Amazed @ how much work I got done today. That 2 on a Sunday! Caught up on stuff that was pending since April. Was it the coffee or what? 
+Have a good week. May your health increase, your path be clear and happiness settle in all around you.  
+@EnterPeace I'm ordering it sometime this week, probably on Tuesday.  Sure!   Have you tried SwapTree yet?
+It is Monday and this is going to be a very productive week  Bring it on
+We'll be heading off to the province on Tuesday... finally, i can have my much needed rest!  Off to Bataan we go! See you all next week 
+@fah20 Wordbook is one of my favorite apps! Be on the lookout for a delivery Tuesday! 
+Had a great Saturday! First session at 5.30am...clear blue sky and 4.2... Big Smile! 
+@brizzlebabber actually,  ishould be doing something with Natums on Friday, if you're joining us. Give me my beer money then! 
+Hey @halltom. Have to do 70-536 as base exam - scheduled for next Monday, and then 70-562 in a few weeks 
+I had a great weekend.    But freakinay!  My Monday started 4 hours ago.  This is going to be a crazy week.  Bring it.
+Eating cheese, waiting for my roast chook to cook, watching How I Met Your Mother, yaaay for Monday off 
+Have a great day y'all. Our tip of the day is to say I love u at least once.go on try it and have a happy Monday... 
+So now It's 51 day left (but if to count 8 of July too)... But I prefer number 50  Want to see you here faster Dear.
+@queen_yinci Morning Queenie! Isn't there wii programme for WHB ? With feather duster/royal rag controllers? [wink] Have a great Monday! 
+Walked dog, ran 3.5miles (wow, get me!!), had shower, still not even 10.30am!!!  Beat that for a productive Monday morning!!  
+@donnapartow Glad u had a gr8 Sunday &amp; were able 2B @ home!!  Have a gr8 day!!
+No clash on the Saturday of download. Got 5 mins after the prod finish to get to the main stage for slipknot 
+Got to get going to work... I hope everyone has a fantastic day today! (Even if it is Monday!) lol 
+I can't believe its Monday already! Got a long week ahead!  
+Gooood Morning everyone..... and here we are again, doin' the hustle  happy Monday all. Have a fantastic day!!!
+Morning folks.. it's happy Go Monday in St. Louis, Missouri -- Have a great day..  
+@scotdoc Oh i see - there is nothing worse than a Monday morning after 2 nice lie-ins! Have you got the long weekend this weekend? 
+Nitey &amp; Have a good Monday Tweeters!  Enjoy the Musical Selection!
+May have a third job today.  Gotta make that cash!
+@melliz tweet. You likey my tan? It's made in Greece. I love you little pe..nut  Have a good Tuesday x
+We're joining the strike on Thursday. You should too. See you outside State Library at @ 1pm.  Just so you can say &quot;Been there done that&quot;
+Ok guys, I'm @ my desk about to gt started. Have a Motivating Monday!! See ya @ lunchtime 
+Have a great Monday 
+Good morning! It's Monday! Have a wonderful day!  
+@stellarSuki I like that.  Great way to start a Monday morning! Have a wonderful week!
+Wow my last comment, a month ago, on a Monday pretty much fits today as well.  Only I did my excersizing in a Sauna Suit this time! 
+Friday before bank holiday. Don't have to drive round the M25. Sun Shining. Safe to say I'm irritatingly cheerful. You have been warned 
+@labradors Good mornign! Have a great Friday!! 
+Morning all! Feeling great this morning. Probably something to do with the weather and the fact it is Friday!  TGIF
+@speaktothewind thanks for the tip. Have just packed the Berocca and had one today for good measure too. No hangover for Jayney on Sunday 
+Gotta Catch a train @ 850 am! Back to CT then off to Cali Monday! 
+@JoshKin Plan H3's outing well. I'll start working on Tuesday. Off to Tagaytay. Will just look forward to your pictures. 
+Mornin all! Slept thro bleddy alarm again!! I'm sooo late, #followfriday recs to come later in the day. Have a good Friday 
+Woof! Just had one heck of a night  Gotta love The Tavern on a Thursday night!!
+I'm leaving tomorrow, for camp . Be back on Sunday. 
+Leaving for SASQUATCH tomorrow  Be back Monday!
+@JohnnyLaird morning johnny - and a gorgeous one here too  Have a great Friday
+@Gailporter yay!  Keep smiling and have an awesome Friday/Weekend!
+@aussie_at_heart Morning  Got customers arriving 2day so busy. Invited 2 a bbq Sunday &amp; F1 Monaco..Go button!! M. xx
+Yay payday! My bank balance hasn't looked this healthy for quite some time! Bring on Wednesday 
+Tired. Had a whole day spent in the school hall. Thank god it's Friday. 
+@BraveMaiden Have a great day....Its Friday!!!!! 
+Shoppinq tomorrow for the fashion show and for the school thing.  Yey! Vacation is over?! HAHAHA!! Love it.  Have a Great Friday ya'll.
+@OpanaKzia Have a great Friday 
+Just woke up. Going to stay with my nanny in a bit. Glad its finally Friday!!!! 
+Heading to work! Have a beautiful Friday! 
+@dudeman718 Why thank you   Have a great Friday! So beautiful outside again here in Chicago...
+Good morning!  Have a nice Friday!  xxoo
+Good Friday morning!! Yay!! Had WEIRD dreams last night....but feel great this morning! 
+@JuicyJenBunnick Morning Jen! Have a wonderful Friday 
+I just ruined Friday for some people. Took all the sweet bagels from Atlanta Bread 
+It's Friday!! Are you ready for the weekend too? 
+Goood morning Chicago On this great Friday Morning ! time to wake up and watch Fall Out Boy on the Today show 
+Friday at last. Not on call anymore and off work for a weeks holiday next week \o/ Need a few beers tonight 
+Waking up on a beautiful Friday morning with nothing to do  Found Invaders from Mars on tv - lolz!
+@fingwindmills, thanks for the shout-out! Have a great Friday. 
+Today is a wonderful Friday. Todays Objective, is to BE YOURSELF!!. Have fun with it and BE Gratefull for it. 
+I'm heading to the fine Hoosier state for the weekend.  No Road Warrior on Monday! Trust me, you wouldn't need me.  Have a safe weekend!
+@gracesmith Happy Friday! How are you doing? Get my email ok? 
+@vene2ia Thanks for the #followfriday &lt;3 Have an awesome Friday. 
+Follow Friday Reckless_Apples poor thing aint got no followers beside me 
+@Stpoodle Awesome!!! Have a great time.  If your there on Monday, maybe we'll pass each other in the crowds! Enjoy it and the chocolate!
+Follow Friday ; Do what everybody else is doing 
+Ask me anything  (p.s. It's Friday!!! Hope everyone has a good one!)
+@LakerGirl77 Gotta see them sexy Boys. Which reminds Me Your boy did AWESOME Wednesday 
+@mileycyrus I'm having a very intense surgery on Monday.... Could you say a prayer for me??? Thanks Miley 
+@odaraia Thanks so much for the interview link - have made space in the day for it later  Have a great Friday.
+What a Boring Early Friday Morning  Have 2 Study + Ustath 7asan :S:S
+@Splend I know that one! Have a good Friday 
+Friday Feeling!! Enjoying the sun!! 
+@AlexKNelson thanks Alex! Have a wonderful Friday 

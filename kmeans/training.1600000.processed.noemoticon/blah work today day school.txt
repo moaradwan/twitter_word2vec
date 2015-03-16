@@ -1,0 +1,249 @@
+Most common words for this cluster:
+[('blah', 262), ('work', 25), ('today', 22), ('day', 20), ('school', 12), ('time', 12), ('tomorrow', 9), ('amp', 8), ('sick', 8), ('tonight', 7), ('night', 7), ('i', 6)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Blah', 0.9919250011444092), (u'Moses_Blah', 0.6222488880157471), (u'House_Speaker_Nyundueh', 0.5165724754333496), (u'Monkomana', 0.4969172477722168), (u'President_Moses_Blah', 0.4955858588218689), (u'Sorry_Blah_Blah', 0.4946361780166626), (u'Liberian_warlord', 0.49316802620887756), (u'Blah_Blah_Blah_Blah', 0.4834166169166565), (u'Sirleaf', 0.4696480333805084), (u'Conneh', 0.4636046588420868)]
+
+
+
+
+
+Blah sick not going to school today 
+Blah....sick with the flu 
+Coffee &amp; cigarettes. Blah 
+work until 3. Blah 
+Got school work to do  and a house to clean! Blah
+@tjd06 Just looked at the last website u sent &amp; that airline doesn't fly to Portland  And everything else is $$$. Blah. Someday...
+Wants to know what happened with the new kids last night, they all found a bit..... Blah 
+Wants to know what happened with the new kids last night, they all sound a bit ..... Blah 
+@johnianmarshall Oh right, I forgot about that tree I have in my room. -_- Blah, I have blankets around, but not a nice comforter. 
+Blah, so much work to do and very little motivation to do it... 
+Blah gotta get out today but I feel lazy  and a lil hungry
+Blah, time for bed I suppose. Seeing my friends back off to Ohio in the morning 
+back in Athens, back in the office...achy and spaced! Blah 
+At school ! Blah  @mileycyrus you look great in the Venetian mask :*
+Blah! asdfghjkl; My hair is being poopie. 
+Blah. Woke up because of a stupid bad dream. 
+Blah! I should be asleep for today's 10 am rehearsal but I don't want too! &gt;.&lt; Hehe I'm not sleepy and I don't want to wake up early! 
+Wku internet is down!!!!  i need my internet! Blah...withdrawl is a bitch
+At work! Blah! Maybe PAU was right...shoulda done a negative on those coronas! 
+Blah!  Rain now hail 
+@danspace Blah. I've been cleaning mine all day, damn rent inspection. 
+Blah work again 
+@MaschaD this one is gettin ready to go to work! Blah 
+Blah I forgot I have to read huck finn 
+My hopes were crushed. Its only the hockey team Ducks  Blah.
+I wish I could go back to bed. I hate Mondays.  Blah! I feel like I didn't get enough sleep last night either.
+Blah!  I feel like I've accomplished nothing.  I woke up super early to get started on work 
+Another day of being: sad, lonely and depressed at work.   Blah!
+Blah, mum and dad are down hospitial, i'm knackered, had to do all the jobs again... hope shes okay though. 
+Blah videocamera ran out of batteries!  the Shirt Fight theme for 5/14 is &quot;the letter T&quot; design anything that starts with the letter &quot;T&quot;!!
+@hpdrury 3? What was the third? Blah. 
+Ahhh school tomorrow  I have so many projects and upcoming tests, I'm terrified. I just want school to end! Blah, fuck school.
+Blah why do we have to have midterms and finals?  this one is really hard.
+So sad danny went home on idol tonight.  he deserved it more than the other 2. Blah going to bed. Night.
+Okay, it's official I'm effing sick! Blah this sucks! I'm sick, and still sore from believers never die and relay for life...ugh 
+Why the hell am I awake this late? Blah guess it's time for sleep. Goodnight world all alone in bed with no cuddles 
+Blah I haven't slept at all today 
+Feel like a hack. Blah Blah. Haven't made anything in ages it seems 
+Blah, the wife liked none of my choices in #cars.  back to the drawing board.
+Has nothing to do on a sunday afternoon. Waiting for the ginger to get back to me about our lunch date. Blah. Twittering cuz i'm bored 
+Blah heritage thingy and a reunion todayy  Imma miss my games  can u say TIVO
+@sunshineangel89 oh me, too. Well in a few, since I still need to do something in the kitchen. Blah. 
+I hate when people waste my time. Blah. When will the power be on in my room again?! 
+Blah...I want a new cello 
+Blah, Liquid diet today for tommorrow's little test that will make or break my whole world. 
+@TheFeatureMag Blah blah blah....I'm still going into playoff mourning 
+We talked for 3 hours nonstop. But he made me get off the phone cuz he knows I need to sleep! But I dont wannaaa  Blah gotta try. G'night!
+Ugh. It needs to stop raining. Yet another day of stupid ping-pong in gym.  Blah.
+Headin to work. Blah! I hate this shift. 
+Reading, as always. Too bad its so cold outside.  Blah.
+I really hated my cat today  poptwiz: do I keep a potentially dangerous and aggressive cat? But he is so awesome! Most of the time. Blah.
+Blah back to boring old work today! 
+Blah... Will someone help me take off my crabby pants? 
+Is it five o'clock yet? At least i've got monday off... Blah, back to work 
+Blah, leaving can't watch the game anymore  someone, keep me updateddd!
+Blah no way I can leave this fucking house  no party tonight. Lameee!
+finally ready for bed.. but need to pay bills first.  Blah 
+I really want my mac certification so I can take mac jobs again. I've been using macs since I was 7 dammit. Blah. 
+the yelling is over . . Blah yo quiero crackers . . 
+family fun night was fun..but i am so exhausted. working another carnival tomorrow. Blah 
+Blah to car repairs... almost 600 dollars...   Shopping around for a better deal.
+Today is just not my day. I can't seem to feel any better. If i dont eat, im hungry. If i do eat, i feel like im gonna be sick. Blah 
+Ugh. Bleh. Blah. 
+Blah! Texted my phonebook and like everyone's asleep 
+Blah I'm done with twitter. No one I know besides Justin has it so fuck it. 
+Learning plans and reports. Blah.   so tired probably wont watch the game tonight
+On my way to the doctor.  I hate being sick. Blah blah blah. I'm in the chickfla drive Thru with my momma!
+Blah! Getting ready for work, woke up with a sore throat and the weather is yucky outside. I wish I could just go back to sleep 
+@tulsa_weather interesting thought but I don't think it would fly. But, they did make coffee coca cola I think. Blah. 
+is not wanting to be at work till 11pm tonight. Blah.  
+Blah moving sucks. Why do I have so much stuff 
+Blah. Is it noon tomorrow yet?? 
+On another call. Its a kid. Blah. Doesn't sound bad but still I don't like calls dealing with kids. 
+Feelin like shit this morn  and does not want to go to work!!! Blah blah
+Still feeling yucky! And I'm workin an 8 hour shift  I think I might pass out. Blah
+i've already been through the don't care, sad, and angryyy phases and now i am back to the sad  Blah Blah Blah
+I'm like exhausted.  2 more changes and then the show is over. Going to the mall and then summer camp clean up. Blah. I wanna go homee 
+Blah me too? 
+Blah, why is FMA: Brohood 9 taking so long to download? 
+Blah this week=econ presentation + 3 dance performances 
+Doesn't like twitterberry  Not at all. Blah lol
+Blah...Blah..Blah...blah...writing....thinking....lost in thought....I need to grow up....miss my baby...errrrr...no more lonely nights. 
+Yowch, my calf muscles are all sore from spending all my time at work on my feet whilst wearing cheap shoes. Blah 
+Blah, very very sick this morning 
+Finished the powerepoint but I don't think its very good. I was so tired when I did it. O well. I hate school. Blah 
+Why oh why am I up so early?  Blah 
+Blah! I think I'm getting sick. Uncontrollable shivering all night! Could not get warm no matter how many blankets. 
+Blah...history exam 
+Blah hate mondays school's boring have to get back to school in 20 minutes and go to french blah 
+Ohmygosh. It is going to take forever to upload this thing. Blah. 
+Blah. Back to work 
+No family bike ride tonight.  I only like rain if is paired with a thunderstorm. No such luck today...just rain. Blah.
+Blah always late stuck in traffic  couldn't find good clothes to fit in to
+near my goal. Blah...life's tough. 
+Blah stomach is burning for some unknown reason 
+Blah. I'm hungry &amp; can't have any food or drink possibly til wednesday. &amp; I'm bored &amp; can't even sit up  being in the hospital is so lame.
+Blah,  school   not so exciting .
+Blah. I need a non-freelance, steady job so badly. I want to work toward *something* with people, not just work with no real goal. 
+Wow I am so tired!  sad cuz its only 10:36. Blah! I know its the sunburn.
+Blah! Home doing homework .&amp; studying while my friends are out! 
+2 more hours. Blah blah blah. :/ Radio switched to the rap. 
+I need to stop procrastinating.  Blah. School is such a drag. I want it to be summer! Although, the weathers been nice. (: Eh.
+Blah   I wanna get away..
+@MattSanders Ditto. I think my brains too wired lately  too much going on. Blah
+I'm sorry isaac  Blah  i feel horrible i'm not all here.  ah?? Omg. I think i just fucked up things? 
+Waiting for my aleve to kick in. Blah 
+Longest line ever at dairy queen. Its about to rain so hard. Blah 
+In a Blah sort of mood. Here @ tempermentals. Realizing it was dumb 2come, i have 2work in the am.  but my babe is coming.  &lt;ShHhH...&gt;
+Blah just got home. I'm already tired  boo
+Blah....fever keeps coming back 
+Blah hay fever sucks 
+@crazytwism @brainstuck   One kitty just followed me again!!! I speak too soon sometimes.. Blah!
+Blah. I just want to sleep more 
+Designing some emails. Blah 
+@janine_j9 Blah my parents didn't have very many baby pics of me and they almost lost them all. There's only like 2 or 3 left 
+Having a bad hair day. Blah! 
+At work.  Blah 
+Blah...feeling like I want to get in the shower ..hmmm still haven't showered from being in the river 
+Blah...feeling sick on a major picture day...no bueno 
+@jimmysmithtrain Not much, trying to beat these allergies.  Blah!  How was your week?
+Blah no school and i still wake up hella early been up since 6 
+Blah time for work 
+@krowt thnx for the #followfriday! U haven't been around much lately. Blah. 
+Blah, started feeling wretchedly ill after work for some reason. 
+Blah headache ishh 
+Soooooo tired! I wish I could sleep in tomorrow!  instead I will be working a yard sale! Blah!
+Blah, time to go to bed because I need to take the stupid SAT 2s in the morning. 
+I wish my head didn't hurt so bad.  phoebe is toooo tipsy and tired. Blah
+Blah. Zoo tomorrow, cycle around the lake today, miss you all  Bahahaha, all is still just 3 people, I rock ;D
+Darn I left da window a lil open n all da noise woke me up gosh! Blah my tummy hurts 
+Mowing the lawn. Blah day 
+Hahahaha I hate online classes!!!!!! Blah....leaving o-town at 4 
+Recovering from a nyquil hangover. Blah 
+@jtimberlake hmmm ?!?!? I think I did something wrong  Blah! This is hard 
+Blah stuck at work on a beautiful day. 
+Blah, today stunk, no MBP, lost my bloodshugar kit, and lame &quot;party?&quot; 
+I feel like I just ran a marathon even though I haven't done shit. Blah uugghh 
+Watching the mtv movie awards online not on my laptop because my laptop is too OLD!  Blah...  
+@Aktieriel Blah, sorry  You and Phil should start a support group.
+Blah, my eyes hurt 
+Doing a little bit of worky work.   Blah!
+@Sammy_McPherson it is what it is. Just hate to see them sick. Clients can wait but hate seeing these sickie eyes. Blah. 
+Blah great mood to end my nite 
+Blah...This sucks no one is fun here! 
+@tcharles and so is hers. And I won't have a ride!!!  I am going to cry! Blah. Blah blah! I wanted to go!
+Horoscope 'Some important eyes could be on you at all times. . .' Uhm, creepy. That sounds more like a HorrorScope. Blah, still sick 
+Blah! Not my most creative day  #squarespace
+yeah yeah @johncmayer thanks alot _drove an hour and a half and you wouldn't let us in! Blah. Next time try not to tell all 1.3mil of us 
+Blah - Mondays. I miss my baby already 
+@sphillipsdesign Sorry to hear about the Blah 
+@cbanana17 probably! Love it! But found out it is one of the worst things on the menu! Blah 
+I miss two years ago when it was different.. Blah 
+Blah feeling today.  hopefully that improves.
+Been cleaning all day,eh my lazy ass had afew too many breaks . headaches is still with me a consatnt companion as of late.. Blah!!! 
+Early night. Gotta get up at 7am, and work. Blah 
+Blah feel like crap I really wish you were here 
+Blah long boring day. I'm starting to not like jon &amp; kate plus 8 anymore. 
+I hate the midnight shift. Blah. There's not enuf time in a day 
+Just got paid yesterday &amp; have already used most of it on bills. Blah. 
+Blah can't make icons without Char's help 
+Blah I feel blah today!!!   so much hate  going around!!!
+Blah summer so far, I only tweet on my tweet once like every 2 months 
+@SittingOnPretty haaaa! Nah.. But I took her to prom tho.. Blah.. I wish I was back in HS too 
+Blah. I feel nocturnal again. 
+Blah, thought I was spending more time in the city after the Metric show but I guess not.  how disappointing.
+Siiiick.  Blah. Buuuut, fun day fer sure.
+Blah stop ruining Leonard cohen with smoking ads 
+Blah -- back to the grindstone. Much harder now that I have to leave my 11 week old with someone else. 
+Blah... Another crappy day at work 
+Bummed cause I can't go to the beach today....Blah 
+Blah blah blah blah..i have a headache 
+@RainbowbyDesign yeah, I don't really expect much from her either these days  I actually thought she'd already removed you.  Blah.  BLAH!
+Blah. Integration of rational functions, integration by trig substitution, and integration of hyperbolic functions. I don't wanna play 
+Blah i desperatly need a new phone 
+@amber_eubanks Me, either.  The best way to ruin a song, is to attach a video to it.  Blah!  
+Cleaning the apt. Blah..I miss my bby 
+Babysitting tonight, target in the morning. Blah 
+is going to bed...back to work tomorrow.  Blah. 
+Blah I hate being sick. No pb tonight 
+Rainy mornings make me want to curl up in bed all day but I have to go to work. Blah! 
+Morning twitter bugs! At work today my back is killing me   just when I thought I would get out of here early the work load hit! Blah
+Someone has too much lotion or perfume on    making me sick to my stomach. Blah
+@sora2522  Why the blah?  Blah makes the kitty look sad.  
+Today's yoga session didn't do much to improve my increasing grouchy-ness.  Normally it makes me feel much sunnier. Blah 
+Another glorious day working for the man. Blah. And worrying about a close friend. 
+Feeling Blah...like the weather 
+@cr8en Blah, I wish! Charlotte traffic is no fun 
+Blah...headache 
+Blah the weather sucks right now  i'm sick of rain now
+Blah early exam tomorrow. No, I don't wanna go to bed early! 
+Blah, more ffmpeg issues: Unsupported codec (id=86018) 
+Hates homophobic Obama  work was fun, but i think i have the highest IQ out of everyone i work with. Blah, pay is pay right?
+: Blah! I feel so alone and depressed.  Time for bed.
+@ChelseaRiot I just left there!  I have to be at work at 8am. Blah!
+Early freaking day tomorrow  Good thing I took a long ass nap today. Blah.
+Blah for 10 hr work day. I want to go back to bed 
+Blah dentist appointments  *histexasangel*
+Mornin'!  I see more dark clouds coming our way.  Blah.  
+Just woke up! Stuffed up nose!  Blah!
+Eatin my breakfast at work. Blah Fridays. I wish I could look forward to them like the rest of the population 
+Blah, why is SCOM discovering domain controllers but not member servers? I have the right management packs...I think.  #scom07 #scom
+Blah it's rainy and gross and humid. Which means lame hair day. 
+@ThrilledRebecca Blah!! I hate coconut too 
+@laurenfreeman  I want to come. Have to work. Blah.
+One Key Skills task down, two more to go. Blah. 
+I work six to two! Blah its no fun xx ; I miss my  5_1pm weekends 
+Going to the village today. I should leave my car there for some repairs  Blah! I hate public transport. #squarespace
+Morning! I don't really have anything to to today... Blah  o well sometimes doing nothing is nice
+Off to the frackin grocery store.  Yay for me. Blah!!!
+Blah. I'm bored. I want to read butbi can't find my book 
+I think it's safe to say I'm disinterested in everything today. Blah 
+Blah blah blah one more hour at work 
+Blah home alone wishing there was someone to keep me company tonight 
+Blah working on sunday's suck 
+Blah, my body is still shaking from latsnight.  im never good enough for anyone. I miss my best friend.. Ray and alex 
+Blah.  chicken sounds good. Right now, anyway.
+Blah... time to do the tests. My patch is really itchy today  and everyone smells like cigarette smoke!
+Blah 4:30am gets here too quick  night
+I did and she is being mean like always. But i guess its bc its out of her way. Blah blah blah... 
+Blah! I hate being sick!.....but at least I don't look how I feel 
+Blah woke up late. Rushing to get ready for work. 
+@TeeDotReese nooo  it was too far from where I was gonna be! Blah! I'm on this melon-tooth now lol.
+@briarlaboheme Blah. Blue light not so special. 
+Blah  cramps
+They just couldn't wait.. Blah, don't feel well. Going to bed 
+Wants this pain to go away so I can go to YATEC. But I probably won't be able to go. Blah 
+Blah 5am still up  daang I got deep problems
+Off to church. Blah. Then, idk. Its not particularly nice out. Peace out peeps 
+Blah, blah, blah... I'm sure it's all for a good cause, but let me help by buying more Heinekens! Hahaha  http://twitpic.com/3n88p
+Going to our soon to be new house. Blah. 
+Blah. First final is at 8 a.m. tomorrow. At least the MAVS play today to destract my studying! 
+@DanniPandemos ok .... Here 409 is a cleaning soln .... Blah.... Over and out 
+Watching SAW and doing loads of laundry. Blah 
+Blah just got out of church weird Huh? idk wats next i love all of u n u should text me the number is 9364438089 dont worry i dont bite. 
+Blah, nausea. It's pretty out though. Hope it's a good day! 

@@ -1,0 +1,20 @@
+Most common words for this cluster:
+[('korea', 6), ('north', 6), ('oooooooh', 1), ('ktmeq', 1), ('friggin', 1), ('damn', 1), ('can', 1), ('follow', 1), ('epah', 1), ('china', 1), ('wat', 1), ('nehsl', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Korea', 0.7571372389793396), (u'South_Korea', 0.7017440795898438), (u'North', 0.6978781223297119), (u'Korean', 0.6601805090904236), (u'Korea\u0101', 0.63875412940979), (u'\u25c6_N.', 0.6048864722251892), (u'Korea\xe2', 0.601872444152832), (u'South_Korean', 0.5817167162895203), (u'Pool_KOREA_OUT', 0.5798483490943909), (u'Tourism_Organization_KTO', 0.5795091390609741)]
+
+
+
+
+
+Damn you North Korea. http://bit.ly/KtMeQ
+Can we just go ahead and blow North Korea off the map already?
+North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl
+Oooooooh... North Korea is in troubleeeee! http://bit.ly/19epAH
+Wat the heck is North Korea doing!!??!! They just conducted powerful nuclear tests! Follow the link: http://www.msnbc.msn.com/id/30921379
+Listening to Obama... Friggin North Korea...

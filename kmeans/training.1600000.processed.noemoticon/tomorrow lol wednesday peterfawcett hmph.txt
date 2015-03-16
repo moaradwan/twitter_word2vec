@@ -1,0 +1,22 @@
+Most common words for this cluster:
+[('tomorrow', 17), ('lol', 3), ('wednesday', 2), ('peterfawcett', 1), ('hmph', 1), ('marianamaya', 1), ('while', 1), ('nopee', 1), ('camp', 1), ('walk', 1), ('re', 1), ('cant', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'tomorrow', 0.9999999403953552), (u'tonight', 0.7002382278442383), (u'tommorow', 0.6976727247238159), (u'tommorrow', 0.6840943694114685), (u'tomorow', 0.6691327691078186), (u'tomorrrow', 0.6581167578697205), (u'today', 0.6511257886886597), (u'Tomorrow', 0.6211402416229248), (u'Saturday', 0.586516261100769), (u'Friday', 0.5605271458625793)]
+
+
+
+
+
+and i better go to bed or i think tomorrow not even i would can walk.... i think i will be too sick tomorrow 
+has prefect camp tomorrow! not as excited as I thought I would be probably because of my physic practical tomorrow. hmph 
+can't believe that tomorrow is my last wednesday! 
+@FatDaddySweets me too- our anniversary is tomorrow (9 yrs) so it would be really cool if she went tomorrow 
+@marianamaya tomorrow tomorrow tomorrow. lol it cant get here fast enough! i am off and will be sleeping in. have fun with the wedding 
+@peterfawcett nopee, lol and i won't be here tomorrow either, but if you come extra early on wednesday, then ill be here,  lol
+cant wait for tomorrow.. *tomorrow.. tomorrow.. i love u, tomorrow... u're only a day away... 
+@jessiexbessie i'll show it to you tomorrow if you work tomorrow  i haven't seen you in a while.

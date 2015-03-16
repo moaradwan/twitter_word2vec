@@ -1,0 +1,550 @@
+Most common words for this cluster:
+[('dentist', 426), ('doctor', 79), ('appointment', 33), ('tomorrow', 24), ('today', 21), ('orthodontist', 17), ('teeth', 17), ('dentists', 16), ('morning', 14), ('tooth', 13), ('mouth', 12), ('cavity', 11)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'dentist', 0.9705204963684082), (u'doctor', 0.767814040184021), (u'orthodontist', 0.7591265439987183), (u'Dentist', 0.7309291958808899), (u'periodontist', 0.6853426694869995), (u'dentists', 0.6799688935279846), (u'oral_surgeon', 0.6792014837265015), (u'plastic_surgeon', 0.6763701438903809), (u'dermatologist', 0.6757941842079163), (u'dental', 0.6694228053092957)]
+
+
+
+
+
+Reeked of alcohol at the dentist this morning + was drunk when i put on my tshirt, realised it had a huge stain. Dentist looked disgusted 
+@offbytwo seeing a doctor i hope? 
+is off to the dentist, then the midwife for blood tests..whoop de frikking do 
+off to the dentist 
+Going to the dentist again  I mean, tooth spa right @valeriekhoo ;)
+quite sick going to doctor now 
+I really need to go to a dentist. 
+Just booked a dentist appointment, what joy 
+Off to the dentist... It is snowing - hope the roads are okay 
+I guess I'm getting up. I miss all m friendys. I wish I was with you guys.  oh well. Dentist then rehearsals.
+is chilling out after a very painful dentist appointment 
+Looking forward to the dentists 
+Going to have some delicious pizza, and then to the dentist 
+off to the dentists now 
+Getting ready to go to the dentist 
+I used to like the dentist.  I dont like it too much anymore 
+is going to miss my dentist  who is retiring ......because I'm a dentist wimp? No..because he let me run a tab LOL
+@InThisCity dentists suck 
+Dentist in the morning, then work.  
+@androidtomato I'm really goingto misshim as the doctor 
+going to the dentist 
+The dentist pulled my last nerve ... 
+@QueenOfFinland oh no! (charmer style) going to the dentist..   i dont likey the dentist either...
+Does. Not. Want. To go to the doctor 
+Going to the doctor 
+in the doctor !! i'm scared !!! 
+About to go to the doctor 
+is at the dentist 
+at Finthen, at the dentist  - http://bkite.com/06GZN
+Finally sucked it up and went to the Dentist. I was hoping for a filling, but came home one tooth lighter 
+going to the dentist 
+Ah godammit. Dentist appointment tomorrow.I hope he doesnt shove needles into my mouth again 
+@psydry i went to the dentist!! 
+Dentist  then a funfilled day with my babyyyyy!!
+Just had to pay the doctor $50 
+dreading the dentist tomorrow 
+chipped his tooth yesterday too  bad times. neeeeeeeed a dentist!
+has booked a dentist appointment for next week 
+getting some drugs in me so i am ready for the dentist tomorrow.. there's a crack in my tooth 
+the orthodontist hates me 
+is avoiding going to bed so she doesnt have to wake up and go to the dentist 
+@lBuggy Why r u always at the dentist!  I'm not a fan of them either.
+getting teeth drilled at the dentist 
+Off to the dentist, wish me luck 
+@blueholly yeah, that what the proctologist said 
+@johnpapa I can't tonight I have early morning dentist 
+counting down the hours to go to the dentist 
+@itilir ?? you ok? @joshftv evil dentists hate them  
+I need to go to the orthodontist. 
+just remembered I have to go to the dentist in ten. fuuuun 
+@SholaAma  Dentist!! I hate the dentist. Last time I went I didn't even notice my mouth had closed and I was biting his fingers! lol
+@trishybee is it time to find a new doctor? 
+Ouch, I think I have a cavity. How could the son of a dentist have a cavity?? 
+back at the doctor 
+#Invisalign gives me dry mouth. 
+doesn't want to go to the dentist tomorrow 
+Is waiting at the dentist 
+going to the dentist has never been a problem for me, but physically dreading going tomorrow, because i know they'll find another cavity 
+is off to the dentists 
+i am waiting for a call from dentist to care for ailing tooth.  
+is off to bed  Dentist tomorrow 
+is mentally preparing himself for this dentist visit this morning.  - http://bkite.com/07AxQ
+@_icarus  is he okay/going to see a doctor???
+im going to my dentist 
+is going to the doctor. 
+Sitting in the dentist's chair  http://twitpic.com/5f9rx
+going to the dentist. 
+Dentist appt today. For me this is about as enjoyable as typing embalming appt today 
+At the dentist waiting for a filling  can hear drilling  
+is at the orthodontist. 
+Going to the dentist..yay 
+Off to the dentist 
+Not a pretty sight... i need those vacuum tubes at the dentists 
+Ugh. I'm at the orthodontist. I hate the orthodontist. 
+Just back from the dentist 
+is off to the Chiropractor did something to my neck..hurts like hell  Later ! xox
+going to see the dentist. not fun 
+Going 2 the Dentist in 2 hours  i hate the dentist 
+Seriously just threw up because i was coughing so hard  i really really need to go see a doctor. Anyone have a good doctor?
+At the dentist, root canal incoming 
+another dentist appt.   sure, i take good care of my teeth, but i still have to take care of that one cavity.
+Has the dentist this afternoon. 
+going to the doctor to find out when i will have my tonsils taken out 
+In the dentist!!! I hate people digging in my mouth!!!  it's so uncomfortable!!!
+been at the doctor's since 9:00am...still waiting to see the doctor....soooo sleepy 
+@crimpomatic ahrrr I hate dentists 
+the dentist is my biggest fear  i hate him 
+I've got a really bad pain in my gum but I can't afford the dentist 
+hates going to the doctor 
+Ugh! I don't like to go to the dentist!!! 
+has to go to the dentist.... 
+doesn't want to go to the dentist 
+Leaving for the dentist 
+I'm h0me.. Just g0t back fr0m the dentist,... can't eat 
+is hitting up the dentist 
+I would like to get Invisalign to fix some spaces in my teeth, but too expensive. 
+I've got a dentist's appointment soon!  The drill feels like I've got my brain in a blender - not looking forward to it 
+i have to go to the doctor... i don't want to... cause there i can wait sooo long... 
+Dentist in less than 2 hours  Arrgghh. I like my teeth the way they are. Except for the toothache, but that's a minor quibble.
+Going To the dentist 
+I REALLY  should have gone to the Chiropractor this week . . And today  my neck hurts so bad
+@geekandahalf I'm not donating sweetie, I was at the doctor. 
+shower before doctor's appointment 
+At the dentist. I liked it better when the dentist is the client. Now I'm the patient.  http://www.DamienSmithPhotography.com
+I dont feel well  i got a dentist appointment later.
+I hate the dentist 
+On the way to the dentist. 
+@soapylove Congrats on the Invisalign! I need to get refitted for mine - I got lazy and stopped wearing them. 
+Dentist   but the chicks hot so thats a plus
+I dont like the dentist...they make my gums hurt 
+4 fillings to the good(?); two more appointments to go 
+so i went to the doctor and i'm sinus infected 
+going to the dentist. 
+@derrick21 i have to go to the dentist...   i'm scared.
+@1000mgofjenn I have a really BAD toothache and I can't go to the dentist til my insurance kicks in. It came out of nowhere. Pout. 
+watching tele, went to the dentist 
+@Kymdeesther do scaling  stupid fucking dentist damn impatient just now
+is not excited to go to the dentist 
+I'm really wishing I didn't have to go to the dentist 
+going to the doctor 
+@neveroddo aww  i hope you can see a dentist soon and i hope it feels better!!
+is late for his dentist appt. They said it was ok, but I'm sure they are gonna make me feel it.  #fb
+went to the dentist. my mouth is frozen  and i'm hungry!!!
+oh no i've go to go to the dentist and by looking at what's wrong with it - it'll be a painful appointment! 
+@arvislacis you may get it back though  should see a dentist for a check every 6 months anyway..
+Still at the doctor's. 
+is going to the doctor still very sick 
+@Dailanche I nearly had white but my hairdresser said it would just go yellow 
+@HunniRae  lol why doctor phill have to help me?? 
+is off to the dentist today.....grinding teeth apparently very damaging 
+getting ready for bed... dentist appointment in the morning 
+@ pelangi. Studying accountant  http://myloc.me/2g2l
+is about to visit the dentist... 
+the plumber is late 
+@rsctim crazyy. the dentist is evil 
+I hate going to the dentist 
+I'm off to the dentist...  
+I hate the dentist 
+ew. Dentist today. 
+Dermatologist before work... What a way to start the week 
+going to the doctor 
+time to go to the dentist. This is going to suck 
+had a good day at college - sat on the field for most of it! Dentist soon though, urgh 
+getting ready for the dentist 
+Dentist ugh hate it  and outt with my lovesz&lt;3 obb with day 26;tyres; and soulja boy lmfaooooo
+ i so don't like going to the dentist
+Dentist  zzzzzz is the sound of that terrible noise of those machines in my mouth...ugh.
+dentist appointment today. i'm pretty sure i have a cavity 
+@bffoley new clinic.  I want to see how they are since I need a new doctor too 
+Going to the dentist today.  Just getting some old fillings replaced.
+relaxing. going to the dentist later. 
+So I do believe its my teeth/jaw that has the problem.  Dentist time I guess...yay me 
+Sitting on the dentist office. Looks like I'm gonna be here for awhile. 
+Going to the dentist 
+is at the dentist for a filling  #fb
+Is dreading going to see the doctor 
+On my way to the dentist 
+ugh at the dentist 
+Sitting at the dentist....waiting....  listening to all the women gossiping. : P
+is going to the dentist. 
+Childishly hating my doctor for being so damn picky and critical.  If it wasn't so late, I'd get another one!
+going to the doctor 
+does NOT like going to the doctor... 
+@sukkas oh dear, it must have hurt so badly  my dentist is the best dentist in the world, do you want me to give you his number?
+Just got done with the dentist 
+the dentist tried to pull out my tooth and it wouldn't budge  so i have to go to a surgeon and be put to sleep 
+Has to get up at 7 tomorrow to go to the dentist. 
+@seanbonner If I went to the dentist now, he'd probably punch me in the face and force me to get dentures. 
+Hopes the dentist will sort out my toothache today 
+At the dentist again. 
+Visiting the dentist 
+... don't like going to the doctor  ...
+Dentist + period = wonky tummy 
+dentist's worst enemy: backpain! 
+has to go to the dentists 
+@PoetressFloetic LOL! When are you going to see a dentist, hun? You can't be playing around with that toof 
+Bright and early at the dentist 
+I don't want to go to the dentist!!! 
+Getting ready to go to the doctor. 
+Just got back from Dentist - some surgery needed! 
+Going to see my dentist  I'm freakin' out !
+does not want to go to the dentist- i hate the dentist. 
+On the train to F'boro, to the dentist again 
+Dentist soon noooooo it's too sunny to be in a stuffy waiting room 
+Just got back from the dentist, and it didn't totally suck I guess. I might have to part with a tooth though. 
+i hope i don't have mononukleose  i'll go to my doctor if i don't feel better
+@jennyonthespot What did you do to your teeth? They're beautiful! I need to go to a dentist.. 
+I think the dentist overly numbed my mouth. I want to drink my vitamins, but I'm afraid I'd end up wearing most of them 
+My mouth is so swollen. I need a dentist that won't rape me since I have no insurance. Heeeeelp! 
+just got back from the dentist lol 
+Dentist tomorrow!!! not good 
+...I think i need a doctor 
+i wish my teeth would stop hurting!! and i also wish the dentist was covered 
+unfortunately we're not going to the dentist anymore 
+Going to the Dentist this morning 
+Off to the dentist 
+panicking to heck, leaving for dentist soon 
+dentist at six, i don't want to go! 
+Waiting at the dentist for a filling 
+My osteopath just told me off  that's not going to help me relax, is it?!
+going to the dentist now,  going to get yelled at by the receptionist for not wearing my retainer. i'm scuuuured.
+the dentists should not be open this early 
+waiting to get a physical... i hate doctors appts... @ least its not the dentist 
+dreading going to the dentist today... ick. 
+Dentist appointment today. I wouldn't say I'm excited but I'm excited to get my teeth fixed I hope I can do it w this cold 
+going to the dentist 
+wrong time to go to the dentist. 
+going to the dentist now to get 4 cavities filled. can i express how not excited i am about this?   
+going to the dentist.. 
+at the doctor 
+Is at the dentist office.  waiting.
+If you like s&amp;m, you prolly like the dentist too.  I just came from there.  
+Dentist went off without a hitch. Let's hope this afternoon's Doctor appointment goes as well--booster shots 
+Has to get a cavity filled today  I hate the dentist...
+Just woke up now I'm getting ready to go to the dentist.  boo dentist!
+just got back from the Dentist  now my mouth is frozen!
+Just came back from the dentist - have cavities for the first time! 
+off to the dentist. yay!  
+@joeydavila i had a dentist appt. like that once. only once.  
+just got back from the dentist.  it hurts....
+back from the chiropractor. Hurties  
+On my way to the dentist. I'm so not looking forward to this 
+doctor, I completely forgot about it. This really sucks. 
+@aquariann I do not like the dentist...eeew..he makes my butt pucker. I should never have waited so long.  
+Laying in bed...lagging.  I don't want to go to the dentist!  I'm going to get up soon.
+my gums are so sore    frigging dentists.  RAWR
+dentist tomorrow  i hate that :@
+The Dentist has to be one of the worst places on earth!  Especially if you're getting a cavity filled! 
+going to the doctor 
+Going to the dentist 
+Oh no, bad news! Dentist says my wisdom teeth need to come out this year 
+hmmmm ughhh dentist appointment at three 
+@YAVIS69 my gums hurt i think i need to talk to my dentist.  And now I can't sleep, again, and I've taken two sleeping pills.  
+t0othache.. need to see my dentist..  .. (im scared.. haha)
+Just chipped my tooth  bad times. i friggin hate the dentist
+I have to see the dentist today.  I like my actual dentist I just hate the demonic nurses.
+is dentists the morra.. 
+has to go to the dentist tomorrow 
+going to the dentist tomorrow.... 
+@JonMendte waiting on plumber to fix busted terlet. 
+my tooth hurts            -i need to make a dentist appointment,pronto!
+I might have to go to the dentist tomorrow...I hate the dentist 
+To the dentist!  braces suuuuuck (
+i have to go to the dentist noooooooooooooo 
+watching a movie, ate a dang good enchilada. Dentist tomorrow 
+Ugh i have the dentist at 10 
+has the dentist at 1.15  how crappy! #fb
+I am about to go to the dentist 
+At the dentist so I got a major attitude.....hate dentists- shit shud be free, their the one looking and inflictin pain 
+dentist  just got my novacane shot  ughhhh
+Going to my dentist now 
+Dentist calling *so much afraid* 
+got little boots' album! yaaaaaaaaay! but i need to go to physical-ed and after that to the dentist... 
+off to the dentist. 
+Dentist apointment!  free floss! 
+I'm so sleeeeeeeeepy, but gotta get up for my dentist appointment 
+is at the dentist! 
+doesn't want to go to the dentist. And skies look like it's going to tip it down any second 
+is not looking forward to her orthodontist appointment tomorrow 
+i don't want to go to the dentist 
+wants it to be tomorrow afternoon already! - Dentist appointment  http://plurk.com/p/114ete
+At the torture chamber.....aka the Dentist 
+just got back from the orthodontist ... not fun 
+dentist again  then segment 2 (drivers ed) +
+NOT happy with how my orthodontist appointment went this AM 
+Feeling so sorry for myself i have a swollen mouth due to Dentist appointment and its not going away 
+@thinkhourly have u seen a doctor? 
+Getting ready to go to the doctor.  
+Has to go to the doctor at 2.. 
+On my way to the dentist  I am never letting myself get a cavity again!!!
+In the dentist office 
+At the dentist boohoo 
+Dentist later :/ scared  #musicmonday any good songs to listen to..?
+Dentist: not very friendly old man who keeps yo waiting for suffer! Urgh my mouth hurts! 
+Off to the dentist to get my tooth drilled 
+The dentist always ruins your fun. 
+I have to go to the dentist soon.  I hate the dentist!! 
+no new cavities and it's wonderful but the dentist said the chip i got from kickboxing might eventually fall out one day! 
+Feeling molested by my doctor 
+The dentist found a cavity.   It could've been worse.  It took all day for the numbness to go away.  At least I didn't slob on anyone.
+fuck the dentist 
+I know its serious when I want to go to the doctor. 
+doesn't want to go to the doctor, but I think I have to.  Wow.
+@Triptophobia I wish you could go to the dentist FOR me. 
+Even though I left the dentist over 6 hours ago, my gums still hurt! 
+just back from the dentist...aww hate it. 
+Dentist tomorrow morning and I already know I have a cavity 
+@lauriewl she recommends I meet with a periodontist about gum grafting 
+is going to the doctor 
+Going to the dentist again this morning, 3 more fillings to be replaced - deep joy 
+Just got out of bed. Not looking forward to the Dentist 
+I don't want to see a doctor 
+Dentist at 11, then school on my own (N)  x
+off to the dentist,  yipeeee. 
+Waiting for the dentist 
+I have an orthodontist appt to go to  boo hoo.. I'm SO done with braces seriously I can't wait to be killin em with my smile ;) . haha
+nauseated... and off to the stupid dentist. 
+Guess I'll take him with me to the dentist.. it's an 1h30 appointement !! he's going to get bored so fast .. but I don't have a choice 
+is going to the dentist sooon 
+just off to the dentist...noooooo 
+Going to the dentist in 30 minutes.. 
+Is really tired and has a dentist appointment today. 
+On my way to the dentist.  
+Going to the dentist 
+ugh going to the doctor for a check uppp 
+not looking forward to seeing the dentist 
+And off to the dentist I go again. They're going to use needles this time. 
+Dentist and eye doctor today 
+ew i have an orthodontist appppointment. 
+Getting ready to go to the dentist...  not looking forward to that!
+get to go to the dentist 
+At the dentist again  this sucks lol
+I don't want to go to my dentist appointment today 
+I really should clean my room...but sadly I have to go to the dentist 
+really really bored. Dentist tomorrow 
+has a dentist appt this afternoon ...  http://plurk.com/p/11fare
+has to go to the dentist and have them yell at me for not flossing 
+dentist tomorrow. do not want 
+I hate the dentist 
+...just made a dentist appt. hopefully i die before the 30th.   
+is going to the orthodontist 
+off to the dentist. wish me luck 
+Going to the dentist, I hate the dentist.    Http://www.michellelayathome.com
+Going to the dentist for a filling  no bueno
+Dental work = massss amounts of pain 
+Dental exam now...an in trouble? 
+Just left the dentist office...no more chewing gum for me 
+is not looking forward to the dentist tomorrow 
+With my mom at the dentist 
+Recovering from the dentist so sore. 
+Needs to go to the dentist....this is not working for me at all..... 
+Going to bed so I can get up early for dentist appointment 
+i wish my bf wasn't a dentist. it's dilemma when u told him that u' ve got a toothache 
+my dentist has the magazines for peoples read now, but i have already read them all 
+aww sheeeet Dentist in the morning 
+@definedinsanity I really don't want to go to the dentist, but I guess I have to. 
+going to the dentist tomorrow. i hate the dentist 
+I feel physically sick. I hate the dentists so much can i just go home please 
+against war... and dentists 
+@Lamees Did it last month, Dentist took off one my dear teeth 
+eurghh off to the dentist soon 
+Orthodontist in a min 
+@randomflowers it was just a little filling, but my dentist put far too much local in. it looks like i've had botox! 
+I have a dentist appointment 2day 
+Dentist  Here we go again!
+I swear the doctor is out to get me.....I'll prove her wrong ...hopefully 
+i hate the dentist! painful! 
+i couldn't get an appointment with the dermatologist for another TWO WEEKS! slaughter me with a butter knife. 
+Is at the dentist 
+@robotmunky me too. i wish the doctor would call back. i'm freaking out 
+is at the dentist 
+My teeth are really bad..we have to go to the doctor 
+Dentist appt today and my record player is broken 
+Tired as fuccc  dentist appt!
+sitting in the dentist chair right now... whoo hoo 
+If I take Ibprofin before going to the dentist, will it effect anything? I hate how it hurts when they check your gums 
+Going to the dentist 
+I hate going to the doctor. It always makes me nervous. 
+Dentist day today  downtown  stupid lakers
+I really don't want to go to the dentist 
+fealing crappy again  shower, the hospital, the chiropractor then work 4-10:30  ughhhhh!!!
+I hate doctor's offices 
+at the doctor 
+I'm so frustrated can't get ahold of my doctor.. 
+to the doctor again. boo. 
+@ the dentist again 
+@bmore0fme I wish I could be bored with u I have a dentist appointment 
+I am at the dentist. I'm getting a prepped (sp )? For a crown. 
+Going to the dentist 
+@martisunshine no, i can't even get a new doctor. 
+so I just got back from the dentist and I'm soo not happy because apparently I'm going to have oral surguery 
+I hate it when baaabyboy doesn't talk to me after I come from the doctor's.  makes me 
+sorry shaelyn  but i have to go to the dentist and get my new retainer ewwy and kiara will be there for you and all the others
+Has lupis and could use a visit from the doctor 
+going to the orthodontist tommorow 
+At the dentist  i hate the dentist!
+go to the dentist 
+at the dentist :? I hate it when you can hear the drill going and they make you sit in the waiting room for so damn long! 
+Ugh ... Dentist appointment 
+I am not looking forward to the dentist 
+tooth is sore from the dentist yesterday 
+In at the dentist ahhhhhhh 
+going to the dentist! Bleahhh  
+Dentist today.....who knows how much cash + how much pain its gonna cost me 
+@bmworbust i'm at the dentist too 
+Dentist appt today. YUCK. I am 43 &amp; still hate going to the Dentist.  I have a Great one. It's just the yrs of bad ones that set the pace 
+Sitting in a dentist chair getting two cavities filled  I am very unhappy
+I'm going to the doctor in a few hours.  I'm so nervous!  I hate going to the doctor!
+just getting up. taking camryn to the dentist. 
+#haveyouever forgetten to eat before the dentist appointment? 
+At the dentist. They always yell at me for not flossing. 
+cba with afterschool  i want a sticker at the dentist though :L
+Not looking forward to being drilled on at the dentist in a few minutes. 
+heading out to the stupid orthodontists.... 
+i should probably go to the doctor. still 'illin 
+really does not want to go to the dentist tonight 
+i hate the dentist  he tortures me :'(
+@TiaMariaBrooker i have the dentist tomorrow 
+took the munchkin to the dr this morning. he got 2 vaccines   Now I'm at the dentist with his dad  
+just home from Podiatrist-4 more weeks of wearing Ortho shoe 
+Scratch that. No I'm not. I have to get ready for the dentist 
+I am waiting to go to the doctor, I feel so sick!    
+Just left the dentist  harsh
+Dentist was not nice today! 
+@xtinemichele which doctor? I hate the bone doctor 
+Off to the dentist 
+I'm at the dentist, and I'm not really looking forward it. 
+I have the dentist in two hours -_- I wish I was eating out somewhere tonightt 
+I'm starving and I can't eat because I went to the Dentist this morning and he put another hole in my mouth 
+At the dentist..  come on no cavities
+@LeakySpoon Totaly slipped my head - but probably not - just paid $65o to our dentist 
+Just got off now gotta go to the dentist!!! 
+is at the dentist 
+At the dentist. I am no longer cavity-free 
+I keep forgetting I have a dentist appointment tomorrow 
+@linhhoang the dentist hates me 
+Waiting at dentist for dental appointment 
+ugh i have to go to the dentist tomarrow 
+Going to the dentist again soon.. 3 times in 3 months 
+Dentist appointment 2morrow... I fear the drill 
+Not happy about having to go to the dentist   
+another visit to the orthodontist = changed wires + cement on my molars again 
+dentist on monday, shitting bricks. So who isnt scared of the dentist and their screw drivers 
+Dentist now 
+Dentist check-up this morning. She says I need 3 fillings! I've never had one before 
+my teeth hurttt!  dentist suckss.
+Right - off...dentist.  I hate the dentist!  smell me later folks
+just remembered she has the dentist laster, dammnnn 
+up extra early for the dentist. 
+i feel like a surgeon in my green scubs, too bad i make about 300,000 less. 
+@supercoolhotwea 843am and dentist 
+Going to the dentist this morning 
+@aashleymart I like the dentist.  she gives me food. =P~
+got an appointment to see the dentist, but not till tuesday 
+Waiting for the plumber! 
+been at the dentist  since i've lost a tooth-filling yesterday...
+going to the doctor..... 
+Just had a great workout! At the dentist now 
+going to the dentist eeeeeeekkkkkkk!!!!!!!!! 
+been to the dentist today and he gave me a filling  i'm sure my dentist is satan in disguise!!
+Now I know why people hate the dentist....oooouuuch. 
+At the dentist. I hope i don't have any cavities 
+mrs turtle is not looking forward to the dentist in 45 minutes 
+@Zoebaggins i'm sry.  i hate the dentist too.
+just come from dentist two stitches and pain I want to cry 
+I hate going to the dentist every month. 
+@ the doctor.. I don't feel so well.. Psssh. 
+Needs to start flossing! Says the dentist... 
+going to the stupid dentist 
+@OsoupieO oh no!  I dont know whats going on...going to the dentist in a few min to find out *scared of dentist*
+Ugh hate the dentist... 
+At the dentist. I don't know when it started but I'm suddenly very aware of how petrified I am of the dentist. I'm shaking? A lot! 
+@Clareies been on the blower to my aunty (dentist nurse) and she said it might be a wisedom tooth causing all the swelling and pain 
+I have a toothache, off to the dentist this week 
+Dentist appt in one week  I wanna cry just thinking about that drill
+I'm now in need of a good dentist 
+@CassieFX well but the other doctor said it was too high 
+Taking my daughter to the dentist.  She is less than thrilled 
+dentist appt now. getting two small cavities filled.  wish me luck.
+Sitting in the orthodontist chair  just waiting
+Going to the dentist. ICKY.  
+at the doctor 
+I hate the dentist 
+@candyland05 aw! I hate the dentist. I have to go soon 
+I hate the doctor! 
+arggggggggh found out i have the dentist tomoro  not very happy!!
+I hate the opthamologist more than I ever hated the orthodontist.  
+I fear it's back to the doctor 
+@beelay indeed! i'm so glad you can relate to this dentist-related trauma, bad times 
+@rah_rah no, it's an odd pain that no doc or dentist has been able to diagnose since i was about 12  it stopped being so bad for a while..
+noooo i have to go back to the dentist on friday 
+Off to the dentist 
+waiting to go to the doctor. 
+At the dentist office. I'm going home after this. I know I'm gonna be in pain 
+Going to a periodontist appt. 
+at the dentist. This lady is hurting my mouf 
+my tooth is sving, and I cannot see my dentist for a week 
+On my way to the dentist 
+I really hate the dentist 
+@joepimentel My condolences. I hate the dentist too. 
+Dentist tomorrow at 12:15. Dreading it due to memories of dentist invoked childhood misery 
+at the dentist  i'm one of those people who really hates going
+I don't have a phone yet and I'm  sorry you have to go to the dentist 
+I have anxiety from thinking about the dentist tonight 
+Dentist appointment  getting braces tightened...not cool Vaudville rde
+Has to go to the dentist tomorrow 
+@JizBSB i went to the dentist... im going on thurs to get all 4 teeth pulled 
+i hate the dentist!!!!! 
+just got home from the Dentist.....ouch 
+i hate dentists, i really don't want to go. 
+Going to sleep early, Dentist again in the morning 
+my papa shld be damn proud of me.. i finally made an appt to go and see the dentist this sat   i hate the dentist!
+Sitting in dentist with son jack waiting for a filling 
+@Jibluvzbran thank u! can u be my doctor? 
+Now at dentist. 
+@rachels_rampage oh I remember you tweeting about this  trust me I know your pain I hate the dentist,but I hear that procedure isn't bad
+In the dentist waiting room... 
+Too the dentist in 10 min... 
+i wanna take a sunbath in the backyard  but i have to go to the dentist.. well maybe after the dentist (:
+at the doctor. 
+Dentist office 
+I hate waking up early to go to the dentist 
+My dentist hurts me   I knew it. Why did I went to her?
+@katiedollfacexo I hate the dentist 
+I hate the dentist  just got 2 more fillings. I cant feel my face
+goin' to the dentist 
+I hate going to the dentist 
+about to go to the dentist. 
+Going to the orthodontist. Its too early. 
+I'm at the doctor's in my boxers waiting to be seen 
+Getting ready to go to the dentist. 
+my dentist is so MEAN!  
+@EivindJ I wish my dentist told me that. 
+later I'm going to the hairdresser     *I'm happy*
+Dental visit is quickly approaching. I feel doomed 
+@aziani The dentist is never fun. 
+@ThePaulHeller I sure do. I'll send you my dentist bill too!  
+is getting ready to be a plumber again and gastronomically rewarded for it 
+@Dentist2b In your right menu bar...click on @Dentist2b and it will bring up all replies to you. 
+Dentist said my teeth were good. A bit of a clean and a polish up and i was good to go 
+off to the dentist... bet i get told off like a child for not cleanin properly 
+I just got back from the dentist O.o apparently its all good for now   now for more nachos 
+i going to see a doctor now 
+i'm going to the hairdresser bbys 
+planning! and trying to call the doctor, though that isn't going so well. So mostly, planning 
+@SeandBlogonaut sell it all to a homeopath 
+just learned to appreciate dentists, hehe! 
+I went to the dentist! 
+yay.went to the hairdresser 
+@drramiirani Dental caries is the most common chronic childhood disease 
+Dentist appt this morning. Why do you come away with toothache when you had none when you went in ? 
+@piping_hot What is it with dentist/orthodontists and teeth this week?  
+but my dentist neighbor gave me plaster teeth! 
+off to my dentist. laterrrr tweetfolks! 
+just ate candy after an appointment with dentist. haha! 
+Going to the dentist. 

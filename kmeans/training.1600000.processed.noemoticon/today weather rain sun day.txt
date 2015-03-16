@@ -1,0 +1,844 @@
+Most common words for this cluster:
+[('today', 829), ('weather', 277), ('rain', 187), ('sun', 147), ('day', 42), ('sunshine', 41), ('raining', 26), ('warm', 26), ('morning', 26), ('yesterday', 26), ('rainy', 23), ('looks', 19)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'today', 0.7574055194854736), (u'tomorrow', 0.6622287034988403), (u'wise_Nickolenko', 0.637496829032898), (u'Variable_cloudiness', 0.6257767081260681), (u'Widespread_frost', 0.6226667165756226), (u'Increasing_cloudiness', 0.6193177103996277), (u'Mild_temps', 0.6174347996711731), (u'WEATHER_Sunny', 0.6160750985145569), (u'Partly_cloudy_breezy', 0.6093684434890747), (u'Patchy_clouds', 0.6090808510780334)]
+
+
+
+
+
+@SukottoXD I saw ice in the rain today. Not quite snow, but frozen water, nonetheless. 
+@KingKiwi  i want to be somewhere with no rain its not very nice here today
+Khb count low today despite the changing weather. 
+this weather seriously impeded my shoe choice today 
+Not happy with the snow today... 
+back from university. happy about the weather. the only good thing today 
+Please no rain today! I got some things to do outside 
+I wish it were warmer since I have errands to run today 
+Today is also the last day of nice weather    i really missed the sun and i don't want it to leave!!
+ten years ago today I was running around in shorts and a tee shirt in nice weather. 2009, it's fucking snowing and freezing cold 
+@ChristineD1030 I am really digging this weather too bad I have to serve people wings today inside 
+its kind of cold here today  what happened to the nice weather lol
+@3SillyDogs It is nice here too, 50s, but the temps are going to drop today 
+@sherryrachel weather is amazing....I wished wewere working @ some outdoor gig..but we got weddings today 
+Today's weather really sucks compared to yesterday 
+I'm feeling under the weather today.  
+today's warm weather: gahhhhh 
+ clouds rolling in, hard to believe I got a little sunburned today..
+@DavidGallagher didn't play a 3rd game today. they is all tired from the sun 
+it was supposed to be warm today. now its raining 
+it was supposed to be warm today. now its raining 
+beautiful weather here in kyoto, but today is unfortunately devoted to work  sigh ????????
+@jeannebug I wish the rain would come back here!  I had to go out today and the sun gave me a headache 
+Bwurk... need to work on a presentation although the beautiful weather today 
+Storm and snow today, doesn't look like it's spring yet 
+film meet would have been great today in this weather - alas, my back has other ideas 
+Is going to miss all the sunshine today 
+The beautiful weather was great while it lasted; back to cloudy, gray, &amp; rainy today. 
+rain means no tandem ride today... chores, here we come 
+feeling a little under the weather today  boo!
+Up and about, going out today i hope it dont rain 
+@JerseyGrl61 speaking of rain, what's going on here?! I had my heart set on the lake today 
+why is today like 10 or 15 degrees colder then yesterday?!  i hate u global warming.
+No open windows today, it is 36 degrees and cloudy outside 
+No sun out today 
+gross weather today..not really looking forward to going outside 
+@dannywood don't wanna burst your bubble to much but enjoy today rain tomorrow 
+@fashionrunner Me, me  I did 6.5 miles this morning, and what's new? the wind is back  so I just ran a bit slower today.
+why does it have to freakin rain today  ahhhhhhh!! now idk what to wear
+best weather we've had today but having to do french, stupid. i wanna go out 
+sucky weather today 
+Looks like I have two runs in the pouring rain today 
+is irritable.  This cold better go away today.  
+whichever one of you punks from the west coast sent us this rain today... i dont like you 
+isn't liking the bad weather today. 
+rainy date today.... no sketchersizing at the lake   I started a new painting yesterday so I'm just checking out the progress
+@kyjin this new yorker is finding the rain cold today, and i'm wearing layers and everything 
+The rain is so depressing today 
+sunny weekend is over   It's rain and back to work for me today.  Yay for leftovers from my brother's surprise party!
+weather looks good, just a pity i'm stuck in all day today 
+on the train heading to work. the weather isnt as nice today 
+Looks like rain today 
+I hate getting up early  And i hope the sun comes out today! I need a recharge!
+@kevatkinson morning! im not feeling too good today!  hope your enjoying the sun!! 
+In a cold datacentre.. With no windows, couldn't it have rained today 
+@xpaintedheartsx: haha the weather was quite good here yesterday. Snny and a little clouds. today's worse, I'm sick  soooo boring...
+Loving the weather !!! But I'm stuck inside today 
+No sunbathing for me today, weather not so nice 
+getting cloudy  hope it doesnt rain ive got to walk another 5 miles today
+Today's weather does not allow for activities like yesterday's 
+we are back to our normal rain today... 
+Its raining today 
+The weather is too nice today to sit in college  still got 2 hours before i have to leave!
+the birds are noisy today. maybe i should shut my window. it's not really warm outside anymore. 
+@PartyInMyPants working is hard  its really warm today!!
+i looks so crappy out today. where's the sun? 
+Not liking the change in weather today, rain makes me sad 
+caught the sun today, lobster boy 
+Ugh, the weather is so stuffy and hot today.  I hates it.
+has the flu and working in the rain today 
+Watching the sunshine from inside - doing a migration today 
+@coreyhaines worrying about the weather now - thunderstorms last night, maybe more today 
+No marching today  our band parade is canceled due to bad weather... 
+supposed to do the lupus walk today but decided to just send a donation instead. feeling a little under the weather 
+today smells like more rain.... yuck. i think i'm going back to bed; 6 hours was definitely not enough. wish i were at bamboozle though 
+@SeanMalarkey aww... she is so cute! i wish I was taking my little one to the zoo today... but i'm working and it's pouring rain 
+Feeling ambiguous about rain today. We need it, and the change would be nice, but I just got both cars washed this week. 
+why can't the sun come out and play today? any other day and I'd be thankful for the gloom 
+I have done some gardening today, but not much, a friend is over and we'v just enjoyed a bit of sun. getting chilling and cloudy now 
+i wanted to be in the sun today but it is raining 
+Getting ready to watch the Giants, hoping for no rain out...wishing @CortleighE didn't have to work today...so sad 
+I don't feel so good and I got sunburned when the sun was barely even out today 
+@sybastien thanks, so much tension - not good  I am up first today, is this the calm before the storm returns?
+@KyeLani ah if only that were true, but the weather's not as nice as yesterday, and the shops will all be closed 
+Amazing weather. Depressingly, I have a target of 1500 words for today 
+I'm back, its raining  the weather is not as beautiful as it was yesterday:O
+On my way to look for jess. bamboozled today and its all rainy  
+The weather is below par today, seems like no disc golf today 
+@adzada The sun clearly hates you today. 
+gloomy today. probably just the weather. maybe... well, i wish it was... 
+its much colder than it looks outside  i definately wont be sitting outside with the host today lol
+rain finally stopped after 7 + hours - still cloudy and cool today; may have to dig out the jeans again 
+Clouds rolling in, no walk today 
+i hate the rain  no phils game today
+dark outside already. no sunshine today. 
+it's beautiful and sunny outside today.  this is sooooo not productive studying weather.  i wish it were rainy.  
+Trying to ignore the fact that the heat lost today and are out of the playoffs. It's not working to well 
+the weather was soooo nice today..almost made me forget i have to wake up at 6am tomorrow 
+ripped out four more trees today - casualties of the june '08 storm.  
+@guyfour20 no autumn or winter! Either sunny, raining, cloudy or windy , and today is rainning 
+otw home, weather is getting on my nerves today. 
+it's raining here  i'm stuck inside working today so i'd probably be peed off if it was sunny outside, i'm now ok with the rain 
+Is awake, and its rather cold and windy today  Looks like we've recieved a polar continential weather front!!! Yes, i'm studying geo 8-)
+What's with all the clouds today  http://twitpic.com/4jdkh
+aw, It's pretty crap weather today 
+@drewmillikin Can you push some of that weather down our way? It's gloomy &amp; rainy here today &amp; tomorrow &amp; I have @fjgaylor here! 
+today is a sunny day, i'm depressed. where did the rain go? and the wet streets? and the black sky? 
+Getting ready. Flying back to Flawduh today.  Only glad to be leaving this weather.
+@linksforluv I hope so too cause today the sun slept all day. Not a ray of sunshine. 
+@drewryanscott *gasp* you didn't do your daily pic today...I feel like I missed the sunshine 
+Where did the sun go?? No golf today?? 
+got up before 9am today... but with the cold 
+@BisForBecca got up like hour 1,5h ago and still have no clue what to do today  The weather's nice, but I don't want to go out alone :@
+so glad the sun is shining a little today - have the perfect outfit but no shoes 
+oh wow i look soooooo bad today. and the weather is awful 
+todays really sunny and I'm stuck indoors because I'm ill 
+More rain today!    It's already pouring outside.
+@perri1 I think it's supposed to rain again tomorrow  But the sun did help me feel better today - and beloved spouse mowed the grass 
+@JennananaPink i got a ton of sun today. 
+sand storm on the island today... not much to do 
+Going home early today, really hate all this rain! Where is the summer? 
+@darraghdoyle actually its pretty grey here today  been sunny and windy all week now grey and windy... 
+good morning everyone, weather is horrid today 
+I'll play catch up today since my battery customers are doing well without me! I'm tired of driving in the rain anyway! 
+morning tweeters! its kind of gloomy looking today  hope the sun comes out
+I'm working... bad weather today 
+I'm exhausted I stayed out in the sun too long today, I have a red nose 
+All this rain is not making me want to go cycling today. 
+heavy rain this morning; so much for trying a bit of weeding today 
+Someone send the rain up here please. I really cant be bothered today 
+Shopping today? The weather sucks 
+feeling very low today, got a horrible cold 
+more rain today  bloody hell!!
+The rain has come in, no bmx track for me today 
+Looks cold and windy today. 
+Looks as if i cant go driving today on account that its raining 
+I got nothin  %^&amp;#@  looking out from the window , I am glad I will be working today, bet than it will get sunny and warm . 
+revision not going well today, its too sunny outside 
+@CaliLewis in fact I woke up in the rain... I wanted to do some in line skating today 
+Man, the rain is pouring down... I wanted to get my tan on today 
+Its rainy today 
+@MzLushable i didn't even get to enjoy the sun today... 
+sun, but i wont be able to enjoy that being in the garden today 
+Eating breakfast. I've attempted to do my make-up nice today but it won't stay on for long because of this bloody weather... 
+What's the chances of it being sunny today? I miss beingvable to wear shorts! 
+what happened to the nice weather yesterday x I woke up this morning to find it all dull and wet 
+morning everyone should be going running today but its blowing a gale out there 
+is ill and doesn't want to work today i want to stay in bed and the weather is getting me down 
+It's windy and grey outside - looks like more rain is on the cards today. What happened to spring? The weeds are loving it 
+@Awebermagic It's grey today  want the sun back
+Stomach bugs aren't my favourite  but it was lovely reading in the sun today.
+@Skibble no I was in quite a bit of pain from friday night I was going to go today but weather is terrible 
+GCSE in 45 minutes! I'll probably rush it and fall asleep till the end. The weather is horrible today 
+Hoping today will be a good.  The weather is S@#^y 
+i had to walk to the bus stop today. now i'm freezing and wet. 
+really have the winter blues today 
+@ArielChloe hola chica - yups 90 today 92 tomorrow - cooler for the weekend -  me no like hot weather
+the weather sucks at the beach today 
+Having my coffee on this gloomy/rainy morning... can't sit out on our deck and look onto the lake today 
+@dasxxyone  I wore my winter coat today 
+delivering in the rain is not gonna be fun today 
+It's only 7:40a and its already 70 degrees out. It's supposed to be 98 degrees today. 
+thinking its cold and wet today 
+I'm a ray of sunshine and light today 
+Finally beach! But no sun today unfortunately  http://twitpic.com/5oiko
+@SteveBrunton i was hoping to catch the sun today  self tan tonight again me thinks!!!!
+I was drenched in rain today 
+was going to sit on the sun today but its disappeared! 
+was going to sit in the sun today but its disappeared! 
+Lunch time and I have cheese sandwiches, how old skool! It's miserable where I'm working today, horible rain clouds 
+@future_perfect No hot dogs? I'm weeeeeeeeeeeeeeell hungry, I hope we go out today 
+Feeling so blah/down about my life today. I'm blaming it on the weather. 
+sad that the sunshine is gone today 
+@gfalcone601 it raind today and we got wet and they cancelled sports dat!!!  x x x
+rain in north florida again today.... shuttle launched postponed. 
+@varumu I envy you - its cloudy and rainy here today - no beach 
+@starDelaM morning  I love rain but NOT today!
+today I'm bored, there's nothing to do, and with this rain I can't come out 
+slept through the awesome rain today 
+Why is the weather so pants today 
+don't know what to do today.  amazing weather and i'm sitting here, great.
+Feeling a little under the weather today  got a funny tummy - however, the sun is shining and I'm at home. Yay!
+the weather is good mmm what to do today??? shame working tomorrow 
+wanted to go to white sands today. forecast says there will be thunderstorms... 
+@Craziscorpio ready for the weekend! I hope the sun comes out later today tho.  Where u from?
+i love how nice the weather is today and i am camping tonight! oh and i hate my hair 
+I want it to rain today! Like full thunderstorm style! But it probably won't 
+enjoying the great sunshine.. from indoors.. I don't feel good today 
+Ugh its really hot today already and its not even noon yet  i want ice water!
+Lately i've been waking up with the sun in my face but not today..   
+goodbye picnic for a classmate today  but the weather was fucking beautifuul!!!
+its overcast today again  it looks like it wants to clear up but i doubt it :/
+ree-heally hoping the rain stops by the time i get off the metro at courthouse. i didn't bring an umbrella today. 
+@djknucklehead  no water park today? made me jealous looking at that pic 
+I was expecting the sun to come out today. I guess that's not happening. 
+So much for running outside like I thought I was going to  looks like the treadmill will have to do for today....thanks a lot rain
+got new sneaks today..can't wait to break them in..stupid rain 
+The weather isn't nice today..  hope it dosent rain today!!
+omg it's muggy today.  yay rainy season.  
+wish i could sit in the sun again today instead of going to work 
+played netball in the rain today it was really fun... so tired only had 4 hrs sleep conpared to the 12 i usually hav 
+shitty weather  no tennis or swimming today 
+So depressed that have to work today AND tomorrow thru sunshine 
+the weather is great today and.. as usual... i have nothing to wear 
+I dont feel very well today  The sun is shining and the sky is blue, I wanna be outside not inside with a cold!
+It's awesome weather today! And I'm....here?! 
+It's nice weather today and I can't go out  fucking sun :@
+Feeling a bit under the weather today  Mychildren mybride merch arrived!
+Still have a bit of a cold...trying to decide if I should P90X it today 
+@darker_artic sunny and 80 degrees!!!  Too bad I have to work today  What about you? How are you?
+@shaunmichaelb Here too much clouds  rain soon i guess,bad for me today
+@PaulPunktastic i work in a library it's not so bad and the pay is amazing but.. boring sometimes  i missed the sun once again today 
+I love the sun, but today I got burned really bad 
+@shanajaca The weather today is gray! Very sad for a saturday! 
+holy balls it is so hot today. screw mowing the lawn. i miss the snow  but not really.
+@pilgrimfamilyuk lovely thank you ,very hot today,love this weather but my chest doesnt 
+hhmm my back may have enjoyed the sun too much today 
+@JLSOfficial it didnt  and i missed out on sun today cos i was working :|
+great day today park was ace sun burnt tho 
+@eilidhlive I never even went out in the sun today!!! :O 
+today is a rainy and windy day! 
+@abcdefglynis yes it is! waah. the weather's blazing hot today 
+I woke up today without rain. 
+Its raining hard today ... gloomy 
+I can't sit in the sun today as I overdid it yesterday 
+high winds today, no supply boat 
+@bogwhoppit no sun for you today then 
+is bored, sleepy and feeling a little gloomy today 
+g'morning tweetlings! the weather is like wooah today. pretty. no youtubers came to portsoy yesterday 
+Bad hay-fever today - lovely outside but I'll probably have to stay in 
+mummy says I can't go outside in the sun today cos i'll blister 
+@sln25373 stop making me jealous  i had plans to beach today but the weather decided to be bitchy &amp; there are no beaches/pools open T_T
+sunburn still hurting!!   Not sure what to do today...
+today i will revise outside in the sun. maths 
+Gees, I'm really tired today! Couldn't sleep, all sweaty and back on fire  ah well, I can only blame myself for that.
+loving the weather today, although feelin abit down 
+Wow its far too warm today 
+wants to enjoy the sunshine but is feeling icky today, 
+Another lovely summerday with +25'c, life aint too bad today! I just wish my cold could go away...  Shoooo be gone!!
+good morning, sunshine. nothing but study today. 
+I was looking forward to the park today..not so much anymore, seeing the grey skies.  
+Gorgeous outside today... But they're saying chance of rain 
+Who decided it would be cold today...  it better warm up!
+Is totally under the weather today and missing out on the maiden voyage 
+so warm today  shoulders are burnt though 
+It was so hot today! I got a sunburn  I Bycycled 20km today ;) We went to see faterfall with marta, I will add twitpics of waterfall !
+time to get ready...have nothing to wear!...usually I'm for cloudy days but I was hoping for some sunshine today 
+@demiwood Have you managed to any sunshine today or have you been locked in lo 
+Its too warm today 
+to windy to fish here today 
+No storms today  but decided to go to work....
+So no storms today  but decided to go to work 
+#flylady went outside, beautiful breeze today, however, I think I inhaled something, now I can't stop coughing 
+so much for the flying...too windy today.  has to be about the 15th lesson I've had canceled for wind 
+stupid rain  no boat today. coloring with sarah! haha we are five year olds at heart
+My face I purple. The sun was not nice to me today 
+i think my hands got burnt in the sun today,, they hurt 
+The weather wasn't on our side today, not a good turn out 
+unfortinately, while it may not rain today, the temperature is 8c  freezingbikehands
+It's 00.40 and I can't sleep - I have to be up in 5 hours  Loved the weather today though 
+@benjeh32 too warm today.. 
+Boring weather today, no sun, but no rain either, just shade 
+morning all! loving the weather still! another bbq tonight perhaps! what are all you plans for today? i got an endless list of things  grr
+I've wasted much time today on bus, the weather is terrible and I'm quite sleepy... 
+looks like it's going to be mostly sunny today, possibly some rain late afternoon 
+is feeling rough today  hot weather does not agree with me 
+Headed to work. Its rainy and forecast says storms today/tomorrow 
+My thong and crop top are not going down well in this office today  I don't MAKE the weather, I just dress for it.
+is a little under the weather for today 
+doesn't remember the weather forecast for today mentioning rain.  
+My face almost doesn't hurt today!  I really hate this spring cold - I couldn't even smell my lilacs.    But I'm almost through!
+Ugh I feel so depressed today....I hate the rain sometimes 
+And it was REALLY warm today, which I hated 
+I have a really bad canker sore.  At least I get to go to the beach with @jpadamson and @owlex today XD
+I've got a cold  and it was waay too hot today
+A lil' under the weather today!!!  
+hay fever is bloody bad today 
+man i wanted to go outside today but now its raining again 
+just got a ticket!!  wowzzeerr, today is gloomy and rainy i love it! so calm and relaxing
+@ckristen yeah the weather does suck today 
+trying to take it easy today and feel better. sadly, it's the last day my brother and his gf are visiting and I'm under the weather 
+Today's weather has been quite unstable the whole afternoon, I gotta admit. 
+rainy today  normally i like it when its cloudy bt not on days when i want to lay out!!
+So much for the sun today 
+It's so hot today..even it was rain last night 
+hmm, yesterday on a boat with friends and sun, today working with (again) great weather 
+IS feeling under the the weather today 
+morning all. supposed to be the last day of the warm weather today 
+@marginatasnaily hope the exercise goes well, make the most of it! and make the most of the sun too, its the last sunny day today  xx
+Last of the sun today apparently 
+I don't like the fact that judging by the weather forcast today is going to be our last day of sun and I'm spending it in work 
+morning people, the sun is shining but i have to work, so no sunbathing for me today! 
+@leanne1412 - i miss mr sunshine too! I'm an upside down happy face today 
+Why is there no sun today   
+really hate feeling like this  should be happy today the weather is still awesome and yet i feel like shite
+Ugh i didn't know it was supposed to rain and storm today! 
+I looked for the sun, but it's raining today. I know you'll get through this mum, I love you so much 
+drag my day off and its pouring rain so no outdoor fun today 
+Britsongreen is suffering from the worst imaginable hay fever and is having to stay indoors, rather than enjoy the sun today 
+@guardianeco Me too! - wish we had some clouds around today! 
+No many Tweeters about today, i bet they are all enjoying the sunshine! I'm lonely 
+The weather today is amazing...but I can't go outside it's so hot 
+rained today.  love rain but can't go throw 
+@kristencarta  I'm not over today but I am over this lame weather!
+The weather today in new york is absolutely disgusting 
+@sweetness79 we were supposed to get rain today, but instead it was just cold.  And i just bought a bunch of sundresses 
+went to white castle today, should have pics when i get back to az. the heat is amazing to think about when you have humdity with it 
+I dunno what I ate or what I did but I think it was bad rain that fell on me today  I'm sick
+feeling very refreshed after a great swim...too bad about this stupid cold I just got today 
+http://twitpic.com/6imzo - 1.  Of what is bugging me today... crappy weather today 
+Morning peeps. No sun today 
+there is no sun today.... 
+The sun has not got his hat on today 
+I've no plans for today and heard weather is to change  what to do?
+Whats with the weather today? 
+aw why has the sun come out today? its cloudy! 
+Morning twitters, late up for me today    hey, where the sun gone.... Grrrrrrrr
+@isdixon No sunshine here today either 
+is a bit disappointed with the weather today 
+@rickyboleto why u want shorts it's cold today  no sun
+is feeling mega down today  I blame lack of sunshine
+looks like  rain again today 
+@Debbiey43  pray you get some strenght quick. its actually cooler today but we want the sun back. seems we rarely know wat we trully want.
+sooooo tired....listened to a very loud thunderstorm all night! I am dreading going to work today 
+Morning! Not as sunny or warm today. Looks like all our sun has gone for a while. 
+going for my break then be near hometime, no basking by the river for me this aft not so nice today 
+the weather isn't as sunny today 
+shame the weather is so shit today - no picnic in my convertible. I'll have to eat in the office 
+@Squiffers I'm so jealous. There's no sun out here today! Even the birdies are hiding cuz of the scary clouds. 
+sat on my sunglasses. not cool! bit dissapointed by the weather today anyway 
+why the weather is so crap today? 
+it better storm today 
+If I wear this dress today I definitely can't wear my rain boots  what to do?
+Looking good out today. I'm still thinking rain over the weekend though 
+@macdonaldbros bring some sun up to fife please. its quite rubbish up here today. 
+No 520 eagle friend on today's commute.  He's probably out enjoying the 90 degree weather ahead!
+Another fire bell today...got more astro turf in my shoes  xx
+Is the sun coming out today ??? 
+high of around 91 today...what am I going to do? not used to this weather 
+feeling a little under the weather today 
+rain today  hopefully it wont last
+... and its raining. no hiking today 
+Looks like rain today! No walk for the dogs 
+@FrankieTheSats hey frankie!x  what you been up to today ?x the weather's been miserable  i want the sun back!! x
+only an hour of cardio today  kinda bummed, damn the rain!
+The rain was so bad today, that it soaked right through me shoes and socks..wet feet..not nice 
+@pepsi Even the sunshine state doesn't have sunshine today 
+well i lost my second sunflower in the wind today 
+working out ,but hardly working today -the east coast rain can put a damper on good intentions 
+I wish I were outside taking pictures today.  The clouds are amazing!  The breeze is incredible!  Why am I stuck in an office?!  
+I like rain, but not this type  pretty scary driving in it today.
+it's raining outside..The sun hasn't come out at all today, sucks! 
+The calls are real slow today! I think this bad weather has put everyone in a bad mood! 
+@Samush baldwin hills! - the weather did really suck today! my umbrella actually broke. 
+the rain drove us to the range.. no golf game today 
+i hope the sun comes back...it was wayyyy too cold today!! 
+@LadyXanth my allergies are killing today!! always after the rain its like this 
+@mimi918 i dunno but i had thermals on the golf course today it was chilly &amp; super wet!! 
+It's such a nice day today...but if only it were 10 degrees warmer. I miss summer 
+I think I burnt today in the sun 
+Just woken to rain. Not sure about little show am going to do today! will not be good in the rain 
+why has the sun gone? its pissing down today 
+Morning, the weather today looks awful 
+To sum up today there is heavy cloud and light rain,   they should have filmed twilight here this is constant around here 
+spent the day yesterday reading a book in the sun... but was woken up today by torrential rain 
+@joek949 niiice! weather doesnt seem as nice today though!! 
+Beutiful day today!! So warm and a clear blue sky... perfect studio weather 
+well i like the rain but it seems very depressing today 
+@leolodreamland shame about the weather today tho ..  v.v. soggy! 
+bad weather today in french riviera 
+I'm so disappointed by the rain here, really wanted to see the animals in the park today  I hope it's going to sunny down south...
+What awful weather it is today 
+My sunburn is really bad today 
+i don't feel like it today cause the weather is bad 
+I am far from impressed with the weather today, i should be out having fun not stuck in watching it rain 
+Poring rain today, no gardening for me 
+crossing her fingers that it doesnt rain today/tonight, otherwise the sleepover would be ruined 
+ugh looks like it's going to rain sometime today -_- I want the sunny weather back 
+I want to spend all day at a park today, I think. I don't want rain anymore 
+apparently no boat today cuz of rain 
+why is the weather soo eww today!!   we better not have had our summer!! 
+@tanyalw73 Not much. Looks like rain today 
+:: I really want to go lay by the pool today but I see grey skies 
+getting ready for my water aerobics - looks like rain today  thanks for nice words annie&amp;co. - are you going to columbus?
+It's raining today so much for the good weather  not doing much just on net
+Does not know what to do today  the weather sucks
+is bored and really wants to go to the beach today!!!! I think its going 2 rain though!!! 
+the weather is making me sad today 
+@judysteapot I guess it's cold with u today then?! it's cooler than last wkend here, but still reasonably warm here, sorry 
+is mad at the weather. i wanted to tan today 
+today, the high is 69 degrees. which is a) funny (lol 69) and b) too cold to be in the water for 3 hours. 
+I want to go to the pool today. I hope it gets warmer than this. 
+Where's the sun ? Would of liked to get some colour today ! 
+hope the sun comes back out next week. miserable weather today 
+is getting ready to take a nap. I thought the sun was going to come out today 
+hopefully the rain stops cause I actually had plans today 
+I'm bummed out that I have to work today in the rain 
+wearing all black today, with lime green nails...its not a very chipper day..its gray and not really all that warm outside! 
+my god the weather is unbelievable. i was sunbathing yesterday!! i want it to go awayyyy 
+Hoping it'd be a bit warmer out today. I guess no beach tanning for me 
+Looks like rain today.....  
+weather is not good for my plans today 
+Looks like no beach today..this weather sucks 
+No hot water today 
+This weather is definitely fitting my mood today 
+Its rainy and cold today.....not motivated 
+was not able to go for a cycle today due to the storm 
+I'm missing the sun today.  I hope it comes back to visit us again soon!!! ;)
+@kkatherinee haha. today was so nice and hot. but we've had rain all week so now i guess it went to you 
+its raining today 
+@HillyHindi oh you love rain so ? me noooot  lol &amp; today it rained a looooot ! 
+isaak got a sunburn today--I sunburned my baby   the sun is evil; so are makers of $8 sunscreen, but I have to fatten their profit margins
+No sunshine at all today  it was just rainy and gray.
+owwie, got a pretty bad sunburn today 
+I really wish the sun would have come out today! 
+just when I thought today couldn't suck more... just realized my back has begun to peel.  I cannot get any sun without being punished.
+no tennis today cos of the rain 
+No mtb ride for me today, my achillis tendon is on fire again 
+cleaned the car today,,,in the sun. 
+what lovely rainy, grey cold weather we have today 
+where'd all the sunshine go? It's pretty grim out there today 
+Morning guuyyys. I hate the rain.. I wanna go out today! 
+@cymberrain yes i'm fine.. not liking all this rain we have today  
+@Jantunstill knew it would bloody rain today of all days!! 
+not jumping today  i hate the rain!
+@cyberpixie its been pissing down in showers all morning.. was meant to be skating in hyde park today too 
+the weather is absolute pants today  the rain woke me up it was so bad
+@susanstn afternoon to you. hows your weather its autmn with you now isnt it? we have terriblerain today and its summer here temp is 16c 
+I went to bed way too late last night, which could be the reason I've only just woken up, haha! The weather's still not good today  x
+The weather today is icky and i'm in bed and cold and i don't like it 
+going to pride today. but its raining 
+What can i do today, when it's raining out? How i hate the rain 
+Really bad weather today, rain,thunder and lightning how bad could it be.! 
+Going to the zoo today -- that is if the rain doesn't get too bad 
+enJoy the weather today. our next sunny day is saturday.   yes, its supposed to rain m-f everyday. 
+@mirandacowles I feel ya, I wanted to go take some photos today but the clouds are killing all the light.   #iowa #rain
+I'm sick muffins, I can't even enjoy the weather today 
+I hate rain... And today it rains a lot... 
+@RudieDudie of course, i love it  grr, it happened again today; sunny as hell then rain. not even a rainbow around  so anyway, howz u?x
+its cloudy today 
+well i guess im not doing any outside activities today its getting ready to storm 
+No running again today, this cold makes tapering real easy 
+stupid rain...no beach today 
+theres supposed to be thunderstorms today. i want to lay out. 
+the weather sucks today 
+long brick yesterday, open water swim today. good weekend, now for all the chores 
+The water is not as high as one would like down here.  no fishing today.
+Tired today....this weather is not helping.  
+Ouch I think I got a sunburn today 
+today's my big bro's b-day!!!! no big plans    trip 2 waterpark got canceled...bad weather
+I really hate this weather  yesterday, so nice, so sunny, and today... its just not worth it to leave home
+@Geeklawyer yikes re weather - noodles is riding to work today and my grass seed might get washed away 
+they say rain tomor sun today sun wednesday!!!!!!! If it rains tomor 
+On the train. The weather is so depressing today 
+Looks like I'll spend most of today in a space with no sunlight  #think09
+...to let the rain come back today 
+The rain is back today! NOT good! 
+darn no hope of rain today i think. 
+oh ,good morning sunshines.today i'm sitting home again cus outside is still bad weather but it's not rainy ,just strong wind ja cloudy, 
+Too busy today. In nice weather like this, we shouldn't have to be subjected to work 
+The sun doesn't seem to want to shine today... and so am I. 
+eurgh its so hot today  and no sun.
+well, at least it isn't raining today. but where is the sun? 
+@aherne148 omg torrential rain forecast for west wales pm today 
+Ahh shi*e its raining and I'm dressed for summer today 
+today's weather reminds me of my time in chicago last fall: very rainy and very humid 
+http://twitpic.com/7gixk - boo! to thunderstorm today! no riding 
+ugh thunderstorms today 
+It's pouring with rain here and thundering and i've just got wet!! Really going to lock myself in a room and hide today! 
+Feeling bummed out today  maybe it's the rainy weather.
+goodmorning twitter! going to amanda's house today! its raining    uggh. back to the old weather.
+@DebbieFletcher heyya how are you ? i had to walk home in the pouring rain today  not good its gone nice now tho.. weird weather :S LOL x
+thunder? it's sunny, but the clouds are going black. ugh  and today was so good as well!
+is cleanin house today! The monsoon we had this morning isn't allowing me to cut the grass 
+I'm tired today...all this dreary weather has me POOPED!!!  
+bleugh. crappy weather today. 
+high today: sold ceremony here at fitch! low: it was super slow   probably the beautiful weather!
+according the weather.com 10 day forcast...rain up until wed june 24th, only tue and wed this week sunny 
+@jonjones We're looking at only 96 today, but it's ramping up to 108 by the end of the week =/ We just had nice cool weather and now this 
+Its Horrable weather today  i cant wait for summer to come!!
+thundered so hard today ahhh and poured down with rain 
+back to melbourne town today, good bye sunshine 
+@ColorblindFish I wish I was a crab so I could burie myself in the sand   I lost 467 memories today
+I hate rain, it's summer and I want to go golfing but it's always raining.  It rained today an it's supposed to rain again tomorrow too. 
+came back to from the gym in the rain today 
+thinking i'll see the sun come up today. can't sleep 
+Morning, am waiting for the train in the lovely sunshine! Its too nice to go to work today! 
+@QueenofScots67 good morning.. you do sound perky! weather here great, at home today getting essays finished 
+today I feel bad, don't know why, maybe because of the weather or because I'm bored to death... 
+The weather sucks today, I'm afraid I'll have to move the blogtv show to tomorrow 
+Hey look no sun again today 
+there were crazy lightning storms here last night... maybe no tennis class again today? 
+I just checked the weather and I'm not doing ANYTHING today 
+the light of morning decomposes everything. i feel apprehensive today. about a few things. 
+we've got a park playdate today, but it looks like rain.  
+ feeling a little under the weather today.
+still feeling icky today  and it's pouring down rain
+Is feeling under the weather...again   But at least I have TRUE clarity of mind and that alone is going to make today a great day!
+Morning workout done, looks like rain all day so no skateboarding today 
+woke with a cold strong today, I hate this cold weather bleh 
+The weather is killing me today. Can I get any _more_ tired? It should fscking rain already. 
+beautiful weather today i even have a tan NOT lol  o well soooooooo bored love all twitterers lol xx
+i think the heat fried my brains today and summer is barely getting started 
+I forgot my sunglasses! Not to happy about the sunshine today   
+Pouring rain, flooded streets, not such a good day today, i hate my hair and now it will never grow ... 
+Those storms really crapped out today. 
+@Milereb cloudy today 
+yesterday's weather was waaaaaaay better than today's weather!!!! 
+Morning!! The weather is actually horrible outside today - its pouring down with rain 
+good morning! have to work today.. and the sun is shining.. 
+@davesusetty Aw ~ where abouts are you?  I think we might miss crap weather today but will hit us later 
+The weather is abysmal today 
+@daniellewatt you can't see me   what are you up to today sunshine?
+What,s with the weather today!!!! Definitily not sitting in the garden. 
+woke up to this weather  after yesterday. but its still warm :/.
+In an IT course today, nice weather outside....though....... 
+The weather looks a bit grim today 
+weather sucks today 
+The weather is horrible today 
+why is ireland a wet country, this weatre is making me sooo depressed today 
+think i'm staying in today.. silly rain 
+weather is horrible today  makes me all depressed.
+The weather is rubbish, I have stuff to do today 
+How am i supposed to swim today when its cloudy, rainy, and cold? 
+deleware-bound today. weather forecast for the entire weekend: scattered t-storms 
+had to have lunch in the office like a loser today  damn rain!!
+Its raining today in tiffin   but not on me!
+Off to a slow start again today  ... and the rain hurts!
+is really not impressed with the terrible weather today 
+damp one today 
+Feeling blue today. Just can't seem to find that ray of sunshine 
+gathering up some knitting and heading to the playground, 75 and sunny today, rain forcast tomorrow - and the forseeable future 
+WHAT is with this weather?? The beach was on the agenda today  Now cleaning is....
+shit weather today 
+Feeling super under the weather today....  so not looking forward to my long day.
+Leaving the office earlier than usual to take advantage of the nice weather today. From tomorrow, it is raining again. 
+rain?? i wasn't expecting it today...and now it makes my whole day gloomy 
+sad about not hiking today because of the rain 
+i was planning on evening out my burn today, but the clouds make me think that might not work 
+turns out i dont get to go to noahs ark today, its too rainy outside. . . 
+eating spaghetti, yum   today its not that great weather..  
+Feeling uneasy today, after effects of enjoying rain, 
+I must admit, I am jealous of the 88 degree weather in the A today and wish there was a heat wave in nyc 
+ the sun isn't out today! Now it is!  http://twitpic.com/7n92l
+Mission failed. It's a cloudy day today and there isn't any sun  - http://tweet.sg
+decided to get some sun today but it just didn't turn out right ! big burn 
+no sun for me today  its raining in the inside and on the outside...gloomy gloomy day for me. i have to fade away now, its for the best.
+@alexisamore it's been alright thanks although the weather sucked today 
+Finished midnight sun today! Jessicow is highly upset cus I was supposed to read it with her 
+today it was very rainny and wet and i was in the rain at camp  well im goin to bed nite
+good morning tweeps.. rainy and dark in oslo today 
+Morning! Its raining, wish I could have slept in today 
+afternoon everyone how are we all today? its raining here again 
+More freakin rain today. 
+@xstex me too  i live sort of on a mountain too and its freezing today! Lol :]
+@doctornaughty yeah I'm not feeling today and the rain isn't helping 
+rain for field day today...boo 
+feeling a bit under the weather today.  no time to be sick when i have a dream to fulfill. 
+No markets today, forcasted rain and no one wants soggy cupcakes 
+today sucks i want to taxi to work  hopefully this rain will die down by the time i need to leave!!
+hot. humid. rainy. and i have to wear a suit today 
+...effin rain... I wanted to go fishing today 
+And we have more rain today... 
+The weather is gross today. 
+Belgian weather but no Belgian wafels today... (via @waffletruck)  
+I got soaked in the horrible rain today   I'm home now though so that's much better! 
+I am playing sous chef today with ops manager for a company grillout. I dressed for sun... we are getting hail. 
+I don't think using 5 year old icy hot was a good idea!//i don't really feel well.  I'm not up for cheer today!
+was going to kk to take bailey swimming today..but we got bad weather coming 
+Today is off to a bad start. All the rain yesterday caused a &quot;boil water&quot; alert...and we're not allowed to use the coffee maker today. 
+totally should have worn my adorable rain boots today, at least to get here...especially since I've only worn them once 
+@Dlandisman aww no sunshine today? 
+Appointments today in the rain 
+No field days today because of all the rain.  http://plurk.com/p/11x6mp
+Some nasty storms heading our way today  I hate thunder!
+I wanted to go to the farmers market for lunch today but I don't think ill be going in this crappy weather 
+just woke decided to fix my hair and lay around today since its raining...blahh 
+is not enjoying the weather today...it is terrible for my asthma!! 
+I feel vommy  but I got my leavers hoodie today which is so warm and comfy.
+i really need to do my cardio today ... but just not motivated to do so...ugh all the rain and feeling down ..not a good combo 
+Seriously this weather needs to go!  i'm soaked and very unpleasant feeling. And i used an umbrella. So far today sucks!
+Wishing the rain would go away today 
+Raining in our town and a promise of high winds later today. 
+Not feeling the weather outside today, its hindering me from doing things. 
+more rain today     2 engagment sessions...i hope this works out.
+ugh its raining today. 
+zoo cancelled for today due to storms   sucks
+It rained just enough to make today suck even more   fucking thunderstorm you pos weather
+This is why i didn't out at all today until i had 2...it tsunami status outside...i'm sick of it...all this rain can't be good 
+its cold and rainy outside...can't wait for the real summer weather, and i guess i will be staying inside today 
+today was so hot! but the sun wasn't out so no tanning 
+off to visit my little country town today, which the weather was nicer for the trip 
+@shirkinerd hahaha, I know... without the rain, it'd be so nice  although it's quite humid here today unfortunately
+@TheDannyNoriega haha hard to say...it was cold&amp;rainy yesterday..today was muggy. the weather here can't make up its mind 
+I mowed today as the weather is not 2 be very good tomorrow. The mosquitoes made a meal out of me 
+enjoyed all the sunshine today since apparently another tsunami is heading our way within hours. 
+97 degrees out today, this is why i hate summer 
+going to bed. golf tomorrow. assuming weather holds off. big lake salmon fishing postponed for a day to come... 
+morning all, a little undecided on the weather today. really dreading work today  
+and i dont want to go out today i wanna stay in cause its windy and cold 
+I was actually hoping for some sun today to brighten up my mood  #wheather #fail #hamburg #rain
+#inaperfectworld the hurricane festival wouldn't start without me today 
+Leaving the island today    Nothing like entering back into the heat &amp; humidity that is the dirty south
+I would defineately call it a swampy ass day today  i hate hot weather with humidity......
+its raining today   i still want to see transformers 2 but i doubt my friends will even go :/
+fuck rain. . . no golf for me today 
+Ugh, hay fever is really bad today 
+@M_B_C_FEEHILY heyyy! how are you today? aw its raining here too!  lol...
+TGIF everyone! hope u soak up some sun 4 me cause i cant get out n it today 
+MORNING! ... but its raining and I may be going to work today in the rain... 
+So I dreamed last night that it was finally pouring rain today! I was really bummed when I woke up 
+going to clean my room, move it around maybe, then read a book....i hate the rain..no beach today 
+touring the hotels and camp sites today. crap weather today 
+the sun didn't tell me it was going to come out today 
+hate today's oppressive humidity 
+I don't want to play soccer today, it's so cold and wet 
+Oh dear. I've woken up to the last thing I wanted see today - rain 
+what happened to being 17 sunny and windy today?  .. it's freezing and rainy 
+congratulations class of '09! i wish i could have soaked in the rain with you all today. i'll miss you all 
+had to play netball in the fuckin rain today...fully soaked, think i got a cold 
+@BabyK81 it started good but its raining and i have to go to the supermarket today 
+no testing today......weather sucks 
+bad weather no swimming today 
+where is the sun we were promised today 
+thunderstorm... no scuba today 
+It' going to be a photography day today, shame the weather is so dull 
+whats going on with the weather???  No shorts today 
+what to do today? quali in 1 hour but not much to reli do when the weather is so crappy 
+i got sunburns from the picnic today 
+terrible weather today  i swear it said on the weather forcast that it was going to be hot. oh well, still relying on tomorrow.
+only because of the rain i couldn't play tennis today!! 
+today's planned hike might be rained out;big band of heavy rain approaching on radar;we'll see how it looks at 7am to decide  
+The weather sucks  friday it was all sunny but yesterday it was rainy  and today too :[ what's up with the weather here??
+goin to bbq today ... typical rain forecast lol 
+More rain today!  What a wonderful surprise! 
+Wishing the rain would stop! I don't think my wish is going to come true today! 
+Feels so good to be standing outside w the breeze. Looks like it may storm today. 
+where is the sun today? 
+@sepreston we're getting the odd sunny spell, very grey today 
+I feel really bad today, I think a cold's coming. 
+Effing rain just ruined all my plans for today. 
+More rain due, ugh, going to a graduation today and was hoping the kids could go swimming 
+lovely date, he was such a gentleman. weather today is rubbish tho 
+thunderstorms are going to seriously hamper our garage sale ability today. 
+@samjhalliday how crap the weather is today 
+p.s. where's the sun today. 
+@candydaffodil we are getting rain today ! Like hot but too hot is very much unfun 
+coaching soccer in the rain today... 
+guess we got spoiled with all that sun yesterday, pouring rain today 
+Getting ready to mow the lawn, 95 Degrees today  with a heat index over 100
+@anomoly aw man, you did? It's supposed to T-storm tonight, today is when all the best acts are playing--no fair 
+why did rain have to come today..... i hate it 
+sittin outside supposed to get thunderstorms today 
+And its raining again today 
+is disappointed it isn't that warm today! 
+Of course the sun decides to not come out today 
+Its raining so hard today! 
+We had a lot of rain showers today... now it's dry, but I guess I won't see any hot air balloons tonight, they won't get up 
+Getting some sun today. Just not in the way I had hoped 
+had barbecue today and it was amazing, even jumped in the pool afterwards even though the weather was not that nice...twitpic don't work 
+@prettyporsh I wanted us to go rollerscating by the beach today but the weather sucks 
+I think I've been in the heat and humidity too long today cause now I'm feeling sick 
+not liking this weather today 
+man, tiger came out on the course, hit  the ball and the rain began.   no tiger today.
+Incredible weather today.  Too bad I was working all day and only got a short ride on the bike tonight  
+feeling under the weather today, down with the flu 
+The torrential downpour, the metro, and my own issues with promptness caused me to miss the uber-talented @lukebrindley today 
+could not ride yesterday..    of course, today, there is a wonderful sun!!! argh!
+No rain in silverstone today 
+good morning twitter! the sun is hide today 
+Isn't today supposed to be the first day of summer? *looks at gloomy weather* 
+cant go up horses today  weather to bad
+Maybe the weather will change again, but forcast suggests rain for game today 
+@Charmedchic but there's no sun today! 
+Beach cancelled today  I hate the rain
+So far I have had 3 cold showers today, roll on this evening when I can actually do something about it. 
+I'm very bored because today the weather is bad and i can't go out!!   please help me guys 
+The weather today is awful!! 
+Up early for the beach but today it's kinda cloudy 
+i wish the sun was out today!  booo rain!
+I like the fresh breeze of night but today was so hot &amp;humid here 
+was soooo excited to go kiting today, and then realised i was looking at the forecast for hatteras ... not long &quot;no wind&quot; island ... 
+today's weather not as great as yesterday 
+the weather is ugly today here 
+@philwest64 i'm still jealous of your rain  the heat index is like 105 today uggggggg....
+sunny sky yay ! hope it stays until next week .. doesnt want to be home today 
+@pbandjcreations it was 100 degrees here today  and we have no beer!!
+burnt my face laying out in the sun today 
+Feeling a little under the weather today 
+@bustedmemories I was off because of my reaaally bad hay fever  It was really hot here today and I couldnt even go outside :'(
+feeling a little under the weather today 
+is happy that she got tan today  but now you can see where my sun glasses were 
+had fun in the sun today... but got burnt 
+My hayfever is playing havoc today 
+time for a nice seat on the couch. weather today is unforgivable 
+@jenniwheller you're out of luck. It's gloomy today. 
+@catspyjamasnz that move's a bit rash don't you think? hehehe You could always send the freeze up here - blister forming sunshine today 
+no rain today 
+today's forecast... more rain! 
+woke up really ill today!  damn the weather change!
+@naveenaqvi @drawab we're all seriously anticipating rain after this crazy humid weather today 
+is churlisch, that the weather throw a spanner in tha plan to fligh on the glacier today 
+The weather really sucks today 
+wow.. 100% humidity is not gna b fun to work in today.... 
+Not so much sun today, damn. I want to read in the sun 
+We're going to the water park today! Too bad I can't go swimming 
+It's supposed to be sunny today. Where's the sun? 
+This humidity is making my hair look so beautiful today 
+@kaypants i haven't seen this thing you call the sun yet today 
+i'm not ready for thunder storms today 
+The sun isn't shining today 
+just got up and ate some rice crispys for breakfast it is so hot today my sun burn is starting to to peal on my face  i hope it stops
+i think my tanning day is canceled today  , its supposed to rain and its really sticky outside, but no sun! 
+it's raining....something cool about the rain and storms on the ocean but we are ready for some sun today! no fishing today 
+burnt..avoiding the sun today. i miss my boy 
+i thought it was supposed to be rainy today weather men get over paid to spread lies 
+it is a good weather out today, we should chill, but first, come to broadway with me  anyoneeeee ?!
+it was so nice and sunny this morning, and now the sky is like pitch black  i wanted to go swimming today!
+Definitely under the weather today 
+jumped off the wharf today. in the coldest wind and rain...really cool 
+Going to go for a walk in Lathkildale - enjoy the sunshine today folks! 
+woke up to sunshine today just makes me feel a whole lot happier 
+made some greens today.. no wait.. i believe its yellowish orange 
+winter is returned in toronto ... high today only 0 
+nice weather!I feel energetic and healthy,I might even go run later today  maybe.... ;-)
+nice weather  whose out today?
+@lizziefuzz brightside -- no sun today you can wear a tank top 
+80 degrees today-- perfect for the wine festival 
+good afternoon the weather is going to be in the middle 70's so being the the yard today with my 9 dogs is my plan 
+More shopping today then fun in the sun - for at least as long as my allergies will let me. 
+thinks @julzdoz is addicted to twitter lol. the weather is gorgeous today. 
+Loving this weather today 
+? ? ? the weather today!! 
+@ChubbyGayMan Isn't the weather awesome today? 
+Going to have a photoshoot today again: probably go outside too to shoot because the weather is great! everyone have a great sunday 
+Plans for today : going to my parents for sun, asperges and relaxation. And good company of course 
+morning :] wow. sun is bright. some MORE revision i think today..in the sun ofcourse! 
+its very sunny today 
+The sun is finally out today after a week of rain and I intend to go spend some time in it 
+@jasons it's stunning today actually! very sunny and warm  hence I'm tweeting while relaxing in my garden, where abouts are you?
+having a lazy day out in the garden! loving the sun today! 
+@MmmBaileys Awesome!  We're having a sun shiney day today.  I am excited!! 
+enjoying the sunshine today 
+Tired. It's so nice outside  shorts here I come))) might tan today in the beautiful sunshine)))))
+@lozzie182 hey im good thanks  The weather has given me hope of a warmer day off tomorrow  just finishing my essay, hows you? x
+got my dose of sunshine today!  pics coming soon 
+@fashionrunner Me, me  I did 6.5 miles this morning, and what's new? the wind is back  so I just ran a bit slower today.
+@lifethroughme the weather was perfect today for hanging out at the beach.  
+Morning tweeters, hope all is well in your corner of the world.  Its bright, sunny, warm and gorgeous today, can't wait to get started 
+is going to enjoy the lovely weather today  
+Yay.. I'm up early. I think I'm going to lay in the sun today  so happy...
+Just ate my lunch outside in the glorious sunshine! Its days like today I love working in the countryside 
+Still enjoying fab sun here....! Its great not having to work today 
+Its early. And its rainy. And i get to go home today. 
+Believing the weather forcasts &amp; going jacketless today, hope this belief doesn't bite me in the butt later 
+The sun ran away today but hopefully it will be back tomorrow for my bday.  
+today I have been mostly trying to find out which of my drivers are in which vehicles and standing outside in the sun  not bad really
+@LucyPalmer hope today is better for you. It's good weather too 
+Outstandingly nice weather today. I'm feeling happy. 
+is loving the sunshine today! 
+@mortenlindstrom - hope you're coping better with the cold up there today  B'dos is 'warm as usual' 
+is feeling great today..she made me smile  and the sun is back yeaaa !!
+hope the sun stay out and the clouds and wind stay away today  can't wait to get dressed and start the day 
+it seems as if the weather is great today 
+I may do some sunbathing today, nice weather + nothing to do = sunbathing, inevitably 
+Beach today nukka! I &lt;3 the sunshine state 
+Feeling much better today enjoying the sunshine 
+@iamjersey thanks for hanging out last night, you're awesome  hope you guys have fun at rainy bamboozle today!! &lt;3
+Is breaking out the rain boots today 
+it's supposed to be hot today... but it's still lovely chilly and cloudy and windy 
+fucking boring weekend  at least the weather was really nice today 
+just woke up now, happy to see that the sun is out today hope it stays sunny but sometimes hoping is asking a bit to much lol 
+nice weather  doing some studying today and such!
+feel melancholic today because of the weather - it seem to look more like the real Dutch summer now (cloudy &amp; chill) 
+Just finished cutting the lawns, beautiful weather today 
+Babysitting, got my windshield wipers replaced today 
+well i seen the sun shining a little bit today, which is awesome!! 
+@divineblueprint warm and yummy today 
+rain again. looks like we are going to get wet on todays ride. at least we are riding today  luss here we come...
+it's raining here  i'm stuck inside working today so i'd probably be peed off if it was sunny outside, i'm now ok with the rain 
+Stunning weather today/this afternoon/now - couldn't ask for better! 
+Still in bed enjoying the spring  sunshine streaming in the window, woke at 5am rigid, extreme pain and exhausted but i'm positive today 
+going to get waterguns from tesco today   haha.   its sunny.
+@t0mf Not really stuck on F1.. but as the weather is here today I might just stay in and watch it. 
+sooo pleased the sun is shining today! garden here I come 
+wow the weather is amazing today! 
+sun is outside as also inside of me today! 
+hoping today will bring another storm like yesterday. love a good rain  #fb http://yfrog.com/7eqqtj
+It may be raining outside, but there's eternal sunshine in my mind today 
+yesterday I did qute an impresice run over 23.5K, today superfit 15K recovery workout, sun + sea near me 
+its our independence today. everybody is celebrating and its really nice weather 
+@CakeorDeathCA thank you!!  I hope you're feeling better today! this warm/cold weather is driving me crazy!
+marine corps half marathon today had 7,000 runners; fast time of 1:09; 5k in the rain was great 
+rained on my parade yesterday but made the most of it anyway.......of course the sun is shining today 
+working on the golf course today. Much improved weather 
+@lettresperdues thank you  I love my little garden. sitting in it right now, only few more minutes of sun today...
+Enjoying the rain and kids today, at peace 
+90 degrees outside today.... I love the summer 
+Going to the lake today  should be a good day, hardly any wind at all
+@MattLewisMusic ah it was really bad rain huh, sun was shining today though here  x
+I think I got a sunburn today 
+Wow, what a nicer drive into the office today - was cold and windy, but traffic flowed smoothly (not fast) 
+@Jamjar84 i never play lotto so i cant see it happening anytime soon... hehe  out in crap weather today makes me thinkin emigratin!
+i love today!!  it was so fun, sweet, and nice weather, not too hot coz its raining now  what a lovely day!
+The weather is so nice today. I can sleep till next year. 
+can't tell if today will be a good or bad day!!  omfg it is sooooooo cold outside. where did the warm weather go?
+morning!! no class today, it's a holiday  no more rain, cold and stil grey tho, winter is coming sooner i think.- :S
+@daveybarnett hopefully, yes. I hope the weather is like today too 
+going to cologne today... weather is nice... think it's going to be fun 
+last night I had to wake my parents up at 1am because I forgot my key. they are not happy with me. the weather's awesome today though 
+just woke up its blue skies and smooth sailing today 
+I'm in a good mood today, maybe it's the rain, the cold, the wind or just some other happy things 
+weather's nice today  yay!
+Swanage is packed full of sweaty tourists today. @thesignedphoto is beside himself 
+today was nice  liked the rain lots!!!
+g'morning sunshine!!! you look amazing today!  @luckygnahhh
+Just woke up *yawn* So warm today...I can wear shorts!!! 
+the sun is finally out and it's suposse to be 80 today   I love it here
+@sara9582 more of the same weather today  loving it!!
+town today again  .. bet it will rain or the sun will go down when i go out just with my luck
+The weather is very beautiful today 
+@emmyd I think we will still see the sun enough to feel as if today's adventure paid off!!!    I have hope!!
+I'm loving the sun today 
+i like how it was kind of sunny earlier today and then it rained later tonight. the sun woke me up, then the rain now is kind of calming 
+up mega early today, heading down to the studio...hope its sunny for the long drive ahead and no traffic 
+is up and is loving the weather today in nottingham, going to get some breakfast(sausage cobs) 
+I see all my friends in uk are enjoying the weather today  enjoy it and have a great day x x x x
+lough park today, beautiful english weather and an ice cream, what a plan 
+is going to make the most of the lovely weather today and take the girls on the park with a picnic for lunch 
+I just got my nose pierced!! I love it  And the sunshine makes me very happy today *smiles*

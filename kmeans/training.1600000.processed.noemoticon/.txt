@@ -1,0 +1,14 @@
+Most common words for this cluster:
+[]
+
+
+
+
+
+Word2vec space of related words:
+[(u'twitter', 1.0000003576278687), (u'Twitter', 0.8908905386924744), (u'Twitter.com', 0.7536782622337341), (u'tweet', 0.7431628108024597), (u'tweeting', 0.7161935567855835), (u'tweeted', 0.7137227058410645), (u'facebook', 0.6988555788993835), (u'tweets', 0.6974528431892395), (u'Tweeted', 0.6950218081474304), (u'Tweet', 0.6875006556510925)]
+
+
+
+
+

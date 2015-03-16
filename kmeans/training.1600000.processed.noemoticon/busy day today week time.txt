@@ -1,0 +1,275 @@
+Most common words for this cluster:
+[('busy', 334), ('day', 102), ('today', 35), ('week', 30), ('time', 24), ('work', 23), ('tomorrow', 19), ('weekend', 13), ('days', 11), ('morning', 10), ('home', 10), ('way', 9)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Busy', 0.9860464334487915), (u'busy', 0.6705911159515381), (u'Busy_Busy', 0.6228581070899963), (u'Busiest', 0.5930006504058838), (u'Working_Overtime', 0.5635563731193542), (u'Hectic', 0.5561871528625488), (u'Keeps_Busy', 0.5401028990745544), (u'Divorce_Diaries', 0.5340665578842163), (u'Happy', 0.5326539278030396), (u'Bounced_Back', 0.5309764742851257)]
+
+
+
+
+
+Busy, busy...me {Its is too cold} I don't want to go outside 
+Busy week! Advising appt, dinner with new roomies, 2 tests, and tons of homework 
+Busy day... going to the Doctor now... 
+Busy day today... 
+Busy day with my mum, she leaves for Arizona today 
+Busy day gardening and planting seeds today  now to start with the work 
+Going to bed but not tired  Busy day tomorrow.
+@shimpi24 My dissertation is going on fine. Draft report to be submitted tomorrow. Busy with the same .. sulk sulk  
+eating lunch at work, oh ye, ham and mayo sarnies! Busy for a sunday tho 
+Busy already   FD wants to burn today, day job stuff to do &amp; chores I wanted to work on. Lets strip down to fightin' weight &amp; get it on!
+@Fearnecotton Pic n mix still exists? :o I want! Might try n watch it this weekend if I get a chance ... Busy days! 
+Busy morning so far. The rest of the day should be relaxing! I wish I were going to see Kenny Chesney! 
+Busy with loads of work 
+Busy day 2day mum + twin 60th bday get togther + guess who woke with bad throat? 
+@alternatefinch Busy? Sorry ur so busy!! 
+Busy working , i wish i had time to be here 
+Busy day today; shopping for food; buying cleaning stuff; eating said food; using cleaning stuff. - oh yeah - and studying 
+busy busy monday, classes til 6 
+Busy day, just got home and heard about Yao  @jmsultan Haha the part with the picture frame is hilarious, Lonely Island is awesome
+Bored now! Busy doing work for tomoro 
+@epiphanygirl i am callin n itsbusy busy busy 
+@epiphanygirl It's Busy!!! 
+@ChasingDiana i have lost my appetite to read since one week ago. Busy schedule and this and that. 
+Going home from math class. Hectic traffic 
+@trevoryoung I wasn't   ...sadly.  Busy writing - deadline tomorro.w
+is super busy! 
+@MarkRussell no cardy required- well done me! Busy day for you- good work. I am delaying marking exam scripts 
+Busy sunday ahead, problem is the weather out there isnt ha;f bad 
+Busy day tomorrow......  made steak for eddie....rare sucks
+Busy with Promotions all week ,really need time off 
+Is waking up!!! Busy busy day!!!! Dr at 3:20 and picking up Megan from the airport at 4!!!! Trying to get rid of my stupid tummy ache 
+Busy week - both at work and at home. I'm moving this weekend and haven't started packing yet 
+@niamhsmith I was late  mischievous pixies kept me so. But feeling good now. Busy busy! What about you?
+Busiest day/afternoon ever... went to hospital, a cafe, shopping, and home... and no i didn't make it to the hairdresser 
+Stressed! Busy afternoon... and on a friday too 
+needs to catch up on homework. Been slacking off. Ugh  Busy Busy Night...
+Reading then going to sleep. Busy day tomorrow&lt;3 
+Busy day tomorrow .. I just wish I could sleep tonight 
+Busy.. Busy.. Busy.. :S Wont be on Ning for few days. 
+Good morning tweeps. Busy this a.m. but not in a working way 
+@pistol62 Is the Bee to Busy to talk to his buddy on Yahoo? 
+@LegendaryWriter Good!! Busy as heck but good. Feeling yucky at the moment. 
+Busy busy bee.....  I wish I didn't have 2 do laundry! Worst 
+@angellr Busy but fantastic. Tried to unplug for a few days.   Thank you for the FF!!
+Practicing for my music exam tomorrow. Busy busy week! Oh and I failed my driver's test 
+@TerrenceJ106 it's busy and stay busy. 
+Busy dealing with Flavia's dance workshop pics. No time for painting kitchen walls with anti-condensation paint - again! 
+Busy,busy,busy! Getting ready for my hubbies grad/going away party 2nite. Promise to be good. By the way, didn't go to the gym yesterday 
+Busy busy busy... No mothersday dinner tomorow, aunt sick, sad tilda..  Soon on my way to anna.. Need to get ready first.. gah
+Busy day, I need to study a lot so probably not much live tonight  E3 next week!!!!
+Busy re-rating ALL my songs 
+Tired and giving plasma. Busy weekends suck 
+busy busy busy!! I want to go play outside 
+Busy week coming to an end...hope I get a new car next week. Also hope my Pep is better soon. 
+argh... stitch up! Busy day 
+Busy with schoolstuff.. trying to gratuade and not enjoying the good weather!! 
+busy packing 
+Busy weekend!!  Trying to get a few house projects done...big yard sale yesterday...yeah for decluttering..still a long way to go! 
+Weekend gone, had to work the whole time  busy busy busy...
+Not much of a weekend. Busy with the short course.  I want 2 days off, dang it!!
+NOOOOOOOOOOOOOO. Yet another warehouse sales?! Busy busy busy. 
+I miss my friends but I still don't know when to see them!! Aarrgghh. Busy. Busy. 
+Busy busy morning. Invigilating, collected curtain, carpet, paint samples, vets. Now time for a nap. Oh and I still have toothache 
+busy with casting...and its chilly 
+Busy at work 
+Busy, busy, busy at work. The weekend is only four days a way. SIGH. 
+Busy, busy, busy at work. The weekend is only four days away. SIGH. 
+@BenPobjoy Sorry i missed yuh in M dot.  Busy shoot days.  I will be back soon enough!  p.s. i lost your phone number 
+Busy day. I'm so exhausted and really want to take a nap but no time 
+@WonderboyLB no babes. Gotta unpack or it will never happen. Busy week here with lakers in playoffs. 
+Busy bee :p,brb twitter missing u allready 
+Ok, finally put away my &quot;sally's spa&quot; app and I'm hitting the bed. Wish I wasn't having such a hard time sleeping. Busy day 2morrow 
+Busy day @ work 
+Busy day 
+Busy with fixing bugs 
+Busy day ahead! 
+Busy morning all round. Looks like I'll have to visit Maidenhead town centre for my lunch as sandwich people have stopped coming 
+Busy day in work  lots to do!
+Busy summer coming up... Shit. I'm already busy enough. I miss you guys 
+Busy doin homework. Got nothing exciting to tell you guys... kinda boring huh... What am I gonna do this weekend -&gt; Home alone... 
+Busy day today! Took a dose of excedrin to fight this darn migraine  Hope it kicks in soon!
+@postalguarelas Thks, keeping well. Busy rearranging work space 2 make more conducive 2 productivity, but tiny space lots of stuff  &amp; You?
+Last day @ Steel!    Rafiqui's gyros for lunch--best in NYC.  Busy afternoon planned on this dreary day.
+Busy weekend ahead. Packing for Yosemite and trying to catch up at work  Woo-hoo!!!!!
+@Busy_lizzi what's wrong? 
+Busy weekend ahead, kinda bummed I didn't get to see ya 
+Busy day today. I don't like it, I just wanna relax and rest 
+Busy morning at work 
+Busy Busy Busy... I'll tell you that much. Now off to a day of work 
+Resting up. Busy day tomorrow 
+Busy drafting new styles, gutted to see a local label traced my dress and produced it as their own  could kick their shop window in grr
+is getting ready to go to work... gah   Busy day!
+Hurt arm yest, hence cudnt go to yoga class today!  ... Instead cycled 8.2 miles. Busy day ahead.. 1 budday party 2 attend +
+Busy ran away  But on the plus side, I have a new chihuahua named Isabella 
+Busy night...  I won't be home till 7... I guess I'm pulling an all nighter... again...
+Busy ass day.  No time for sandia... 
+@Liteskinpoppin naaa not yet... Lol u been super busy for me ..  
+@shoRtBlaCKbOy Busy trying to catch up with my research setbacks 
+Busy week ahead, but have scheduled a day of 'home maintenance'- standing in queues in Asda, weed pulling &amp; hoovering beckon 
+Busy day today - lots going on; car trouble, for one  
+Busy with some artwork!  Deadline 13:00 
+Spoke too soon  Busy time. x
+Just woke up to see the SUN !!! where did that come from !? Busy day ahead though 
+Busy day... Classes till 12 then practice @ 1-3 then study time 
+Busy busy workday, not what I was hoping for 
+Busy monday 
+Busy weekend. Barely tweeted at all.   I wish I could afford a Blackberry, LOL!
+Whoa. Busy monday!!!!  limited tweets!!
+Running errands, crazy, busy, hectic pace... Stomachache ugh 
+Done for the day. Busy day tomorrow filling orders, fixing a friends mistakes  and working on some special orders. Woot! G'nite!
+Home. Quick shower,then bed. Busy day tomorrow. Wake up call at 6 
+Spoke too soon  Busy time. x
+Busy Busy Busy...has been the theme of the day..juggling many balls with two hands makes me tired till 6...have another meeting at 9PM 
+Rough nite to sleep last nite. Feels like I didn't get n e at all. Busy day today 
+@freyasbower Busy. Have book to edit, my book to edit, cover to finish, editors/authors to chase, and books to evaluate. 
+@elishacuthbert Busy day for me today! Will I ever get out of this 12-hr job schedule every day? 
+@ImSoLastSummer surething ... I had it in my bag today, just forgot all about it ... Busy day 
+I really don't know what to do... I tired, I need to take some rest, but it's impossible. Busy week 
+Busy looking for a J-O-B!!! I miss Waco  Never thought I'd say that but... I can't wait to come home again!
+great night at the tennis club, after the commute. Busy day today at the mag- lots of spread-sheeting! way past bedtime tho- 5am rise  
+Off to rest. I will be keeping busy the next 7 days doing everything you can think of.  Busy 09 season and family.
+is sick  and has too many meetings today...busy busy busy!!
+busy doing this!and doing that!! wooohh!! 
+@StephHendriks Busy finishing up some contracts, got more work than I need to do! Home early is never an option for me 
+Busy with my reflection document, kinda boring. 
+hey guys! haven't been opening my twitter for a while... Busy in school 
+Spoke too soon  Busy time. x
+Busy day ahead. Meetings and budget forecasting. 
+Busy day ahead today 
+@jesslaw Busy, but going really, really well. BTW, I didn't get to your e-mail on the plane b/c my stupid battery died. 
+Busy ysterday cleaning R new house.....pressure washing.....building door frames....getting evrythng ready 2 move....2day is a skool day 
+Making trip to the bay area this wknd to visit husbands gparents. This means I need to get on doing my laundry earlier, boo. Busy week 
+Busy busy! Meeting suppliers,manufacturers and sourcing!! To top it off, what a great weather to work. 
+Ahhh... I figure this 3.0 update is going to be hit or miss. Busy servers make me sad. 
+@DrewDouglass been pretty slow lately  just been real, real busy as well!
+Off to bed. Busy day tomorrow. Good-bye breakfast for one of my favorite clients-moving to AZ for retirement 
+Spoke too soon  Busy time. x
+Busy day 2moro. I can never just sleep in...     
+Busy day today! I have to get up at eleven.  i'm used to sleeping til at least 2! Lol
+Busy n busy , also tired 
+Morning tweeple. Busy day ahead 
+busy busy running around  And have to teach a new coworker
+Busy morning and i haven't even had time for lunch yet! 
+Busy at work and not really following the game 
+im working..... busy busy! @missmarlyn i love jamba! 
+Spoke too soon  Busy time. x
+Busy DAY!!! Now time to make Dinner and put kids to bed! I need to wok on my app. for fall classes 
+Busy busy busy beee  clean my rooom now, what?
+@maxcarver  i'm sorry.  Busy day?
+I am home from inventory. Going to bed, lunch with Devin, stop by the apartment for theadt time   then off to work. Busy day.
+Mornin' all. Busy day today, off to take the dog to the vets. 
+Yay, got documentation! w00t! done knowing it though  Busy thinking of BF2 and strategy for map I lost 2 times last night as commmander...
+Busy with Papers n Numbers,... Perfect way to spend my weekend 
+Good morning my loves! Busy day of work, calls and time with the booger...all lazily and sick from my bed  TY all for your well wishes!
+Spoke too soon  Busy time. x
+Busy night so far. No visits from #BTUB tweeps though 
+Busy day, haven't had much time to do anything, tweets are short and not often today 
+It's a gorgeous day in paradise!  Busy work morning and heading out to a memorial for a friend then back to work. 
+Busy busy day, but have gotten a lot done but just wanna b home  just had lunch w/ an old friend, she looked so good, so glad 2 c her!
+@isalopez17 hello hello ... Busy busy all the time 
+EXAM WEEK! :| Hectic!? 
+Busy day today. Worked in the yard, did some major room cleaning and some cleaning in other rooms. We have so much junk accumulated 
+Spoke too soon  Busy time. x
+@KhloeKardashian everytime I call its busy 
+Busy day today but a very good day. Only today and tomorrow left till I need to stat working 
+Busy in Office 
+Havent been twittering for the past few days..Busy with school. After just one week of it, i suddenly wished it was vacay again 
+#uns1 also really sorry to have missed #becta session   busy busy busy
+Busy moving today, Wishing we had more $$$ to fix up the house 
+Morning! Busy day ahead.  have not been able to catch up on my JG's epic times. Laters
+Spent part ofthe morning helping a grind move. Now taking care of dex, mowing the lawn and then a wedding. Busy busy day. Moped will wait 
+Busy night. Left no energy to read. 
+Busy day today twitter-ettes 
+Busy day, driving all over the Creation.  
+Wedding is over. Was fun. Busy day 2morow grading finals test 
+@theDebbyRyan im trying to call you,but it keeps staying busy 
+@itsonitsgone no film festing for me  Finishing up at school and preparing for Fringe - assistant directing a show and reviewing.  Busy.
+Busy week starts tomorrow  Can't wait for the semester break and Christmas break and of course -- summer 2010 ;)
+Busy week ahead. 
+@jennywittman yes we will watch...pick a night for talking mooseheads and will do it. Busy tonight 
+Just up in Indy. Heading back to Miami.   Busy Week next week..
+Sitting at WayFM volunteering woohoo... Going to the doctor  and then to work later... I am busy busy busy!
+Napped and missed the gym! Busy day, bed early! Class tomorrow 
+Busy busy busy ppm fpm initial telecon...pms pula  http://myloc.me/5y5s
+@Reema226: Long, sweaty &amp; tiring!  Busy like hell ofcourse!
+Virpi's last day.  Busy as tits.
+Now time is more than 6pm... But still in office..... Hectic life........... 
+Hi everyone.Busy day working ,out again tonight so catch up later.Funeral to go to tomorrow 
+Busy busy day! Bathroom is progressing well though 
+Busy day already  Looking like it's nice outside too!
+Got 12 hours of sleep! Busy day today 
+Busy day tomorrow of non-stop wedding bonanza and eats! 
+On my way to the shop  Busy day ahead.
+@Nuff55 Busy day with family today but hope to be around later in the evening 
+@JamieLynnMB i can so understand how your busy 
+Laughing at some silly asses. Hehehe.  Busy busy busy busy!
+@michaelgrainger Busy trying to catch up after a break down south for Easter! 
+Morning Tweeples  Busy day today, plus more probability distribution analysis tonite, obsession, you betchya lol 
+I am forcing myself to sleep. Busy day tomorrow 
+@mayaREguru Busy is also a relative term. &quot;Busy as compared to the norm.&quot; &quot;Busy for a Monday&quot; 
+*doing busy* 
+20mins on the Bowflex now bfast and tv then listening to my lectures before I head to work! Busy bee 
+busy with my new HPmini 
+Busy day interviewing all day - have a fun day all 
+Busy preparing myself for an awesome coaching session. I'm so excited! 
+Busy busy day! Shopping then dinner with chris  Happy anniversary!!
+Busy weekend, as usual!  
+Busy day today...Now i'm free...like a butterfly! 
+busy again today, but it's a good busy 
+Busy busy busy today... Alot to do and not alot of time to do it... Call and text me to keep me company... 
+Spinning, &quot;Step&quot;daughter visit, Brother's birthday shindig. Busy day today  I'm out...
+Busy sorting through my teas. Think I may have a bit of a problem!   http://twitpic.com/4hkvz
+Busy week-end  not much time to tweet...have a great sunday  for me it's family day 
+@Busy_lil_bee I know right... It came so fast... Tears... hahaha. I gotta get your address so I can write you.  &amp; share secrets ahahah
+@judysteapot yup - working away hard! Busy busy busy 
+@FatDaddySweets YAY! Busy is good 
+Busy week this week; quick trip to chase some oil and gas in htown and then back to office for fun week with the devel team 
+is getting baptized tomorrow  and is a college graduate.  Busy weekend!
+@TheUnclean Thanks. Busy as fuck is good in my book.  
+is going to relax on a terrace, then chillout at Radio queertunes, then QT dance  Busy busy busy with relaxing ;-)
+Busy working on school projects, finally have a good idea on stuff 
+Busy being happy hardcore shopping. 
+Busy day. car went 9.64 at 144 mph. chris= very happy.  
+Can't believe it's passed midnight...time for bed!  Busy week ahead! Nite Tweeps! 
+Busy day tomorrow. All busyness AM, work &amp; play late. 
+Goodmorning everybody!  Busy day today
+Good eve twitter!!! Busy day today.. haha.. Playing ikariam again.. 
+@CoverFX I'm doing well! busy busy, but well! 
+@ChrisCade A few more weeks of highschool! Nervous! Excited! Busy! But life couldn't be any better! 
+Busy uploading New &amp; more pretty outfits for next pre-order! Hope to get it done soon but TOO MANY! 
+Busy Topshopping. I feel complete 
+Good morning friends!  I'm enjoying a cup of coffee and listening to the birds singing.  Busy day ahead, it's a surprise so I can't say 
+Busy/Fun weekend  Now a busy work week before Aventura...but first BED!!!!
+Busy day at work. Kim and wade came all the way down to see me. Off to badlands with my gays! 
+Busy, busy, busy catching up with the weekend! Also, is it wrong that I thought Eurovision was great? 'This is my moment' 
+@HumpNinja Busy day I see 
+@piaguanio wow. Busy day. Whats like bein u? 
+Morning! Busy day planned! Pls help me spread the word about all our events-I'll be posting info about them throughout the day. 
+Rightio!!  Busy week ahead - Cousin bringing her baby to meet me - down from Scotland- so we are excited about that - Lots of cuddles  -
+@chuckdarw1n Marrs Bar this week (hopefully) too, Ty? Busy week eh? 
+Busy with our merchandise. The shirts are going to look great!! You can buy them soon at www.lemoncurd.nl 
+Hi, thanks to everyone who's following!  Busy here today-just got a load of Fair Trade stuff delivered; whooop! ;-D
+@Jamie_127 I know. Busy weekend,sorry my love. I WANTED to get online yesterday but it just didn't happen. I'm here now,though  xoxoxoxoxo
+@ChesterBe Hectic dude I know but think about the nice ass you going to have. 
+Off to #Darlington to work 1-2-1 with someone who wants to develop his persuasive presentation skills for an upcoming talk.Busy day ahead 
+I'm back in the web 2.0 land again  Busy couple of days and very promising as well!!! Things looking very bright indeed 
+Busy with transcription today  www.greenearthvirtualassistance.com
+Working at the moment........................Busy busy busy. 
+Busy. Busy. Busy. Exams starting tomorrow.  http://plurk.com/p/vg9j7
+@neimotheband busy like a buzzing bee - just how I like it. can't wait to hear what it sounds like! 
+http://twitpic.com/5op6o - Found this and loved it!  Busy, busy, busy 
+Busy busy - this is me just on. Thank you new followers - will do my FFs once I've had coffee. Thanks to those who have suggested me too 
+Busy weekend ahead after I leave work!   E-mail, text or call me to get ahold of me!  
+Morning everyone back to bed for me was up toooo late last night to be up this early! Busy day! I'll be on later! Congrats Jenny 
+Busy weekend of photo shoots!!!! 
+meeting, then getting ready for this weekend  busy busy busy!!
+Physics quiz, teaching at Farb middle, mtg at the studio, back to school, cookies rehearsal... Busy busy 
+Busy busy busy, tdc in reverside,church school finals whooo' what a week  well were in a new one but just thought id share GOD is love ...
+Busy, busy, busy week. I'm excited. 
+Busy week - two days stand before me and an airplane to the Homelands.  IF I can make it that long! 
+Good nite wonderful tweeps.  Busy day 2morrow but I'll catch up with u when I can. Thx for all the gr8 resources today 

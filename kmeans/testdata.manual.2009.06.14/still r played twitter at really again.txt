@@ -1,0 +1,25 @@
+Most common words for this cluster:
+[('still', 2), ('r', 2), ('played', 1), ('twitter', 1), ('at', 1), ('really', 1), ('again', 1), ('museum', 1), ('pros', 1), ('thursday', 1), ('should', 1), ('much', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Again', 0.6883333921432495), (u'Still', 0.6861822605133057), (u'Really', 0.6639407873153687), (u'So', 0.6293593645095825), (u'And', 0.6255896687507629), (u'What', 0.625555694103241), (u'Just', 0.6226679682731628), (u'Now', 0.614203691482544), (u'Actually', 0.5999866724014282), (u'Finally', 0.5935091376304626)]
+
+
+
+
+
+downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.
+In montreal for a long weekend of R&amp;R. Much needed.
+Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.
+Lakers played great!  Cannot wait for Thursday night Lakers vs. ???
+no watching The Night At The Museum. Getting Really Good
+@MMBarnhill yay, glad you got the phone! Still, damn you, AT&amp;T.
+45 Pros You Should Be Following on Twitter - http://is.gd/sMbZ
+#GoogleIO | O3D - Bringing 3d graphics to the browser. Very nice tbh. Funfun.
+#WFTB Joining a bit late. My connection was down (boo time warner)
+First dentist appointment [in years] on Wednesday possibly.
+Fighting with LaTex. Again...

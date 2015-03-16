@@ -1,0 +1,46 @@
+Most common words for this cluster:
+[('bit', 45), ('http', 9), ('tad', 4), ('thanks', 2), ('seems', 2), ('lot', 2), ('kinda', 2), ('cleaner', 1), ('hyper', 1), ('weirddddddd', 1), ('sucks', 1), ('wazld', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'bit', 0.9999415874481201), (u'little', 0.808275580406189), (u'wee_bit', 0.7812169790267944), (u'tad', 0.6867942810058594), (u'litle_bit', 0.5905066728591919), (u'maybe', 0.5893582105636597), (u'somewhat', 0.5836683511734009), (u'kinda', 0.5827680826187134), (u'teeny_bit', 0.5718610882759094), (u'litte', 0.5661839842796326)]
+
+
+
+
+
+A bit tired of the 24/7 cribfest that surrounds me  #fb
+a little bit sad  a little bit overwhelmed 
+..I hate them a little bit. Or a lot bit. She is my favourite flatmate and it upsets me to see her upset 
+is a tad bit bored today, damn emily leavin for portugal 
+That seems a bit overkill  
+@aimeemeuw just a tad bit 
+http://bit.ly/bcHyI  I like the layout, too bad it's not customizable.. 
+I'm a bit hungry..maybe i'm feeling a bit better..maybe not 
+@irohan Not sure, seems a bit challenging 
+@natty619 I always feel a bit of an outcast on there too 
+Feeling a bit of anxiety... It's making me feel a bit queasy 
+was happy and hyper... now a little bit low  :/ weirddddddd
+It's raining sooo hard! I can't even go out... I hope it stops or at least slows down a bit 
+@saftypin  just for a second. i was a tad bit occupied. kinda bummed. i missed british chirs. 
+http://bit.ly/WE8qn  and this bit  might cry xx
+http://bit.ly/16XJjw     this makes me sad a little bit inside.
+Feeling a bit messy tonight. It's all just gotten a bit much right now 
+So I'm writing this song and its starting to remind me of this... http://bit.ly/wAzlD  
+Cap'n crunch is amazing!!!!!!!  going to work in a bit 
+Here is a new theory I came up with, and some bad news along with it... http://bit.ly/izxFh followed by http://bit.ly/4pFS2w 
+Working out at the gym   http://bit.ly/niYSO http://bit.ly/1pcFyG
+@talicrue late reply is late   but 3 votes sucks more than a little bit. pavel didn't deserve it one little bit.
+I miss this, a lot.  http://bit.ly/2L9qpI
+@fakemansell no because I made myself a bit unwelcome and I feel bad for it   #moan
+@mattwertz that's seems a little bit depressing 
+@thesouthernstar I do sing, albeit poorly and a bit off-key.. 
+is start doing packing bit by bit 
+@DavidArchie Yoou seemed a bit nervous. You were kinda funny, but you did great! 
+@jimatwax Thanks! It's getting there bit by bit... 
+http://bit.ly/eFc3f  good readings 
+@RollieDingo lol, i guess that makes me just a tad bit famous 
+@andrewstorm Thanks!  I have a bit more to do, but, I think I've made it a bit cleaner than what I had before.

@@ -1,0 +1,796 @@
+Most common words for this cluster:
+[('tomorrow', 782), ('lol', 13), ('x', 7), ('amp', 7), ('haha', 6), ('wow', 6), ('yay', 6), ('u', 6), ('p', 5), ('s', 5), ('c', 4), ('http', 4)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'tomorrow', 1.0000003576278687), (u'tonight', 0.700188159942627), (u'tommorow', 0.6974318027496338), (u'tommorrow', 0.6838282942771912), (u'tomorow', 0.6690214276313782), (u'tomorrrow', 0.6580745577812195), (u'today', 0.6509931683540344), (u'Tomorrow', 0.6211367845535278), (u'Saturday', 0.586554229259491), (u'Friday', 0.5605531930923462)]
+
+
+
+
+
+Debating if I should just shower now, so I can sleep a little later tomorrow 
+leaving tomorrow! 
+Totally sucks that i have to go back to work so early tomorrow. 
+@andrewgoldstein i wanted to go to that but we thought it was tomorrow! 
+@adri1783's going tomorrow. 
+@harleyride It's raining here...     Supposed to be nice tomorrow though...
+I don't want tomorrow 
+doesnt want to work tomorrow! 
+Is not looking forward to tomorrow very scared 
+Not looking forward to tomorrow, more coding &amp; writing 
+is hungry and doesn't want to go back to college tomorrow 
+Off to bed then work tomorrow 
+off to bed, early, skewl tomorrow 
+ahhh! back to scholl tomorrow! 
+@friidaah: it rains tomorrow 
+Thinking about going back to work tomorrow  
+back to uni tomorrow  cbaaaa!
+back to college tomorrow 
+is chiling in bed, and not looking forward to work tomorrow 
+not looking forward to work tomorrow 
+Does not want go college tomorrow 
+back to work tomorrow  so sad LOL
+Off to bed...back to work tomorrow, 
+I don't want to go to work tomorrow 
+@infamousgodhand I hope I feel better tomorrow 
+@shikhapuri I'm not coming in tomorrow. I'm actually really sick 
+Feeling miserable about going back to work tomorrow 
+looking at my timetable now. till 5.30 tomorrow. boohoo! 
+@stephenfry I got that tomorrow! 
+doesn't feel ready to go back tomorrow 
+I don't want to go to class tomorrow.  don't make me.
+Doesn't want to open tomorrow....  either I call late or leave to go home soon
+is not looking forward to tomorrow 
+does not want to run tomorrow. 
+Not looking forward to tomorrow  
+should be going to bamboozle tomorrow. but, sadly, is not. 
+i wish i was going to bamboozle tomorrow 
+so nervous for the gmat tomorrow... 
+@misssmith11  I hope tomorrow is better for you.
+We were supposed to get married tomorrow...    
+i hope it doesn't rain tomorrow?  
+Is afraid of tomorrow 
+@nagalimanila you're working tomorrow? 
+ bed now, i really don't want to work tomorrow.
+@Pampin26 i have to be somewhere tomorrow 
+@greggarbo are you going to bamboozle tomorrow? i feel like we haven't seen each other in a really really long time 
+i hope it doesn't rain tomorrow 
+Blahhhhh I don't want to work tomorrow !!! 
+i cant sleep but i work early tomorrow.  
+is so bored and has to go to sleep! going to be busy tomorrow 
+I need to wake up early tomorrow!!! But i shallnt 
+is not looking forward to work tomorrow 
+learning for tomorrow 
+going back to seremban tomorrow 
+is exhausted and isn't lookin forward 2 work tomorrow. 
+@kfritz I have a final from 6-7:45  I'll probably be studying for that tomorrow. Is after 8 too late?
+I'm so not looking forward to seeing him tomorrow  must stay strong Charece, must stay strong.
+totally NOT looking forward to work tomorrow. uugghh 
+Not looking forward to work tomorrow. 
+i didn't want to do this but i have to cram tomorrow 
+doesn't want to go to work tomorrow 
+So this really sucks, but @apleaforandy, @apleaforblake, and @apleaforaaron, I will not see you tomorrow.  superdumbretardedgayfest2009..
+Has to go to bed soon and back to work tomorrow.  
+I have a final tomorrow and I don't care to study. 
+Not wanting to get up early and go to court tomorrow  Hopefully this will be the last of it...
+I don't want to go back to work tomorrow 
+@shanilowe ahh neither. i wish it was tomorrow 
+getting ready for tomorrow 
+can't sleep; thinking about tomorrow 
+doesn't want to go back to work tomorrow. 
+@hulacutie625 ugh you suck! i can't watch it until  430 is tomorrow 
+@saffanah same like you nih   what we do tomorrow zka ?
+is worried about tomorrow 
+I'm upset there's no pingpong tomorrow 
+has to get up (slightly) early tomorrow. 
+Revising spanish for oral tomorrow 
+not feelin`so hot &amp;&amp; not excited about tomorrow 
+I hope I'm not cramping too bad tomorrow. 
+i so don't want to go back to work tomorrow 
+Dreading going back to work tomorrow 
+snuggling with puppy, sad to leave her tomorrow 
+I have to wake up early tomorrow. 
+too much to do tomorrow, tooo too too much. 
+hoping tomorrow never comes.. i dont want to wake up early 
+I'm seriously failing chem tomorrow. 
+@christianhanson You know I'd be there tomorrow if I could! Miss you 
+@alexwilliams12 ... I hope tomorrow is better for you. 
+@madysonwaslike me too! gahh we have to talk tomorrow. 
+not coming tomorrow, and no. sorrrrrrry. 
+OH NO! it's tomorrow.. 
+I am so tired and I don't think I'm going to be able to take off tomorrow. 
+don't think i'll be able to work tomorrow 
+not happy for tomorrow. 
+I graduate tomorrow 
+So tired! I don't want to work tomorrow 
+Wish I was going to be able to go to church tomorrow 
+I should stay up as I have that long drive tomorrow, but I am just to tire to stay up. 
+doesn't want to go to work tomorrow 
+I am going to be dead tired tomorrow. 
+tomorrow is it 
+E and W are leaving tomorrow... 
+Not looking forward to work tomorrow!!! 
+have to learn for tomorrow 
+is not looking forward to uni tomorrow 
+dreading tomorrow  :| :/
+nervous about tomorrow.  
+Not looking forward to work tomorrow 
+got my first final tomorrow 
+I do not want to go back to work tomorrow 
+why am i up? i have to go to work tomorrow 
+Hopefully I'll get to see my horsseyy tomorrow. He'll run away like usual though 
+I can't sleep and I don't want to go to houston tomorrow 
+i dont want to get up early and go to work tomorrow 
+So... It is now 3:34, i'm going to be completely dead tomorrow!! Fml 
+if i don't get a reply tonight i am going to be sooo jumpy tomorrow 
+going to bed now. back to chattanooga tomorrow... ugh 
+back to uni tomorrow... 
+Wishing I hadn't agreed to work tomorrow! 
+@bazmeister  I'm just going to have to get some tomorrow, definitely.
+Totally freaking out bout tomorrow !!!!!!!!!!!! 
+getting up early tomorrow 
+damn, tomorrow i must write a bioligy classtets, must learn again... but i want to sleep now, im so tired  xD^^
+have exam tomorrow 
+@jillspeaking lol no it's tomorrow! I'm working! 
+has to work tomorrow.  http://plurk.com/p/vgzm1
+TGIF yess even though i work tomorrow  
+@DumbyLove Wow...I can't til tomorrow...and I'm dying because of it... 
+@elizabethw723  I hope tomorrow is better!
+Going to bed back to work tomorrow 
+@rainbowglow unfortunately no, they haven't   guess i'll have to wait and see if they come tomorrow.
+not going out anymore tomorrow  mehhhh
+Why do i have to work tomorrow!? 
+@kimmucakezz I would love one but I work @ 11 tomorrow  I don't open
+getting up early to go to the funeral tomorrow  nighttttt.
+isn't happy about working tomorrow. 
+I cant to sleep and tomorrow i must wake up too early 
+leaving tomorrow 
+I have that 'Friday' feeling, though - I am working tomorrow 
+@demetridadon well what about tomorrow? I miss you 
+@Hellolizzay I work tomorrow   
+@bethontop Didn't even reply to me about how old you are tomorrow? 
+I  do not want to work tomorrow! 
+I have to work tomorrow too sheli 
+i miss you bby      wish you were going tomorrow to make me do good.
+i so can't be bothered working tomorrow! 
+too sick for rigging tomorrow.  
+didn't make it out to shop.......      there is always tomorrow.
+@icysun23 But it will have to wait until tomorrow, I'm going soon 
+I can't believe I'm graduating tomorrow. 
+can't wait to partyyy.............tomorrow 
+Heading back to mpls tomorrow 
+@jimenez_j aww! that means we can't play tomorrow!!! 
+i have to open tomorrow... me no happy  
+i don't want tomorrow to happen!!! 
+is going to be working tomorrow too. 
+Feeling better but has to work again tomorrow 
+have to get up early tomorrow and i'm not happy about it 
+is not ready for tomorrow 
+I have to wake up all fucking early tomorrow 
+off to bed, working tomorrow 
+does not want to work tomorrow 
+I should go to sleep  tomorrow I have to work...
+@mattjorg i wish you were back already  I'm calling you tomorrow can't WAIT to see you!
+about to go to sleep, i have to wake up early tomorrow 
+why am I still awake?!?!  im going to be so cranky tomorrow!!
+leaving hong kong tomorrow, and i'm kind of sad already 
+Not sleepy but i still have to get up early tomorrow 
+I have so much washing to do tomorrow 
+got to get ready for tomorrow .. 
+@SatanzMantra is it ?? m going tomorrow 
+@sofiest01 omngosh! :s I'm soooo not ready for tomorrow  Vivaldis..
+I don't know what to wear tomorrow! 
+@IlanBr thought I had til tomorrow - aw no 
+tired and grounded until tomorrow. 
+Really don't want to go to work tomorrow  it's too nice
+I wish I didn't have to get up so early tomorrow! 
+I want to go running right now sooooo bad but I have to save it for tomorrow. 
+@kllybntly5 what? No. I come back tomorrow. 
+I don't want to go back to work tomorrow 
+doesn't want to go to work tomorrow 
+I DO not want to work tomorrow 
+@ballski How are we supposed to meet up tomorrow if I'm still effed up? 
+So tomorrow is whatever? 
+i realllllyyy want to go to vancouver tomorrow... 
+so tired... swimming tomorrow 
+i feel horrible  I hope it gets better tomorrow.
+@Nolotto (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( but I cant tomorrow! 
+Not looking foward to work tomorrow 
+back to brisbane tomorrow 
+tomorrow i'm back to college! how pissing off! 
+@owllies can't go tomorrow 
+I am supposed to be studying for Chinese tomorrow but I'm so sian! 
+Rmps exam tomorrow 
+@TaiwanBrown I leave tomorrow 
+I'm going to bed. I don't want to leave tomorrow 
+has to wake up at 5:30 from tomorrow ! 
+Not looking forward to work tomorrow 
+@jrmullen That sucks, I have early shift too tomorrow 
+dreading tomorrow  *is depressed*
+doesn't want to go back to work tomorrow 
+back to work tomorrow 
+damn ... exam tomorrow 
+i don't want to go back to work tomorrow 
+really doesnt want to go back to work tomorrow! 
+@djrafiki, too late, it's tomorrow 
+SO don't want to go back to work tomorrow 
+doesn't want to go to work tomorrow, especially knowing its going to be round 3 
+doesn't want to go to work tomorrow, especially when he knows it's going to be round 3 
+chem exam tomorrow 
+has to get up very early tomorrow 
+Just found out I have to work tomorrow too!!!!!! 
+I really don't want josh to go away tomorrow 
+I should've stayed in bed until tomorrow. I feel so so bad 
+soooo don't want to go to class tomorrow 
+back to work tomorrow 
+Dunzooooo finally,until tomorrow 
+about to go to bed, i don't know how i'm going to get up tomorrow 
+so not looking forward to tomorrow 
+has to get up early tomorrow 
+@BellaKavner98 i dont get to see until tomorrow  have fun watching though!
+Not looking forward to going to back to work tomorrow... 
+I have to go back to work tomorrow... 
+got haircut and wanting it 2 b tomorrow 
+doesnt want to go to work tomorrow 
+is dreading going back to work tomorrow 
+Not wanting to go to class tomorrow. 
+I am exhausted.  I want to go to sleep and wake up tomorrow.
+Heading to bed... back to work tomorrow. 
+Ugh, i have to work tomorrow 
+worky tomorrow. still recovering 
+has to work tomorrow yay.... 
+going to sleep, tomorrow hard work 
+doesn't want tomorrow to come yet 
+@RaraACTIVE okayy  tomorrow right?
+i wish tomorrow was wenseday 
+@louievtts  I promise I'll tutor u tomorrow I'm bout to go to sleep now
+I failed..  i'll hav to try out tomorrow
+I should probably go to bed now so I can wake up early tomorrow. 
+eeekkk i dont want to work tomorrow 
+chat chat chat. uhh.. tomorrow's another daaaaaaaaaaaaaaaaaaaaaaaaay! 
+@wobbly01 ugh. I'll have that tomorrow 
+@dbsrls I think it's supposed to get colder tomorrow 
+tomorrow is not going to be better either 
+ahhhhhhhhhh tattoo moved to tomorrow. i don't want to wait 
+And it doesn't even start till tomorrow 
+is not wanting to go to work tomorrow!! 
+I am soooooooooooooooooooooo scared for tomorrow 
+@outofmyarse Maybe tomorrow, have to go now 
+back to work tomorrow 
+doesn't want to go back to work tomorrow 
+@imanwilliams ok I don't get off till 9 tomorrow 
+fred is severely ill. tomorrow will be depressing i think 
+is screwwwweddd for tomorrow  uughh
+I'm graduating tomorrow 
+I should be okay... well at least until tomorrow comes 
+hoping i feel better tomorrow 
+Its impressive how bad I failed, but how I am totally going to be able to walk tomorrow 
+@DivaJulia when i get paid... maybe tomorrow 
+didn't get paid  going back tomorrow...
+@armanitim I had hoped to see you there tomorrow 
+@ArmaniTim I had hoped to see you there tomorrow 
+@ascott123 hey anna!! i dont want to play kickball tomorrow!  lol
+sad that brother is going back tomorrow. 
+I am swimming tomorrow.  I don't care if it freaking snows, I've been wanting to swim, but it has rained and wouldn't let me 
+they're leaving tomorrow 
+i won't be on tomorrow until probably 8  so bye until then.......
+I still feel really sick, hopefully it goes away by tomorrow 
+p.s. I drank another one of @scoobydeu gatorades. ill hit you back tomorrow. 
+back to work tomorrow..ugh! 
+@chaneletmoet hahahh yay! i'm so glad you're doing it again! i felt like the odd one out  i go in tomorrow, so we'll see.. haha. i just
+I don't want to work tomorrow 
+@wayway8 tomorrow  .....I dont want to leave @madsoli3
+@pjsykes yay! I'm taking it down tomorrow... 
+@danielaafer i cant live witout u  what will i do tomorrow? 
+@tommcfly supposed to be raining tomorrow 
+@JessicaRosales no  I have to open tomorrow
+Going to be so sore tomorrow 
+Getting tired  not looking forward to tomorrow either
+has to get up early tomorrow to go this funeral 
+I so don't want to leave tomorrow 
+Leaving tomorrow. 
+well... i think we are both dieing. i hope tomorrow is better... for both of us.  
+@countryamber It's almost over   But I'll catch it again tomorrow!
+@brittanydubs no  we should go tomorrow?
+@DaciaAM it makes me really sad that we don't have choir tomorrow.... or ever again, actually. 
+I work @ six tomorrow 
+@JaySkillz right! I can't sleep.... And soooo much to do tomorrow 
+Has to revise for a2s tomorrow, but is suffering with hayfever 
+Computing higher tomorrow  I don't expect it to be difficult, but it won't go well if I don't start revising.
+@Stephanieee55 I'll tell you tomorrow 
+i dont know what im going to do piod 3 and 4 tomorrow 
+I wish tomorrow would be better 
+Leaving tomorrow 
+@Malcmail don't say that... I'm going camping tomorrow 
+@pmk215 aww we'll miss you tomorrow 
+@dudejeanette I didnt mean to!  You're going to make me so sad tomorrow, YOU BEEZY!
+@laurenkaminski me niether  are you goin to myras bbq tomorrow?
+TGIF Even though I still have to work tomorrow 
+@beautybuzzed It's supposed to rain tomorrow too. 
+has to go to work tomorrow 
+@mekahldownish only to be back tomorrow 
+I dont want to go to work tomorrow. 
+working tomorrow 
+Not looking forwardto tomorrow  eeeeeeeeeeeeeep
+I am actually not prepared for tomorrow at all 
+Is off to nottingham tomorrow 
+@alancostello I suppose tomorrow Is probably the best 
+Really really nervous for the SATs tomorrow. Not even exaggerating 
+sat tomorrow 
+have so much to do tomorrow. 
+Not feeling good at all.. hospital tomorrow 
+is really sad that she wont get to chill with @cheergurl9732 tomorrow 
+is not looking forward to the funeral tomorrow 
+i have to work 9-4 tomorrow 
+sat tomorrow.. 
+Why am I working tomorrow?!? 
+@LindzeyNichole I WISH I COULD!!!  but im going to disneyland tomorrow.
+can we hang tomorrow then 
+@SoulGlowActivtr  totally blows that i cant see u tomorrow 
+@blasha couldn't find him  will talk to him tomorrow
+i have workshop tomorrow  don't want to wake up early
+@MelChavez i have so much kwento! i miss you na now palang!!!  i'll call you tomorrow!!
+bored. want it to be tomorrow. 
+Is there no #MargaritaMass tomorrow? 
+i'm so bored! tomorrow had better not fall through  i need to get out and have a laugh!
+doesn't want to work tomorrow 
+why can't i sleep?  I have to wake up early tomorrow!
+@JLSOfficial is it the summerball tomorrow then!?! 
+@VioletJazz tomorrow's no good for me to 'practice' 
+i dont want to go to work tomorrow 
+@alannaaaa you are a lucky guurrl i am revising tomorrow 
+@sammywhammmy i miss you  i want to hangout tomorrow! you busy?
+@eurbanista I didn't even get to see it!  Hopefully tomorrow!
+@HotspurTweets I was supposed to see you guys tomorrow but I can't now.  but have fun!
+I don't want @ResaReese to leave tomorrow. 
+I'm just praying its sunny tomorrow, i NEED to swim.............   
+@rucybrock I will miss you tomorrow 
+I don't want to work tomorrow. F!!!!!!!!!!! 
+I have to leave tomorrow 
+I don't think I can talk to @selenagomez tomorrow. 
+I wish I didn't have to work tomorrow 
+i dont want ireney and ate aiz to go back tomorrow 
+tomorrow is back to work 
+@pussssinboots Now I feel bad  I'm sorry to leave you...but I'll talk to you tomorrow (actually tonight)....
+don't want to go to work tomorrow 
+@JennaIsWriting I have to work tomorrow.. 
+@Babsssss i can wait until tomorrow  LOL x x
+tomorrow is not going to be fun 
+Studying.... But not so sure will succed tomorrow 
+tommys wake tomorrow 
+@danipoynterjudd p.e tomorrow .....i want it to rain  x
+is tired and not looking forward to work tomorrow 
+not ready for tomorrow morning 
+is back to work tomorrow 
+Early morning tomorrow 
+@HayleyBee1 i have gw for tomorrow and it is really hard. 
+Is not wanting to go back to work tomorrow. 
+@PatsyTravers ohmygosh are you serious? wow. that is pretty expensive actually. I lost my mileyworld so I cant get them tomorrow 
+going to bed..have to work tomorrow 
+@ophiomancer I am busy tomorrow 
+is going to bed now... early start tomorrow 
+Yay back to work tomorrow. 
+Does not want to go to work tomorrow 
+dreading tomorrow 
+@Savvygrl7 good thankyouu, back to college tomorrow though 
+Bleurg! I do not want to go to work tomorrow so much it hurts..... 
+I don't want to go to class tomorrow!!! 
+she is being out down tomorrow.. 
+I'm going to sleep...tomorrow, I work ! 
+hopefully i wont be coughing tomorrow 
+is not ready to go back to work tomorrow  depressed about it, wahhhh
+@SackPackies Yes  @ohflawless I know   I think I'll just wait for tomorrow and see what happen
+back to schooooool tomorrow 
+back to work tomorrow 
+Doesnt want to have to revise tomorrow.....had enough 
+Not ready to go back to work tomorrow 
+So don't want to go to work tomorrow 
+@TankKCLF im ready to be back! fly back earllly tomorrow, then work  did you sign up for pych?
+back to work tomorrow 
+Doesn't want to go to work tomorrow.... 
+@TylerTew i wont see you tomorrow 
+is working on a final for tomorrow... 
+doesn't want to get up at 5 tomorrow. 
+I miss @sirk88 alreadyyyy  don't leave tomorrow. Pleeasseee
+not looking forward to going back tomorrow 
+Going to bed now, 8am final tomorrow! 
+what are you guys wearing tomorrow 
+Leaving tomorrow 
+Is not looking forward to work tomorrow 
+@currytogo I just realized that I wont be able to go with you to the baaaank tomorrow 
+@weyruetten you're still up!  we're both going to be tired tomorrow... i'm just going to sleep now. i love you.
+@theadz01 I'm going to see a flat tomorrow, I bet it sucks 
+schoolwill start tomorrow! it sucks bigtime! 
+is working tomorrow 
+@naughtymutt I am back tomorrow 
+@josespears MELHOROU? we missed you SO much  please be better until tomorrow
+ thinking about haveing to go back to college tomorrow
+nearly finished c4, and i'm out tomorrow 
+@lauraa_louise not anymore   i'll tell you everything tomorrow, i'll pull myself out of bed... ahhh....
+tomorrow's my last dayyyy 
+dreading tomorrow 
+Not amped to work tomorrow 
+really, really, really, REALLY, doesn't want to go back to work tomorrow 
+@x_charlotteee no  i'll buy you one tomorrow!
+studing for chem final  that i have to take tomorrow 
+@aliceholder lol I'm sure we will hear all about it tomorrow xD I wish I couldve gone! 
+Leaving for D.C tomorrow  haha.
+@nicolle77 aww  I hope it feel better tomorrow!
+@poopinpineapple I don't.  I will probably remember tomorrow.
+so....ghostusters doesn't come out till tomorrow 
+@kittykrazy99 i know but now i have to wait until tomorrow 
+i hate studying  psyche final tomorrow, TWO MORE...then I'm officially a senior...yessss
+early morning tomorrow 
+wishing I did not have to go back to work tomorrow 
+@deltabelle No, I want to, but I should probably wait until after tomorrow 
+looking forward to going back to work tomorrow 
+is getting ready for bed! i dont want to work tomorrow 
+@eatmycereal i know  oh well i'm gettin one tomorrow
+us regents tomorrow 
+i have to work tomorrow... but i want to stay up! 
+@ShayyyG aww I miss you!  can I call you tomorrow??
+Still studying.  I'm all by myself now. I better do good tomorrow.
+not going to the theatre tomorrow 
+has to get up early tomorrow 
+I am bored--I have to wake up early tomorrow 
+@ChicGalleria I never found out!  We'll look it up tomorrow...
+Why am I still awake when I have to get up early tomorrow? 
+Has to make up at five tomorrow 
+@nathanaelaqua awweee i know how you feel!!  tomorrow is going to be funnnn(:
+@tubabacon Can we all hang out tomorrow? I miss you guys. 
+ sad i leave tomorrow.
+@eheggart you can't go! I'll have no one to bother tomorrow! 
+@jwheelerjackson great to be home, but definitely don't want to go to back to work tomorrow 
+@foreverparanoid I'm not getting it until tomorrow 
+tomorrow is not going to be fun 
+@JennaVitalone I would love to go but I leave tomorrow. If you want to go when I get back let me know... 
+I dont want to go back to work tomorrow 
+I am so scared for tomorrow. I'm afraid of surgeriesss 
+great i work tomorrow too 
+@YellowMichie are you leaving me tomorrow ??? 
+@EricaMarleene It's not fair. I just want to curl up and die. But I have to go back to work tomorrow!! 
+I have to go to work tomorrow. 
+I hope it doesn't rain tomorrow or else I will be really sad 
+I really don't want to go...its so late.    I will save it for tomorrow...
+@rebeccamezzino poo! won't be able to meet you tomorrow &amp; i was looking forward to it 
+dreading tomorrow 
+@skittlesboy Not out until tomorrow 
+does not want to go back to work tomorrow 
+@suckafreebriee it's dead now but i am still creeped out   vacuming tomorrow!!
+I am not looking forward to tomorrow! 
+i have to go to 5 practicez tomorrow.. 
+@garpods22 haha no I'm not very sunnie at all  and I doubt tomorrow will be any better
+@wowiswhitneyo i didnt leave that late but i have to go back tomorrow 
+@RealJackieB it apparently isn't available on Australian istore until tomorrow 
+@jenjacques i won't see you tomorrow 
+@sheabutterball officially  new one tomorrow i hope.
+has to wake up early tomorrow 
+back to work tomorrow 
+Why am I still up? I'm going to regret this tomorrow. 
+@tarannau20 It's delayed until tomorrow  #applertc
+I don't want to go to portsea again tomorrow 
+sitting on my bed watching kels pack. She leaves tomorrow.  its been fun.
+@Soomka I'm not here  Can do tomorrow, though?
+I'll cry if I have to work tomorrow 
+can't concentrate  .. i want it to be tomorrow already!
+tomorrow I have French 
+..would really like it to be tomorrow now please 
+i dont want it to rain tomorrow 
+i hope it doesn't rain tomorrow 
+got to get up early tomorrow,  uhhhhhh
+ too nervous for tomorrow
+I'm sore, achy &amp; exhausted... hopefully, I'll feel better by tomorrow!  
+i'm so scared/nervous for tomorrow 
+studying for my final tomorrow 
+@marissatimelow what happened?  -and tomorrow should be love 
+aw. back to work tomorrow 
+back to work tomorrow   
+is quite upset for not being able to go to youth tomorrow 
+Dreading tomorrow 
+I'm so sad I have to leave tomorrow. 
+I'm so dreading tomorrow.  - - lol
+@juliapecly i miss you  glad to see u tomorrow
+doesn't want stefie to leave tomorrow. 
+back to work tomorrow 
+is so not ready for tomorrow  [g]
+Definitely not looking forward to getting up early tomorrow and going back to work 
+is going to be realllllyyy tired tomorrow 
+I do not feel good  I want it to be tomorrow already so I can have fun!
+going to sleep. spanish oral final tomorrow 
+isn't looking forward to getting up really early tomorrow 
+ I have to wake up early tomorrow
+is missing @juanoq17 &amp; doesn't want to think about packing tomorrow ! 
+Feeling down and can't sleep. I'm going to be so tired tomorrow 
+Too tired to sleep  I'm screwed tomorrow  http://myloc.me/4fEV
+just found out that i am going away again tomorrow 
+sad that @yvesrene is leaving tomorrow 
+@One_StepCloser  why did she not reply to me..? umm well rehm can explain to you tomorrow
+@BuckeyeLanie I wish     do you leave tomorrow?
+@mjryuck I really want to check them out tomorrow, I've been following them since they started, but I'm not sure if I'll get to 
+very hope tomorrow will be better than ever for me !!! 
+is feeling tired, doesn't want to go back to work tomorrow but will have too 
+afraid of tomorrow 
+Chilling with emily!!! lol and nthen tomorrow i have to run 3 mile  w.e :p
+@AndrewCrawford wait til you see it tomorrow poo, it's so bad. 
+wow. i can't believe it....im graduating tomorrow =O  i dont want to leave yet lol 
+nvm we're not going tomorrow 
+@mayormarkus jealous! i have to work tomorrow 
+@DigitalVisuals So you're there now? *sigh* Couldn't wait until tomorrow? 
+@wastedlittledjs aww still though, I wish I was off.  you coming in tomorrow?
+I leave tomorrow 
+has the hardest finalls TOGETHER tomorrow  booo
+So bored...  I might leave tomorrow though so I have that to look forward to.
+@MRDJDC  sorry...but at least you are off tomorrow!
+@kefinparis too true.  but At the very least, it doesn't look like it's going to rain tomorrow ;)
+@Friedenmann ;_; don't say that. I just don't know how i'm going to survive tomorrow 
+@kissoffools i still haven't fucking found one  i'm going to check again tomorrow
+Early start tomorrow 
+I don't want to go to work tomorrow 
+tomorrow - shopping !!  already missin' you 
+I'm so upset, like ugh. At least i can see him tomorrow 
+@Sadieozdesoy hopefully i'll feel better by tomorrow  i might have strep
+going to bed...one more midterm tomorrow...   
+i do not want to go to work tomorrow 
+I hope i don't cry tomorrow ! 
+Has to work tomorrow....   
+I don't want to get up at 8 tomorrow 
+@RobbySTEREOS see you tomorrow  apparently it's going to rain 
+@jayslayher_ it got delayed.  but I fedex tracked it! it will be here tomorrow!!
+dreading tomorrow 
+I miss april.  tomorrow better be better.
+with tressa. cheerleading tomorrow 
+wow! I have so much homework for tomorrow!  
+i dont want to go to work tomorrow 
+Early morning tomorrow, i just can't seem to escape them. Yet, i should really be in bed, can't sleep though! 
+is finally going to sleep then work tomorrow 
+Ridiculous!  G'night I will apologize some more tomorrow  
+i'm so affraid  how about tomorrow? AARRGH
+I really don't want to wake up before 12 tomorrow 
+I really don't want to go to work tomorrow 
+@jayflo562 what?!  are you going tomorrow to get it?
+@ddddaniela glad we got to hangziez b4 i leave, tomorrow will be fun too! i'll mizz u 
+@EAChristian  And we have to work again tomorrow  at least we work together
+This is not good... I work by myself tomorrow.. I don't know what I'm doing.. This can't end well 
+@aprilyvonnex3 have fun tomorrow while i miss you 
+@teerahteerah So I guess we should go to sleep now and be prepared for tomorrow 
+@annaShantay lmao! sissy  what are you doing tomorrow me and you lets hanggg.
+back to work tomorrow 
+i knooo !  raining tomorrow 
+it's happening tomorrow! i'm scared. 
+@Neutronblonde so I won't get to see you tomorrow?  
+i've got to get up early tomorrow  and i really need to sleep 
+can't sleep. so nervous about tomorrow. 
+Training tomorrow. I'm too tired to wake up early. 
+@feryariskadewi ah really wish i could go with y'all tomorrow 
+We leave tomorrow 
+@MelissaK29 noo i'm bummed!!  I wish I was going. I actually thought it was tomorrow!! 
+tomorrow... hollidays yay! too bad i will not tweet 
+do NOT want to work tomorrow.. 
+I don't want to go to work tomorrow. 
+Nervous about tomorrow  like holy crap.
+totally not looking forward to work tomorrow.... 
+not looking forward to waking up early tomorrow 
+i so wish i was going to IMATS tomorrow 
+I have to work 10:30-6 tomorrow.  RRRRRRGH
+working tomorrow  missing him
+@lubbymcmuffin, you are graduating tomorrow 
+Ugh I don't want to open tomorrow!! And I'm so confused!! 
+I dont want to go to work tomorrow 
+sooo not ready for tomorrow 
+sleeping... I have to work early tomorrow... 
+D'Backs lost   There's still tomorrow...
+i hope it doesn't rain tomorrow 
+wow i am so sick i hope this is gone by tomorrow 
+Just kidding, I do have to work tomorrow 
+but we still haven't finished so i'm going again tomorrow 
+I work tomorrow 
+how is it already saturday?!? I don't want to go home tomorrow 
+would have liked to have gone to #tastelondon tomorrow, but it's sold out 
+I can't sleep. And i need to wake up early tomorrow. 
+what can i do?!? i want to be free tomorrow 
+Final episdoe of supernatural tomorrow 
+@secondhandjohn working tomorrow 
+I wish I was going to Take That tomorrow 
+take that tomorrow  so excited!  Hopefully it doesn't rain 
+just woke up tomorrow i'm leavin flordia 
+more packing, i am gone tomorrow 
+@TravisReilly just until tomorrow budro 
+@citystarr not till tomorrow 
+is not looking forward to tomorrow 
+does not want to work tomorrow 
+is thinking i dont want to work tomorrow 
+hanging out with tylyn ....then work tomorrow 
+long dayyyy  looking forward to maxin and relaxin tomorrow
+doesnt want to get up at 6 tomorrow 
+And I'm free!!!!....until tomorrow 
+Leaving early tomorrow. 
+leaving tomorrow 
+@sterghios wedding is tomorrow 
+@LBrittRice Lol, I tried but it's too dark!   I'll send you one tomorrow.
+.m.i.s.s.e.s. .h.i.m.  can't wait until tomorrow!
+Is already thinking about sleeping in tomorrow, which means I won't be able to 
+HAHUUUU not ready for tomorrow 
+tomorrow will not be as awesome as it should be.... not at all 
+sure glad it isn't 97 until tomorrow again 
+has to work at 8 tomorrow.  
+I wish I could move tomorrow. 
+wishing i'll wake up to sunshine tomorrow but it doesn't look too promising!! 
+Not looking forward to tomorrow. 
+tomorrow, i miss you grandpa 
+ugh i'm going back to vickies tomorrow 
+back to work tomorrow 
+i guess i'll go to bed now...DREADING tomorrow  pghmfanja.
+not looking forward to exam tomorrow 
+I have to go to work tomorrow 
+doesn't feel well, exam tomorrow it doesn't get better than this 
+got to go back to work tomorrow 
+@spinningteacups I couldnt agree more yuck to work tomorrow. 
+going back to work tomorrow.. 
+@ajulya it doesn't start til tomorrow. 
+@benvhv same , it's too boring, i hope the examinators will spontaneously combust  tomorrow 
+i don't want to be tomorrow... 
+I think i am ill..... but i have to go to work tomorrow 
+@heykatiexcore why do I have to be leaving tomorrow 
+not stoked on tomorrow. 
+@Weenith  i hope you're better tomorrow!!!
+back to work tomorrow..uggggggggggggh 
+I really wish that you would call me now, not tomorrow 
+back to work tomorrow.  boo hoo 
+is dreading tomorrow!!! 
+Not really looking forward to tomorrow  Hopefully I will be exited when it comes around
+trying to finish this c/w before tomorrow 
+Off to bed now - up at 05:30 again tomorrow 
+Oh I hope tomorrow goes well... 
+Just returned from Funroe...not looking forward to going back to work tomorrow.  
+Not looking forward to work tomorrow 
+Should go to sleep..  I have to work tomorrow 
+Not going to ny tomorrow 
+No longer going to seattle tomorrow 
+@JillianLueras awww i know!!!  tomorrow though its on babygurlz!!!
+ i havee to get up at 6 tomorrow blehh.
+is revising for her english final which is tomorrow. 
+@xMadMaddiexx ch 33, but even if u had it its due tomorrow. 
+can't sleep.....this should make working a double tomorrow really fun 
+So I feel like its been so long since I've seen the boyfrand...I miss him  well at least I'll see him tomorrow...I hope
+@tobitai was it? that's so sad, I was looking forward to watching it tomorrow evening 
+@daysdifference I miss you already  can't wait to find out tomorrow!
+It wasn't meant to rain until tomorrow! 
+hommme, early morning tomorrow. ahh. 
+@Mattkean well gutted that i can't make it to peace&amp;love and see you guys tomorrow 
+@ynnabaybeh I will lose 600 tomorrow.  )
+suddenly can't wait for tomorrow to be over 
+just realised what tomorrow is.. i'm really, really, not looking forward to it 
+nervous about flying tomorrow! 
+getting ready to go away tomorrow. 
+@ninaneverknew i'll be there as well! maybe tomorrow 
+just went for i drive around pretty pro hahawell i like to think so. im really tired right now. going shopping tomorrow  yay
+Gooodnight x After tomorrow i will be free! 
+@juliekoh All the best for tomorrow 
+@BOOGIELUVSONGZ I'm hoping they will have it up on the website tomorrow 
+bedd. mommadukes comes to visit tomorrow 
+' going to bed. shopping tomorrow. nsn / ftsk mondaaay. 
+if tomorrow goes well, im headed to miami 
+@morgieshae see you tomorrow ! 
+@Mareeclo lol i can stay up late now  although i do have to get up early tomorrow but WHATEVS
+@lukebourassa you are leaving tomorrow to be closer to me...okay, that's what I want to believe! 
+getting ready for tomorrow 
+Wow... almost 3am. I guess I am sleeping in tomorrow  
+Off to bed. Bunkasai and BookOff tomorrow. 
+@maron101 is that what we're having for breakfast tomorrow? 
+i arent looking forward to college tomorrow, doing phography now 
+tomorrow shall be interesting.... 
+@ntothem I know! lol I'll try again tomorrow 
+That's it.  I'm having Yofruit tomorrow. 
+So we hold each other tightly. And hold on for tomorrow 
+17 again ..... again tomorrow haha 
+ah. with mattie tomorrow! 
+is heading to bed and looking forward what tomorrow brings for the 29 
+so excited about tomorrow!! 
+wedding tomorrow 
+is looking forward to celebrating tomorrow with those she cares about 
+is out for tomorrow!!  swimming!  http://plurk.com/p/rdgdf
+well, goodnyte! tweet again tomorrow! 
+@qloriaisfake I was thinking of going out tomorrow, so that could be cool 
+@PushPlayCJ I'm coming 2 C U guys tomorrow 
+@AliBee16 I will twitpic it tomorrow for you when its all finished 
+@mayhemstudios Let me know if it's good  We are going tomorrow 
+@johnconn I won't go back there tomorrow, but I will return 
+woohoo off tomorrow!!! didn't even know that.   
+@LoveALittleLess  NIKKAAAAY!!!  are you going to badminton tomorrow? \/
+I'll be twittering again tomorrow. Or maybe later. There's still hope. But anyway, see y'all! 
+@kateri_t If you're available tomorrow I would love to do so 
+@JonasBrothersOx im going to see it tomorrow toooo  x
+@jenschr skating? I missed skating too :/ But tomorrow going to wakeboard 
+going back to college tomorrow  rawr~
+@HeyGirlHey15 thnx  It's tomorrow though 
+off tomorrow! 
+hopefully tomorrow will go as planned  
+At least I have lunch for tomorrow now! And it's not soup!! 
+need to sleep hopefully i can get everythign accomplished tomorrow 
+looking forward to coffee and driving tomorrow. really 
+@rowsell will be following you tomorrow!!  sleep well
+@introversimonDu sounds good.  and yeah, I turn 21 tomorrow so I'll definitely be partying. 
+and were going to pune tomorrow 
+@heartstarbolt I could get away with it. dare me? I'll go buy it tomorrow 
+@jglass8 its tomorrow. 
+Aww okayy we'll tell you about it tomorrow then 
+@mikexjeezxx I think I've heard of that song. I'll listen to it tomorrow. 
+@DarryleP LOL! I do splurge on chocolate now and then.  And I plan on splurging a little tomorrow! 
+ping pong tomorrow 
+@ceetee i'll be trying it tomorrow. it's dloading as we speak 
+Looking forward to work tomorrow 
+@carmenincalgary I did that too! I'm so screwed for tomorrow 
+@MissLexiKlaire we love you too girlie lmao  maybe we can all chill tomorrow or somethin'.
+sleeeep has arrived,  not looking forward to tomorrow.
+@Missyshianne i will check it out tomorrow and let u know 
+@kevinster will do  you have any tomorrow?
+I'm so ready to relax tomorrow 
+finally! twitter is working! it wouldn't let me log in.. D: james will be back tomorrow! yay!! 
+@boinkity Maybe tomorrow 
+@cassiekitsch I'm going to bed so I'll look at them tomorrow. 
+i am so sleepy... bed then more fun tomorrow 
+is off to bed, working 11-4 tomorrow! 
+@JesRHall I SHOULD have you blogged tomorrow! 
+pumped about tomorrow... yayers! 
+back from zoees  house atheletics tomorrow 
+omgg landd tomorrow.. @daniela_1677 is going on behemoth  wooooooo!
+@dettywulandari why don't you have one of that 'kursi bakso' for tomorrow? 
+nevershoutnever concert tomorrow! 
+@mitzs Sounds like fried fish for breakfest tomorrow 
+also..sooo excited to move into 95 tomorrow!!  haha shoutout @amfronk!
+is utterly happy.  [but -really- cannot wait for tomorrow morning!]
+is in bed, still nauseated but looking forward to tomorrow 
+@tawneyrocks i will b better after tomorrow 
+@akarra you too! (I'll listen to the song tomorrow, too sleepy now!  )
+I am excited for tomorrow  Wooot what else should I do?
+@TheSongsIWrote I thought i was due tomorrow, but what do I know? I've been wrong before. 
+@theparacast can't wait, I will listen to it tomorrow 
+Yay!!! i'm finally turing 19 tomorrow! 
+One down, one more tomorrow! 
+http://twitpic.com/5cpdn - yeeees  but tomorrow he will leave me =(
+woo get to see my gordan and traviiisss tomorrow!! 
+@Scotteh1300 YOU get tomorrow off. 
+G'night,  I'll try to get on tomorrow! 
+@rafalor tomorrow will be better x100000. i can feel it.  
+is going to wem tomorrow. 
+sooo much to say...but oh so tired.....tomorrow 
+can't wait!! visiting @hiimnellyy tomorrow 
+@aidanmcc not sure, i'll ask them tomorrow 
+@jessicatmo see you tomorrow chicaaaaa 
+better go to bed...because tomorrow will b a busy dayyyyy 
+can't wait for tomorrow! 
+Going downtown tomorrow 
+@laurennlee haha very nice  So are you coming tomorrow??
+@theHookMan coming by tomorrow. You better be there 
+go shopping tomorrow    
+I'll have to try tomorrow 
+all set and ready for tour  all i need is for it to be tomorrow haha
+is sleeping in tomorrow 
+so to clarify...it is JAYDE who is turning 5 tomorrow!!! 
+@kayybaby i will tell you everything tomorrow! 
+@PandaMayhem You're welcome! I will try to get it to you tomorrow. 
+I hate it when he leaves until I remember that I will see him again tomorrow 
+@davebonds take it easy and see you around tomorrow! 
+tomorrow will be fun  they call me dr,loveee
+I don't work until 3 tomorrow! I don't mind closing when it means I get to sleep it  goodnightttt
+@JauzeeMyLAWB I'll pinky swear you tomorrow. 
+lol  i'm alright.  just heading to bed soon.  chat tomorrow?  
+ready to sleep in tomorrow 
+I need to go to sleep! I get payed tomorrow!  *SQUEE*
+TGIF for me! i can wake up late tomorrow! 
+looking forward to tomorrow 
+looking forward to tomorrow   ....
+So excited to see boo meyer tomorrow!! 
+@christypolek You should come tomorrow. 
+looking forward to do NOTHINGGG tomorrow 
+@fpres1079 yes! I'm really tempted to write another one but I won't lol I'll save that for tomorrow 
+my babysistaah @oOohlalaLAUREN is graduating tomorrow! she's so grown up  143 babysisss
+Going to bed.  tomorrow should be great! Games are so much fun
+tomorrow night is hopefully going to be great 
+looking forward to tomorrow 
+@philipwang i have one!  i can bring it to you tomorrow   just say when/where
+Pretty sure tomorrow will be great  

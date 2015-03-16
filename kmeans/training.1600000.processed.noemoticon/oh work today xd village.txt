@@ -1,0 +1,28 @@
+Most common words for this cluster:
+[('oh', 36), ('work', 2), ('today', 2), ('xd', 1), ('village', 1), ('go', 1), ('home', 1), ('yes', 1), ('its', 1), ('mhae', 1), ('quot', 1), ('god', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'oh', 0.9999749660491943), (u'Oh', 0.8408040404319763), (u'hey', 0.7108240127563477), (u'uh', 0.7025718688964844), (u'Uh', 0.6997168660163879), (u'Ahh', 0.6896928548812866), (u'gawd', 0.6859424710273743), (u'ohhh', 0.6855833530426025), (u'Ah', 0.6841126084327698), (u'Ugh', 0.6799558997154236)]
+
+
+
+
+
+oh where, o where, did my Buhbie go? oh where, oh where, can he be? back down to 161 folks 
+&quot;oh where, oh where, could my picture have gone, oh where, oh where could it be?..&quot;      
+why oh why oh why did say I would work today.............. 
+oh, oh, what ever illness that's going around at the village has finally caught up with me 
+@JuhJuhJuhJames I cried  but i agree one oh oh percent!
+@Mhae92 oh.  oh, this is bad  i hope it doesn't dwell over to david!!!!
+is now home from work  and has started drinking oh oh oh oh yes.... wooop
+http://bit.ly/dsn0f  why oh why oh why does this have to cost $700? wantwantwant 
+@natalielealand oh no oh no oh no  what programme are you opening it in? does music usually work? ='[
+@claimtofame *gasp* oh no!! what happened? not feeling too well  back tomoz thou
+oh where oh where is beejive 3.0 oh where oh where can you be? I dont know why I want it so bad. Its not like I have any friends  
+oh oh I feel terrible today  and I don't know why?
+@BenGP02  oh oh i meant steal oh my god would never eat a cat 
+oh oh found some clothes!!  And i love em xD

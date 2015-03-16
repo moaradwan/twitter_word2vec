@@ -1,0 +1,25 @@
+Most common words for this cluster:
+[('one', 16), ('ever', 3), ('downnnn', 1), ('schaeferj', 1), ('group', 1), ('metro', 1), ('aiyerchitra', 1), ('roster', 1), ('aww', 1), ('ah', 1), ('twitter', 1), ('yeah', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'one', 0.9999651908874512), (u'only', 0.5986008048057556), (u'two', 0.5768415927886963), (u'three', 0.5686116814613342), (u'five', 0.563179612159729), (u'four', 0.5628939270973206), (u'One', 0.5623692870140076), (u'another', 0.5618231892585754), (u'most', 0.5436326861381531), (u'seven', 0.5295741558074951)]
+
+
+
+
+
+ah, sitting alone, no one likes to be with me, no one wants to talk or hangout with me   &lt;/3
+is very bored, no one from the usual group is here  aloneeee
+@schaeferj89 BAHAHA! Aww no one good ever follows me 
+@AiyerChitra yeah... if no one's going to gift it, I'll have to buy one eventually. no one loues me  and where did you run away?
+It's very disappointing that no one's ever mentioned me. 
+no one wants to sit next to me on the metro 
+No one on the roster is making me happy right now 
+ugh!! no one is talking to me today!! its really irritating how no one is talking to me!! 
+no one fully understands me. no one knows when i'm joking or when i say something i don't mean. i am very lonely&amp; broken 
+no one's ever downnnn  
+no one is alive on twitter no one loves me 

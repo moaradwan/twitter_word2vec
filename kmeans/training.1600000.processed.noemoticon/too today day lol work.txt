@@ -1,0 +1,486 @@
+Most common words for this cluster:
+[('too', 473), ('today', 32), ('day', 20), ('lol', 19), ('work', 18), ('http', 17), ('time', 16), ('com', 14), ('night', 14), ('things', 11), ('year', 10), ('week', 10)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Too', 0.9999375939369202), (u'too', 0.698036253452301), (u'Very', 0.5779272317886353), (u'How', 0.5357049703598022), (u'Not', 0.5079203844070435), (u'Awfully', 0.4899674355983734), (u'Terribly', 0.48857754468917847), (u'Excruciatingly', 0.48318055272102356), (u'Pity', 0.48210960626602173), (u'so', 0.4793742895126343)]
+
+
+
+
+
+@rustyrockets do I sense a blog coming on?  Too bad I have to leave in like 10 mins   xxx
+@zenojones I can't go to sleep... Too much to do, too little time  long week ahead of me! And ok I'll get u hat lol
+I love it when class gets cancelled! Too bad it's my 2nd of 3 classes of the day so I still have to stay for my 1st &amp; last ones 
+In floridaaaaaaaaaa. Too bad our tvs didn't work on jet blue! 
+@itplatform too little, too late. Too bad 
+@radiojoe yeah i was happy with the season. Too bad it looks like it might be canceled.  Hopefully not.
+I absolutely do not want to wake up. Too bad that we can't always get what we want 
+But, I forgot to take photos of everybody. Too bad! 
+@Apuje  lol! Too girly?
+Is tired but can't get to sleep. Too much going on 
+My legs are actually killing me and my neck  Too much vigarous dancing!
+I want this for my cats! Too bad shipping is so expensive  http://tinyurl.com/dn8s7e
+I hate bus rides. Mostly just the people on the bus. Too many idiots 
+Really sucks with this cold. Too drained to want to sit and code or game or do anything involving though 
+@TheKingOfSpain Too many wrinkles 
+had fun with her roomie and her friends! Too bad I have to work early tomorrow! 
+Nothing like powerleveling in the morning. Too bad it was cut short because I had to work. 
+@kc_74074 maybe you're right!!! Too bad she doesn't want to get her hair wet.  I told her I was willing to try some.
+can't wait for the day when my bed has to kick me out of it.  Too bad it'll never happen 
+For some reason, I am craving coffee now! Too bad I'm going to sleep soon 
+Nixing the beach for the backyard. Too much to do around the house today. 
+@amethystaitken whhhaaa? No! Too much!! 
+@StaciDucote 2% is a fallacy. Too high!! 
+Putting the finishing touches on the perfect little black dress. Too bad I have no where to wear it. 
+@jennadesigns Not in school.. This is some kind of architecture related accreditation exam! Eeeeeek. Too much to memorize! 
+&lt;-----Is soo sleepy...Too sleepy to have to stay at work 
+At the beach with the roomies.. Too bad it's freezing and cloudy 
+My badminton club just lost the cup final.  Too bad, they started off real well, but that wasn't enough.
+We had a beautiful rainbow in front of our house. Too bad it was too light to get a good picture. 
+@mrfresh_2def lol but its for a good cause tho! Too see my bestie!  SHould i skip? or no?
+@Samphis Too late! We just wrapped up. 
+I just had the most awesome weekend with the most awesome guy ever.  Too bad it had to end.  
+@RoamingGnome74 yeah, the hawks definatly deserve it. Too bad the bulls didn't win 
+@Kmcreary it sure is! Too many things to consider! I have no clue what to write lol! 
+Working on pre-production planning for documentary. Or trying to. V tired and sneezy.  Not swine flu! Too much dust here.
+@perpetualspiral Too easy to lose work when a site times out or has an issue. I haven't had that problem happen to me though, sorry. 
+@jowie It sort of turned into an inside one. Too cold, no sun and even a little rain   Still, it *is* a bank holiday, so traditional ;)
+ran 15km in 1hr 40. Too slow and now can't walk properly 
+He think he's sooooo slick!!! It's funny..... Too bad it's almost over wit 
+@CharleneBx   I didn't get a reply to the video.    Too bad, because I would have loved to have known his thoughts/reaction. 
+I have a headache. Too mush sun 
+I just got my E3 badge!  Too bad I won't be able to make it down there.. 
+LOVES hiphop dancing. Too bad i'm so uncoordinated 
+That was an absolutely marvelous episode. Too bad it's over. 
+is still awake?! Too much on my mind 
+PS: not many tweets 'cos of basement.  I should do time-lapse pics of progress.  Too late to show sokoban-like original state, however. 
+@NBomb Too bad you're playing a game I don't have. 
+@mariaandros I'd help, but I can't read the menu. Too blurry. 
+lickystickypickymevia lovemesomecoffee) This game is wicked cool. Too short though.  http://ff.im/-2XVJy
+@flyingcocoon thats nice to hear! Too bad i missed it 
+Last night session revealed Eventlet did work. But their Nginx hub did not and it feels experimental and abandoned. Too bad 
+Last night was a lot of fun.  Too bad it had to end so soon 
+Another amazing day today!  No rain and gorgous out!  Too bad I have to spend it inside doing laundry 
+@colinloretz thats extreme! Too bad i just left breakfast. 
+gymnastics time! Too bad i'm on my rest week  
+I love driving through the mountains with the windows down and music up. Too bad the drive was to work. 
+AMAZING service, great lunch. Too bad no time for my nap 
+@JSpikEThinG damn!  I haven't even grubbed on some suopper yet.  Too lazy and I don't do fast food anymore.  
+Why do I even bother putting on lotion to moisturize my skin when it gets moisturized by sweat already? Too hot today 
+@bigfatmaggot Awww. Too bad for you. 
+Theres nothing like the taste of a home cooked breakfast. Too bad i get microwave sausage biscuits...... 
+@Sarahcecilia91 Lets go. I dont need this!  Too much work to do. 
+Today seems like a good day to play hooky. Too bad I can't. 
+I may actually order a #drobo and droboshare this week. Too bad it won't be for myself.  
+@bassguitar65 They are so cute.  Too bad hopefully by then I'll be nannying someplace and won't be able to have one 
+@amds007  thanks for reposting. you're awesome! let's work to find all the @lostnmissing . Too many missing loved ones 
+10 days and im free. Too long 
+@skhisma Holy cow. An hour heads' up. Too bad I'm at home today. 
+Its true, the one you love &amp; the one who loves you is never the same person. Too much for me right now 
+Me tired... Too busy. I had to remote into work to fix something. 
+It's 3:11!!! Too bad its a.m. 
+@hgandhi It's actually so so - But the weathers making a hell of a difference. Too much to do 
+@stormwarning oh interesting!  Too bad I don't have an iphone. 
+Its my last day of school hooray!!!! Too bad i still have 2 finals to take 
+@anadeau No golf this weekend  Too busy with the previous stuff, how goes the band?
+@lolamontgomery: Awwww!  Too bad.  
+On the train to downtown chicago. Too bad its cold and rainy and i forgot my jacket 
+@lrbolton But I am still on the fence.  At this point I can't care anymore. Too exhausting.
+Almost done with my take home test and ready for a nap. Too bad I don't have enough TIME for one... 
+I am soo happy its finally the weekend! Too bad for working tomorrow though 
+@RuthieGledhill    awful, awful reading. Too appalling for words
+Probably 1 of the greatest moments of my life. Too bad it isn't on youtube   http://www.tudou.com/programs/view/chF8TxjWF9o/
+Looks like it's just stress related... Too much drama in her life right now.  Thanks everyone for the support.
+Ugh. Too much happened today. I really need a hug 
+Today feels like friday. Too bad its not 
+@UltraSub Too much details !!!    (But glad he is better)
+I really, really want a golden retriever. Too bad I won't be living in a home where she could run around for about 10 years 
+@bex_1210 holy crap, I need to see that! Too bad I gotta wait until tomorrow 
+@alshepmh yeeeeeessss I can't wait! Too bad I can't drink 
+@skyladawn Exactly. She becomes completely incapable of anything unless he's there helping her. Too many of those are out there. 
+@TysonDueck Too bad. 
+@moriagerard I haven't had one for a long time. Too expensive 
+Just recollecting my jog this a.m. - almost perfect except unkown type hanging out by my vehicle.  Too much mental noise- only 6 mile jog 
+Just realised i am a very angry person in georgia. Too groggy and uncomfortable and i still haven't driven! 
+@joeymcintyre Just wondering if you are going to put &quot;One Too Many&quot; on itunes.  I hope you do, it is the only cd of yours I don't have. 
+But i dont mind the long line when theres a super cutie in front of me. Too bad he's wearing a gay bracelet with a girls name on it 
+Going to buffalo wild wings to meet up with my best friends I haven't seen in forever! Too bad I can't eat the food 
+Finally got my money. Too bad it goes to bills 
+@mlexiehayden How would I know if u didn't tell me??? Too busy cakin to pay me any attention 
+@MikeyisCool Me Too 
+@stephsmith  I know the feeling. Too far and not in the budget for this year
+Car won't start!  I'm going to fight with it around 3ish! Too excited @jennknitsalot
+@baconpops Hate to say it, but a friend of mine said he got some BaconPops and wasn't impressed.    Too bad, it's a great concept!
+Still studying. This is why I have 6 straight A's this semester. Too bad I'm not guaranteed a job once I graduate.. 
+@asamiramirez yeah I would love to check it out in person!  It looks so neat! Too bad noone I know has it! LOL I wish! 
+At work, wishing I was off...It is gorgeous today!!  Too bad I can't spend it in the backyard with the husband and the puppy!  
+I love top chef. Too bad richhard didnt win  #top chef
+@BritniSherlock Too bad they probably don't have any books about pink sink 
+@30SECONDSTOMARS that's awesome! Too bad I can't make any of the others either  #marsiscoming
+Yay, bubble tea and pizza for lunch! And beautiful weather! Too bad I have to work more  after this 
+Yay, bubble tea and pizza for lunch! And beautiful weather! Too bad I have to work more after this  http://twitter.com/aieliileia/stat ...
+busy day, wedding/graduation/birthday all for the same family. Too bad I can't go to the function in junction. I have so much fun there. 
+@ShonaBarnthouse Too late. Giggitygone 
+@AaronTell Too much work 
+Finally opened my violin case after a week and a half. Too much going on with the end of school to even think about playing. 
+yrd sale over. Too bad not all sold 
+@frazier310 that sounds fun. Too bad my car is in the shop.  and too bad @eGlamourPhoto is really busy all day cause I'll go with him
+Aww I wanna go see passion pit tonighttt! Its only 13 bucks. Too bad I can't 
+@bravetinsoldier i was thinking the same thing! Too bad we cant play together online. 
+going to seymour in a a couple a hours  Too bad the twitter stopped working on my phone.
+Just being sensitive... Wish we could go to kalama to see wendy/ryan. Too bad chris makes all those decisions 
+@sccastaneda http://twitpic.com/6an8b - Too cute my bank sucks 
+@SingleGal    Too bad you live so far away.  Otherwise I'd be there.
+I think my neighbors are dead &amp; left 89.3 turned on. Too bad it sounds like it's tuned to 89.4 
+@mofca Too bad you're not playing closer. I've got nothing to do. Too far to go now. 
+only 6.5 days left . ! ... Too many projects to be done by monday 
+Oh lord, I think I'm in love with him. Too bad 1) he's not my age and 2) he's taken 
+4 out of 14 projects that I need to get done in the next 3 weeks are completed! Too bad they were the easy ones! 
+I never want to see a can of tuna again as long as I live, or a tomato for that matter. Too bad I see them everyday 
+I am a gregarious being, I love connecting with people...  Too bad very few people understand that.
+Gravity app for S60 is pretty slick. Too bad it costs 10 bucks 
+It's so nice out todayyy ! Too bad I'm working 
+The beach is soooo turqoise and wavvy right now I feel like I'm in hawaii. Too bad its so cold 
+I am not aging gracefully.Too many health problems. 
+Home from backyard camping! It was raining hard and crazy windy but we were champs and stayed in the tent! Too bad my bum hurts. 
+@borret Still 35% according to my analytics. Too big of a group to use your idea @allelbows 
+Two nights in a row without a bottle for Adrian. Too soon to celebrate, but I have hope! This kid will be off the bottle soon. I hope. 
+Almost done laundry, next step - brunch - groceries - off to baptism @ 5.. Ahhh can't wait for this day to be over.. Too hot for me 
+Never gonna juggle again! Too complicating 
+@BLUEBOI226 LOL.... I went out for drinks last night. Too bad my partner didn't want to drink. I hate drinking alone! 
+@adamcrei *jealous* - always meant to do that while I was in town.  Too late now 
+@ChrisIsSoGreat I blame you for my sudden interest in hockey. Too bad we have to wait til fall to go to a game!  haha
+looking forward to E3. Too bad I couldn't actually be there. 
+How hard is it to work when it is soooo hot outside! Too hard... 
+@eksinclair That sucks hard. Too bad about your garage location v house. I can keep my bikes in house 
+sun sun sun! Too bad i cant enjoy it  im just watchin gilmore girls....
+@fhgrl33 also a good one!  Too bad she's done .... for the season... 
+@MChaitman so cute! Too bad about his cold 
+is actually gutted that we couldn't have a top 60 this year. Too many bands so close together and some good friends here have missed out 
+Trying not to get nauseous. Too much crap is going on 
+Hanging by the pool an hot tub!! Too bad its not warm enough to go swimming.. 
+@allison_liang Too late. We've already bankrupt Americans for generations to come. 
+my shoulder is on fire. Too much painting with an already damaged shoulder. even simple computer stuff is causing extreme pain today. 
+these classes are intense. Too intense for summer anyway 
+Knotts or yearbook? I don't think I can get both  Too expensiveee.
+@TheAngelForever I will! We've seen them every year since 2001 except for 2005 when I was pregnant. Too many fans smoke pot. 
+@Theghostof1000 I take it that it was a winner? Too bad I missed it 
+@dsoulchild nothin will ever be as cute as sean. Too bad we will never see him again 
+http://twitpic.com/6g1x8 - It was a cute top. Too bad it was too tight at the boobs 
+@iJake I wanna see that so bad! Too bad I'm working 
+I need to get busy. Too bad it's 11:30pm... 
+@she_shines92 I've never been center but I don't think I will be  Too much competition for rail. We'll get there as early as possible but
+where is there a place i can have strangers read my secrets? Too many people know me here now 
+Pretty sure no one will notice if I just leave. Too bad I could never get away with it. 
+@scarytales I really wish we could, but they're going to end up getting big. Too big for our low tiny-dog style back yard fence. 
+my cousin and i never agree on anything, but we can finally agree that we both can't wait 2 c new moon in november. Too far away 
+In a meeting for a prototype. Too many meetings again. Enough work is waiting 
+The air-conditionning doesn't work at the office, this morning...Too hot 
+@JasonBradbury As long as they don't phase out the controller then everything will be fine =D Too much of a good thing makes people fat 
+@stephenchavez yezzir! Too bad u can't go... 
+calling up the client. She is up by 5am and fresh. Too bad I'm never fresh when i get up 
+Watched the best movie in the world last night. Too bad my nick missed it. 
+Ouch..... Too much sun   http://twitgoo.com/mo1d
+I miss carrying my son everywhere.  Too hot and to heavy now... #babywearing maybe next cool day I'll take a short stroll with the mei tai
+@MicJack91 ah man mike i know the waltz too! I wanted to danxe with you!! Too bad i'm not going to prom 
+Wow guys, I miss so much when I go to work! Too bad they block twitter there...  But then I'd never get anything done... :-P
+is currently into Malaysian music. Too bad I can't translate the songs into English. 
+is currently into Malaysian music. Too bad I can't translate the songs into English.  http://plurk.com/p/y03dy
+Just ran over a rabit  Too sad now
+@WeTheTRAVIS I want to see it soooooo bad! I should have gone with you. Too bad im all the way in california. 
+Just trying an update from my phone. Too bad I'm with sasktel so I can't get things delievered to me!! 
+@jhooo sake bombbbbbbbbb!!! Too bad my flight is tomorrow morning. 
+@yvettedownunder would love to but my babe HATES the car. Too far with a screaming baby @ this point 
+@aeleenw hi. I have one meeting and one production and I'm coming straight back home to sleep. Too sick... 
+@sherinamunaf I was also lonely @ ps 30 minutes ago! Too bad i'm now in the bus already 
+@madout1 lol lol mustve been crazy... Too bad I dnt remember 
+I decided against twitter text alerts. I was rudely awakened this morning. Too early. 
+@joshmishell @fmajowich looks like #weibe got a kill screen last night sometimes and didn't beat the record. Too bad.. 
+I really wish I never took yearbook.. Too much damn work 
+@JitterGram I love root beer floats and the free part makes them even better. Too bad....no sonics here 
+@theCraigWright LOL!!!! and   ouch!  Too funny....I'm glad you are feeling a bit better...
+Not motivated to work! Too tired 
+Feeling Lied Too 
+I don't keep up with twitter that much anymore.  Too much life!  
+@inkandneedle There was one last year that was so phenomenally bad.  Too bad I can't remember the title   #marketingfail
+It's a great morning for a run. Too bad my foot still hurts. 
+I get to teach a lab in the fall!!!  Too bad it won't pay for so I can leave the damn taco shack 
+is loving this weather.  Too bad it won't last through the weekend 
+@karmacakedotca  How was the MoRoCo thing last night?  Too bad I wont see you at #patiofriday.   
+So stressed i could cry... Too late 
+@CharbelYoussef awe thank you charby. Too bad vicodin n breastfeeding don't mix  it's all in my nerve n shit
+I work up the best idea's for my books and blog posts when I'm driving. Too bad gass is so high$$ 
+&quot;The coffee you refer to will soon be back in our hands. &quot; Too bad, I'm drinking it anyway. Last coffee of the day done. I am sad. 
+I could go for an iced coffee. Or food. Too bad i cant eat  company would be nice lol. I hate being sick
+I'm writing.  For fun.  That's right!  No deadline, no work, just fun. Too bad shiny purple netbook didn't arrive today  That would be fun
+Ugh. Too many huge-ass spiders. 
+No backpacks from #nfjs this year. Too bad 
+The garden looks beautiful! Too bad you can't see it!  
+I laughed a lot but it was a bust. Too much vulgar nonsense for me. 
+@NKOTBahamas2009  I was watching the game on tv and I saw that too!!!  I got so excited!  Too bad my phils lost 
+@JackAllTimeLow thanks for the guitar pick hottie, I got the best pic of you. Too bad the venue didn't let you have a signing 
+-- I'm bored. Too early to go to bed, possibly getting a cold 
+I'll prob be here cause I'm not going to the derby  Too much going on at home! xx
+I can't sleep and I have to be up at 7:30.  Too many thoughts. 
+@OliBogue Too much sport distracting me, so not very well  Ah well, at least the weather's awful so I'm not tempted to leave the house.
+SHITTT!! Too much chilli sauce in my mi goreng...fuk my tongue/mouth is on fire 
+@PolarMolar excellent time hanging. Too bad you bailed to hang with rachel. 
+@ginacena @aah1981 glad to see y'all had a good time last night! Too bad it rained again 
+Today, cuzin ifah,nisa,kamarun came. Too sad i can't play too much with them because i sick  - http://tweet.sg
+Meeting w/ friends to write some songs for me to record.  Too bad I'm too old for 'Idol'! 
+@TwoSeasideBabes what an adorable hat! Too bad my daughter is 14 
+The steelers are playing baseball across the street!! Too bad I'm at work 
+I'm tired. I didn't sleep well last night. Too much shit to worry about. I still got up at 5am thinking I had work today 
+@modbird Ah no way!! Too bad they're wwaaayyy too expensive for me 
+Headed WAY out to the country for a get-together this afternoon. Too bad it's raining... 
+Trying to stay awake, even though sickness makes me want to sleep.  Too much sleep is bad for this old body! 
+@rilana I did the same a few weeks ago cause my game kept freezing up. Too many testing cheats and hacked objects, I think. 
+I don't think anyone's going to be going to the carnival tonight. It kinda looks gross outside. Too bad I have to work. 
+Is engaged in a battle with youtube and forever-cutting-out school internet  Too broke to get a cable.
+I was invited to one of my student's birthday party! Too cute! Too bad I couldn't make it! 
+Gorgeous day outside. Too bad I am struck inside with a head cold. 
+I've had more free cocktails training at work these past 5 days than I've had the last 2 years of my life.  Too bad training's over 
+@g3org7a Yay, wifi! Too bad you had a buy a new modem. 
+@spalongal I'm excited!  Too bad we were all way too tired to swim after all the work. 
+This makes me want to make more jewelry!! Too bad I need to start thinking about packing instead. 
+@tswiftlover13 I really wish you could come to the ts concert with us! Too bad you're going the night before 
+Kings! Best game ever! Too bad I'm not playing! 
+@DjSlippe @missparys twitter love!!  Too bad ur phone is broken sage was singin again n I bbmed it to u ps @missparys I never saw our pix 
+just getting to sleep. Too much on my mind  and i have to wake up at 6:00 tomorow! gaaahddddd!
+I hate pathetic people. I'm such a hater.  Too bad IDONTGIVEAFUCK.
+Tacos sounds good... Too bad my lip really hurts 
+At work feeling like crap. I need to go home and get in the bed for the rest of the day. Too bad I have to give a final exam tonight. 
+So glad i went to senior awards!!!!!!! Too bad mis amigos got into a fight.      
+Just watching stomp and thinking it SO Would've been worth the price of tickets!!Too late now though i guess 
+I wish i could sleep with berlin but i think i would end up laying on top of him and suffocating him. Too bad  i already miss him 
+@oisin1001 awesome!! Too mad I missed it  lux is my best buddy : D
+@secretagentmama i am glad u had fun! Too bad none of our gadgets caught anything 
+Catfish are so cute! Too bad my grandpas gonna cook him 
+How did i manage to find a set of 5 cars driving 100 mph. I like them! Too bad i have to stop for gas soon 
+@shrinkingsadie that's what everybody been suggesting!! Too bad I don't have $20 
+@meredithdavis I love skype. Too bad my mic stopped working. 
+hates it that time just bleeds out like a hemorrhage. Too much to do, not enough time. 
+Eating too much muffin batter . . . Too bad the last batch tasted like crap 
+@Plumespixie Too bad.  it would probably make the world a better place.
+@DannyTRS sweeet. Too bad my harddrive died and can't watch. sigh. (sent from ancient ibook that can't handle vid) 
+@joeytoofresh yes I did it was really good! Too bad I accidentally knocked    @joyinstyle ice cream cone 
+just got home. Now, i'm lying on the couch. Too lazy to change or even just to gup in my room. i don't want to do my geom hw..  and i  ...
+seriously had the best weekend of my life. shower &amp; bach party, family in town, catch rays at the pool. Too bad it is over 
+Lol this is the craziest most awesome dog. He slept in my bed alnight last night. Too bad he'll go home today 
+can't sleep. Too many things going on in my head.  http://plurk.com/p/114wqh
+sunburn is much better today. I'm not hurting near as bad. Too bad I still haven't gotten much done around the house!! 
+In need of a nap. Too bad I don't have time 
+OH: In need of a nap. Too bad I don't have time  http://tinyurl.com/noxura
+@evieness That looks good and reminds me it's lunchtime here. Too bad there are no rib places nearby 
+@ToriMacLean nice posts to read! Too bad I'm in meetings all afternoon 
+One more hour of work then a week off! Too bad its to recover from my wisdom teeth. So scared! 
+was super sick three hours ago...Now feeling great. Too bad I called in sick already... 
+Continuing to rock out to sjb before heading to pallades to bike off the gut. Too bad i cant participate in butts and guts 
+Wow, it is so nice out. Too bad I'm on my way to class for three hours 
+@knittingpatch I'm afraid to look!  Too many other expenses right now.  
+http://bit.ly/xxPDM  I want it. Too bad it's only conceptual right now 
+@mimiandkarl I'll second that  Too difficult to head out if it rains.
+@ParentResource That is so sad! For the father and the daughter, as well. Too bad protection services intervened too late. 
+@troytaylor86 &quot;Not Acceptable: Too many concurrent requests for this user: 99&quot;.....thats what happens when i copy and paste 
+@21theproducer I dig that! Too long to retweet though! 
+@miguelstancer thank you for posting those links. I was really wondering what it was like. Too bad I couldn't be there 
+@jessbabe I doubt I'll b goin either... Too expensive 
+Watching the shining. Too tired to do anymore work. So much stuff to do tomorrow. I'm so over stress 
+Sometimes I don't like my internship...Too much to do... 
+I have sooooo many things to get done. Too much workload. 
+feels like her head is going to explode! Too much stress and worry, wish i wasn't such an emotional person 
+Is inlove with my VACATION!!! Too bad it only last a week 
+@APStylebook Amen! As a gun owner, I appreciate that you get it right on the basic facts. Too bad journalists writing stories don't. 
+@tidygraphic We have to put a permit in each day and we both just forgot. Too late  sucks ass - they check like once a month....
+my coffee cup has been returned! Too bad the coffee in our kitchen is bitter and bad tasting 
+@philkirby should prove popular--more popular than the non-fict. display was  Too bad--there was good stuff there
+It's a bust. Too many teeny-boppers...   But we'll always have yesterday lol...
+This new trackball got me feeling like a million bucks! Too bad my fone cant git right 
+@maddygb omggg I wantto watch it so bad! Too bad we don't get that channel  boo.
+It's always good to go home. Too bad my girlfriend can't tag along 
+@tuminds I remember @Spangila mentioning it a whiley ago. Too soon after I finish work unfortunately so I won't be able to make it 
+Chickened out, so to speak. Too tired and the downpour stopped right after I tweeted 
+My first bought lunch in 4 weeks back at work: katsu don of course. Too big, too much 
+Working on proposal for tomorrow's meeting - how stimulus $$ will be spent on technology for our campus. Too many options-not enough $$ 
+@pinkserendipity lol carbon canyon was weak. Too many cars and isn't all that twisty tip the last three turns at the end 
+@never2forgotten Too late   I bought the pre-order so apparently I get in early?
+@KalCobalt Too bad you didn't get to see him while down here  *pouts*
+@realistwuzhere Just checked out the chatroom. I like it .... Too bad I can't access the other one... 
+Should have taken some tylenolPM.  Too late now.  
+got caught in icy cold rain. Not going to toning class. Too cold to go back out 
+My bed is so war, so comfortable, &amp; I'm SO tired. I really want to curl back up &amp; sleep some more. But I caaaaaaaaaan't. Too much to do 
+HUMPDAY!  Too bad there will be no &quot;humping&quot; for me today!  HAHA
+@speedyluck LOL you are striving in this economy. Too bad it's hard to find places in this town, so I don't think I will get a cut 
+Why are all the sales starting in the middle of the month?! Too far from last payday, and not close enough to the next one! 
+Seeing doctors, lawyers and indian chiefs have kept me from twittering as much as I would like to. Too bad this will cont thru next week 
+Taking the kids to the gym. Too bad we can't hop in the pool. 
+Today's exam was surprisingly not too bad. Too bad I didn't study 
+My parents are making fun of me and taking advantage of me since I'm high as a kite. Too much medicine 
+@DujourMag Too much tuna is bad for you - mercury 
+That meeting was almost as fun as saturday morning math class. Too sleepy today 
+No shutout! Yay! Too little too late probably  #cubs
+My feet look small in these shoes..... Too bad i wouldnt wear them anywhere besides work 
+I feel a lot better! I was sleeping most of today! Too bad I missed a fun day at school today!  
+@Rawksy thanks sweetie. Too bad its still hours from being over 
+after 3 long days all my papers are finally finished. Too bad I have to start the next group due at the end of next week. 
+found out my books have been back ordered. Too bad, I really wanted them this weekend 
+I can't tell if my left big is broken or has always been like that. Not much swelling, but can't bend/flex it without pain  Too much blood
+@YikesYahooYum @ForbiddenRomanc sometimes I just miss being able to talk to my friends. Too much family time irks me. 
+Cleaning my room!! Too much to handle 
+@beckybena dinner looked amazing!!! Too bad what I ate wasn't that 
+@mizbre I gotta bad ass headache and my nose full like its bout to stop workin  I feel baad.. Too. T
+1 year and a half being single... Too much work, too much evrything.. but I need someone. I want a relationship  
+@herlastrecord Still haven't listened to the album. Too busy 
+is up way too early and not able to get back to sleep.  Too bad the gym doesn't open for another hour 
+@zininkleur Too many complaints  so now only subtle green touch, don't like the sight of a green overall haze although the advantages is..
+Contract-free tethering on #iphone 3.0. i haz it.  Too much green stuff in my sandwich. i also haz it 
+Heading to downtown Charelston for breakfast, touring &amp; shopping! Too bad it's raining 
+It is suppose to be 95 degrees today and sunny.  Too bad I am at work so I won't get to enjoy the weather until lunch time. 
+@ASIS2009  Won't be attending this year.  Too bad, so sad.  
+@shirleyyyy That's excited! Too bad I'm looking at the hotels and they look REALLY expensive! 
+One day till me b'day. Too bad I'll be on the road all day.    #trackle
+@Gyranthir Too true...  too bad there's nothing that can really be done to stop it...  
+@CockyMcFly I feel you on that one. Too bad I have to go to class  school SUCKS!!!
+http://twitpic.com/7r21q - my vosac(voices of shadow advanced chorus) crown for making it in. Too bad i had to move and cant do it 
+A firefighter was staring at my ass. Too bad it was a woman.  
+@SpeshalCrayon Too easy 
+@CSfreak yeah, hulu's awesome. Too bad they're starting to delay them next week. 
+I want to create. Too bad the pretty things I see in my head never turn out to be pretty when I try to make them real. 
+@iamgemmah hahahahaha that's so funny. Too bad the ottobar has no re-entry 
+@sinosoul lol ! stalker ! j/k ... ugh, couldn't make it to the F/K exhibition tonight. Too many things going on 
+@KennethCK It was awesome! Too bad you're not here 
+@aphelionz I prefer codeigniter over kohana, but would use django over them both in a heartbeat. Too bad we don't support python here 
+UGH!  Too hot to sleep.  
+@rainnwilson I'm dying to see that film. Too bad I still have to wait another two months 
+Oh, yay! I just read my twittascope. Not happy right now. I hate conflict. Too much of it and not enough calm to balance me out. 
+I had a sweet dream last night. Too bad it's over now; back to reality. 
+@emmapask I'm not going to be able to make it tomorrow  Too much packing and preparing to do, but if you are bored you can help us move!?
+@vp2008 It was hot! B) Too bad for the owner 
+Taking the babies to the doctor today with their buela. Too bad daddy had to work 
+At the pool by my lonesome. Too bad @smschulz is a bum and locking herself in her room with prego teenager 
+http://twitpic.com/7t2kz - Isn't she lovvveeelllyyyy! Too bad this things costs a small fortune 
+TGIF! Too bad I'm at the dentist though 
+I just turned down an invite to XLDB  Too many other trips. Especially w/ a long flight to get there.
+@TimCAD  I won a contest! and not some superficial one like 'prettiest hair' or anything silly! Too bad I dunno if I can run it on my PC 
+http://twitpic.com/7tvhv - this is what caden made for his daddy. Too bad its not true  oh well
+@HipMom  Too bad, those are some serious f-me shoes
+@the_curator was a great man. Too bad we lost him to the hail storm 
+@HartzandSocks lol Too bad I'm broke. 
+There's a pig in the mall! Too bad i can't twitpic.  squarespace
+I just saw my bf. Too bad I had to leave 
+@zayman3 Thanks sorry you didn't win  Too bad we both couldn't win
+You think I'd know a bad idea from a good one. Too many bad ideas tonight. I need help. And for this incredible headache to go away. 
+@jennythegreat He normally doesn't work fridays, but he does work thursdays.  Gayke sounds delicious   Too bad you can't get a triangl ...
+had a blast with my daughter at the new kids concert!! Too bad she didn't get to meet her donnie! 
+Doing some memorizing ( Too much to handle! 
+@NoToriousTori Too bad  But indeed, rest for the wicked, finally  How about calling in thai food tonight... hum...
+@vanessamess Those shoes r so cute! Too bad they're not the right size 
+*yawn* what a bore. Too sick to go out tonight... 
+Sitting on the boat waiting for the day to end. Too bad it's just started 
+@kookywitch I love her but I don't like her class. Too much stress for me! 
+@hkoenigsfeld I didn't take any...  Too much weight to carry and too much stuff and the threat of rain kept it in the car... 
+@CRAdcock Too bad I'm not upgrade eligible for a while 
+Rollerderby bout was great last nite. Too bad i had to work so early today and couldnt whoop it up afterwards 
+Getting ready for a dat at the lighthouse and the mall. Too rainy for mountain climbing 
+@melissa_ryder i know fml he tweeted that 2 months ago. thats my birthday. Too bad ill be gone 
+Today would be such a good day to go swimming. Too bad i have to work 
+Just back from paintballing. Too sore to move now 
+I love this weather! Too bad I'm working. 
+Going to the mall! Too bad my shopping buddy has to be at work all the time 
+Walking around the mall passing time waiting for my bus. I was in tillys but had to leave. Too depressing cus i have no $ to shop! 
+4 more hours after lunch...im excited.  Too bad i have to work at 7 in the morning tomorrow 
+That was the most fun I've had in a while. Too bad I had to do it alone 
+@chochocamacho He may be older but that's what makes him awesome. &lt;3 Too bad he's so old he doesn't like the internets. 
+@jshroff that was such a great idea! Too bad noone else was down  I wanna try the counter now!
+And I have a headache but i can't sleep. Too much thinking.... I'll be up all night I'm sure. 
+Finally on vacation!! Too bad I still feel hungover 
+Why would they do a gastroscope and colinoscopy at the same time? Too much pain 
+@SarahElizbeth09 I still think we should get matching hair cuts like this! Too bad I'd get fired. 
+Why can't I ever sleep? Too many thoughts running through my head. Things suck right now I wish somethings were differnt. 
+@KennethCK Haha yuup. Too much alcohol 
+@savagediana My life just took a steep turn last week.. Too many things in my head.. I feel overwhelmed  ugh. But I'm atleast gonna sleep
+Ughhhhh I cannot sleep! Too much on my mind 
+lying by the pool with laptop of course! Too early to start drinking 
+I'm laying in bed. I'm excited for todays weather! Too bad my body hurts and I have bruises all over. I really don't want to move. 
+@pwilson I wanna hear!!   Too bad we can't tweet sound.  I'm sure it's coming tho!
+@binmugahid argh! Too long to retweet 
+@EricaHeartsYou naw. Too late for bed? 
+I guess I missed #buzz140 badly. Too bad nobody at #buzz140 seemed to miss me 
+yesterday laying by @theLP 's pool and the rest of the night was fuuuunn! Too bad its going to thunderstorm today 
+@paul_berry (can't DM) Too bad...people aren't going to engage you when it looks like you don't service them. 
+@mauricefreedman Just update mine. Too bad I need to buy a new one to get video 
+Just had an idea for an app to build impromptu chat rooms to discuss things w/ random people outside twitter. Too late  http://tr.im/pmZB
+I'm tired but I can't sleep. Too much on my mind 
+Home made breakfast sausage is god's way of telling you that he loves you and wants you to be happy. Too bad I don't believe in him 
+@OfficialVernonK I was supposed to come tonight, but they didn't email me the date till yesterday. Too late notice to come 
+is loving the hot weather!  Finally!  Too bad I'll be stuck at 2 jobs today.  
+ my 12 year old is taking care of the injured black cat in front of our house, waiting for animal control.  Too bad my wife is allergic
+@RocketMinx Too late now 
+@joeymcintyre you arent leaving us are you?    Too soon...but then it will always be too soon...at least give us a few more years!
+It's my birthday and the coolest gift ever would be for my boss to extend my deadlines on my projects. Too bad that is totally impossible 
+What a nice day out - find someone you care about and share it with them.... Too bad the person I care about is being a dick to me 
+@lizzerdrix I wish we'd hung out more.  Too bad our old lady puss-outs didn't coincide.
+15 hours left til I can finally call it summer! Too bad I have summer school on the 2nd 
+@kogibbq kogi blt sounds amazing. Too bad you don't deliver. I can't drive bc of injury! 
+I really want a chocolate sundae right about now. Too bad it's nearing midnight and I've already had ice cream today. 
+In the heat of the debate I challenged an office worker to run the staircase.. Too bad I asked *afterwards* how many floors there are: 19 
+@jancornelis wish I could bring an assistant !  Too bad airline fees aren't very cheap 
+I wish I've born in U.S. but I haven't. Too bad 
+@NigerianHotness so it was a good Night? Too bad u stayed in 
+@sharjunkies, your profile picture is adorable! nothing like sisterly / brotherly love. Too bad I don't have any siblings 
+@ sushigroove. Too early for dinner 
+Has not slept yet. 7 hour energy drinks RULEEEEE BWAHAHAA. Too bad it should only last for another hour 
+Then again, I might faint on the spot and get trampled all over. Too bad nobody wanted to go with me.  I was saddddd.
+@_anea The purple bugger from Naxx?  I want, desperately.  Too bad they're all 81 and thus you can't tame them til the next xpac.  
+Really wishing I was still on vacation. Too much to do today, most importantly I really have to cut the grass 
+I feel awful today and want to just go back to bed.  Too bad my kids aren't old enough to babysit themselves 
+@CaptainJack4 Too right, especially on uploading 
+@DonnieWahlberg not sure if I can push through today.  Too much on my mind.  
+@lrdmora Right-remember you mentioned that a while ago. Too bad  @overnightwalker &amp; I are in the opening ceremony. What's that part like?
+@mystifiedLaLa Too many deaths this year, I can't handle it 
+@Blondilucious LOL exactly!  Too funny you just took me back 
+@ingridmusic infatuated with twitter... like me. Too bad I don't have many followers. You should listen to a recording I've done 
+@FuckenJew Too shy for that. Plus he already stole my brain in my sleep. 
+@imanto Too much porn for you 
+In such an amazing mood because of the weather! Too bad I had to spend most of it at dress rehearsals. It was pretty fun though. 
+#asot400 - who's set it is right now? cerf etc? Too tired to work out european time 
+@glam0ur nah, a nice big bagel! Too early for burgers! 
+I like these peaceful rainy days, just makes me want to sleep   Too bad I've got crap to do...
+Scratch that. Too tired to take it all in. 
+I could definitely get used to this whole &quot;in between jobs&quot; thing. Too bad it doesn't pay so well. 
+Is going to lecture today about her thesis. I know what I have to prove. Too bad I need to investigate it 
+Ah. Too many interesting links for today. I could hardly keep up! One of these days, I'll end up truly out of this world! 
+@Stephanvs @joosthaneveer Too bad guys .. better luck next time 
+@Krasnostein Too much really slow an bad, too. 
+G'night Everyone! Too hot to stay awake...   http://tinyurl.com/cjtj33
+@piratephoto Too right! Congrats on that!! 
+@joshsolar that may have been the weirdest @tweet I've ever gotten. Lol! Too late...I gave in to the power of the cheesy gordita crunch! 
+@leewaters Thanks! You too! (Although lately it's the pass out/no dreams sleep whch isn't always such a bad thing. Too tired to lie awake 
+@MCormack This just seems like something the kids would do... Not me!   Too many things on my mind I guess!
+@steelhoof Too much work to do, need to do more work tonight. 
+@MckMama bonfires are sooooooooooo nice!  Too bad we can only have them 50% of the year...when we're lucky 
+I knew there was a reason I hated cars! 1. Too slow! 2. Too big! 3. I get car sick! 4. Motorbikes are much much much more fun!! 
+http://twitpic.com/4wegx - @stealthrose Lol.. sorry. Too damn funny! 
+Preparing D&amp;D... Too many ideas 
+It's fun @ replying to celebs. I write it as if they will actually reply to my comments.  Too funny! Who r some that u follow on twitter?
+@annamariaelings  ours is clear across the country...its sad really. Too far away.
+A woman wants a man to satisfy her every need and a man wants every woman to satisfy his one. Too true 
+@pird  or revealed even! Too tired to type 
+@KiminNorCal I know! I haven't slept a wink! Too excited! 
+@stevezillwood I didn't cry.. Too happy/excited/adrenaline filled to cry 
+@NancyvB hmm link doesn't open on mobile phone .. Too bad 
+YAY my pool's open   Too bad I can't swim in it now (it's green eww &gt;_&lt;)
+@robluketic URSHER!!! Too cool for words!!! 
+Wow oral comm wasn't that bad today Too bad i still don't have any research for my debate 
+@vene2ia You Too!!! 
+Lol.  I just got silly stringed in the office.  Too bad it fractured in mid air and went into my macbook speakers.  
+@CambriaAN Too funny!  I haven't eaten those in years, but gave in to a preggo craving at the store the other day and had some yesterday! 
+@Mariahfan4eva Aww, thanks!  Too sweet.  Thanks for following.  
+@radhikabajaj its on your twitter profile. i have not seen the show and name is interesting. Thats why I asked. Too lazy to google 
+Bwahaha #unfollowdiddy is the top trend at the moment. Too funny 
+@kamiNcali Too far?  I have no idea where the line is. 
+@katiemoffat I would have said 'hope so' but the more I think about it, I'd like to keep under the radar thanks very much! Too late 

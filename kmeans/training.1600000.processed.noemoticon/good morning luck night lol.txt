@@ -1,0 +1,1178 @@
+Most common words for this cluster:
+[('good', 1173), ('morning', 296), ('luck', 251), ('night', 96), ('lol', 27), ('world', 25), ('thing', 22), ('thanks', 19), ('com', 18), ('idea', 18), ('work', 17), ('today', 16)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Good', 0.9999825954437256), (u'Bad', 0.617584764957428), (u'good', 0.5600794553756714), (u'Decent', 0.5170761942863464), (u'Better', 0.5040969848632812), (u'LAKE_WYLIE_Largemouth_Bass', 0.5023769736289978), (u'Awful', 0.48815566301345825), (u'Excellent', 0.4828800857067108), (u'Perfect', 0.47885629534721375), (u'bad', 0.4707021117210388)]
+
+
+
+
+
+@bursaar Good for me. I haven't gone to bed... 
+Good morning world(s) - We got snow again! 
+Good a big headache and don't feel too well. 
+@Konstpaus lol! Good idea, but I don't have any vodka or bears 
+it's raining outside...  Good day for packing!
+@loriandcurtis sure did plan on it!! But then I had an employee quit so now I have to work!!!  Good times....  
+Just drove by ekota. I miss playin ball thurr.   Good times.
+@bluesmoon Good catch, didn't notice that. The \b regex shouldn't cause that to break 
+@emberlight Good question. Hahha answer is no. 
+@aicha34 This is just notes from books and articles so far, I haven't written any actual dissertation yet    Good luck with yours!
+@stephenfry youch! Good luck. I had one of those a couple of months ago 
+@robertmeta snap links isn't working with the 3.0.8 release of firefox  I was looking forward to trying it. Good find.
+Good morning. I really really really want to go back to sleep. 
+@ToddKlindt Good luck with your netcast!  I've got a daily meeting at 8:30 so I'll have to watch the recorded version 
+Still recovering from the weekend. Good times! What happened to the weather 
+Good morning TwitFam...alil cloudy 
+@thedarlingtree Good choices, but none of mine? 
+@stephenfry I wish I could stay up to see what game it is.. but it's past 11 and I have to go to sleep   Good luck with the voicing.
+@Shaunzy95 Good morning! aww you too  I'm sorry to hear that!!
+I can't sleep. Good thing I have an advising meeting at nine thirty. 
+@tommcfly Good luck on the tour, not that you need it. i cant come and see any of your shows  bad times       xx
+@Heddyy Good morning... but aww @ your headache  I hope you feel better soon
+Good meal but sore company.. Or maybe that's just because I'm sick and feeling generally unwell 
+And no I'm not mad over that just mad period!!! Good bye 
+@Arcanine aww  Good night
+Good grief......one of my dogs has heartworms!  
+@boygrundy Good lol. I don't really care if it sounded conceited or not. Shes been working a lot and I haven't gotten a chance to see her 
+@a_willow Good morning. Not finished; not feeling well. 
+@montypop Aw no  We'll miss you at the com. Good luck with work?
+@robrandtoul Good for you, we're heading off to the pub but it's not quite good enough to sit in the garden 
+Good morning and my throat hurtsssss 
+Good sleep, just wish I didnt have to work 
+Awwww.... Good bye parties. 
+@DrManhattan_ yes he was actually! Good times all round  He has to wait for them to be taken up though 
+@pottymouth: Good point. As it is, I'm riding with a profuse oil leak.  
+@rayofspearia  Good weekend tho, eh?
+Good night but it sucks how it ended for me 
+@joexy Good afternoon! why not? 
+@jackielm and @erica_ap sorry I missed you. Good times. 
+@moebiuscascade  Good luck! You can do it!
+@pollieparrot Good luck with the call 
+@KittyLovedPain *cuddles you* I'm sorry!  Good luck and snuggled for yoooou!
+@thisisryanross We were going to cover that song in my band...we haven't so far, though   Good songs always pop up again.
+Good bye my love arminia 
+Good show, but with a heavy heart. I fear I lost my world. How do I find it? 
+@archuphils Good thing we waited for him because the flight was actually delayed. I'm sad some dedicated archies couldn't be there tho. 
+celtics lost!  it's fine though. They gave a good fight. Good series.  Good job to both celtics and magic.
+Good nite kc! Its monday already 
+Good morning world, i'm already tired 
+@doomydoom  Good grief. I'm glad at least that you're okay for now.
+@fulltimecasual How did I miss this? You're leaving @mactalk huh? Good luck future ventures dude. I still haven't got ep 74 
+@JasonBradbury Good luck, have fun... I'm off to the job centre  
+Good morning...up and tweeting before work..would rather be creating some new jewlry 
+Good for me, bad for you! @rscorer &quot;Temporarily out of stock&quot; 
+Good morning twitlings. I'm exhausted 
+@lexj1229 Good, thanks! Only 4 hours sleep, though 
+@originalkitten Good luck I hope they find out what is wrong /hugs 
+Good morning. Blehh I don't feel good 
+@meeciefbaby we don't have coontivities! Good grief... 
+@brand_nu That sucks  Good to see you're slowly but surely taking over the world though!
+@BreatheSuccexy Good, but not as good as I hoped 
+@mnrmg Good you feel well. I am good thanks. just waiting for the end of work 
+sleeping in. Good last dance show. Its over!! 
+@ktlee317 Good luck with the kitty. 
+Interpolll. fml. Good mood, but i lost my keys! 
+@EvanBlake Good times, good times. It looks like your friend didn't like us though  #decemberists
+Good morning...I'm tired, but I have to got to work 
+@pinkvelvetcake Good question - I like to think so but I haven't met mine yet 
+I hate this. I don't feel good.   ...Good night Twitterworld..
+Oh mannn  Good night.
+Not feeling well... Good nite  #fb
+@alpew Good luck.. I have still to get wireless working post IT6 
+@musical_musings Good morning!  It is raining here 
+@dfarver76 Good BUT it's supposed to storm later 
+Good morning world! I feel really sick. 
+Good! luck you! I want new shoes  Ly x
+@KulpreetSingh Good god, no. You can fit very few swear words into 140 characters 
+@JayLenoTonight Good luck tonight on the big finale show!  
+@DelbertShoopman Good luck with the footage - none of the stations are breaking in live with it 
+@vmarinelliRVA I am so so sorry to hear that he has parvo. Good vibes comming your way.  
+@e_shep Good idea...but I don't have one. 
+@angelajames Oh, poor bride. That's sad. Good story, but not so good party. 
+@coltsbane  Good luck with the kitty search.  I hope you find him all safe and cuddly.
+@wiipalsfan Good night, I just missed you  @LooneyBinJIm JIIIIMMMMMMMMY
+my ears are ringing! Good concert but i miss my hunnie. I don't like sleeping alone 
+Good bye blonde hair ! 
+Good music is best with a dance partner  fuck it!
+Good moviee! I don't feel good. 
+Good morning! I mean afternoon 
+@tulaXDXD Good luck i have magen i history! 
+@tulaXDXD Good luck! i have magen in history 
+Good morning!! #myweakness carbs 
+@nicksantino I so would, if I weren't over an hour away   Good luck and have fun!
+Good morning tweeps. im up but still very tired 
+Good morning if I can 
+Good morning! I miss him! I wish he was here!  
+@husbandsanon Good grief! That sounds terrible  I hate driving past accidents never mind seeing them!
+@CandyTX  Good teachers are at a premium anymore. (Even though he was probably retired, no?)
+Good morning cold 
+Definately!! Good idea, don't think I can vore though?/ 
+@pranaydewan I knw... But its damn expensive man!!! Good seats above 5k 
+ http://psychcentral.com/maniaquiz.htm  Good thing you can't TRUST online quizzes
+@JaylaStarr I know! I'm sad about it big time!   What's &quot;Good dads!&quot; mean though?
+Good I wont feel so alone any more 
+@wantsize0 Wow! Good job! I don't have anything left over 
+@winequester Good thing you got to enjoy it while it's still open. 
+@donttrythis I didn't make it out today   Good to hear you had fun, though!
+@itstayce  I hope it dosnt get infected or anything... I'll let u go ta sleep. Good nite! 
+Good night...but feeling pretty sick now  can't sleep either...ickkk.
+@cathy_cochina40 yea me too!  oh well.... Good night! Ttyl
+@mvass : Good luck - too far for me I'm afraid 
+@Shinybiscuit Good idea, but the exam is tomorrow. I....really....can't.... 
+@_Omitsu_ *sends well-wishes your way* I hope it all works out for you  Good luck!
+Oh the heartbreak.. Good enough mother tried.. she really, REALLY did  http://bit.ly/GRKjU
+I've a cold. I'm dying...  Good wishes are welcome!
+@SpiffyBex Good luck. I know how scary that can be. 
+@dapsiua5 Good morning! I can't get the link to work - 
+@BhavTV I have my exam tomorrow too  Good luck!
+Good bye 
+@Bluiish Good cause I never know when I creep people out. 
+@sharli58 definitely not enough left  I unno what I was thinking, lol Good thing it grows back fast!
+@mileycyrus ouchh poor little girl  .. Good luck in the awards!
+@ClockCollector Good for you. I feel like I'm getting sick now. 
+@ashleytisdale http://twitpic.com/6ddox - cool. i wish i could be there  I hope you will win. Good luck  love you
+@JessicaGottlieb Good decision. I know it's very sad.  Makes u thankful for your family and health.  
+Good morning (: I'm still sunburnt 
+Good morning twitterworld. I hateeee getting up this early 
+SeishiShefu: Good for you, I just have a big ass 
+@november_juliet Good! I was going to give you more props but they would only allow 3 
+@demmiegoddess: Holy crap! I knew he was not well, but I didn't realize it was that bad  Good vibes his way....
+@Mattb90  Good luck for the future though!
+Seriously considering not going. Good thing I haven't bought my ticket yet. But I'll miss not seeing @phoenixlove87 and @moestaffa 
+@uriba Good for you. I lost 
+@staceyandeen: Good luck with that. We didn't get any financial help from the breeder when our puppy came with various illnesses. 
+What's up w/ @MrTweet - just tried to recommend some peeps and screen is frozen. Good deeds can no longer be done there. 
+invites are out. Good thing I had them weighed, not enough postage 
+Good mood is fading...   
+Good morning, I have a hangoverrrrr &amp; my eyes are swollen 
+Good lord I really need to get my act together and get that wsus server up this dsl is horrible!!!  Comn bell what hpned to standards 
+@yostortiz Good luck cramming everything in!  
+@werewolfjacob Good to hear. So, I have yet to see that clip from last night 
+Good news!! I won a $1720 satelite. Bad news I made a deal with 3 left so I only won $620  ;)
+@tmorello http://twitpic.com/6fl8s - She's adorable, but unfortunately I cannot have her  Good luck!
+Good gravy... 
+I fucking hate red lobster so much. Good night 
+@jessicaheintz That's not good.   Good luck though!
+Good night all......  ZZZzzzz
+Good mood gone bad. 
+@crystalchappell Good night to you... I have to go to work.. not fair 
+Good breakfast this morning - shame I had to leave early 
+@revdrseb Sounds nasty.   Good luck!
+Good gracious, classes is too near....huhu I don't want to go to school yet...  
+@psychemedia I just wanted to join in  Good idea though!
+@levarburton Good for you! Its only been 2 months for me, but ive slipped here and there 
+flying home for a funeral.   Good bye technology 
+Good morining! &lt;3 im sooo tired and its only 9:00 a.m. here.... 
+Good mornting!!headed to the doc to get my toe fixed 
+@JulietheArtist1  Good luck...!
+@jpadamson exactly. &lt;3 Good luck today! I've been fortunate to not need to have my wisdom teeth removed, but I know it sucks 
+wow!!! Totally choked on the presentation! Good bye graduation??? 
+Good tbs show, good company, good girls. I miss my bf now 
+@Leighlo  Good luck man ... fingers crossed we get the green eh!!!
+Good morning-   it's raining heavy now, and I don't want to go to work 
+Dbq part of the test  Good luck megan!
+@ianmasterson didn't see you there  Good night?
+Stupit internet not going Good 
+Good morning. I woke up to study 
+@jenannie Good, coz you looked fantastic in it,seriously!  ...I'm extra medium today but will be better tomo I think 
+@jordanknight I heard you are feeling tired.  The blockhead crowd will energize you!! Good luck tonight!! I know you will do great!
+@DjRayC Good luck with the games! The rain is back over here 
+@ThaBombShelter Sucks, sorry to hear  Good luck hunting for new/better job though
+@dominationyoo Good, i hope she didn't quit forever. lol. I'd be so upset.  I miss yuhh moree.(:
+@Starlicht *hugs* Good luck... &lt;3 You poor thing 
+@luvjazz Good deal. I wasn't able to make it 
+Good day just turned bad. 
+@renaedeliz   My mom had four miscarriages. 3 before I was born, which was lucky for me or I might not be here. Good luck you two!
+@j_two Good point there likely is and the viewership would grow.. We don't even stream the other shows live 
+Good morning no-that-good-world 
+Good job I love him am so angry right now I could murder 
+@tobin00 Good luck with your pup - I'm hoping all goes well for the little fellow. 
+@dhstatus Good luck to whoever the poor admin is that had to move out at this hour 
+@jump_pr I know, right?!  now the weather is really junky!   Good luck with the work though!
+Good luck at sgk girls. I'm waiting of my voice to come back 
+@julietlandau  ugh.  Sounds rough.  Good luck!
+Good morning! I did not sleep well at all! 
+@xo_nathalieee Good luck honai ! I wish that I was getting them too 
+@richardarnatt Good enough? Haha. I'm rubbish at games like these 
+Good luck to me!  send me happy thoughts..
+Good news to all alpha gams, my camera is broken, it no longer works 
+@atgm613 Good luck with the JLPT! I was thinking about taking it myself, but now I forgot too many things to be able to do well. 
+@jchutchins But I don't want to hold off!  Good luck. :p
+Good bye robert and kristen...we thought you were real 
+Good Mornig! waa ready to go to bed  waaaaaa! soo sleepy (-.-) mornaitssss.
+@NessMia sending positive thoughts. Good luck at the vet. 
+@AwesomeDJ Good, but I miss my laptop 
+@tbjs Good luck tonight you guys!  Wish I could go 
+@officialnjonas Good luck on that guys...that sucks 
+I wish I could post sound on twittah, this band is amazing! they are jammin for real! Good stuff to bad I don't understand arabic 
+Good daay besides being grounded 
+Good grief pwned like a bunch of noobs 
+Good try, Cubbies.    I need a drink.
+@minnemom Too late. I bought one! I just couldn't resist. I hope it's nothing.  Good luck getting to the bottom of it.
+Good bye to who mami??   
+@lucylumcfly Ermm where we get given the articles before the exam, then get tested on it  Good luck too!  xx
+@briska that sucks  do you know why that is? Good luck today!
+@PrincessSuperC the links to your website on the side don't work  Good luck tonight x
+@nbajwa: i too fail at waking up  well... Good morning
+Good race, no the out come I had hoped for but we'll take 15th. 
+@MsNicoleJohnson  Good luck with that. It'll be tough on all of you. We'll keep him in our thoughts.
+@lylefong so sorry to hear that  Good thing no one was there or got hurt.
+@dalhectar Good deal!  I'm not a big fan of their theme either 
+@beckygtx Good luck! I have a black thumb. Everything I plant dies 
+I don't feel so Good 
+Good morning, back to work 
+@nicholaskenny Good, the thing is the writing is super small too so it's not even an illusion of length 
+TwitlQ.com looks promising. Good for multiple twitter accounts. But no OpenAuth 
+Skins: Good programme. But I missed this weeks episode 
+Good morning world, I stayed up too late! 
+@Bensawsome Good for you!! *sigh* I'm still not sure whether I'm gonna make it this year or not 
+@juliethuddy I loved that show  I was sad when I read it was cancelled. Good luck to ya *hugs*
+@howlieT Good. And I haven't been on twitter for way to long 
+@Zesylene Good ?...from the looks of things alot worse, that's bad 
+Good performance guys  I can't believe it's over 
+@Ronaaa aww sorry to hear you are having to work still  Good luck with it.
+@kstewartnews Good call, bb. I cried watching it. It scarres you completely. I swear I`m traumatized after watching it. 
+@mcflymusic Good luck boys   I think the jb are gay
+Good luck at ur games jackuie heading to the gym ! 
+Good day turning bad .    
+Good bye weekend...back to work. 
+@pms_panda  Good luck with him hun!
+Good luck with that 
+@imjstsayin Good luck! 
+Good twitter is working again for me... so tired 
+Good night! I'll leave you tonight with a desire of mine: I yearn to be a cheese connoisuer.  I'd study to become one, but I'd  get fat. 
+@Delivrine Good for you!!! I'm sooooo proud of you. But I'm going to miss you 
+Good morning 
+@varin Good luck! I hope everything works out 
+Good morning work .... 
+@Bullux I'm so sorry you're not feeling well!  Good luck!!!
+Good grief, now its one called sophie - look out @maddisondesigns, here's another one 
+@weeze04 Good luck hun, will be thinking of you, know it must be hard decision, think I'll have to do same with mine v soo  x
+Now that wikipedia is the 'standard' are we all slightly less informed.  Good for arguing about minutia, less so for facts it seems.
+@innerearthsoaps Good grief! I had no idea it took so long 
+@fixstjames Oh no!  Good luck.
+Good morning up at 630 
+Good mornig ! I want to sleep right now  
+Good morning TwitterVille, I'm still tired 
+Good morning!!! How is everyone doing? I wanna go back to sleep 
+Good morning... where's my bed??? 
+Hayfever - Not Good! 
+Good morninggg! Finals 
+@vulcansmuse Good luck, stopping is the hard part. I can get going really well and turn and fly around but don't ask me to stop 
+Good night. I miss you.  http://plurk.com/p/11f7ad
+@MandaNutz what? Without me?! Good thing you didn't go. I would have been sad. 
+@iwannabeacowboy CAN YOU HEAR ME? Good luck with that 
+@tonylemesmerd and I don't  lol! Good to see you on here again x
+@NaomiER Good luck! I hope everything goes well. Even though i'm going to miss the glasses. 
+Feeling so sick right now  Good thing I'm off at 5
+Good luck @taylorswift12! I dont have verizon or internet at home 
+@dj_jenNYork Good luck!  I'm suffering from the swine so I can't come out 
+On my way back to seattle. Good bye cali 
+Good night went bad  scary!
+@ChampagneRDub uhh! Good luck wid that! Lakers = 
+@Ashhhyy Good luck and get well!    &lt;3
+@JohnMcFarlane I'd love to apply myself but cannot relocate atm.  Good luck with the hunt.
+Good morning. I can't fall asleep 
+@Almienova just stuff almie  I will talk to you tonight? Good luck if u have an exam ly xxx
+@parastoo  I hope you get your passport back soon. I'm praying for you.  Good luck!
+Has a bangin headache..........Not Good 
+@laughsoutloud ah shit, that doesn't look good. That's what I was afraid of with mine, I'll have to see how that goes. Good luck though! 
+@Karabella7_4 Good question!  I guess it's just a different generation. And sadly, I am actually old enough to say that!! LOL 
+was happy... Good bye #AlexaLloyd  #fb
+@Niterat  Good to have you back, though!
+@girlfromperu You and me both   Good luck with the house
+Good....just hot 
+@jess110x Good Good :} im fine muffin maggot ;] ahaha! lol  bored 
+Good bye! 
+Good Morningg! 
+http://twitpic.com/7psmd - Good times 
+Ouh! Your height! Good luck, shawty 
+@StLCardsGuy Good luck to your team. I always say, it's better to sweep than to be swept. Wish my team wasn't swept. So much for revenge. 
+Good gawd my kitchen is grosser then I thought it would be 
+@bsweichsel yikes, yeah, that would be not so good.  Good luck with that 
+Going back to sleep ... Good night 
+@gregs @laureng @haveboard thanks! Good to know. Not sure if I am going to pull out my laptop here though. 
+@hotklubprod Good! But over now  Getting ready to head out soon...you?
+Good, cause when i sent it, it was 11:11 but it took to long to send  haha. @emilymayyyy
+Just packed up her classroom! Good by pacific center 
+Good bye my delicious bread 
+Good word but I left with a bitter feeling.  I miss him.
+I hate how quickly I can go from happy to sad...  Good night.
+@consonant Good luck! I didn't think the economy would be that bad when I graduated, but it is 
+@laurakim123 Good for you, I can't even flippen get started!! I'm ready to scream and strangle someone 
+@silly_kookie Dentists are weird and evil. Who grows up wanting to be one? Mentals  Or just sadists! Good luck. And if you can, bite ;-)
+Good for pixar, but it's so sad  http://bit.ly/5NMvY
+Good lord something here smells unspeakable. 
+Good mourning! I stayed up all nigh for no reason 
+It Wasn't Good. 
+@owenblacker did some research and made a blog post on it - is tampax. Good I thought, but don't think it'll fly i'm afraid 
+@kannon965 Never mind - I just looked it up.  Good ol' cancer.  And he was only my age, too.  
+@yay4bnl what?  That's insane. Good way to freak everyone out 
+@ponor Good old friends of mine.. supposedly good friends anyway  
+@jessi_lyn me fatty  haha and to be healthy! Good foods what not, no endless snacking like I'm use to haha
+Good morning! I still havent been sleeping well. I woke up at 8 plus. Ughhhhhhh 
+Good morning!!! I have a cold 
+Good except we lost  there is like no enthusiasim on our team.
+@makenosound Good point 
+@ThePaulaCreamer That's wonderful. Good traveling weekend 
+At 3 hours now, this line is trying my patience. Good times 
+Good lord work sucks 2nite 
+Good nightttttt ... work tomorrow 
+Good and toasty my friend. I miss my ladyyyy. 
+Good old rainy manchester. 
+@rgoodchild Good flick? I miss having a bath 
+At home, bored, it's raining again.The Good old British summer 
+@fousheezy I'd have helped if I (a) knew before-hand and (b) wasn't working today...  Good luck!
+@FabFinds50 Good luck sweetie, I hope that you make lots! I wish I could come see what you have on sale! 
+Good things come in small packages (me), so you already know I am not even trying to take pics! Wish I could tho 
+@Rawsum Good luck wit that I guess 
+@treyrey86 Good luck finding your wallet! 
+@orianthi well I try to search where so I can go but cant find it.  Good luck 
+@rafaelaventurim Good night.  I need you, always. You can do this? hm, now?  I LOOOOOOOOOOOVE YOU
+@ddlovato  Wish I could goooo    Good luck thoughh.
+Good morning 
+@tesser10 Good girl!  Lets pray for sun!!  I so hate this rain!! 
+Good posioning smfh 
+Good fielding  #PakCricket
+@angilou17 Good luck! I am unemployed too. 
+My backspace key is sticky  I guess I didn't clean all of them. Good thing I don't make mistakes [cough]
+I miss my laptop  ... Good thing I got everything backed up in some form.
+Just disc golfed with my family. Good times. I lost  o well lol
+Good session. I want a beer! I dont think i can lift the glass 
+@jerseymomma Good title - we're the only 2 playing 
+@RobLeiden Good for you 
+Good morning to you too... off to buy some tile. 
+@cleolinda  Good luck with that. x.x
+Good news, I'm writing, bad news, it's not what I'm supposted to be writing, I couldn't help it, I had to write this idea i had 
+@dashphire Good effin question!! I have no clue 
+Good day outside, but I'm stuck inside 
+Good news is I won the lotto, bad news is that I only won $3.25 
+@beauty_devine9 what's Good , where u been , I missed u  lol
+Good thanks! @cNoteTL getting sleepy now 
+@pluplu I can't!  I can only see your updates through this one ) ) Good luck on your debate! You can do it :&gt;
+Only 3 left now. Good movies.. kinda disappointed that no one has gotten them 
+@Missdblue Good one girl - didn't see you in there though  What were you doing?
+Good morning to you too, studywork!!   http://mobypicture.com/?1p56fq
+@thisisbree Good luck 
+Good morning! Its almost 3am !! im soo tired 
+@JessObsess Good point! buttheywontsharebunksanymore 
+Good morning! I woke up with a terrible headache 
+@thatGAgirl Good mornting  Sisterrr, I still don't get any @ reply notifications! *pout* fix iiiiit 
+@cheeChingy Good luck! I had one lousy interview few days ago. 
+@bradshorr Good grade! I think I failed; won't work through our firewall. 
+@mehulbhuva Good luck, and let me know how it goes! 
+@ashleeadams doesn't make you look fat at all man. Good photo. 
+@fourzoas Good night! 
+@daydreamer20 Good post. 
+@TonjaC Good night! 
+@Schofe I've justheard about the demonstrations on the news. Good luck 
+Morning all. Good to see all your avatars are back  felt a little 'twilightish' there for a bit  haha
+@SarahSaner Good luck with that 
+@tezzer57 Good morning my lovely  xxx
+@airnchoo Good survival skill 
+@savannahsings Thanks for the follow. Good luck with your aspirations 
+@pianoboex Good for you 
+Good morro! I had a dream that I was banned from GGUI 
+@MiaMiaDC  - Good morning!  
+@Nutronic Good luck! In general mate - most job centres are like that - so out of touch 
+Good morning twitterland 
+@HARLEMVIXEN Good morning 
+@AngMoGirl Good luck! 
+Good morning peoples 
+@HorrorHaven Good morning to you 
+Good morning 
+@JackWills it's amazing! The dresses are perfect! Good job  x
+@mileycyrus Good idea. 
+Good mornin all. 
+@rewebcoach Dimples smilin' back are the best !  Good morning 
+Good morning tweeps! 
+Good morning 
+@Antiquebasket @totzhatz @firebirdhouse Good morning! 
+@Mediamum Good morning! 
+@IlseDeLange Good trip - envy envy envy 
+@bhellabell Good look on the follow 
+@petshopboys Good stuff sirs, I hope it's soon 
+Good mooods ftw! 
+@guavawrite Good to see you. I'll get some bigmouths to follow you if that helps? 
+Good morning. 
+Just woke up ...Good morning everyonee!  
+@aaronspears She's soo cute  Good luck with the museum thing... lol
+@RichardHudson Good luck with being listed!! let me know if you get on it 
+Good morning 
+@vegale Wow! Wow! Good to hear 
+Good morning all 
+@fakerpattz Good to know! 
+@FittedPhresh Good morning 
+Good morning twiters 
+Good morning all 
+@tigerfork Good advice. I've known @tomspine for going on 15 years. 
+@gonzostar Good luck!! 
+Hanging out in #kmnr, waiting for my show.  Good times. 
+Good samaritan award goes to me tonight 
+@tweetles  Good night my friend!!  
+Good movie 
+Enough. Good night 
+@Newsage LOL Good nite and pleasant twleep &amp; pleasant twreams  tweet later 
+Good morning connecticut. 
+Good morning 
+Good morning to the world!! I love you all 
+@RaiscaraAvalon Good morning, you... 
+@phate13 haha, ok, I guess I will write my own papers then. Good luck to you 
+@TurtleV Good morning to you too 
+@himynameisalan   hahahah.  Good luck with the footie xoxox
+@EmpressCortana Good.  I would have likely suggested pitching the linksys, and spending $35 on a netgear...  
+Phishing scams are just weird. Good thing im so skeptical 
+@beautifullady09 Good luck! I hear twitter is addictive so beware 
+So this is why I moved back to san diego - 70 degree weather and the beach. Good combination 
+@ddlovato So how've you been lately ?.. Good I hope 
+Good to be home  http://short.to/5036
+Too tired . Good night    'Tomorrow 
+@jerseycoach Good point.  
+Good morning 
+@FakerParis Good. I know this can be addicting! 
+Good luck  fredduerst
+@ninasplayground thanks for entering! Good luck! 
+@shadowsinstone Was just listening to that part.    Good music is like good.... you know...  
+Good day #1 
+@Nellypt Good friend of mine, I'm also his personal assistant 
+Good morning! 
+@susanjsohn Good night. 
+Going to bed... Good night 
+@JessicaHamby Good idea! 
+@graciiee Good for you! I'll keep my fingers crossed for you 
+Kresssssss lingerie party! Good times 
+@chuckiem Good night 
+@ramkitten Good, now it's covered. 
+Good night tweeples 
+@Yunitwitty Good luck.  You're prolly done w/ it by now though. XD
+@misstalie Ah the joys.  Good luck 
+Good morning my 12 followers 
+@christownsenduk Good luck for monday 
+@pathea Good luck 
+Good again 
+@kmacc1 Good to get them started while they're keen if you can 
+Good morning y'all 
+@digitaltoast  Good one, a lot more lucid when you have more than 140 chars. I still don't have a problem with his being sacked,. 
+Good morning followers 
+Good stuff! &amp; LOL I know  I was tired (that's my excuse)! I'm all good thanks -happy we've got lovely weather again!
+@dougiemcfly ... Good luck? 
+@madmain  Good morning. And we are so proud of you  LOL
+@michlr Off to bed before I get too depressed about my age    Good night.
+Good weekend  coursework to do &amp; the weathers amazing
+@toledonews Good morning to you folks, too 
+@reikifurbabies Good morning beautiful one! 
+Good morning Twitterers 
+Good morning. 
+Good morning tweeters 
+Good morning, I overslept...but that's allowed! 
+@PHILIPGRANGER Good morning! 
+@GeishaShae I would definitely read that. Good luck with it 
+Good morning. Lifes good 
+Good luck with the tour talor 
+@sharpener Good number 
+@BradHoward Good bachelor party then, huh? 
+@paigechaos Good for you.  Sucks that you went through that though.
+@paigechaos Sounds fun! Good luck with it.  &lt;3
+@lordmooch Good to read you're safe and well  And do you ever wanna go back to windows os now ;-)
+@gamerbabe360 I am, love.  Good day? x
+Good old days! 
+is off to bed  Good night to all!
+Finally going to bed ... Good night 
+Good morning all 
+Good morning y'all 
+is going to sleep now , whatta daay . Good night . 
+Good morning germany 
+@atkirby Good luck with website launch today 
+Good morning to you all 
+@hnauheimer Thanks! Good advice, I'll remember that! 
+@willhowells Good choice 
+@haileychoi yay! Good luck with the apps 
+@OGBERRY Whatz Good, O???   
+@TheBubbleBoy Good luck! 
+@empoweredandfit Good morning 
+@dannywood Good morning 
+Good morning 
+@noxhanti Good for you, getting an extra day off college! 
+@lpfashionista I hate them too! Much rather working alone. Good luck 
+@scoooooooooooty Good luck in your quest!  
+@Recruiting101 Good luck with your presentation! Sounds like you are well prepared. 
+@carla24 Thanks  Good luck on yours as well
+Good weekend. 
+@THEREALDWELE Good for you. I'm happy to hear that. 
+@michael_duvall  Good morning. 
+Switching to vegetative state now. Good night 
+Good morning y'all 
+I like nights like these.  Good drive, good planes, good company.  I need some new tuneage...
+@OfficialAshleyG Good luck this week... 
+@howieb5 not bad! Good to know 
+Good  yours?
+@berthita Good morning mi berthita! 
+@MsGeli Good morning!! 
+@AmberCadabra one by one. step by step.  That's how tasks can be successfully accomplished   Good luck
+Good morninh everyone 
+@vdimaggio http://twitpic.com/3nm6h - It looks as if you received the award. Good goin'! 
+@fangio44 Good luck on the amulets 
+@thefoxes Authentic does sound really exciting!! So you're gonna be at the opening, then?? How exciting! Good luck, my dear!  xxxxx
+@PixieVonDust Good bagain 
+@irrK__O Good head always brightens up my day 
+@bifferlicious Good morning, have some food 
+@Divinitypek Good night 
+Good one. I'll write that on my list of the four times ben's been witty. 
+Good morning 
+@maynardrayne you can do it!  law school is much worse silly! Good luck on finals!
+Good morning 
+Good morning y'all 
+Good morning 
+Good morning! 
+@heidipena That's so strange that you go to bed now and I'm about to eat breakfast ;) Good night! 
+Good morning world! 
+@mag_nation see you at the hive! Good luck! 
+Good morning world  x
+@BrianNeudorff Good morning!   You can be nice to me..... but not to @molsonfl, he doesn't deserve it
+@anyaanyaanya Whooopeee! Good for you sweetie! 
+It's now pissing down. Good old scotland never let's you down 
+Good news: 2/3 dogs now off antibiotics &amp; all can be walked again 
+@brilliantology Good luck! 
+@tommcfly @dougiemcfly @dannymcfly @mcflyharry Good luck for tonight 
+@SundeepToor - Good morning to you! 
+@resoundsound Finally, man. Good work! 
+@KyranOfficial Good on you!!! 
+@mcflyharry Good luck 
+@Dannymcfly Good luck tonight  xxx
+@thejenbug Good work jumping on board with #80sday jenbug. 
+Good morning! 
+Good morning twitterville  I am off to work! Kisses!
+@kikiliciousness  Good morning to you!! 
+Good morning! 
+@shanonrn Good nite to you. 
+@chrispowell Good news! 
+@YoTwits Looking forward to it  Good luck on the project 
+@cestcassie Good night! 
+Good weekend! 
+Used my first free skype call to bug my sister. Good times... 
+Good!  i wana touch her lol
+@libertygirl56 Good song. 
+Good night all 
+Good morning 
+@MsVFAB Good answer. 
+@KatieKuddles Good, keep it that way. 
+Listenning some music with some people! Good time together. 
+And, it's for real.  *L*  Good night!  
+@MaraBG Good night I am doing the same 
+Good morning!!!!!! 
+@aimeeleejones I have 14000... Good luck 
+@TashaDeidre Yes ma'am.  I'm still getting my fix.  LOL  Good timing on your part though!  
+Good morning 
+@creativethurs are you excited?! Good luck for the show- not that you'll need it-I know it'll be a huge success! 
+Good morning 
+Good morning 
+Good morning tweeps! 
+Good morning! 
+Good morningggggggg world !! i feel sooo happy 
+@TomosBeard lmao Good to know he keeps you clean 
+Bonjour! Good morning and bom dia! 
+@MondoWeb2 Good morning 
+Good morning all, my family is here 
+@Bucks_lad Good luck 
+Good luck at S.A.T'S every one 
+Good mornin 
+@adlyman Good for you...staying locked in... 
+@captainjohnhart You're alive.  Good. *grins* I love it when that happens. 
+Good monrning, people!!! 
+@nathanziarek Am I the only one who still grills with charcoal?   Good luck on your grill shopping!
+@SalemWildfire  Good morning! 
+Good morning. 
+@OlindaServices Good to hear 
+says Good evening.  http://plurk.com/p/rdqak
+@carobe44 Good ! 
+Good morning! 
+Good morning all! 
+Good morning lovers 
+@AIRasheville Good point. Thanks for being there for me. 
+@mizzhaze Good morning 
+@grahamhancock Congratulations!! Good luck!! 
+@mommy2jl Good look, I said a little prayer for the little one 
+@healyourself Good for you!! 
+@brucestrav: Good to see a self-identifying conservative interested in us filthy liberals and progressives  #p2 #topprog #tlot
+Good morning, world! 
+@KimVallee ~ Good morning to you!  
+Good (late) morning! 
+Good morning twitterers! 
+Good afternoon. 
+@joeybaker Good idea. I'll see if I can do that this weekend. P.S. you should follow me so I can dm you 
+@joshholat Good luck on your tests today. 
+@ILykeGurls Good afternoon 
+@saharabloom Good morning! 
+@radha_ Good night. It will be sometime before I go off to sleep! 
+@bittabuffalo Good to know for when I get tired! lol! 
+Good pussy is the ultimate tension tamer! 
+@toastery what are your plans? Good luck, whatever it is 
+@taptam_76 Good gay boy  You can never have too many hats shoes or accessories...erm apparently
+@KirkAkahoshi  Haha!  Good for you!  
+Going to bed. Good nite 
+@TonyDanza Good night and have the sweetest of dreams!! 
+@heymonday_ : Good night 
+@snedwan Good luck for today - have fun  and don't fall over!
+Good morning 
+Good weekend so far 
+@jackmoore Good choice 
+Good night all 
+Good concert! 
+Good morning 
+Good #hoppusday  
+Good morning 
+@GregoryGorgeous Your new video is funny as hell. Good work 
+@snedwan Good luck today!!  
+@MishBridges Good luck! I hope you win too 
+@lickmycupcakes Yay. Good girlie 
+@sammyrichards Good times 
+Good morning 
+Good morning world. 
+Good morning world!!!     
+@sophiestication Good luck 
+@TraceyHewins Good! lol you haven't been timed out yet?! 
+@Sternenfee Good morning! It's very tasty  #maybeifihadtakenatwitpicofitbeforeistartedeatingiwouldvegeneratedmoretemptation
+HannaMontana the movie has anyone seen it is it any Good 
+Good morning world 
+Good morning world. 
+@jules_88 haha Good luck with that 
+@sarasmile13 I am!!! Good morning. 
+Good morning 
+Good morning 
+@michellerowen Good for you. 
+mariabrito wrote @MarkIsMusing Good one! 
+@stevetheblack Good luck 
+@techwoman Thanks for the link. Good review. That helps me make up my mind 
+Good morning!! 
+Good morning 
+@robertrich Good to hear as well. Good luck with introductions today 
+@RobWhite Good to hear! I will resume re-uploading my shop. 
+@JaredDay Good luck! 
+@chekchouka Good news ! 
+@megsmitley voted. Good luck! 
+Good dayyyy 
+@H_C Good to know...  I think your voice will count a little bit more.
+@lomara I know, ain't they though?  Good times....
+@TheAntiSocial Good point! You're so smart 
+@MrAdamLambert R&amp;R week is going to be awesome! I'm sure all of you will do great. Good luck! 
+@aLINEofCOCJIN Ah awesome.  Good to hear from you 
+@elyseexx Good 
+Good morning! 
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz... so tired.....   Good night, Hokies.
+@stickycarrots Good luck 
+@dmitriy_usher Good night! 
+Watching Robots!  Good movie! I've been on a movie binge here lately 
+@Wyldceltic1 Ah, I'll be there in just a few! Good night 
+Good energy brings good energy. 
+@theBCGirl Good luck!  I wish you a happy recovery.
+@Aluwir Good question.  It's a short name for my blog Postcards ...  http://tinyurl.com/ctehye
+@bvhk Good idea - but why just 543 - let 1k flowers bloom! more important than candidates, i'd work to get voters on the system. 
+Good morning world 
+@LukeDennehy Good to hear  I have a feeling though the 'behind the scenes' and/or being there is better than what is shown on TV!
+Good morning 
+@mintea Good idea! I'll have to remove all the old receipts, tissue paper and other nonsense before I can take a pic 
+@kameliamohamad LoL. I don't even know what intezone-football-competition means... Good luck 
+Good rainy morning all 
+@bwhips Good to know I'm not alone in my confusion 
+Good morning! 
+@jeffparks Good morning, sir 
+@souljaboytellem Good night 
+Good morning!!! Who wants breakfast?? 
+@mombloggersclub Good morning 
+@bigeyedfishie Good news about the tooth! 
+@richardpbacon Good choice 
+Good morning world. 
+Peace! Good morning 
+@Nalora Good morning  It's raining here.
+Good morning. 
+@ritzybee Good luck this week! I know you'll handle it with grace 
+Good mornin twiggas. 
+@msegers Thanks! Good morning 
+@Bofu2U Good mornin' to ya! 
+@missgiggly Good night 
+Good morning 
+Good morning 
+Good morning to all- and welcome new followers! 
+@svickn G'morning! Good to know you're alive and well today! 
+@frankparker Good! I hope that it was a wonderful experience! 
+@VIVIatTheDisco Good luck on your first day !!!! 
+@esmeeworld Good luck tonight! have fun 
+In a really Good mood for absolutely no reason  tee her
+Good movie. 
+Good morning 
+@OklahomaStar Good luck 2 u and the babies 
+@MzWhatThePuck Good luck  I wanna see them again too. I waited outside by their buses to see them before, no autographs tho!
+thelma &amp; louise, Good movie.   
+@alwayswyser Good night. 
+@osdawaya That's not too bad.  Good luck! 
+@cnystedt Good morning! I certainly did 
+Good days with good friends make me not regret living 
+@kyeungbum going to sleep? why so early? Good night! 
+@SkinnyInTheCity Good to hear... several of my peeps are working tonight... 
+@therealsavannah I know you would be successful. And you're just starting. You would do great in the coming years. Good luck to you 
+@JPMizDELiCiOUS Good to hear..! 
+Beer pong and dubstep. Good nite 
+@LadyLogan Thats awesome!!  Good idea!!  
+@chantelleaustin  Good one  
+@GiancarloN Good morning 
+Heading to bed with a book. Good night 
+Good morning! 
+@idolart Good morning 
+Good morning 
+@BlokesLib lol trying to take after her old man eh? Good for her! hehehe very cute! 
+@sarahjpin Good work.I've only just managed to turn my studio on... I envy your productivity 
+@jordanknight U so crazy!!! And a Good morning 2 you! 
+Good morning @computerwolf! 
+@mariap91 Good to hear that  Any plans for today?
+http://twitpic.com/4wzs3 - Good morning 
+Good morning loves. 
+@apiphile Good luck! 
+says Good nights.  http://plurk.com/p/sxhgi
+Good morning loves 
+@shirlsyy Good luck! 
+Good morning world 
+@dwgardner Good for him! 
+@TheFurKing Good morning 
+@leonkay  Good, good. You still haven't joined the disgustingnumberofupdates club x
+@thomasgraham  Good news 
+@socalgurl83 Thanks girl!! Good luck at the casino today! 
+@dougiemcfly Good luck tonight! u'll rock as usual 
+@Rycrafty Good luck! I hope they like them 
+@BenNickMurphy Good  cause like everyones doing it xD
+Good morning all 
+@aundicamille Good luck tomorrow Aundi!! I'll be praying the interview goes well!! 
+: Gaah. sooo tired. Good momsday, though. 
+Good night my loves 
+Good nite twitterverse its been real!! 
+@ScottLudwig nice review. Good work 
+@TyrelleNelson Good to hear 
+@samoussa87 haha. Good to know 
+Good morning 
+@orapatto Good news! be a good patient... 
+@hiteshmehta Good here too, but not awesome, feeling hungry 
+@miss_shit Good luck on your final! 
+@westonbuck Good 
+@Meunda Good luck!!! You will do fine! 
+@ben_wellick_V thank you!! Good luck with your program  what will you be studying?
+Good morning  thursdays are awesome....
+@FlipperXten Good luck with the tests 
+@sivan_yaish Good morning 
+Good morning! 
+Good afternoon! 
+Good morning twitterville, i am getting ready for work 
+@PaxieAmorRL Good morning 
+Good morning 
+Good day 
+Good morning, loves. 
+@twosoups Hee hee! Good 
+Good morning mike! I will nudge you back and show you! 
+@musingsfromme Good thing you're chaperoning   I haven't been to the library in ages!!
+@stfvampyre Good night 
+Good morning followers 
+Good morning 
+@Faith_83 Good luck! 
+@BecaBear Good night 
+Good morning world. 
+@BrianViloria Good night Braddah B!!! 
+Good morning 
+Good afternoon twittermates 
+@maraboyce hahahaha ouch. Good luck with that, sis. 
+Good morning my tweets 
+@kristin_daly I just did this!  Wooooooot.  Good luck with yours. 
+@Audnumber Good luck and hopefully you won't need to experience it first hand and you can just live life not understanding it 
+Good day at work so far... I'm not the one getting yelled at! 
+@lindseyghouse Good morning to you! 
+Good good good night 
+I suppose I should quit torturing myself &amp; head to bed!    Good night, all!
+@lolasmom Good morning! 
+@TalindaB Good morning! How are you ? 
+@Jorriss Good idea  On it
+@jerpow fingers crossed! Good luck 
+17/20? Good enough for me!  Now I just need to edit.
+@waubers Good for you!  That's a display of real strength.
+@lila82 Good call then... how're you doing? 
+@Viking1959 Good deal, didn't know if I was late, but figured I'd give my $.02 
+@ecila Good thing that doesn't apply to us 
+@stefantribble Wow you sound wired! Good to know you're hanging out with us vicariously! 
+Good luck  I think your music is amazinggg!
+@axle_whitehead Good thanks doing absolutely nothing 
+Good times with good people 
+@ruxoz Good song 
+I don't know how I'm going to do this. But I will! Let's do this. Good night 
+Good night. But not goodnight. 
+@cultureworker Good catch, thanks. 
+Good nite twitter bugs im off to bed   xo.C
+@mellykitten oh cool. Good luck then 
+@natashayi Good night 
+@DrYoung Good morning or Good afternoon! 
+just got back from a long walk... Good excercise 
+Good night y'all  *muaaah*
+@1critic @cleaninggirl @KatGirl44 Yay! Good to be approved 
+@lakeerieartists Good night...giggling here too 
+says Good morning!!  http://plurk.com/p/uasmm
+Just woke up. Good morning! 
+@littlecastledes I'm with you with that.  They can make you feel fab but can be a pain   Good luck with it.
+Good morning ! 
+Headed to bed....Good night all!  
+@webaddict Good night and sleep well my friend 
+@patrickmarsman Good morning! How are you? 
+@zooicidalbunnie snuggling is good. Good for the soul! 
+@osmosisfutzing yes still on a crutch. Good for moering people with! 
+@ChristianVDV Good for you because i am 50  happy to see you come back !
+@ the mariott hotel grosvener sq.. Good stuff 
+Good morning all! 
+@_cailin Good luck anyway 
+@jasonlinas Thank you sir, I hope the same for you  Good day to kick back.
+@LittleLiverbird  Good luck to him! 
+@tenishae26 Good morning. 
+Good afternoon all. I just woke up 
+@iamknaan Good morning   How are you?
+Good day to sleep in....  
+@lorraine_p oh, maybe...? Good excuse 
+@mgbraden Good looking family!  
+Good morning! 
+@Daveuk12001 Good good, and aww I am very sorry for you! 
+@JohnCupstid3 Good luck with all the family in the house... 
+Good sunday morning ppls. I LOVE sleeping in! 
+@teddypork Good luck with that 
+Good morn tweeters... 
+Good morning! 
+Good morning 
+@NorthernLass Good good 
+I'm awake too late! Good night tweeps! 
+@demiwood The alpha site is dead and the other site can only handle 3 users.  Good idea though!
+So far I've cut my caffiene intake down dramatically, no headaches, and I feel better already. Good shit 
+@gloriabell lol, you and me both! Good luck 
+@superspiritgirl Just glad you got it going.  Good luck!
+Good breakfast and lunch  http://tinyurl.com/pbffjj
+@joedawson Good question. One I can't answer.  http://bit.ly/cagQX
+@cheezburger Good to hear  what are you doing, bachelor or master?
+@Kimmeh88 ooh i love that song  Good job!!
+@p_consuela I am lucky to get that much done in a whole week! Haha  Good for you! I need to emulate! lol
+@Tessario 98 followers?! Good lord! 
+YES WE CAN!!!!! Good luck  @reallamarodom @derekfisher @sashavujacic @lakers
+It's storming out. Good thing I don't have to work today 
+@ykesha2001  Good deal!
+@bleibel Really? I could have sworn I heard 40. Ah, well, what's ten more?  Good luck to you too!
+@timjayw Good morning! 
+@sixthofdecember POLITICS, yay! Good choice I'd say 
+Good meeting today 
+@DCBlueShirts Oooh!  Good luck! 
+@thursdayschild: Good luck! I'll cross my fingers, too. 
+Good afternoon to all  http://live.combs.tv
+@alisausa Good evening ??????? 
+@glazzal Good morning! 
+@bigjstl absolutely great album the whole way through!  Good choice!
+@mayleeen Good luck with your card. 
+Morning tweeps  Good day ahead!
+Good morning Ladies 
+@zeeblack Good for you 
+@serenairis Morning  okay. Good luck around school, ily mores!
+@pfellas   Good morning to you.  
+@AMyburgh Good luck mate! 
+@leifle Good morning - mobiletweeting seems to work out 
+@ramin987 Good luck on your exam! 
+Good morning !!!! 
+@brexians Good morning! 
+@DavidArchie Good to know ur safe. 
+Good morning  I really can't be bothered to get dry and dressed, but might get arrested if I don't lol
+Good night  take care 
+@SuperwomanAK Good night. 
+@pubzak Good luck, I'd love to come along but I'm wrecked after a weekend writing scala at #railscamp 
+@IndywoodFILMS  Not bad at all!  Good job.  
+Action might not always creat happiness; but there can be no happiness without action...   Good nite twitts.    
+@kreativlink Good morning, and welcome back 
+@FrazJ Good luck to youu 
+Good moaning, frantically searching for tights has left me famished- jam on toast should be a delicasy 
+Good morning world! 
+Good night, sleep well and have sweet dreams! 
+@soaps3 Good knight I hope @jonathanrknight wakes you up 
+@EmmaK67 Good luck with that. We'll be here when you get back. 
+Good night ppl 
+@theebayk1d Good night 
+My newest tutorial picked up by Good-Tutorials.com again.  Wohoo! 
+Good morning ! 
+@KittyLovedPain Good luck! 
+@Garythetwit I'll suggest it next time xD Good idea 
+@brittanydailey Good, glad u coo 
+.@Serendipi And I'm still in my pyjama's, shame on me! Good morning 
+@nuttychris Good  I'm good thanks
+Good weekend with the people I love! I totally needed it! 
+Good luck today! Be inspired as usual 
+@miasdarmawan Good luck with your finals 
+@siffy Good night 
+Good night! I'm waking up @ 9 to study some more. Good luck to everyone on their first set of finals! 
+Good morning, twitterworld 
+@DracoRigel Good morning to you too 
+@bobbinrob Good luck with the au!! 
+Good morning. I think i have recovered from @metricband but i dont think @tleigh44 has just yet 
+@voiceovergirl Good luck - am around later to do another test if you want 
+Good morning all of you 
+@RealMattDamon Good! 
+@lizzlaw *picks up beating heart and throws back at lizzlaw* Good luck you can do it! 
+@CateP36 me tooo lol. Good night 
+Photos of the book drive will be posted later on...Good afternoon 
+@dezine LOL Good point! In my view, the politician's favorite technique is to tell voters what they want to hear - true or not.  #tlot
+@mikesawriter Good to hear 
+@TheSkoot Good luck with the interview.... 
+Good morning 
+@hannah106 Good luck  xx
+@indiemoviemaker Sounds like you have a plan. Good luck 
+@ThogoriwithaT Good evening [I guess it is there] cyber friend 
+@siseleanor Good. if weather is ok u could write essays outside.  happy writing
+@supermarcey Good luck! 
+@sadsome Good, now u can change your username to happysome! 
+Hopes @SirJolt is doing well in his exam! Good luck 
+@Nireyna Good for you Nireyna and good luck in whatever it is!  
+Good corversation with my long lost bestfriend jelly 
+@mmazur Good seeing you again. 
+@EmilyWeldin Good luck  xx
+@JimHunt @VincentHunt @StaciJShelton Good morning 
+@kathyIreland I can relate to that  Good articulation.
+says Good evening...  http://plurk.com/p/uj475
+@pdurham Good morning to u!! 
+@Djalfy I got ear plugs so it's all good!   Good night!    
+@LindsayShively Good morning 
+@markmitchellpr Good luck 
+@corporatek love that song. And anberlin. Good stuff. 
+@MrHappyTits Good times indeed 
+@ruhanirabin Good to go, trying not to mix up work and twitter, but failing miserably! 
+Good morning y'all 
+@policymonk My point exactly   Good luck.
+Good mornin Twitter'ville! 
+@mariakitano I see, well you'll figure it out I'm sure  Good luck and have a beautiful day!
+@ATBdude Good luck! 
+Good morning myfacetwitter!! 
+@georgiaface Just as i diagnosed :s Good `springing` into action there btw 
+@joegronlund Good morning 
+@markyboosh hope it goes well! Good luck 
+@Megron Good for you baby! I'll give you a call in a bit 
+@Sternenfee Good morning Sternenfee, you're welcome! 
+Good morning 
+@r0ckergirl14  Good to hear
+@eyesmade2kill Good luck! 
+@Squidpunch Good luck! 
+@whatswithinu Good morning!  
+You should go check it out! Good Songg 
+Good afternone 
+@zehenders Good luck with &quot;he who shall remain nameless for a little longer!&quot;  
+Good beautiful morning twitterland!  
+Good morning world. I hope all is well. 
+Off to fire up the grill!  Good morning 
+@Nessyjayne  - Good luck ness-staaarr?. i'm TWWEEETINGG (for once)!! 
+@travelrants - Good to know! 
+@amberlrhea Good luck to you too! 
+Good morning.  
+@LovableKeKe Good morning back at you 
+Good to be home tho  all that's left is to bore my mates with tales - you been warned guys
+Good morning tweeters! 
+@Amralove Good luck with the new job! You'll have to tell me how it went later. 
+@jaysingh Good morning,  I'm doing well and I hope you are too!  
+@gpok No doubt will check it out...Good work man 
+@DanNyspiDer_ I hear you there. Good luck getting stuff done 
+@KawaiiStephanie Good thanks! 
+@colligan Good morning to you too 
+Good morning twittzlers  LOL
+@r6d2 Good morning sir 
+Good morninggg 
+@essenceonline Good morning....always FABULOUS...isn't that the rule? 
+Good evening, tweeps &quot; 
+@BeccaHabegger Good luck! You're obviously a braver soul than I. 
+@frenchiep Good morning 
+@RELEVANTMag I did see it! I was impressed with the way the science/church relationship was addressed too. Good review 
+@sakixry Good morning, Sakixry.  
+@JoselinMane Good to hear 
+@jodonohue Good morning 
+@jordanknight Good times?? you promise? 
+@DarkAeon I don't know what a root canal is, but it doesn't sound like fun. Good luck with that! 
+@dragonlady76 Good luck on the exam! 
+@ranacse05 Good luck, just study hard and u will get the best 
+@AngieDoogles Good luck! 
+@chelbel3 Good morning chels!! 
+@BAILEEY1 Good morning sir how are you 
+@BrentButler Wow. Good luck with that one 
+Wow. I'm energized. Wtf. Haha. Good morning  
+@LouManglass Good to see you back and great comic also 
+@blair42 Good thing i grabbed one before I left for work 
+@RSDixon Good morning how are you 
+Good morning twicks!!! @ work bored and looking for a new job.  lol
+@MsEDU thanks. Good morning to u also. 
+@SimplyJulia Good morning 
+Good morning 
+Good night beautiful world. Ttyl 
+Good morning 
+@LynArmstrong Good for you 
+@mitzs Good morning 
+@HimOverThere Good luck with the writing! 
+@MTVBuzzworthy Good choice! 
+@jilltxt Good luck on your paper, a good one! Added an example about http://playfoursquare.com/ - gps based social tool 
+Good morning world! 
+@paddyfestus Good point!  
+Good to catch up briefly with my twitter friends. @oziangie and @palmdoc keep working. I'll keep doing very little 
+Good morning tweeps 
+Good morning world! 
+Good luck with french everybody 
+Good night tweetards. 
+Good luck! 
+@iAMAliceCullen_ Good on you.  see what I mean  I dont think he's happy with me.
+At the (old) local. Good times 
+@Gailporter Good morning! 
+Good morning 
+Good morning! 
+Good hairr day 
+Good karma to you !   (via #zenjar )
+@hypemanp Good seein you! 
+@bannersrus Was great talking with you!!! Good night! I am going to sleep soon too 
+@CarmelYavniel The nice new apartment is allready yours?  Good luck...
+@coldplay http://twitpic.com/5nlbf - Good job, it's very generous 
+@TxPrincess31 I hope your doing well!  Good luck with everthing 
+@flukewoman Good for you, fingers crossed hun 
+@paulmason10538 Good job i'm a disciplined person 
+I got my salad and ...I feel Good  
+@tercowas Good morning  .. another more 6 doesn't hurt  ..How are you ?
+Good morning every1! 
+@RichardSmedley Good to hear that they're doing allright. You must have done something right! 
+Good morning 
+@idolart Good to know 
+#followfriday @ExposedINK Good to know. The only problem is that these locks are actually more expensive than my bike itself 
+Good food makes me happy... 
+@andy_lamb Good shout on both counts 
+@GlastoWatch Good to know you get a full line up list when you enter 
+Good morning twitterville 
+@digidickinson Good luck matey - txt us when your are out 
+@devynburton I totally understand your feeling!!! Good luck 
+@MakeupLoveer Good luck! I'm sure you will do fine  xx
+@weeyin13 Good choice 
+PC says it has updates to install when it shuts down, but I'll do it tomorrow when I wake up. Good night 
+@IrishLad585 hey you  Good moooorning 
+Good morning  I have everything to give so take it while you can, I promise there is no catch
+@jclgifts That's ebay! init! Good to see you on twitter! 
+@catanetwork Good heavens, did it really? I shall try to use my subtle powers for good... 
+Good afternoon tweeps shlonkom 
+Good dream last night 
+Good morning! 
+@ethicalsoap That's a tough age.  Good grief, I was engaged at 16; still married to him, almost 30 years now 
+Currently studying geography! Good luck everyone 
+Good morning! it is currently 5:03 AM and im still up and studying for polisci 
+@swinging_ Good morning to you 
+@skydiver Good luck with that rule. 
+Good morning. 
+@peachluv Good morning. 
+Good morning 
+@CosmosGirl everybody should save. Good to have money some cash around 
+@Legant07 Good morning 
+@pastorcylar Good morning my brother!  how r u?
+@S_StarTV Good morning! 
+@Tuffmoney Good morning 
+@lynnettereed That's more then a good enough reason to cut back on tweets.  Good luck with the packing/reorging/space-determining.
+@saybungalow Good feeling ain't it? 
+A &quot;fissata&quot; to follow: @manda903 #followfriday She'll always respond to your @ replies!  Good for advice, too. 
+@edibow Good interview, esp when u asked him if he liked gaming 
+@sugarrae Good luck with the house!  I'm a few years off being able to do that still ;)
+@LaCanadiense Good, thanks for asking. I said hi because you want all your followers to do so. Have a good one 
+@StarFoxA Good idea. 
+@Rawrnosaurous Good 
+@CEPSocks_anne Good how many times should I talk about you wonderful avatar. 
+@Twisuz Good morning! 
+@SaraKMcCormick Good morning, lovely lady 
+@markknoller  I wasn't aware they did it that way. Good to know. 
+@markhoppus Good morning! 
+@shimonta every friday. Good 4 u 
+Good morning twitterers 
+@jewelgiroux Good morning 
+@foxymadam Good for you. So you've got the bug now then, there's no going back 
+@itshanni3 Good answer.  I was just thinking the same thing.
+@Remrey Good movie... saw it last night 
+Good guys do win in the end! I'm happy 
+Good morning! 
+@MissMileysFan1 Good and glad you're fine 
+@robbiedakid Good for you!! 
+Hey @sharayray  - the link isn't working for me either.  I'm looking forward to seeing your new blog set-up.  Good luck with that... 
+Good. . . run. . . so . . . out of. . . breath 
+@sroxy Good because I enjoy using that word. 
+@dwighthoward Good game...i was kind of scared for a min.. 
+@obsalah You are free to do whatever you want with this number  Good morning!
+Good night poppit. 
+@emilee_xox  Good1 I am logging on right now. 
+@zivklara You still have school? Good luck with that. 
+@baztittenhurst Ahhh...yes. Good idea. 
+@autumn0000 Good luck with your interview. 
+@sinfulsignorita Good morning!  how are you?
+@americagz Good night! 
+Good night to all Twitterdom! 
+@murnahan WOW..he DOES exist...I thought you fell off the planet. Good to see you here. Missed you and your tweets! 
+@pantherapardus ill be good  at being bad hehe ... Good night!!
+@Wardere Good job. As a reward you get a very special (and highly coveted) invisible cookie! Good luck finding it 
+@AdrianaElisaF I hope you can find your inspiration  Good luck with that!
+@sprckt  Good luck with your essay. 
+@Tobatzky Good night, I hope you feel better.. 
+Good night beauties 
+@PegasusAngel @dannysgirlsg1 &quot;Good morning&quot; would be, sadly, most apt.  
+@TheIrishGuy @Chadfu Good night!!! 
+@SmilesFoYouu89 Good night 
+Good morning.... and a special shout-out to brucester 
+@musicsinmyveins Good night 
+@sharrynjackson Good to see you back online 
+@john_reyes nice!!! Good luck. 
+@EtsyDeals Good morning!!! 
+@CultureKiller Good luck 
+@StuckInLaLaLand Good thanks! and yourself? 
+@akuvaramaki I hear you. Good tools are critical to have 
+@LeEnfantSamedi Good luck!! 
+Good night, you sexy beasts! *rowr* lol 
+@ItsTandE Good one!  
+@siyab Good luck! 
+@mcrfash1 ) YAY! Good to see someone else who loves that song as much as I do 
+@taylorswift13 Good night chica!!! 
+@spectrummother I finally feel like someone might understand me. Good dreams to you- we'll tweet again later.  
+@RobKardashian Good song! 
+@phraim Good. I am glad I am not the only one 
+Good morning 
+@suburbanturmoil: that was more fun than a barrel of #cathyandersonandherwhiteteeth.  Good night 
+Good mornin' pips! 
+@gaganchahal hahah i know right! Good luck on your bio test! 
+@realin @mayank @keeda Good morninggggggggggg  people  
+@ericblue Good answer.  And I can't believe I wasn't already following you.
+@scottkato Good advice! I did some unfollowing and found some great tweeps to follow that I should have been. 
+from @PhillyGirl528 and I.... Good night 
+@socalpie Yay! Good thing. 
+@blooker68 Thanks, I checked it out! Good luck with your novels 
+Good afternoon  Its raining here. Yay!
+Good night, loves! 
+Good morning 
+Good night it is 
+@gandy Good to meet you last night 
+Good morning... T.G.I.F. 
+Good morning 
+@rjakesdub Good morning, wrinkle! 
+Good morning twitterers 
+@SuperAdila Good luck for your netball tournament! 
+Good night, luvvies.  
+@tugbucket Good, thought it was an underhand way of giving us the finger. 
+@purplepleather Lol @ passionate about nonsense. Lol. Good one. 
+Good morning 
+@keeda @annkur @blingbang @nagadeepan @ankita_gaba Good twitters  #followfriday
+@chalanpago Got it!  Good job.  
+@KateSaysLGT Good luck with the interview 
+Good morning 
+@peterfacinelli haha I liked the one 'bout &quot;Nothing&quot;. Good one! 
+@john_chr Good info thanks 
+Good nite every one! 
+@AkouAuto Good luck, I'm sure it will be spectacular 
+Good morning twitterS! 
+Good morning too all - Good morning to my coffee 
+@ramblelite Good. I get a twist ending.  But I always shut it off five mins early. I hate sad endings.
+@outrage_designs Good to meet you too 
+@bimbler Good morning to ya mister!  All well up north?
+@krissysalisbury  Good morning! 
+@TJThyne Good luck! 
+Good morning 
+@pjarbona Good nite..and have fun with the videogames 
+@ivffox Good luck  How far along are you? Perhaps let one knwo - she can help with the deception  (and get really drunk!)
+@egillhardar Congrats on your new job  Good luck!
+@bxbeautie Good glad 2 hear it 

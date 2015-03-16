@@ -1,0 +1,335 @@
+Most common words for this cluster:
+[('os', 286), ('iphone', 82), ('windows', 58), ('x', 34), ('update', 23), ('quot', 18), ('http', 16), ('apple', 15), ('phone', 13), ('linux', 13), ('itunes', 10), ('mac', 10)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'OS', 0.989200234413147), (u'OSes', 0.775924563407898), (u'OS_X', 0.7757145166397095), (u'Windows', 0.7654511332511902), (u'Win7', 0.7587416768074036), (u'WIndows', 0.7578588724136353), (u'Android_OS', 0.7524465918540955), (u'Windows_Mobile', 0.752324640750885), (u'WinMo', 0.7516288757324219), (u'WM5', 0.7480923533439636)]
+
+
+
+
+
+just found that if I use Windows 7 to browse twitter.com, the firewall software will automatically turns off, and the PC hangs. 
+@rickrodgers just kidding man. RIM doesn't even have a sync client for Linux, and the opensync package sucks  at least it can charge lolz
+I wish I could install Japanese input on Windows 7 beta 
+@tomashastings More OS fun...  Muddling thru so I can get my pics up today tho!
+it appears that jQuery plugin for making round borders in navigation doesn't work on all OS, in Ubuntu round borders aren't visible 
+Running #android on my Openmoko Freerunner. Eye-candy UI, makes good use of both HW buttons for navigation. Linux base OS not as nice. 
+@isdixon really? nice, but won't have it until switching to Windows 7  (waiting for rc)
+@P0150N0U5F15H slight problem, OS X Leopard doesnt want to install 
+Thinking that the reason I found OSX better than Windows at script reliability is that there were less 'core' updates. That has changed 
+Windows 7 is taking too long to install 
+Wow OS X. I didn't know you were so lame you would KP during an AFP transfer 
+ I hate how everything is so easy in OS X ...but at the same time...I love it. #OSX
+@cky1billion got 141 OS deleted vendor and both dm or loader.exe doesn't recognize the new OS  http://myloc.me/to7
+@awes0me I want a macbook too, but the OS is rather incompatible.. 
+@Cubikmusik i can't even wipe the hard drive  wont recognise the drive when i insert OS V CD  weird!! no data on drive so no issue
+@DaRude ah, phew, my Dell sports two Xeon with 4cores each.. but alas, I cannot run Mac OS.. 
+Reinstalling Windows on the music PC, which decided that it wanted to delete some critical files last time it updated 
+ooops. Seems like the 10.5.7 OS X update has bricked my Dell mini 9. 
+My hackintosh died after an OS update Fuck 
+Trying to upgrade my friends OS today but the damn dvd player wont take the disc.  But i will find a solution!
+@sohmer I love collecting fonts - it's just a pain everytime I reinstall Windows. 
+says his Mac OS is suddenly making Windows-like sounds and he has no idea where it's coming from.  (LOL)... http://plurk.com/p/u9ax6
+Lol just hooked it up and the one they sent still only has 4.3 on it so I have to update the OS.  really not that bad
+No confirmation yet, but, migration to Windows from Linux for our web server but still using AMP.  (makes no sense!)
+@holeycoww awwww Windows will be gutted to see ya go mate! 
+can't wait for Sims 3 to launch!!..but i need to upgrade my OS n ram before i play..  aiyooo..money money money
+@katebevan I've had years of waiting for WinMo to be less sluggish, more innovative, &amp; my loyalty has gone unrewarded. 6.5 looks rubbish 
+argh. Web design. Why are font sizes different between OS'? 
+When will copy stack become a defauly feature in Windows? 
+Finally got my #Storm to cooperate with my pc and updated it to the latest OS. Lost ALL my contacts and appointments in the process. 
+@voteforscooter DAMMIT!!! Ill be OS 
+gd2 isn't installed in Mac OS X's PHP5 by default  Not to worry! http://bit.ly/qZk6v
+Setting up the desktop PC with Windows 7; probably will be sold by the end of the weekend 
+I really want to try Windows Deployment Services but can't find any of my Windows OS disks 
+@dcsdominik208 I don't know why you would like to put such a lousy OS on 
+my poor mac mini is poorly  freezes on grey screen with blinking folder icon... I think that means it can't find an OS to boot 
+Does anyone know whatever happened to the Oblique Strategies OS X dashboard widget? I can't find it anywhere on the Apple site. 
+hate linux...most of the applications are not developed for this OS  I miss twihrl when I am at work!!!!
+Installing uBuntu 9.04 over Windows 7 as i had no graphics 
+@CamBendy Should be build into the OS by now! 
+is without mail   OS X 10.5.7 update gave me an undocumented security feature
+Aghhh! I hate using quickvic reporting and I hate using Windows 
+The worst thing about Monday mornings is having to boot Windows XP at work, after a weekend of OS/X and Linux goodness 
+iPhone OS 3.0 beta 5 successfully installed, oh you don't have it? Too bad 
+I am re-installing my OS 
+goin to OS to chill. then workkkin  mad lame. gotta read this silly book for the quiz tomorow as wellsies
+@EricaToelle ... means that there may be a serious hardware error which an OS reinstall will not fix.  be prepared to recover drive data 
+So I get back from a long weekend to be faced with 240 unread emails and ajn iPod that needs it's OS reinstalled 
+@therealmikewong hey mike, followed all the instructions but keep getting the error -5000 on OS X. 
+Process 'loginwindow' not responding -&gt; killed -&gt; screen go blank -&gt; OS X's first &quot;crash&quot; 
+Oh noes, my desktop computer keeps crashing in both OS X and Win7. 
+And this new OS means I gotta get back to my original cell op. No yellowsnow yet to unlock a phone with this firmware version. Another 
+I hate to say this.  I'm kind of impressed with Windows 7 
+*setting WM ROM as default* Android is fine but I don't have free time to play with it 
+crap, one of the disks in my OS raid array is marked as &quot;Error occured&quot;. Would like to know what kind of error 
+@karmakimmie color me jealous. totally want a 10v to hack w OS X. Instead getting painted house and updated sprinkler system.   For now.
+Why is it so much harder to share files between XP and 2000 than it is between Mac OS X and 2000 
+Anyone is having issues with Skype on OS X? After a while, can't hear anything anymore, even though I'm still connected... 
+@GwenStefaniRox oooohh you mean transfer files via bluetooth. And no  I'm hoping that donut fixes that. I loved that on my WinMo phone.
+iPhone development becomes ugly. Different OS --&gt; different visualization/behaivor. Reminds me of web development for different browsers 
+@lgreenberg I uploaded OS 3.0 bata 3 software through itunes,to see what would happen,and it bricked my iphone for sure 
+@worrallo that just makes it so much worse.  use a real OS on a REAL laptop. &gt;_&gt; did you buy one?
+@bradenwh . Something is wrong with my DVD drive  . It worked a few weeks ago when I reinstalled Windows/OS X  .
+@eschaton I was hoping they'd provide a build of Chrome for OS X PPC 
+Chrome for OS X: .  Figuring out how to do threads correctly in swing:  
+@thekoolaidmom Ah, I guess it doesn't work and play well with Windows. 
+i love #android but the new #iPhone with its new OS is gonna make it seriously hard to stick to 
+I wish my cell carrier had more smartphone options.  Only blackberry &amp; one Windows mobile phone.  I don't want either.  I want a Palm 
+@kevinrose @iJustine says they're crap. The OS is similar to iPhones 1.0 
+Asus pulled all their andriois !eeepc models for windows models? That sucks. No Linux on the new models either 
+@KnightRid It displays differently depending on the OS 
+Why is firefox crashing like hell in Windows 7!! 
+10th hour in department, iphone version is progressing. haven't studied for tomorrow's OS final yet 
+&quot;hg status -I ./*&quot; behaves differently on Windows and Linux  I just want stats on the current folder without subdirectories #mercurial
+...and again, my GPS had problems  it hangs!!! (as if its running on a windows OS)
+@Anushray I have tried that. It isn't the same as playing on Windows. 
+@bavster_twit No, i was just wondering how i could get around the Tethering when i get OS3.0, i'm not a Dev so cant get it... 
+No im writing my bachelor thesis about Symbian OS 
+My Twitterrific is dead in OS 3.0 
+Is a bit deflated to know that Softbank probably won't offer tethering with the new iPhone OS...that was all he really wanted!  
+Playing in the OS X Console: can't see any errors for en1 and no relevant errors for airport.  So no answer there.
+@wandarful no new itouch, just a updated OS they are rolling out. Costs $10 bucks to dowload 
+opera unite = more PCs on 24/7 ?  ? also sounds like a breeding ground for security issues (read: prob on Windows machines)
+Upgrading my phone's OS to WM 6.5 might not have been a good idea. 
+@benjonesdj - when you create a VM it needs an operating system otherwise its like a mac with no OS on it  you therefor need to give it a
+Shit! I wanna play Warcraft but I shall need to boot Windows then. I so dont wanna use that OS anymore! 
+@bryanhuddleston I LOVE #Win 7, but IT management here won't let me run it as a core OS.   I would if i could.
+My iPhone keeps freezing and hanging  Hopefully OS3.0 tomorrow will fix it
+Sadly, I can't make it to OS Bridge.  @osbridge - can I transfer my ticket to someone else?
+Ah well..going to sleep now..no signs of OS 3.0 yet  good night
+When will iphone OS 3.0 will be available? refreshing, refreshing.. zero 
+haning out finishing my MAC build with OS X and installed parallels for my window OS 
+thought iphone OS 3.0 came out today....i was wrong....its tomorrow 
+donde esta iphone OS 3.0? it's 12:30am and no update! 
+Seems like OS 10.5.7 corrupted the sleepimage file on my iMac G5: http://bit.ly/iOb6A 
+Seems like the OS X 10.5.7 update eventually corrupted the sleepimage file on my iMac G5: http://bit.ly/iOb6A 
+Just where is OS3 
+internet tethering for iphone OS 3.0 is working great, but im only getting around 1mb down &amp; 230kb up   http://www.twitpic.com/7ln45
+2am Jun 17th and still no iPhone 3.0 OS avail 
+07:29 - no OS 3 yet. Window for downloading 300 Mb before going to work passed. 
+in preparation for the new iPhone/iPod OS release, i think i lost some saved files for good. 
+Dammit this OS 3.0 wait is killing me 
+Oh well, they only said OS 3.0 would be on the 17th... who knows what time.   
+Niw that just mAkes me mad... The OS 3 update is delayed to the 18th 
+Today the new iPhone OS 3.0 was comming out, but I don't can download it 
+@hannnnnnnah YES.  &amp; some of my apps stopped working because they've already started using 3.0 &quot;OS&quot;. eff.
+Apple is laughing at all of us waiting for OS 3 all night long! FFFFUUUUU 
+no OS 3.0 until tomorrow. Now that sucks. I hoped to play with it on my train ride home  #apple #iphone
+What?!?! Has Apple really pushed OS 3.0 back a day to the 18th??  http://tr.im/oLhG
+Turns out I already have the latest OS Version for my BlackBerry. Sorry I ever doubted u baby 
+No, iTunes, 2.2.1 is not the current version. Where is my upgrade to OS 3? 
+Arf was waiting for the OS 3.0 update 4 nothing it has been delayed 2 2moro http://bit.ly/KNdLs 
+@yum9me does your itunes say that you can download OS3 yet, because mine says my OS is up to date 
+@terrym No iphone OS 3 update yet? 
+ Apple has delayed the release of OS3! http://bit.ly/2lwpll
+@theiphoneblog  Apple has delayed the release of OS3! http://bit.ly/2lwpll
+@dannyrodri I feel so violated I waited sooo long &amp; 1. now I am gonna be drowsy in class &amp; 2. I don't have OS3.0  #AppleSucks
+Gutted, the day of iphone OS 3.0 and I've lost my phone. I hope I've left it at on site at a clients offices. 
+it's the 17th... where is my OS3 upgrade 
+will have to wait til this evening for OS3 
+No iPhone OS 3.0 update for me yet. Wonder when it will get here to the East coast? 
+@stuartgibson The OS 3 update is delayed until tomorrow, says Apple's website 
+apparently we have to wait till friday to unlock the new Iphone OS3.0 
+Still no iPhone OS 3.0 software update available for me yet   It is 12:12pm here!  Later...
+iPhone OS 3.0 on friday!  Probably bring down Apple's servers tho' 
+iPhone 3.0 OS release has been delayed 1 day 
+ iPhone OS 3.0 pushed back a day! http://tinyurl.com/l9hx2p
+@StooCollins Is this OS 3.0 schedule still on track? I saw someone say it's delayed for tomorrow 
+why is the OS 3 not available  I want all the new awesomeness!!!
+I just wanted to update my iPhone to OS 3 already 
+I just wanted to update my iPhone to OS 3 already  haha http://tinyurl.com/muperk
+It's nearly 8am out on the east coast and still no iPhone OS 3.0  #os3.0updatefail
+Hmm, the rumour that Iphone OS3.0 is already available isn't correct, the link refers to the 3Gs version of the OS3.0, so useless 
+Why do I have to pay $9.95 to download OS 3 on my Itouch when I already payed 300 bucks to buy it and 20 bucks to download OS 2. 
+I thought i was going to wake up like christmas morning to OS 3.0 
+iPhone OS 3.0 is ... still not out yet... 
+can't install the new OS on my ipod 
+Why must we wait until 3pm for OS 3.0? I've been checking since midnight 
+So maybe 2 more hours till OS 3    http://www.engadget.com/2009/06/17/stop-hitting-f5-iphone-os-3-0-release-still-hours-away/
+Waiting for this stinking OS 3.0 update. I'm stoked but I haven't seen it on my iTunes yet  where are you 3.0?
+Looks like iPhone OS will be 6pm tonight  or atleast we'll get to 6 and then it will be tomorrow hahaha #OS 3
+ i want iphone OS 3.0...how much longer must i wait? :] me eating french toast. Yum yum yum
+really bumbed to learn that OS 3 won't be available until tomorrow 
+We can has OS 3 update?.......no we hasn't.   (shakes head and mopes away)
+feeling soo bumbed out  no #OS 3 for me yet ..noooooooooooooooo
+iPhone OS 3.0 is coming tomorrow 18th, not today!!! It's already 18th in Japan, though.  http://www.apple.com/sg/iphone/softwareupdate/
+When I look at the OS 3 channel, I think the server must be down when the update is available 
+@JasonBradbury not to impressed that no time was given, have spent all day checking for OS 3 !!  
+@nikechik I just read that the OS 3.0 update won't be available until 6pm  
+Not happy that you cannot update your iTouch with the new OS 3.0, via wireless connection 
+12:02 and still no iPhone OS 3.0 release! 
+Hmmm its 1:03 and OS 3.0 hasnt rolled out yet... 
+@mugunthkumar ya, no iPhone OS 3.0 update yet &amp; it's already 1:05am 
+Clicking constantly on the 'check for update' button in iTunes, but no iPhone OS 3.0 yet .. 
+How are people download OS 3...I'm still waiting 
+is watching friend install OS 3.0 on his iphone ... oh how i feel left out  ..unless ??? #squarespace
+so sad I'm stuck at work and can't get the new iPhone OS 3 update 
+#recovering after hard reset  #OS3.0
+did new iPhone OS update, bluetooth stereo workaround no longer works... 
+downloading iPhone OS 3.0.... but now getting an error that I can't connect to the store .. eek my phone is stuck 
+trying to install OS 3.0 but getting a network timeout from itunes 
+ &quot;An unknown error occured (-4)&quot;. uh oh. iPhone OS 3 fail so far 
+My iPhone has been stuck for over half an hour updating to OS 3... 
+No sucess with installing OS3  Activation Server is unavailable - Computer says no!
+iPhone OS3 installed fine, a few nice little features but overall nothing that exciting 
+been an hour and my OS 3.0 update won't go through 
+On OS3 now, can't remember what to look for  oh yeah, copy paste 
+#iPhone #OS3 download was no probleme, but activation server is not available 
+Activation failed  and it took 20 minutes to backup  and it is doing it again Nooo  Iphone OS 3
+whats everyones views on OS 3? i wont have it for another hour judging by it 
+yay - iPhone updated to OS 3.0 - MMS not working yet tho 
+#iPhone given up trying to download the new OS, authentication server down 
+waiting for quickpwn to come up for iphone OS 3.0 so that I can upgrade my phone  
+coverage of new iPhone OS is almost bigger than any other OS news despite being a tiny minority. Even I cover it here 
+messed up my iphone  wont be able to use it until a jailbreak comes out lol OS 3.0 is gunna be sweet
+iPhone OS 3.0 installed MMS doesn't work 
+i am downloading the new iphone OS 3.0 right now i cant wait till it finishes.  my phone is currently off so no call  almost @emily_andree
+iPhone OS 3.0 on board  no video recording for me 
+iPhone OS 3.0 is amazing!...now to resync all of my apps because I had to install it on a different computer 
+is rebooting for the second time in a half hour. It's beginning to look like Windows 7 doesn't agree with my laptop 
+can't get it to download  #OS 3
+is trying to login to my iTunes store account - it's not working now because of all the 3.0 OS updating going on now. 
+still no birthday calendar sync on OS 3.0 
+is sad that the Apple servers are down, and I can't has OS 3 
+is sad that the Apple servers are down, and I can't has OS 3  http://bit.ly/jIuPe
+itunes australia keeps timing out when trying to update to OS 3.0 
+@leebo oh I seeee! I thought you meant original OS.  oh hurry up and upgrade!! 3G rocks! Lol! xx
+Just updated to OS 3.0 and I'm mad that mms doesn't work 
+I daresay Apple enjoy making it extremely difficult to go from OS3.0 down to OS2.2.1 
+how is everyone liking the OS 3.0 update?  I haven't been home to download it yet 
+Installing OS 3.0 right now. Backup is taking HOURS. 
+Update didn't include video recording  #OS 3
+Sure wish I could download the new iPhone OS 3.0, but nooooo, it has to be storming.  I don't like storms anymore. 
+Yay OS 3.0 is installed. Too bad it's not that exciting 
+@chrismealey yeah, but i think we figured out a long time ago that I'm not a REAL RPGer. WoW has a native OS X client 
+Ugh...I went to zoom in on the roadrunner taking a dirt bath in the backyard but, like most of my apps, &quot;camera&quot; isn't OS 3 compatible. 
+@KaylinKrashesky I/m having problems with OS 3.0 as well.. I guess I will have to wait a day or so.. 
+Updating my phone to the new OS; so excited! Annoyed that I won't be able to picture text yet 
+@2weetme you should be jappy to be able to upgrade to OS 3 at all. I came up it's not available in my country at all 
+My life has hit rock bottom, my mom got OS 3.0 before I did. I'm so ashamed. 
+My iPhone running OS 3.0 , wife's bricked trying to install it, no luck trying to restore yet 
+I'm disappointed that the new iPhone OS doesn't support MMS yet 
+Sometimes I wish I could wipe the OS from my hard-drive and replace it with a new one.One less cynical,sharp-tongued and evil. I'm a PC. 
+So how's everyone liking iPhone OS 3.0, eh, eh? I can't download until I get home at 10:30 
+i think i liked my jailbroken iphone better before i downloaded OS 3. quickpwn, pls release 3.0 jailbreak soon! 
+Forgot to take note of all my jailbroken apps &amp; settings before I updated to OS 3.0. I miss my custom msg sound 
+I'm kinda disappointed that apple didn't release the new OS 3.0 today like they said they would  
+So, is anyone having luck finding apps for OS 3.0?  Seems to me that they would have launched today too.  Not even the ESPN updater... 
+I admit that despite the hour it took to update and sync iP OS 3.0, it's nice to have everything fast again. Still miss my themes though 
+Has yet to upgrade to OS 3 gift card doesn't work with upgrade.  FIX IT APPLE!! plz?
+Trying to update my ipod to OS 3.0 but ITunes store says that gift certificate processing is temporarily unavailable, try again later 
+@ScienceOfSmut can't buy one for another year, locked in. Hopefully next year it'll have faster CPU. OS3 is jerky. 
+Ok, how long is that damn 3.0 OS out?? Many app updates now instantly require the 3.0 OS ... this is so unfair 
+How do we disable EDGE on the OS 3 ??? I just lost all my units 
+QuickPwn still not out yet  ..................... wana see my phone on OS 3.0
+Why does the Iphone SDK not exist for Windows? 
+@cherry08mariano i can't update my iTouch to OS 3.0. 
+Working on an iphone game project - OS3 introduced bugs 
+@TheGadgetShow I upgraded my 3G to OS 3.0 but didn't get some of the new features, like MMS! 
+iPhone OS 3.0 not so great here on my 2g phone, jerky scrolling and performance issues just like first OS 2.0 updates 
+just killed my 2nd gen ipod touch  install of OS3 was interrupted = entire restore me #fail
+waited very patiently yesterday when wife and kids had ipod. Finally updated to OS 3.0 this morning and it crashes   ipodfail
+@DidierTestot video is only on the 3rd generation iPhone, iPhone 3GS. Not the OS 3.0 
+I want the new Jbreak already. I miss my old OS 
+Bricked my #iphone yesterday upgrading to OS 3.0,  recovering  data and applications   - too much virtualization can get you in trouble 
+the decision has been made, tonight I will back up my mac and reinstall the OS. Deleting 30,000+ files= apparently bad, who knew?!  #fail
+mourning the death of my brand new iPhone after the OS update got interrupted.  
+Another features in OS3.0: phantom tethering &amp; MMS. AT&amp;T, if u can't keep up with Apple, reduce the fee for data services... 
+@dimitori OS 3.0 is cool but I feel use more battery power... 
+Friken I tunes. OS X hates me  But I talked to a really nice support guy! :p
+#o2fail however finally got my mms to work and now happy with OS 3, still want the 3 G S but have to wait until January 
+I don't know how to use OS3 for my iPhone 
+@Mike3300 how's the overall OS 3.0? I'm gonna wait for jb first... 
+One of the weird things I miss about Windows is the &quot;scandisk&quot; and &quot;defreag&quot; programs. Linux doesn't need them. 
+@ErisDS ...It's not that bad, but you are on XP.  I run the same addons on XP at work and on OS X at home. On OS X it is &quot;snappy&quot; at work 
+@jasonbroaddus     was it a Windows computer?
+maybe having a 40gb partition just for OS and programs was a mistake on vista...  only have 3gb free 
+iPhone OS 3.0... still no easy way to simply send a phone number from your contacts to someone else via SMS... 
+&lt;-- Not surprised. It was only a matter of time before Windows reached the great level of failure that it once achieved. @EdzJohnson 
+new Windows installed. my music is gone  *sniff sniff*
+Trying to compile Mencoder under #Windows with theora and vorbis support, but it's just not working! 
+OS3 download didn't work 
+Setting up my new laptop. . . Which runs VISTA  the crappiest OS in the world. Oh well at least i got a new computer
+#OS3.0 #iPhone Darn OS 3.0, making my iPhone take ages to turn on 
+@felix_cohen hardware wise plenty have but god damn that OS and chipset.. It just makes me sad cause of the laziness of Nokia, SE et al. 
+Anyone know where I can get the GA version of OS3.0 for the iphone on the developer center. I have a bricked Iphone now 
+@CaliLewis how comes no one has really mentioned that Google Chrome has the dev release out for OS X and Linux? 
+Why is it that whenever I insert a Windows install disk I tense myself to duck? 
+iPhone 3G + OS3.0  = slower iphone that needs more charging ... awesome 
+@smmithyyy and it has a gorgeous UI, but it was buggered by OS3.0 and the twitpocalypse 
+no webOS SDK till the end of summer = me sad 
+*sigh* still no Iphone OS 3.0 B / Unlock for Windows 
+@JeffHicks I agree, but what ya gonna do.  I had to bite the bullet and update the OS.
+buys netbook running Windows 7, and get this shiatz?  http://bit.ly/LjafF
+ok my dumb self downloaded the OS 3.0 software not realizing I would lose my jailbreak 
+I have updated to OS 3.0, went to the bathroom, but remote wipe didn't work.  
+I miss Cydia on my new OS 3.0 
+i forgot how annoying re-setting up all of my programs and configs are T__T for 2 diff OS-es too! boo for nuking my partitions 
+@MuscleNerd PwnageTool crash when create the custom firmware on Mac OS 10.4.11 
+Fontswap not swaping fonts with OS3.0 
+iPhone OS 3.0 is far too aggressive with wifi power management - sometimes takes upto 10 secs to come on out of standby. 
+@MuscleNerd i had a problem updating to OS 3.0 , the device hanged during the restore process  any idea , thanks a lot
+Where's a Windows machine when you need one 
+iPhone contactlist is bugged since my last software update #OS3 want to call someone but cant open contactdetails from the list 
+@eartheyeone ... aber das hat doch Symbian OS 
+HapticPro seems to be not working properly as well....  update bitches, you knew OS 3.0 was coming
+Upgrading iPhone to OS 3.0 failed on Vista, it took me an XP machine to recover it 
+I am very sad that I can not manage my VMware server with OS X... I would need to put VM of XP on my Mac to manage my VMs... WEAK!!!! 
+great...get an error while updating my iPod to OS 3.0  have to go back to 2.0 and reinstall 3.0 from scratch...sigh...
+@voxar Didnt seem to work here.. When I try to open the app first thing it does is to close itself..  Is this a problem only for OS 3.0?
+@steph_a_nie that's good to hear I just got OS 2, but I can't get any new apps for some reason 
+procmon doesn't run on Windows 7 
+The iPhone Skype app has *NOT* Bren tested with OS 3.0: &quot;unsupported OS&quot; popup appears upon connection, and the ext mic is not recognized 
+OS 3.0 is running gr8 but I have to re-install all my apps again 
+#iPhone 3.0 OS is actually slower for me, commonly my apps open to a blank screen until they finally load 
+Just wish I could get my Linux machine to talk to our Windows network 
+@chicuco: I got a motorola s9 to use with my original iPhone and OS 3.0, not knowing the original iPhone didn't support stereo BT 
+@steevdave ubuntu is a POS, imo. I'd rather use almost any distro or OS over it.. 
+Sometimes, You gotta hate #Windows updates. 
+twitterfon was fcking rock solid in iphone OS 2.2.1, now, using OS 3.0: instant crashes, mentions/DMs are not beeing displayed 
+Windows evernote client is a bit clunky compared to OS X 
+I hate building out Windows developer environments. It's like two entire days down the drain. 
+@TNCCinSD been there done that regarding Windows 7 ultimate, just want to know how much to upgrade from win 7 basic is  win 7 rocks!
+@nichelady Well, HTC is the only one that makes them  Then again, they make pretty much every smart phone in the world. I &lt;3 Windows...
+going back to OS X after a forced 5 month hiatus with only my Windows and Linux boxes makes me a happy camper 
+@lewisshepherd Are they using Microsoft Bob as their OS??? 
+trying tweetie OS application - it is cool  i like it
+Purchasing @tweetie for OS X today! 
+@JasonBradbury bootcamp and new macbook pro  for gaming. PC for heating the house and consuming power/running an inferior OS.
+@firebucket I haven't had to reinstall Windows in 5 weeks 
+#ipv6summit - yes Windows OS has &quot;power shell&quot;!! weeeee - how useless 
+@jimmoran Problems with OS X on the Aspire One so far: no sleep &amp; can't shut fan off. You can do both on Windows 7 
+@1sweetwhirl Yes, I would prefer a wild female OS like Leopard too, much more fun, but my job is helping ppl fighting w/ Win 
+@pixelpipe Already on it's way.  Can you also help me with OS 3.0 ?? else I can ask a friend. he is developer to.
+is looking forward to going OS... 7 weeks 
+Installing OS-X on my mom's old laptop. So far so good 
+@Hadramie They should spend money finding a better solution for their OS rather than advertising and making new product  We're Macboys FTW
+@janiugrin It won't be  But I'll have OS 3.0 beta 4 running on mine in an hour 
+@Kichigai Most sites don't make OS X versions of the plugin. We did though! 
+todays line up: more work on OS bluetooth app, a brief stint with Uniservity and if I get time some CS4 tutorials... busy bank holiday 
+Now only with Windows 7 
+@rayvinhsu welcome to win 7. I am sure you will like the new OS but if you have any issues do feel free to ask 
+@henriok not really  Just have to install OS X on a harddrive and get it to boot on schools iMacs.
+@Darqmatter that's not OS x it's just twitter in general 
+@dazjones  the built-in firewall is fully integrated into the OS and plays well with the existing networking technologies and stack
+@randybias absolutely, zfs ftw  nexenta are doing some great stuff with OS + ZFS too as you'd know!
+I was mad..just blaming iTunes 8.2 for not updating my iPhone OS 3.0.Today, I got the point..we need to update OS 3.0 organizer window 
+Twittering from the netbook running Windows 7, very nice 
+I am waiting and literally running a countdown for Iphone 3.0 OS..to arrive for upgrade .. 
+So OSX &amp; Windows are booting together gracefully, with a linux partition ready, with the OS ready to be installed 
+@StefaanLesage Amiga OS4 is been on an off for 10 years now. It's sad. They were 10 years ahead of their time, but that was 20 years ago. 
+I'd have to admit, it was a challenge to work with the Windows command prompt. I kept typing ls for dir, and rm for del. LOL! Linux rules 
+@wvdschel Just curious, what are you working on that needs glib on Symbian? 
+@deconstructo lucky you didnt mistype that &quot;firefox bombs &amp; who cares about OS/2 as a browser OS platform&quot; 
+Going to sleep for the day/night whatever   I really hope to get my pc's back soon, I wanna play with some Windows 7 goodness!
+Just finished my exam and now enjoying Windows 7 
+downloading Windows 7 on desktop 
+@booshtukka MS seem to to get search though(after all these years search on Windows still sucks), so don't sweat it 
+About to install Windows 7 on my old PC... wish me luck! 
+learning how to make movies on Windows movie maker!!!!!!!!!! 
+@IceflowStudios Ya, if there to lazy to upgrade from XP &gt;.&gt; for new IE then i guess to bad...there own fault using crap OS 

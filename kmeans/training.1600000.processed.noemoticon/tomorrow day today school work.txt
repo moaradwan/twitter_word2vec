@@ -1,0 +1,473 @@
+Most common words for this cluster:
+[('tomorrow', 467), ('day', 155), ('today', 53), ('school', 33), ('work', 26), ('time', 25), ('night', 21), ('na', 21), ('tonight', 17), ('week', 16), ('i', 16), ('home', 15)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Tomorrow', 0.9919476509094238), (u'tomorrow', 0.6235277056694031), (u'Tonight', 0.5755491852760315), (u'Tommorrow', 0.5731427669525146), (u'Professor_Orava', 0.5351433753967285), (u'Tomorow', 0.5101953744888306), (u'boxier_Car', 0.5004266500473022), (u'Today', 0.5001460313796997), (u'Tonights', 0.4941648244857788), (u'Tomorrows', 0.4923904538154602)]
+
+
+
+
+
+2 classes til 1:30.. then work til 6. Tomorrow will be a very long day 
+Tomorrow I fly again for the third time this year! I'm starting to get nervous again! 
+Tomorrow I fly again for the eighth time this year! As always I'm starting to get nervous already! 
+Yikes! Tomorrow's race starts at around 8:30am!  Not sure if I am able to wake up that early 
+I wish I was going to see There For Tomorrow tonight 
+Wicked was great! Now to bed. Tomorrow is my last day in the city. 
+Tomorrow I simply must do my anatomy &amp; physiology stuff &amp; attempt math  borinnggg
+Today was completely shot but saw my best friend for a few. Tomorrow really busy with friends &amp; mom.  No homework done. Worked tonight 
+I AM GOING TO SLEEP. Tomorrow is my last day of break  and it is a very busy one so I need my sleep (I say at 2:30 am haha)
+I just got home from church. Tomorrow would be my last day of easter break 
+Good morning everyone... Tomorrow i need to go back to work 
+Boring..don't know what to do! Tomorrow is the first school day 
+Tomorrow: 9am class, 11am dentist app (root canal! arrgh), 5pm meeting. Between 11am-5pm? In pain, perhaps 
+Crap... School Tomorrow... Ughhhh 
+No, I don't think it! Tomorrow school and that's not so fine  I go offline/ ByeBye.?
+@mileysource Tomorrow is school  -.-
+Tomorrow school!!! it sucks 
+Procrastinators: Leaders of Tomorrow tshirt'umun ince esprisini anlamam ne kadar uzun surmus 
+Exam time sucks ...Tomorrow exams, no nothing  
+@RicRaftis oopsy I have been sick this weekend - so brain hasn't been working to write.  Tomorrow or Tues! Kick my b*** otherwise
+Tomorrow is not going to be fun 
+oh Dear!!!!!!!!!!!!!  College Tomorrow!!!!! 
+Survivor mode is crazy!!! ...but its not the same without my friends...   Tomorrow it shall be fun!!
+Tonight....kind of lame. Damn friends bailing and then me bailing  Tomorrow//today?? hopefully mucho better
+Tomorrow the Kentucky Derby 135, didn't make it this year. Really wanting to go next year, I want one of them pretty hats! 
+Waiting 4 better Tomorrow 
+Sunburn  they told me it was gonna rain today those liars. Feels so good to be in bed. Today&gt;&gt;&gt;&gt;&gt;Tomorrow
+I did so bad on calories today. Having a pregnant sister does not help you eat less. Tomorrow is going to be self-punishment... sans kink 
+goodnight twits.     Tomorrow is another day.
+Tomorrow what??yes,thats ScHooL Ughhhhh 
+my maternity leave is over!.. Tomorrow it's back to work.. 
+Today i maybe go watch &quot;hannah montana movie&quot;! And go my friend house. Tomorrow is school 
+is not feeling well... tummy hurts... not used to sleeping this late  had fun with the girls today! Tomorrow: parade of homes w/Peter &lt;3
+It is going to be a rough day. Tomorrow is my first day back at work 
+Tomorrow I have two exams..... 
+brrrr...is very cold... Tomorrow I should get up very early morning...  
+Pool ready for water to be added, a chunk of editing done, gorgeous day and had horses on pasture again today...but no riding.   Tomorrow!
+Tomorrow is going to be tough  
+Tomorrow will be busy! Joining Quilting group --&gt; picking up some medicine for my bunny at the vet --&gt; grocery shopping. Outing day! 
+Tired. One more day of work. Tomorrow is the busiest day for our team though 
+Tomorrow's mother's day! Dang, I don't get to spend it all with my mom 
+@cwpoon You woke up early today? Or should I say, you didn't sleep? It's raining at my place too, but I didn't bother. Tomorrow is MONDAY 
+I feel sad for my mom. Tomorrow is her first mothers day without my nana. 
+@ThePatient94 Tomorrow. 
+Tomorrow is another working day!!!! 
+Tomorrow school  still have to make my homework!
+@stephenfry Tomorrow! 
+Man. Its already 8.30.. Sigh. Tomorrow is monday... 
+Finished my French 2 project!!!!! It is 11:50 in the P.M, and I'm still on the internet. Tomorrow is gonna hurt big time 
+Thanks to a terrible conversation I can't sleep tonight. Tomorrow is going to be hell. Redbull runs galore. 
+Early Start Tomorrow 
+Tomorrow is going to suck. 
+@k8dt Similar here. Odd that. Tomorrow they're warning of v heavy rain. 
+oops. *Tomorrow* is silver surfers day. My cognitive capabilities are declining 
+I'm home now Twittering mode observed.Tomorrow will be a boring day for sure  !
+visited my friends and had a great time!!! Tomorrow, up at 6:00 a.m. 
+I'm tired, but can't sleep. Tomorrow will be a long day! 
+Maths Exam Tomorrow  Booooo 
+School Tomorrow  The Bing Tomorrow night   Bamboo Sticks ahaha
+Tomorrow is going to be really rough 
+Really long weekend.. Tomorrow morning go to the dentist with Kat to have her tooth removed... 
+So tired and finally getting to bed. Today was notna restfull day before back to work. Tomorrow will me rough  night Twitterites
+Calling it a Night it has been a long week3nd and it going to be a long one Tomorrow I'm so not ready for it 
+Got online to see when I start school again.... Tomorrow, damn thats quick 
+Tomorrow is celebrity day. I was going to be taylor swift. A dress and cowboy boots. But i have a field trip 
+I haven't left the house in the last 3 days. Tomorrow might change that 
+The monotony of work isn't helping to inspire me creatively. I need a jump start - Perhaps a small electric shock! Peg drilling Tomorrow! 
+Tomorrow I'm going to the Doctor! SCARY! 
+@nocturnalie Oh that's right. Tomorrow is the day I don't see you at all 
+@basketkace I want a bbq!  Tomorrow is my niece's first birthday!
+Ok now really I am going to sleep!! Tomorrow has the potential to be a long day 
+Tomorrow is my last day in California  But I'm ready to sleep in my bed.
+Tomorrow is back to looking for work. 
+Tomorrow is going to FLY by   I don't think I'm ready to leave yet....my favorite boots are broken (((((((((((x9
+Tomorrow is the store wide inventory.   
+Bedtime.  Tomorrow my brother graduates and my fiance @allenwfarr will be 26!!!  Sad I won't be able to spend it with him 
+Sorry about the lame day of your birth, @ellenmh   Tomorrow, things shall be epic once more.  Here here!
+Off to bed. Tomorrow's going to be a long one. I can feel it already 
+Tomorrow is going to be a miserable day at work... 
+Tomorrow is Bridgets last day at 5news. 
+I go to sleep! Tomorrow I will have a long day! 
+Just now cooling down. Tomorrow is supposed to be even hotter. Blech 
+@dnbauman hahah yeah, i had the same problem. Tomorrow there is a bday dinner for Terry at 7:30 so i don't think we'll see the fight 
+Almost all are here now! Tomorrow at 8 we start! 291km's of mud  - http://mobypicture.com/?zx33t1
+Just had some babi pangang. Now off to friends. Tomorrow it's working time again 
+being bored at home! Tomorrow i've got to work all day! 
+Tomorrow it will be a warm day..  For some reason I don't like the sun that much. xD But I'll go swim! ;D So that's better. xD
+is going to sleep. Tomorrow Exam Review  
+Tomorrow i will have the most difficult teste that i have ever made and i sure that it won't be good 
+Tomorrow is a busy day! Going to get my books for college, get a parking spot, clean out pool, car, and bedroom!!! Then WORK!!! 
+Almost time to fall unconscious... hopefully.  Tomorrow is my last day here in OKC. 
+@momodee Tomorrow afternoon. I know you miss me, cause I miss you too 
+Off to bed. Tomorrow will be day 5 of my 8 day work week. 
+and to the weather now. Tomorrow we'll have a low of 3 and a high of 5 degrees. Thanks Christchurch 
+Graduation Tomorrow er today. yikes. 
+I had a fairly good birthday. Thanks @kieferljh ! Tomorrow should be fun. Another graduation party. Oh, and Spanish project  Blehhh
+Goodmorning! I slept 9 hours, had a strange dream and my nose is still blocked from a little cold  Tomorrow golf, yay!
+Tomorrow is my last day (Of Vacation). I still have loads of shit to do 
+Bad News for ME: Tomorrow is the last day of my summer            (P.S. You don't know how horrible it is for a student like me)
+Tomorrow is my sister's birthday. All her bull people friends are going to be there. 
+Hooray Tomorrow I am going to see the new moon trailer. whoo hooo sad though last eposide of Lauren on the hills!  its been a good 5 years
+Off to get eye exams today and buy boxes.  Tomorrow the basement is being cleaned, packed, and stuff set aside for a yard sale.  FUN 
+Yeah, now its a fact. im not going out today  Tomorrow is a better day!!
+@rebeccakatie Tomorrow, ohhh i wanna see what its like now, i was looking at some pics on facebook and i was like oh  why did u quit?
+Fast&amp;Furious has just randomly started showing on TV. might as well watch that now! Tomorrow is just gonna be for revising 
+fuck. Tomorrow I can't sing. 
+Tomorrow I will go with my friends to do a bit of exercise. I have to up early 
+Heading to bed. Tomorrow I've got to do grad class reading &amp; work on the yearbook from home. It's gotta be a &quot;work day&quot; not a &quot;slack day&quot; 
+It's freaking late!!!  Tomorrow will be much later 
+@emmapattinson, But..  I stayed home because of youuu. I regret it then. Tomorrow then, hmph! Actually no can't! Next weekend. ;l
+@jrmullen Ewwww.  Tomorrow I have a meeting, which isn't the best.  
+has to start the project report. Tomorrow is the submission day. 
+Tomorrow is another day. Another daaaay without him.  http://plurk.com/p/xfarb
+Tomorrow I'll be a crybaby  WHYYYYYY @natdcook
+Tomorrow its going home. It's so sad 
+@scottuk2 Tomorrow is supposed to be the warmest day according to my phones widget. It's been a gr8 weekend despite me working them 
+Tomorrow is a big day and I wont get to sleep enough 
+Tomorrow I have to go back to home..  But I like it so much over here!! I wanna live here the whole week, and in the weekend in R'dam. ;D
+Tomorrow at school  I hate mondays!
+Just got back from Chester...Listening to FTSK and going in shower....School Tomorrow 
+Getting Ready For School Tomorrow :/ 
+@xAbbysarahx What?! Tomorrow?! Bummer! 
+Tomorrow is my last day of school. I have my Chemistry final, and I should be studying, definitely can't focus though 
+Tomorrow is my birthday and my dad still joking with that, is not funny  
+Tomorrow is the funeral  I dread this day
+Tomorrow is my last day of school here... It's kind of sad 
+Tomorrow is going to be super sad..I can' even imagine about it. 
+ARGH School Tomorrow  Stiiiink    xo
+Just spent some good time with great friends! Off to bed! Tomorrow is Monday! 
+@reverz Tomorrow is going to suck  or, excuse me, today.
+I woke up just realizing my history paper is due like... Tomorrow  i didn't start it.
+Oh, I have no sense of time I thought today is sunday. Tomorrow I have to go to work again 
+tired. Spent so long in the city after the signing which we sadly didnt get into  Tomorrow... @vinny_vegas did you get the peanut butter?
+Not first day  ... Tomorrow!
+Tomorrow, the fist day of Final test   OMGEEeeeee I'm sick now  huhuhu  Gotta go to bed early although I haven't study much 
+Pentecost is almost over. Tomorrow I must return to work 
+bycycle totall loss  poor thing! Tomorrow visiting the doctor and have the bike assessed and valued..
+Study time. Tomorrow I have philosophy/chemistry/math test. Oh great, now I'm screwed 
+Home sick today   Tomorrow is big day for News10...more later.
+Tomorrow schooool  boring &amp; i've to perform a drama part and i don't know my lines yet !? I have to play a boy !! :0
+we had maypole practice today for scroll night on weds and we spend all our time in gym on that. Tomorrow 2hrs!!!  I'd rather run a mile.
+Tomorrow could kill me, and i am not kidding 
+speniding a long day at school.  Tomorrow is band practice   but i do have to work first  hey its money
+Tomorrow is my last full day of school, then after that, no more classes with the boy I like a lot. 
+Waiting for train, seriously in need for 2 day break. Tomorrow possibly clean the house, but first let's check how Apollo is doing 
+Princess has problems and I can't get in touch!  Where is technology when you really need it! Tomorrow can't come soon enough. Night, all.
+Tomorrow is public holiday. Perfect day to spend out with family. But i guess ill just stay home since my dad wont feel like going out. 
+My feet really, really hurt  Tomorrow may well be a stay-in-and-be-domestic day. Doing dishes, laundry, and maybe even - HORROR - TIDYING.
+Just watched Avril perform Tomorrow live from a few years back ...  I couldn't stop crying. &lt;/3.
+has become redundant.  Tomorrow I will be joining the ranks of the unemployed!  
+Jon and kate plus eight. Tomorrow is the last day 
+Just get home.. Finally! Tomorrow I need to take my bike to the bike shop becase something is wrong with it. Now is time to study.. Weeee 
+whoaaa I played epically bad tonight...who wants to have soccer practices with me? Tomorrow is going to hurt 
+@JohannaWhyte I Didnt Finish Today.  Ima Finish Tomorrow.
+Off to bed. Tomorrow's a long day, starting at 5.30 am  Good night!
+I didn't run today  Tomorrow is gonna be a hard run day.
+Watching Conan's first show back and then bed....School Tomorrow 
+Last night with Chad for two weeks  Tomorrow's going to be a rough day...
+Bubble bath time! Tomorrow college! 
+Goin to slepp... Tomorrow is the last day to sleep in late.  camp training is wed-fri then next mon is the 1st day of work.
+Tomorrow I need to eat &quot;real&quot; food not just coffee and sugar. 
+All nakie and curled back up in bed. Sorry guys.  Tomorrow hopefully I feel more chipper and rested.
+I have my first exam in roughly 1 1/2 hours. Tomorrow I'll be half way through. Poo 
+Tomorrow = epicly depressing. :/ Seniors 09.    You guys will be deeply missed.   
+Off too shop!! (: .. Tomorrow:S 
+Tomorrow and after 2morrow I must remedial physics and math:'( because I got bad score of this 
+Leaving work and it's 7.24pm. Officially brain dead after full day of pitches. Tomorrow a day at Optus HQ with no contact with outside 
+@molliesmummy That's easy to work out then! I'll be back this week- unfortunately I'm improving!! Tomorrow or Thurs. Still poorly though 
+had a pretty good day yesterday. Tomorrow is set to be the same. Shame about today though  Stuck babysitting...
+Tomorrow is going to be the coldest day in the year!! I'm afraid!!! I don't have any cap, going to buy one with mom after I work!! 
+No revision tonight YAY! Tomorrow starts again 
+My phone broke even more just now.  N-E-WAYS; Tomorrow I'm going to pull my hair back, it'll be cute, &amp;after exams I get it cut!(: Stoked!
+@olivosartstudio I could not to visit your blog  Tomorrow I will  Good Night my dear amiga Claudita.
+@TinaTwinkleToes haha I bought it, installed and have yet to play it.  Tomorrow is another day!  http://myloc.me/2r5x
+Tomorrow is going to be one of the most horrible days ever 
+Tomorrow is gonna be filled with shopping, and hopefully finding that darn dress!! plus I need to get my car fix..brakes are acting up 
+Tomorrow I have test again 
+starting to freak. Tomorrow is the finale of itrockstar.co.nz, will know by this time tomorrow if I go to Paris comfortably or poor 
+Tomorrow is chemistry 
+Tomorrow's gonna be the Orientation for Juniors. That means I have to wake up early again, and go back to school. 
+Tomorrow's my last whole day in Bacolod 
+...Tomorrow we're leaving this beautiful beach.. 
+Tomorrow is the last day of school. I will................cry 
+In bed with my baby dog... He is in a lot of pain so I hope he feels better soon.  Tomorrow is another day at the salon. Make your app ...
+Tomorrow Dexter turns one. He won't be a puppy anymore! 
+@Cherrim Tomorrow, 11am  Oh have you seen my pikachu? :3 http://bit.ly/BvAv6
+Tomorrow is going to be a long-ass day...And not in the good way 
+I just watched 'Prom Night' and enjoyed it better the second time! Tomorrow = up early for work   oh well the Asians need their lessons!
+@JuneBeatz oh no, they announced it is a Double Header Tomorrow!!! 
+Wow. 24 days no updates? I think I had swine flu or just a cold. I haven't been running either  Tomorrow I start again!
+Is 90% done packing and calling it a night. Tomorrow is big moving day...argg...moving is lame. 
+Uh oh! Maintenance in 15 min! That means no tweets for a hour.  my eye is bothering me tons! Tomorrow should be fun...
+I survived the 5:30am to 8:00pm camp today. Tomorrow 7:00am till about 10 :00pm....pray for me!!! My body hurts 
+Tonight: breakfast from Jack in the Box.  Tomorrow: Work 
+Tomorrow is my 28th birthday and still over 300 pounds. So disappointed!! 
+On the sunniest week in an age, i've managed to pick up a debilitating strain of swine/manflu (swanflu?) Tomorrow's w200 not looking good 
+Tomorrow is going to be the last day of summer! 
+What a disappointing women's French Open final.  Tomorrow will be a better day, I hope!
+Doing something interesting... Filing tax returns..     Tomorrow, going to a pistol match shoot.
+@minimoes I would if I weren't at work.  Tomorrow though - I'll play catch up! ;)
+Going for a run... Tomorrow will probably be cloudy 
+Tomorrow is going to be extremely difficult. Prayers would be good, if you please. 
+I wish I had at least one person that I could talk to about anything....  Not watching Alpha Dog tonight. Tomorrow instead.
+@Sherry2227 AAAAAAAHHH I want wine!! Tomorrow! 
+I miss Nitin.   Tomorrow can't come soon enough.
+Tomorrow is a big day. I will not be home until monday. I repeat, It is unlikely that I will be near a computer at all tomorrow!!! 
+Tomorrow is awards ceremony. Don't think we will win anything. Audience choice votes have to be in by 3. Tomorrows screening ends at 3:30 
+Tomorrow is monday. nooo!  I need sleep
+Up and needs to do revision today.... History Exam Tomorrow, oh poo 
+agh, one exam left. Tomorrow  studying suxkxxxxxxxx
+The library is *not* open today...  Tomorrow then. *sigh*
+gawd. Start of Classes Tomorrow. ugh. not really excited. Goodbye unlimited online hours. 
+@joshuawhite Tomorrow the 8th! Of course, they could say there is nothing 
+Enjoying my last day of vacation with the kids.  Tomorrow, back to the grind.... 
+       Sunny Again        Work Tomorrow  :-|       TV Tonight
+Nothing .. Been Bring Today  Yanooo  ...  School Tomorrow &gt;  ....
+Tomorrow is the last full day at STerling. Aw. 
+Frustrations in the air!! Tomorrow i have to work! 
+Studying in bed while everyone is going out  Tomorrow final exam and then it's waiting time aka nerve wrecking...
+is a dancer not a sitter  Watching the dance recital and then getting some much needed sleep. Tomorrow is a funfunfun day!!!!....
+Finally I read all of dermatolagy... I got a deserved sunday rest! Tomorrow back to work 
+Tomorrow early to work 
+Wahhh it's 1 am and I can't sleep  Tomorrow's school.. hmpf, very bad.
+Is Not looking forward to his sociology test Tomorrow 
+Tomorrow is going to be a painful work day with my f'ed up ankle. 
+4 day weekend continues. Tomorrow is day 4 though 
+Tomorrow is the last day until November       
+Tomorrow i am going to school  buu i hate the school
+Tomorrow is my last regular day of schoool  but then I have review day and exams...  bcfjrepwlsxjfru bedddd
+Tomorrow is the start of another work week. 
+Tomorrow is MONDAY  It's going to be a busy week of work, work,work! Good night!
+Wishes that being sick hadn't put a huge damper on today.  what a week though!! Tomorrow is definitely a day of recovery.
+Up late, time for bed. Tomorrow morning my parents leave from visiting us 
+waiting for mt sleep to come.. I cant sleep, so lets think about life, maybe.. Tomorrow I have school 
+Tomorrow s goingt bea loooooooong --&gt;BORING&lt;--- day.  I can't wait...
+Tomorrow -- 20 mins from now -- is my last day of not being old. 24 hrs and 20 minutes from being 50. The charcoal gray sky is falling. 
+Tomorrow is a holiday. Smart people took today off to have a long weekend. I wasn't  one of them 
+@kries Feel better.  @shwS Tomorrow is my last day whooo
+@chicogarcia Totoong masakit siya since sa muscle siya tinutusok. Tomorrow will be worse. 
+@chunkofplastic Tomorrow 
+@lilyjay Tomorrow, i've got a test in the hospital in the morning, and then i'm off home in the afternoon 
+I'm off... Tomorrow, we have to run 1000 km for P.E. class... You know how much I hate it... 
+Tomorrow will be the graduation. It will be a difficult day for children and teachers(like me) too. 
+wish I could be in tehran now  left yesterday. Where is my vote? Tomorrow protest hamburg embassy
+Another exciting day at SSA. Tomorrow back to training 
+Tomorrow morning I'm goin' to have another check to the dentist...I'm so scared 
+Tomorrow is not gonna be a good day either 
+Tomorrow is my b-day and I have exams  What a good present.
+Going to sleep.Tomorrow the routine again, buu 
+Today was painfully boring. Tomorrow should be just painful in general. 
+Tomorrow's finals: Precalc &amp; orchestra. I wish I had enough memory space in my brain to memorize the formulas 
+Tomorrow will be a long day. 
+@missgiggly oh yes I adore you, thank u! Tomorrow will be a no, reports are sitting on my desk untouched. I'm sorry. Really would love to 
+Just turned in the last written assignment. Tomorrow is the very last exam - the oral one -  hate oral exams!  Wish me all the best!
+@HilaryPerkins Wow. Tomorrow we tie our record for &quot;days without rain&quot;. I miss the rain. Sorry you have too much! 
+Tomorrow iAchieve would be 2 weeks in review - new record! 
+Lunch ... Tomorrow geometry test ! I have to study 
+I broke my spectacles during my camp in Bangalore  Tomorrow I have to manage the whole day in class without it 
+http://twitpic.com/7k7gv - I miss my mama so much  Tomorrow, finally she is here
+On a beauty farm right now - it's my last day/evening... very sad - never been such goodlooking like today. Tomorrow I have to go home 
+i dont feel really good! Tomorrow is bothering me! 
+Bah! Tomorrow's last day of pulling the dreaded staples!  lol. Only bad thing, the person I hang out with most is going to the beach. 
+@mrsduryee Thanks so much!  It is really exhausting. Tomorrow will be 3 months since I lost my job.  But Spain calls you...yay! 
+Today was a no camera day, missed it. Jury duty, etc....    Tomorrow the randomizer will choose another function or subject to work with.
+I screwed up royally. Probably won't sleep much tonight. Tomorrow is not going to be a good day.  Prayers/good thoughts appreciated.
+If my quads are sore now... Tomorrow will be interesting. I did shave off 5mins on my mile run from the day before. Only ate 5 meals tho 
+Am so ready to go home and sleep. Tomorrow morning is going to suck. 
+Tomorrow is gonna be a looong F'ing day 
+Cannot sleep and is waking up in 6 short hours for water polo practice. Tomorrow morning will not be fun. 
+Almost 230 - just got home. Tomorrow will suck 
+Tomorrow is the big day for Luke!!! I wonder if he will be act different... kind of sad to take his manhood away!! 
+Finally going to bed and yes its almost 3. Tomorrow is going to be a long day  I miss my husband too. Overwhelmed.
+Made it back safe. No accidents this year! Yeah! But I'm sad... back to work Tomorrow 
+Tomorrow's the beginning of a loooong week.. 
+is bummed.  Last day of vacation, checkout is in 1 hour.  Tomorrow, back to hell  http://plurk.com/p/11nbjg
+@RobbieTheGeek - I did not know there was a #drupal meetup today. Tomorrow I have a prior meetup in #newyork. I know I suck 
+Tomorrow i go to work in proxi pfff it's so bad! I hate that! but i start at 9:00 and i finish at 17:30! 
+I'm goin' to read civics and history. Tomorrow I'll be tasted. 
+Its my last few hours of being 30...eeek! 31 Tomorrow 
+Tomorrow's show guest may be MIA...and we were planning champagne and everything for our 1 year anniv. 
+Relaxing cuz my finals are over! Yay!Tomorrow's the last day of school! I'll miss everyone over the summer.  I'll keep in touch w/twitter.
+@CupcakeZombie I feel the same  Tomorrow will be better, I hope.
+@skubastevee @jerry321999 It's a two-part process. Today was cleaning and getting an impression. Tomorrow, I get the inlay 
+Tomorrow is the last day that my local Starbucks is open. I have to travel an extra 4 minutes now to get an iced mocha. 
+Off to bed early...stupid long last day at work.    Tomorrow is going to suck greatly...
+Preparing Myself For Tomorrow  i really need ur kisses (L)
+Tomorrow is my last day of camp  But I'll make the best of it!
+Tomorrow is my mom's birthday! I have no idea what to get her/what to do for her! AHHH. 
+bedtime for me. Tomorrow=starting to move into my place &amp; probably spending the majority of the day doing homework(since there's so much) 
+Really want to go to Midnight Youth Tomorrow!! 
+my mom and i kicked some serious ass tonight. HUNDREDS and HUNDREDS of gallons of water, virtually by hand. Tomorrow, we toss everything 
+In the movies, the screen is tiny! I am loving coke right now which is realllly bad  Tomorrow will be exciting/scary.
+Tomorrow we will go shopping YESH! hope the weather will be a lil bit clearer.. so I can see where I'm walking. miss you guys too 
+Tomorrow is the beginning of the end 
+Tomorrow Music Test  
+SHOOT. Tomorrow got lunch with family. 
+@XCassholeX *waves back* Tomorrow's thing is canceled 
+Tomorrow darryn has a primary fun day   she begged me to stay home so I could watch her...but I can't 
+back from meeting Heinsberg. Tomorrow kickoff euPrevent MRSA, then it'll be all over... oh wait....not... 
+Tomorrow I go to the fitness-studio, then I must learning employment law for my exam 
+@DonnieWahlberg ~ Tomorrow is going to be an emotional day for me...seeing you for the last time as far as I know. My heart hurts 
+Oh man.. Tomorrow i have to stay on school till 5 pm! SICKO'S!! Child abuse. 
+Today is the last day Remi will be five. Tomorrow, she'll be in a whole new demographic 
+Tomorrow another Celine fitting. And my ankle is soooo swollen 
+Tomorrow I will be 30, goodbye 20's 
+T minus one more day till gradation time! Tomorrow will be such a sad day! 
+Well today was fun at scout day camp....big storm kids inside lightening hit tree almost hit my truck. Tomorrow is last day of this camp 
+I'm alone now  oh well, Tomorrow is another day.
+just watched &quot;Life After Tomorrow&quot;....wow, i feel so sad 
+A late dinner + getting too comfy = no Fringe tonight.  Tomorrow I will be better organized!
+Tomorrow is the last day of my childhood. High school as we know it is over ladies. 
+WOW I havent been on all day! I got my Dolce purse I wanted! SOO cute! Tomorrow is our last day on vaca then we drive back saturday 
+@Nikaz Ah, so that's why I haven't heard from you yet. Going to bed soon. Tomorrow promises to be aggravating. 
+Fabulous dinner with a great friend!  Tomorrow, Hedwig and more goodbyes!  
+My back is hurting me more then usual tonight  I'm NOT liking this pain at all.. errr.. Tomorrow is coming soon! YAY..
+Beer  not til Tomorrow. Stop teasing me.
+due to family issues today, i missed gym.  Tomorrow i'm doing a 2 sesh since i cant leave chula vista  Hike saturday, so fucking stoked!!!
+Goodnight!! Tonight was fun! I'm soooo glad i go to see my big sis!! Tomorrow is my last day at the beach 
+haha Goodnight!! Tonight was fun! I'm soooo glad i go to see my big sis!! Tomorrow is my last day at the beach  http://tinyurl.com/ng9pq7
+Last day @work.. Tomorrow 1week to ischia.. raining? 
+Tomorrow I have a soccer game, I feel bad cause I missed like 2 weeks of it 
+My son is sick with the stomach flu. I just hope nobody else catches it. Tomorrow is my daughters ballet show  She worked so hard all year
+@URIENATOR oawww yeah (: looking forward too it. Tomorrow won't be as good without you 
+Uh no! Tomorrow we'll know who'll be pass and fail on National Exam! 
+is so good to be home. Tomorrow is gonna be sad. 
+Today is going by soooo sloooowwww. Tomorrow can't come soon enough. But I'm gonna miss @madasnicole. 11 days. Poop 
+Tomorrow is my little sister @diannabee's 21st birthday! And I took the day off!!! But I'm not gonna see her  sadness.
+No info on FNM at novarock  Maybe later. Tomorrow going to sonipshere with @antoinek I will try to send pics. http://tinyurl.com/m3398t
+@LiverpoolFan74 Tomorrow I am doing the house  then sunday I have my awesome shoot which I'm really looking forward to you?
+Storm chase &amp; streaming ops are a no-go today.  Tomorrow looks iffy.  Next week hot and dry.  The heart of the chase season appears over 
+Another great day on the sea. Tonight, more go karts. Tomorrow, bye bye beach 
+Tomorrow marks my 21st day away from &quot;home&quot;.  Every time I come back to YVR it reminds me how much I miss it.  YYC FTL. 
+EMS CALL tonight and 16HRS Tomorrow 
+My girls just left .. Totally crying ..  .. I need a break but man i dont like being away  .. Tomorrow cant come any sooner
+Tomorrow I have a friend &quot;date&quot; love those almost as much fun as a real date - well maybe more fun but no xes 
+Tomorrow is the Piratefest. It is going to be weird going by myself  But I'll try to enjoy myself 
+@xmts Haha!! Tomorrow!! LOL!! But if I can't get the damn vid to load IDK!! I was gonna make vids since I can't blog tv! 
+Tomorrow i be one of the guys, D is not going with us to Duinrell anymore 
+Tomorrow's father's day, I miss my Dad! 
+Tomorrow is a hectic day!  have to blog about flash mob tonight!
+Tomorrow would have been my friend's birthday 
+Think I'm gonna go see a movie to beat this heat.  Tomorrow I have to take a 4 year old to the zoo. It's gonna be soooo hot out. ick. 
+Tomorrow's going to come too soon 
+oft F1 Grand Prix qualifying was good,   hamilton Starting 19th Tomorrow 
+Tomorrow is gonna be kinda hard to get through. I really miss my dad 
+@Missilovemusik Sorry to hear that  Tomorrow will be better!
+Tomorrow's weather forecast is ridiculously hot.  I'm going to burn to a crisp 
+To bed, to bed... restless AND tired at the same time... the air is very close in here tonight. Tomorrow i work ~ 
+Tomorrow is the last day of RSCM STL 2009... 
+I felt super sick today . . runny nose, soar throat, my stomach hurt, aye.  . . But . . I miss my Luis. Tomorrow should be fun!
+Biked 65 miles into fallon today. Tomorrow the north and south routes split 
+Tomorrow is going to be so busy. D: Sometimes I just want to stay home and do nothing. 
+Tomorrow I will start the two day fasting of Juices to clean my system. Oh what fun. 
+Off to bed with all my tags done for the night. Tomorrow I'm re-working my entire website. Hopefully it will look better. I don't like it 
+Its 10pm sunday in malaysia. Tomorrow is boring monday and i felt so miserale now thinking about it! 
+@ddlovato Tomorrow begins my examination of maturity ... I'm fear .. do not sleep tonight 
+@TerryJamesT Tomorrow is good. Sucks you have to drive back.  When is your exam now? If you're in town tomorrow night want to have dinner?
+@arkbites1  This is turning out to be a great game. Tomorrow holds promise!
+@feathersong Sorry you won't be going home today.  Tomorrow?
+Tomorrow is the viewing  I'll probably run into some familiar faces....
+@autumncoursey   Tomorrow will be better!  Or heck, maybe even tonight.. get started on season 3! ;)
+Anyway. Tomorrow  ahaaam, @eeicaari I need u, I need talk about it 
+Loving mission possible. Tomorrow is the last day though 
+Tomorrow is going to suuuuuuuuck...anatomy midterm 
+ My fish got sick today. Tomorrow I will know how many survived.
+Tomorrow will be a sad day. 
+Its 3am and i haven't slept at all. The few moments i did drift away i had terrible dreams. Tomorrow is going to be a long day. 
+Totally cant sleep again and im not happy the movers are coming... Tomorrow! Or as it seems today... 
+Tomorrow ill get my windshield they are short staff  it just gos with today
+Tomorrow is my friday!  +it's a late day for me. Thank goodness. 
+Tomorrow we'll gonna have Feijoda at the Office 
+@JohannaBD Oh, no - one of those days! I hate those days. Tomorrow will be better, it usually is 
+I'm thinking tomorrow will be harder than today. Tomorrow for sure i'll be counting down the hours til the work day is over. 
+@tarabrock Womens prayer this am...Tomorrow is mens 
+Hmmh, Boredd! Tomorrow should be good  Xx
+Awesome weather today. Tomorrow will be even better 
+Tomorrow looks like ideal poolside weather 
+Today's projects were strawberry jam and simple vanilla ice cream.  Tomorrow, we'll try walnut bread 
+Tomorrow is another day 
+@nattybaby I must have it. Tomorrow I shall venture forth into the world and cop the so-called dopeness.  For now... I must sleep. I must.
+Didn't make it as a Telletubby but did make it backstage  wonderful night.... Tomorrow, watch out!
+Goodniiiiight.  Tomorrow is going to be a fantastic day.  
+Its 4 AM and I'm awake? Crazyness... Tomorrow..well today... is a busy busy day! fantastic buenas noches   back to bed! 
+Finishing up lunch, doing some laundry, getting ready for Rae's bday dinner and then relaxing! Tomorrow will be exciting 
+Tomorrow Demi in Madrid  I didn't win the concert to meet her LOL!
+Tomorrow is gonna be awesome Rocker 
+@wendywings  actually just as well was extracaffeinated as was required to spring a plenty through the day! Tomorrow is a fresh start 
+The time has come to say good night to everyone. Tomorrow is here today we just can't see it. Yet, tomorrow is ours.. LOL 
+@tbsnewagain woooooo! Tomorrow! 
+i am beyond ready for bed. Tomorrow should be a beautiful day and i have it off, YAY!! 
+i can't wait for TV Hits To Come Out Tomorrow 
+@YoungCash no drinks tonight! Tomorrow night for sure   most likely rhum &amp; coke, and possibly shots, any suggestions?
+About to sleep. Tomorrow all the festivities begin  im super stoked 
+I go to sleep.. Tomorrow my bff's birthday 
+remember when I said, &quot;Tomorrow should be lovely&quot;...... well.. it was. 
+Tomorrow's gig review has appeared on a specialist forum in advance of publication - and is getting some very nice reviews from the fans 
+Tomorrow is shave dayyy. Hm still dont know if im goin'. We'll see 
+Tomorrow off! Yesssssah. Employment is great, but days off are made os sugar and spice and EVERYTHING nice! 
+@SKJiro I fixed it! And yes, met the girls! I had fun and they were very sweet. Tomorrow karaoke. Room for two more...7pm-9pm! 
+Listening music and making homework. Tomorrow to Walibi-world or Burnside 
+I am so excited that I don't have Chem Lab Tomorrow!! yaaay!! one class at 10:30 then no class till 3! What an easy day!  
+Tomorrow will be my 6th straight day of working! Ugh, all I can think about is the $$$ 
+is crashing now. Tomorrow consists of studying &amp; night raves w/ @imjustlonely &amp; @lomonette 
+I'm gonna stop hogging the laptop for tonight. Tomorrow again, twitterers! 
+Tomorrow's mother's day. I need to get all my crap together soon.. Noor left, It was fun  it's been NINE months!
+Geeze- I'm just wondering what is wrong with some people. I either need to go for a run or go to sleep. Tomorrow should be a fun day. 
+Ugh! I have to sleep! Tomorrow I will sttart my photobook for my Jonas' concert!  Its just in 1 week, 4 days and 16 hours (:
+@suzyqbee He says he feels mama tucking him in at night  He's lonely but getting by. Tomorrow will be tough!
+Tomorrow is house shopping... 
+great night hangin out with my family... mom and dad loved the extra company tonight!  can't wait for FRC Pcola Tomorrow
+Tomorrow i mean anna 
+@heartshockey I'm actually updating the staff DLT page. Procrastinators unite! (Tomorrow) 
+Whaat can I do?It's so boring today...Tomorrow driving test and shopping 
+After another great day I'm off to bed! Tomorrow I get to spend time with @calekassel  good luck on your med school final!
+Woot!  Tomorrow is my birthday!  
+Tomorrow: Hopefully going for sushi, buying paint, working on a dress and Columbia shorts, run by Campus. Annndd... maybe crochet  YAY
+Tomorrow we give out stuff to the boys. It's only fair 
+Last day of school this week. Tomorrow is prom. 
+I would really prefer it if it wasn't raining. I have a lot of stuff to carry in today.  Oh well.  Tomorrow is supposed to be beautiful! 
+I'm happy that the end of the week kinds snuck out on me  yes! Tomorrow is Friday! Going to bed now.
+The dogs asleep and I get some alonetime infront of the computer, nice!  Tomorrow it's all about drinkin', 2 weeks of soberness *ashamed*
+went to the street fair today...spent way too much money and got sunburnt. But being in the sun was worth it. Tomorrow= 77 degrees 
+I'm tired...night tweeps! Tomorrow is Spelman's graduation...can't wait to sing the sweetheart song with my babies 
+Nite twitterville.... Tomorrow is approachn fast until then xxoo 
+Tomorrow i'll seeing my mom after so long. Mmmm.. from now nervous and excited at the same time 
+Ate too much during the weekend and is really tired! Tomorrow some exercises 
+9 awesome months, baby!!!  Tomorrow, we cook 
+tweet tweet, twiddly dee.  Tomorrow is officially the first day of the last week of school. yahoo!
+Tomorrow I'm going to do ADIML. 
+Tomorrow I plan to make new pendants. New colors and designs  Today I have to go to work...
+@SKDickey yea, it helps, but really I just want to get through today.  Tomorrow should start turning things around 
+Tomorrow i have Security training all day 
+@LetitiaIvy Exam tomorrow as well... Tomorrow is when the fun starts 
+Spent the day inundated with Uni assignments. Tomorrow I get to spend the morning in Kiama doing some on-site training and then shopping 
+Tomorrow is Friday! this week has gone by so fast,its amazing.  Goodnight 
+Tomorrow I will be 11 months old, tweeps! 
+Picnic Tomorrow   I can't wait,. everyone welcome to come along.
+Update   all good, flood holding at photo levels and they have been out and about in the dinghy. Tomorrow &amp; more rain is the question?
+Tomorrow will be fun !! Besoffski ! 
+Oh WAIT! I almost forgot!!! Tomorrow is #alohafriday !!! Mainlanders may do #followfriday but for me its all about sharing the aloha! 
+Tomorrow shall be a happy, happy day despite that I am sick. It shall be 
+Tomorrow  happy birthday party to me!
+Tomorrow is one more day closer to the rest of my life with him. Bring it on 
+Best thing about weights and trx run tonight? Tomorrow is a Rest day! translation: After work I'm free to do as I please 
+@bryanbeller thanks, B. Tomorrow is big sleeps day 
+Tomorrow's blog post:  a whole lotta link love!  
+Tomorrow is my last day at BMI...it's been a great ride west hollywood 
+Thinking about her. Tomorrow should be a good day. 
+Tomorrow... I will be rich  Just say'n. Positive imagery.
+Tomorrow is going to be so much fun! Friends are going to visit me in prison. Yeah!!! 
+@redcloudiiv It's all good  Tomorrow will be fun.
+sleep time! EXHASTING day. Tomorrow will only be worse. BUHHH. BUT Jesus is so wonderfully amazing.  HILLSONG is coming to Bham TOMORROW!
+Tried to finish my book today, didn't happen I still have about 50 more to go! Tomorrow it will b done! Off to bed no work in the am 
+So, here's to slight sunburns, 34+ daycampers, not-so-late nights &amp; please. Twas a good day. Tomorrow will be better. Date night!! 
+Tomorrow im gonna start my work-out routine again!! I promise 
+Tomorrow: School. Hot springs. YOU!  holy shit I'm stoked.
+Tomorrow a wonderful day  can't wait to see you
+Tomorrow is going to be a wonderful day...good nite everyone 
+Tomorrow lakers will finish the series  gonna start to use facebook often!

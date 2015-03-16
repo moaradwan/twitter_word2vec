@@ -1,0 +1,369 @@
+Most common words for this cluster:
+[('mail', 316), ('e', 78), ('mails', 30), ('junk', 16), ('today', 15), ('address', 13), ('lol', 11), ('u', 10), ('amp', 9), ('voice', 8), ('spam', 8), ('day', 7)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'mail', 0.9151597619056702), (u'Invalid_E', 0.7234073281288147), (u'mails', 0.6905553340911865), (u'mailbox', 0.671859860420227), (u'mailing', 0.6690940856933594), (u'Info_###.#######', 0.6553633213043213), (u'Memos_invoices', 0.6537147164344788), (u'srivera@th-record.com', 0.6487548351287842), (u'Zapatec_AJAX_E', 0.6448341608047485), (u'Tel_+##-###-#######_E', 0.6418934464454651)]
+
+
+
+
+
+hates waiting for mails 
+Where's my mail? 
+not a good moment for my e-mail to stop working 
+... has hit a writer's block .. am loosing my touch when it comes to sending nasty mails.. or rather replies!  
+Sending a 10mb file using mail  but nvrmnd, I'm finished with that project now.wooohoooo *celebrates*
+I get spam mails more than real mails,what to do ?       hahahhahahah
+my mail is not working &amp; I can't find my blackberry...  I feel disconnected form the world! 
+going through my mails sorting them out - I have been avoiding to reply to few for too long... 
+I broke my mail client by being a n00b 
+Between my browser and my mail servers, I'm never going to catch up on my e-mails. f I owe you e-mail, please don't hate me if it's late. 
+@ryanbecker79 I might be right behind you.  I got the questionnaire in the mail last week  .
+I have to have a new e-mail address    At&amp;t is making me... bullies!
+@bigfatphoenix : haven't checked mail. Hyoeractive day 
+just read ur mail again..and just realized how stupid i was. it was too sudden and so long at the same time, lief.. stupid me. 
+More hate mail  Apparently i have a terrible voice  can you guys leave good comments and make me feel better ?
+@sdresser why won't mail mail app work? 
+@ucealmighty - how odd, I never get mail  but, I'm still a happy customer! 
+wow, i am such an email sucker. i get so excited when i see the little red dot indicating new mail, and then its always from petsmart 
+@nick_carter Why aren't you twittering anymore? It wasn't our fault that you gave out your number and e-mail. I miss you 
+testing some automated mail notifications, but mail server seems to be pretty slow 
+@ModernClassics I hate the USPS they've destroyed far too many of our packages too 
+you've got mail. i love sappy movies.  but...meg ryan's walk always annoys me.
+@alsointocats well jfc you have to tell me, i won't get it in the mail for a few weeks 
+The person said I didn't answer her mail... But I always answer mails and can't find a complaint about it  I am sad 
+223 e-mails. since , like when did i last check it? forgetful... too bad. 
+@strawbrykiwi I was sooooo tempted to buy it and mail it to you but I had no cash on me. 
+Now stupid fax no ink, even more TENSI!! 
+@AnnLinny  I'll try to get back to your e-mail as soon as I can! I won't forget!! Even if it might take me a little longer!!! miss you 
+@fergusb was looking at postbox but did not integrate with cal and contacts 
+@sachz doh!! wish I could share, but produce through the mail would be tragic 
+sad because my e-mail to alex was blocked 
+@merrygentry nah, I'll dl it. Stiiiil haven't recieved any mail from you... 
+@Rockergirl75 my mail is so slooooow sometimes 
+@a forgot a fix in that request_decoding patch mail I sent you  resending.
+@mommyallred I turn it on my phone but no mail is being sent so I have nothing to reply to 
+@honigkeks ooohhh   get well soon honey ! ( ps : you got a mail )
+bad_mail_day == no_goodie_mail; 
+I tried to guess an e-mail address. I guessed wrongly. 
+Doing some e-mail stuff...replying to some frineds and seeing if I have any messages here or not....looks like not 
+@Becksyjo nope   sent you a direct mail......fingers crossed i have a buyer at work!
+sifting office...no net..no mail..no blogging...chaaro or kachara, wires....  
+@spencerpratt Why do i Always get the voice mail n no option to leave a msg    
+arg! how do you delete a contact from your mac Mail address book? ffs. am i thick or something? 
+No mail for me today 
+The stamps I bought online never came.  USPS fail.
+@abguerraartist  I am not a pussy! damnit!  [sending you an e-mail right now btw]
+looks like the eprocurement e-mail address from office mate is blacklisted by IT here.. asking them to whitelist now. 
+@Juicytots you getting a ton of spam mail into your inbox?? I am too.... driving me insane!! 
+@awaisnaseer I had mailed @badar76 for something, you got the e-mail, I didn't which should probly mean I won't get it 
+@fmpug doh! I'm out of town so I can't get my results from the mail 
+I have not recieved any mail in over a month  life is boring
+Why does flickr no longer recognize my e-mail addresses.  I can't log in. 
+@GogDog I had sent you an e-mail 
+@savagemic @MailChimp hired all the smart monkeys for e-mail marketing... 
+Trying to got through my 3,000 + unread e-mail messages. Looks like this what I'll be doing for the rest of the evening. 
+@kathryntft Ahh dang of course it had to do that  She better e-mail you back fast!
+@Hockeyvampiress glad you have a squeee moment good for you-- I just got bills in the mail 
+E-Mail: this just happened to me today!!  http://diddit.com/r/skkvmrf
+@kacymariemae when you're gone in less than 2 years  , send me some in the mail !
+@erinwarde I guess my invite was lost in the mail? 
+No mail in the inbox 
+@Consticat  nope still missing...I've put up notes at the rural mailboxes I miss him so much 
+@kikimarie593 I miss it too.  I keep getting banned. Lol, I ran out of e-mail adresses to make anymore accounts...
+@redbeancc44 She's sending copy of records &amp; article via snail mail, then I will scan &amp; send to you.  She's been laid up ... her back 
+@RalphBassfeld mail app kept crashing here for some reason. Specially with multiple imap accounts  Thbird is stable. And themes too!
+So behind on e-mail. 
+Yesterday, i top posted mail reply in one of the linux mailing list 
+need to tidy before we drown under old carrier bags and junk mail 
+Not a great mail day today...grrr...just junk mail...no freebies 
+Nothing in the mail yet 
+is disappointed.  No dvd in mail.....     Wish I was riding a horse!
+No new mails. I wanted to read some 
+@songzyuuup When I called the mailbox was full  That sucks!
+nextel blackberry is 250 as well and both have 100 mail in rebate wtf guys which one should i get 
+@matildajones alright, chick. when you're ready, drop me a mail. @louise_hendy 
+@alannnakalb i doontt ave brians e-mail  yess omgg were hanging outt eerrryyy day!
+http://twitpic.com/6cc3z - Too many e-mails! 
+@BrittAshley nope  I'm phoneless...if you need me you have to tweet, fb, or e-mail
+My 1st paycheck seems to have been lost in the mail. Now I cannot afford to pay my rent tomorrow. I am sad. 
+@hennesy1980 if it goes right to voice mail that means its off 
+@Rygie aww  did u get our voice mail last night??
+I'm not looking forward to the email and voice mail overload tomorrow  bye bye vacation...
+back from fab holiday!  now just have to sort through tons of e-mail crap 
+@webexpo registracni mail porad nedosel, nemuzu to zaplatit 
+@megaaanftw  good thing is. i can e-mail you it  then you can keep it forever x
+i think i angered the internet cause i have a lot of junk mail!!!10 new mails in this morn woo! window estimates from experts!?!?! ....no 
+i think i angered the internet cause i have a lot of junk mail!! 10 new mails this morning woo! window estimates from experts!?!?! ....no 
+I hope our DVDs show up in the mail today. They don't have the option to overnight the. 
+up &amp; everything hurts, bball should be fun  finally got my check in the mail from the elections got paid $12 more  going to eat now!
+@krystlechow  I think at this point I would just set up a filter to put it straight in my e-mail's junk mail or trash folder.
+I wish I was still at the age where I got real mail and not just bills 
+@MikeSheaAP I still haven't gotten my blink issue in the mail 
+@Hyperspecialbd If u mailed me &amp; i missed it pls mail again.. mail servers r up &amp; down since friday tho 
+no me llegan mails 
+note to self always check garage for mails to avoid late fees 
+i need to print 120 pages of my manuscripts and mail them before the post office closes and my printer is extremely slow. 
+@ThePrincessBee Your message didn't show up cause your not following me  e mail me and i'll send you my number...let's have lunch soon!
+@vaughnchicago man, I was just thinking of all the  mean mail she must have gotten - and then it's all over and you crash. 
+feeling miserable about an e-mail sent to a co-worker 
+wish to put junk mail in the dumpster, but apparently it's not prudent 
+wish to put junk mail in the dumpster, but apparently it's not prudent  decisions, decisions ;-)
+aww I'm broke this week! No more shopping for me, no more packages in the mail!  How can I get freebies? lol!
+@vk2422 it went straight to his voice mail. 
+oh i'm worried. I should always do confirmation on mail 
+@RespectMileyC what's your e-mail.... it says it needs your e-mail before i can add you 
+@mayajayy well you cant get an autograph, if i cant mail it to you  and to mail it i need your mailing information.
+It's depressing when I check my inbox and there's no new mail 
+Experiencing e-mail difficulties 
+#hosteurope e-mail down  nervt
+@ChristopherM and mail didnt even go through  failed ggrrrr
+809 mails de spam 
+my @barelyblind cd came in the mail today! but i forgot it at home 
+@DaniSssss guess who got their summons in the mail this weekend 
+hates waiting on the mail and the fact there is a chance I may not even see the package I ordered! 
+@BeckyMCFC E-mail &amp; out of nowhere? Horrible  I hope you get some answers from them...
+@preciousiscool yay! go phreshy phresh! I miss you! and i want a box in the mail! 
+the mailman would do that to me. 
+@xoxo_steppie I don't do the stamps anymore  I need everything weighed at the post office&amp; then they put on a generic sticker with postage
+i hate really dislike junk mail that promise you products they won't supply without something in return 
+@fossiloflife same here, one mail every morning 
+look... if I have not replied back to you I am sorry, I just got a nasty e-mail from someone, I really am trying to keep up!!!! 
+167 unread mails  :O
+Yay we actually got mail today!! but.. no t-shirts. 
+Just accidentally posted a tech support e-mail reply to my blog. A post by e-mail embarrassment. 
+no mail = epic fail 
+Where is the mailman... ? 
+packing up a million packages for the post tomorrow, ran out of priority mail envelopes 
+just received results from the mailbox 
+@G4Webbhead I don't have a fan mail address  as of now. sorry. if I get one I'll let you know
+@bevanjon74 what r they playing at? Answers on a postcard 
+I can't get on my yahoo mail guys  I think some1 hacked me because my pass was working fine earlier!!
+@bucknellbutters i havent gotten mail in the past 3 days 
+@mintwich I have a epson r280, it was supposed to be free after mail-in rebate, but I sent in the form too late. 
+@medscholar08 send me again.. :9 didnt received ur mail or may b it was in junk??  plzz send me again
+Why do I have so much spam mail? 442 new spam messages in less than 10 minutes 
+anyone got a copy of #jquery uitools #expose they can e-mail me? their site has been down a while now 
+Working my way through a lot of e-mail and snail mail 
+I got a book in the mail from someone, but don't know who   I'll have to hunts the internets to figure it out. lol
+@ElyjahRasta no I live in west covina so I guess it isn't the same mail man  lol  http://myloc.me/2OVl
+@remcognr - by mail, they won't respond to my emails to deliver it and I can't get it digitally, i dont know what else I can do! 
+@MrFlungabunga when it starts beatboxing and receiving cheque's in the mail - it's time to move on 
+@flybitty forgot to put ur letter in the mail today. 
+Ugh! Italian martini recipe in my g mail and all 3 computers crashed 
+the guy who bought our house is already having his mail sent to our address and the contract is still pending on the sale. makes me sad 
+@jovlind awww that's messed up. how you gonna snail mail my pizza. 
+I hate when spam mail goes to my phone and I think its a txt. 
+@MusicIsHealthy i don't find the pics you've said  -&gt; dirct mail me
+Mail app only appears to store 2-3 weeks worth of mail 
+Why the the tax office send me a letter everytime I check the mail 
+Oh no!  my mobileme mail account is getting blasted with spam 
+@Balance510 not to my mail u don't boss  lol
+@davewiner - I hate posting on blogs where they ask for my e-mail.  
+dont know why google mail mobile kill my opera 
+Still no mail. This is hell 
+Too much mails to process 
+someone stole my fake-a$$ jewelery that was shipped in the mail.. I guess they thought it was real   it will be resent to me in two days.
+no mail for me 
+angry e-mail to my cu &amp; applied for a mortgage w/ a different cu. I am taking my money elsewhere after this.  I just wanted a call back 
+@neeruiyer cant mail them  will try put them on blog
+@luluchandie85 	 They read my e-mails but they didn't respond 
+I want my e-mail with my tracking info for my new iphone 
+@jjohnson43004 been trying to call u, what's up with u sending me to v mail 
+I feel bad that trees have to die in order for companies to send me junk mail I don't want. 
+@KingKan  you got mail mang.  @pezy you too!
+@nataliemarie29 just paid my bills too. seems like the moment it's paid, another one is in the mail. 
+@carpe_cakem  little bro posted his snail mail address for when he's leaving for west point.they grow up so fast?
+Digging through hundreds of e-mails to find the receipt for my headphones, I broke yet another pair 
+@roxfox01 I'm sorry.  It just won't be the same without you!   I'll check my e-mail before heading to bed.
+Trying to import e-mail contacts for twitter, but its not working 
+signed up to one of those clever fax to e-mail services, script hasn't arrived yet, does this mean fax doesn't work, oh dear 
+TODAY pro: hole punch came in the mail today so business cards are done! con: not sure if it's the flu but i'm not feeling good 
+@uhhuhherfan75 send them an e-mail, contact @storenvy here too..  better asking before sending it back, I think... 
+@ForcedCommando please mail me to this crash2ten@gmail.com i using toonel proxy right now and i hardly tweet with twitterfox 
+Just gave myself a nasty envelope cut 
+why didnt i get a letter  this is not a good sign.. Unless the postman came when i was asleep i shall go check
+@ricandhislife I've got to check my mail. 
+I despise junk e-mails! I thought those were so 90's, guess not 
+@AudraTheRapper hey!  Yes, I got the e-mail but haven't had a chance to download the songs yet! 
+@newageamazon  An interview done over e-mail could work. Or maybe a chat? If you do any of the instant messangers.
+just saw a free whopper receipt in the trash. I didn't pick it up 
+@MoocherGirl can you change the delivery address before it ships??? Thats awful, I want mine too 
+Missed FedEx delivery...grrrr...I was just a couple minutes late 
+ My story has its own Twilighted thread (thanks @carenl!) and I can't even see it.  Never changing my e-mail address again.
+uGH, I hate junk mail, i get all excited t0 hear &quot;You've got mail&quot; nd i always end up disappointed 
+@collinjames20 dong dongs? that sounds sexual. my card hasn't arrived in the mail yet. 
+@jodyg More than likely they have your e-mail and sending mails as you without needing to touch your account 
+*sniff* the mail just came, no LVATT  I knew it wouldn't get here this quick, but I can dream..
+at work. reading my mail.. 65 new mails... 
+Really hate waiting for mail to arrive 
+@SpencerGR to think that i could have sent you almost twice as much for the same postage... should have looked into that before i sent it 
+@misterhutch it's done through USPS which has no tracking service  has the normal postie been there yet? http://bit.ly/Oef8q
+Waiting for three packages in the mail, none of them arrived 
+There was a time when a little less than  90% of my inbox was legit mail. Now it's about 20% 
+my essay won't attach itself to my mail. will try again tomorrow. 
+medvet sent 4 pawprints today in the mail and, not knowing what they were..opened it and immediately stared crying 
+I should start expecting out of town calls for photography services and don't send them to voice mail  
+@jabancroft  I don't search my e-mail that much, but when I do, I wish mobile search worked better. M.gmail's search is not great.
+@DeWayneFeenstra they picked semifinalist for the logo...didn't get  an e-mail, so i wasn't picked 
+Just wrote an e-mail I was really not looking forward to sending. 
+@enfu Mail did not come today. 
+argh, iphone 3.0 update went smooth except for the fact that Mail kept crashing. restore time. 
+is so angry that all of her mail boxes keep disappearing! Some things can't be done through email! 
+Nothing in the mail 
+@yiiee yeah, it did  but I forgot about it, so nice surprise in the mail when it arrived 
+Waiting for my dvd in the mail. When are you going to arrive? 
+@RecipeGirl been getting a lot of mail server bombs lately .. seems to be a trend gobs of crap traffic is clogging servers all over 
+no mail for me today 
+Still cant get to my voice mail 
+@sinceday1 guess who has no new mail????  lol
+TNT delivery man took upon himself to try and deliver a package to my back door... now i have to pay redelivery charge... 
+@sofeeuhsofia i cant thats my voice mail 
+Downloadin #windows7 so I can read #exchange mail because #gnome with latest #evolution with mapi stil fails  #linux #fedora #ubuntu #mapi
+@MoodMooks cause it might be lost in mail 
+finding a letter in the post from google: awesome! opening it to realise its junk mail: sad 
+@kbeertje sorry there m8, i have changed my lcd scrns on my desk. so i couldn' reply. and now i have to do the mail 
+i cannot figure out how to config gmail so deleting one mail opens the next one directly, instead of return to inbox 
+@mayashoval we didn't receive the mail  can you resend with samples?
+i keep getting chain mail. and those chain mails threaten death if I dont keep going!!!  eww
+@Stargrace I sent them the book back in a mail, don't know if it was unintentional or not. I just said I was disappointed 
+@Dudethatsmysong just not sending my mail this morning.   maybe a reboot will do.
+@sisteredith I was using mail for gmail + company imap mail, but not too happy with it either.  I so want to sync ical and gmail tasks 
+trying to startmy e mail account info@mobile-laibspeise.de    does not work 
+i hate waiting for the mail. 
+just got cayleigh's letter from melbourne in the mail and having a cry because i miss her way too much! 
+uh, i hate it when people send personal messages by e-mail separating it in black and white. i can't color shades of gray in e-mails 
+is feeling blue after receiving her prom shoes in the mail but having to send them back as they do not fit!!!!&quot; 
+@etanowitz Congrats @dsashin on new iPhone3GS!  Me so sad, tracking FedX, mine won't get here until 2morrow  #3GSOrl
+Has just been reading some old mail from my ex so many happy  memorys better delete them b 4 i start crying again 
+@kmack1023 I missed the FedX truck!! Only have a slip to pick it up after 6!!!  
+@DonnieWahlberg my invite got lost in the mail 
+i'm really bored.. writing the book and wondering what was in that voice mail i deleted 
+I'm mad I can't get any picture mail 
+@vegasbab Just like the 3500 e-mails in my inbox have consequences... 
+@SunshineODT it won't download my mail... 
+@meggerhun  No not yet  I check the mail every day eagerly lol. I'm so excited!
+Like the new iPhone but my work mail did copy over. 
+for some reason my iphone is speaking the auto corrections on mail, but no where else... even though assistance functions are turned off 
+Yaay my ticket came in the mail today! 
+No way!  170 e-mails in my mail box 
+Just got an E-Mail and it sounds like two of my favorite guests have split up  They appeared to be so happy...
+How do i get home  looking for address on dude's mail to call a cab. (It's not what you think)
+Raining like crazy in plainview... While delivering mail 
+@smrtguard just check my mail and i found a msg from you about server problem w8 
+ok i'm back no mail  hope its just cuz the mail man hasnt been by yet
+@lrbolton you've got mail - sorry about length 
+Home, very drunk and a little disappointed.. no e-mail. Anyways going to bed..  drunkkkkk blah middin you already
+contemplating whether i've gone too far on the mail regime 
+need to look at my e-mail..... 1111 unopened messages... 
+i spent the day drafting an email only to have it lost in a missconfigured mailbox. poop. 
+USPS lost my package of sisterly love  #fb
+Every time I get thing in mail to order cute/decorative checks I have to remind myself I don't write checks so I don't need polkadot ones 
+@BachelorPad I sit by my mailbox but my new issue never comes!  I am a new subscriber!
+@ComedyBint It's the updated yahoo mail. It comes straight through to my phone. They're the 3 shows I listen to most. Gutted 
+damn its back to kill me. but i want to go to walmart to buy shipping envelopes 
+@mistyhazetoday never did get your e mail  lol
+where is the postman 
+i'm very bored, waiting for @CamelCarcass to wake up, he wouldn't let me wake him up at 11.  &amp; got a postcard from @alexxandraftw
+@sixthseal  @pinkpau I R not femes, I gots no e-mail 
+stupid junk mail coming through my letter box for me - i dont care about offers and what-not 
+@ProPixStream which id? why do you need  my postal address? plz m not getting you... 
+I know my inbox is full o mail. i just don't want to start reading it all right now 
+just realized that zoneedit was down since yesterday!! that's the reason why i did not receive any mail 
+checking email then time to get productive... mail bills, dance store to try on a pair of tap shoes. kong- k360s just aren't the same. 
+I don't trust the Mail. I think I got ripped off 
+@syednaqib: Haha. I don't send other kind of emails via company mail. It's prohibited. 
+@chrisbrogan excellent...i like floods of mail. It's amusing to watch it all come in 
+@mileycyrus is there some way i can send you fan mail to possibly get an autograph? it would make me sooo happy 
+@TWCWeekends i sent em to my e-mail waiting to get the e-mail the sending to you guys -hopefully- 
+checking my mails... 
+@pattistanger LOL, I think my email is slow in getting mail today 
+@tinatinatinaaaa yes yes we will be there shortly... as soon as i finish watching 'you've got mail' which is right now 
+can't wait to receive my makeup brushes in the mail!! 
+@jasonyates btw, mail 3 in leo DOES support exchange, I use it everyday 
+@ApexMI LOL, now you can get a bunch of fan mail  
+@joannabphoto I'm interested in getting some experience in photography. I'll send you a flickr mail now! 
+I'm taking some time to forward all unsolicited, spam, scams, and mail from lists to which i did not subscribe to spamcop 
+sitting waiting for breakfast to be ready... bored out for my mind cause i did all of my chores  yay me! i barely get any mail on gmail
+@tweetmaker i'd obviously say @woothemes should be your choice.  if you have questions, drop us an e-mail.
+@bubblesmiles hey, just checked out the mail. u no i am keen  i still wanna hear bout this 90 day challenge !!
+@legendaryTVAC yeah. and i sent him a mail too 
+haaa kayy well I need a mailing address like now  @xxxtak
+@JeffCutler damn. forgot to bring my warm covers to the airport. your gift is in the mail. 
+just close another case, fix the send mail configuration 
+@roberthruzek Thanks, I'll be checking my mail later, so you'll hear back from me. 
+@PhyrPhly Yaaaay!  Or did you find out when you went there because the teacher is a douche and didn't e-mail in advance?
+@mohsin me too  and it was to a public mailing list  woo
+@a_willow you got mail back 
+@jhbprincess replied to ur mail 
+@rebeckajirle just send the e-mail addresses  in a dm
+@rhonda_ hahaaha... me too, as soon as I read the mail   night
+eating a churro. while i look at my mail. 
+@googlegirlaloo They difinitly stand out amongst the mail! 
+@imhassan what else you expect from worlds biggest junk maker. Of course a junk mail 
+@RDBONES your pics crack me up!! love it!  cropped some-cropped yours-want me to e-mail it so you can use it?
+@Sarahbear9789 I sent you some mail 
+@elociNNNicole e-mail is fine.  I look forward to the package. 
+@fillanypdf thank you, i think i am looking more of a mailing list service. When people subscribe to my newsletter.   but thanks so much 
+@SpringKissed You've got mail  
+@enpointe i'm so excited to see the new place! love your aka- that's how i feel too...and i sent the discs in the mail 
+@shonali hello- i'd like a little chat- but can't DM you- is there a mail id? 
+@Scath drop me an e-mail or something and i'll totally do it 
+@amyb34 you've go mail 
+@hanastephenson I sent u a direct message.. there's my mail 
+searching for the perfect cupcake resipe if you have one e-mail it to me ria_flora12@yahoo.com  haha....
+@aliceinnyc ok u've got mail again 
+@absolutelytrue why on earth would you say something so horrible as to lump me in with the USPS ? i haven't worked for them for years 
+@erwanmace When i first turned it on with 3.0b1 it gave no options where to sync i figured it wasn't working till I find them in Mail 
+just got over the darkening fields in the mail from www.darkregions.com  can't wait to read it!
+just got over the darkening fields in the mail from www.darkregions.com  can't wait to read it!
+@vleo8181 look out for check in the mail! 
+Off to Canarywharf! Mail me 
+I've just sent you another invite mail  It should be going to your gmail. If not, I'll put it somewhere else tonight.
+@gumbah No mail... just bug reports 
+checking my mail.... 
+@miraclelaurie I can't call 'em but I can tweet and e-mail the hell out of 'em 
+and i needs a little review on mid-evil times in anaheim  planing on going...got discounts via mail =P
+@creationsoflove You've got mail from me! 
+sending out the questionnaires  hehe. i forgot to attach the questionnaire in my e-mails , so i had to re-do everythingg. HAHA :p
+@pattidigh I've already got a boilerplate e-mail for peeps who ask me for good veggie recipes. 
+@Benoitmio np  It actually works and gives me error messages when things go bad. (I missed that in Mail.app)
+@dawngoldberg And the old song goes &quot;99 (old) e-mails on the wall, 99 (old) e-mails...&quot; 
+as long as I got some trax in my e-mail from the homie @itsartic when I get home 2night will be alright! 
+@WillySantos just asked about the delivery charges ? how can i send 'em to ya 
+@Crimeawine welcome aboard  may I ask you for e-mail address? got a question on winery 
+@wvdschel I am, actually! . I was going through the mail and discussing with my team about it. How did you find me, btw? 
+@swengeorge What's the new job? Which firm? If response's long, drop me a mail when free. 
+@joanneyong haha i'll blither on more in my next e(pic)-mail!  slurp. how's things been for you?
+searched e-mail provider called msn. registred wuerstlein1963@msn.com  now i can receive messages for free.
+@sarahlbenjamin wheneva you ready just pop us a mail 
+can't wait for @lafurys to receive her small present in the mail. 
+@crotchrockit unless you want me to stick it in an envelope and mail it to u... which i can if u want 
+@renekaiser you got mail 
+@Tamour  me too, so i will be able to read mail again
+right off to unconference #uollts via photocopier and internal mail  there should be two of me by the time I arrive.
+@josordoni Yes, have just realised that  just changing express back to default mail client. Thanks though  x
+@spookaap You've got mail 
+@jakeisonline just drop us a mail at hello@litmusapp.com and we can pass it around the team! Thanks 
+@CemG2rockg u got mail 
+My license just came in the mail. 
+@Kusudama just sent you an e-mail 
+@twistednurse76 @twixnurse72 you got mail!!!!    
+@justEdith btw..checa tu mail plss 
+@baztittenhurst I am a huge Prince fan so that's perfect! You can send it in the same package as the spam to save postage. 
+@retta719 lol I think so... at least I'm still getting some in the mail! 
+@markygk hey marky i sent that e-mail like you asked 
+@zakschwank e-mail checked! Aaaaaaaaaaaaaaaaagh!!!!!!  I totally &lt;3 them!
+you are a good person, did you know that? - that was the first mail I read this morning 
+Just got mail from greece. With shells in it. Feels so like holidays 
+About to shut my eyes.. But checking the mail first 
+@shuhuiii hate mail is better than no mail?  u offended ah jie?
+@Sean2theO any ideas for dtb? if you have, please e-mail me! 
+@daphnemaia send us an e-mail (info[at]woothemes.com) and we'll hook you up with a spiffy, new theme (for free)! 
+Finished last order for the mail tomorrow... going to tackle some photo editing now and hopefully get my new bags listed 
+He asked for my e-mail! 
+I got the greenday tickets in the mail today 

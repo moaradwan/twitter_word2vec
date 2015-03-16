@@ -1,0 +1,29 @@
+Most common words for this cluster:
+[('museum', 16), ('night', 14), ('at', 2), ('star', 2), ('trek', 2), ('up', 2), ('the', 2), ('office', 1), ('stiller', 1), ('awesome', 1), ('back', 1), ('battle', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Museum', 0.7687009572982788), (u'Night', 0.7487834095954895), (u'Musem', 0.6666272878646851), (u'Musuem', 0.6665982007980347), (u'Exhibit_Explores', 0.6279270648956299), (u'KOCH_PLANETARIUM_Evansville', 0.6229757070541382), (u'NIght', 0.6228818297386169), (u'Exhibit_Opens', 0.6219779849052429), (u'History_Comes_Alive', 0.6177062392234802), (u'Mu_seum', 0.6071154475212097)]
+
+
+
+
+
+watching Night at The Museum . Lmao
+Just saw the new Night at the Museum movie...it was...okay...lol 7\10
+Night at the Museum, Wolverine and junk food - perfect monday!
+I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.
+Taking Katie to see Night at the Museum.  (she picked it)
+Night At The Museum 2? Pretty furkin good.
+Watching Night at the Museum - giggling.
+@pambeeslyjenna Jenna, I went to see Night At The Museum 2 today and I was so surprised to see three cast members from The Office...
+About to watch Night at the Museum with Ryan and Stacy
+Getting ready to go watch Night at the Museum 2.  Dum dum, you give me gum gum!
+Back from seeing 'Star Trek' and 'Night at the Museum.' 'Star Trek' was amazing, but 'Night at the Museum' was; eh.
+So, Night at the Museum 2 was AWESOME! Much better than part 1. Next weekend we'll see Up.
+I think I may have a new favorite restaurant. On our way to see "Night at the Museum 2".
+UP! was sold out, so i'm seeing Night At The Museum 2. I'm __ years old.
+saw the new Night at the Museum and i loved it. Next is to go see UP in 3D

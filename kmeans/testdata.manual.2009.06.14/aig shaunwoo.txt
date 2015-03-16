@@ -1,0 +1,15 @@
+Most common words for this cluster:
+[('aig', 1), ('shaunwoo', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'AiG', 1.000000238418579), (u'AiG_Performance', 0.5236694812774658), (u'Westpac_Consumer_Confidence', 0.5138815641403198), (u'AiGroup', 0.5121724009513855), (u'QSBO', 0.5114503502845764), (u'CIPS_Markit', 0.5102866888046265), (u'CIPS_NTC', 0.5070851445198059), (u'research_Tony_Pensabene', 0.5045665502548218), (u'Chief_Executive_Heather_Ridout', 0.5003442168235779), (u'Building_Approvals', 0.4893410801887512)]
+
+
+
+
+
+ShaunWoo hate'n on AiG

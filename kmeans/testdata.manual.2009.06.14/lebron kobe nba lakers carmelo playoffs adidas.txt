@@ -1,0 +1,27 @@
+Most common words for this cluster:
+[('lebron', 11), ('kobe', 4), ('nba', 3), ('lakers', 2), ('carmelo', 1), ('playoffs', 1), ('adidas', 1), ('branding', 1), ('uiy', 1), ('nike', 1), ('damn', 1), ('smh', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'LeBron', 0.8860505819320679), (u'Lebron', 0.8668907284736633), (u'Shaq', 0.7856819033622742), (u'Bron_Bron', 0.7597284913063049), (u'LeBron_James', 0.752302885055542), (u'DWade', 0.7509794235229492), (u'Lebron_James', 0.733566403388977), (u"Amar'e", 0.7227747440338135), (u'DRose', 0.7207884788513184), (u'Kobe', 0.7196449637413025)]
+
+
+
+
+
+I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.
+@ludajuice Lebron is a Beast, but I'm still cheering 4 the A..til the end.
+@sketchbug Lebron is a hometown hero to me, lol I love the Lakers but let's go Cavs, lol
+@wordwhizkid Lebron is a beast... nobody in the NBA comes even close.
+Nike owns NBA Playoffs ads w/ LeBron, Kobe, Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding
+@khalid0456 No, Lebron is the best
+@the_real_usher LeBron is cool.  I like his personality...he has good character.
+Watching Lebron highlights. Damn that niggas good
+@Lou911 Lebron is MURDERING shit.
+@uscsports21 LeBron is a monsta and he is only 24. SMH The world ain't ready.
+@cthagod when Lebron is done in the NBA he will probably be greater than Kobe. Like u said Kobe is good but there alot of 'good' players.
+Kobe is the best in the world not lebron .
+Will the Lakers kick the Nuggets ass tonight?

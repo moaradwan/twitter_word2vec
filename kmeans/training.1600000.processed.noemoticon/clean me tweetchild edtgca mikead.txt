@@ -1,0 +1,249 @@
+Most common words for this cluster:
+[('clean', 240), ('me', 219), ('tweetchild', 12), ('edtgca', 8), ('mikead', 8), ('bjwheeler', 7), ('blackharu', 7), ('anggiemoy', 7), ('srbmalik', 7), ('anioklin', 6), ('midasjackson', 6), ('aimss', 6)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Clean', 0.7813513278961182), (u'Me', 0.7535191178321838), (u'Old_Fashioned_Hate', 0.5836501717567444), (u'Development_Mechanisms_CDM', 0.5677116513252258), (u'Turnin', 0.5429943799972534), (u'Me_pulpy_noir', 0.5326310396194458), (u'Bed_Bugs_Bite', 0.5130895972251892), (u'Yourself', 0.5120238661766052), (u'Was_Supposed_To', 0.5110427737236023), (u'clean', 0.5066542029380798)]
+
+
+
+
+
+Finna Clean 
+@tweetchild  Clean Me!
+@tweetchild  Clean Me!
+@tweetchild  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@eDTGCa  Clean Me!
+@tweetchild  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@anggiemoy  Clean Me!
+@bjwheeler_2  Clean Me!
+@astrid35  Clean Me!
+@mikead  Clean Me!
+@bridgettegreen  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@anggiemoy  Clean Me!
+@bjwheeler_2  Clean Me!
+@astrid35  Clean Me!
+@mikead  Clean Me!
+@bridgettegreen  Clean Me!
+@blackharu777  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@anggiemoy  Clean Me!
+@bjwheeler_2  Clean Me!
+@astrid35  Clean Me!
+@mikead  Clean Me!
+@bridgettegreen  Clean Me!
+@blackharu777  Clean Me!
+@Mzcertified  Clean Me!
+@aimss123  Clean Me!
+@blacksmoke3  Clean Me!
+@CeladonNewTown  Clean Me!
+@Accessoryamy  Clean Me!
+@ANALOVESTITO  Clean Me!
+@aubinerie  Clean Me!
+@augiebop  Clean Me!
+@jimhat  Clean Me!
+@anioklin  Clean Me!
+@johnackley  Clean Me!
+@SusanB328  Clean Me!
+@MidasJackson  Clean Me!
+@pcnlove125  Clean Me!
+@tweetchild  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@anggiemoy  Clean Me!
+@bjwheeler_2  Clean Me!
+@astrid35  Clean Me!
+@mikead  Clean Me!
+@bridgettegreen  Clean Me!
+@blackharu777  Clean Me!
+@Mzcertified  Clean Me!
+@aimss123  Clean Me!
+@blacksmoke3  Clean Me!
+@CeladonNewTown  Clean Me!
+@Accessoryamy  Clean Me!
+@ANALOVESTITO  Clean Me!
+@aubinerie  Clean Me!
+@augiebop  Clean Me!
+@jimhat  Clean Me!
+@anioklin  Clean Me!
+@johnackley  Clean Me!
+@SusanB328  Clean Me!
+@MidasJackson  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@mikead  Clean Me!
+@anggiemoy  Clean Me!
+@bridgettegreen  Clean Me!
+@bjwheeler_2  Clean Me!
+@blackharu777  Clean Me!
+@astrid35  Clean Me!
+@Mzcertified  Clean Me!
+@mikead  Clean Me!
+@aimss123  Clean Me!
+@bridgettegreen  Clean Me!
+@blackharu777  Clean Me!
+@blacksmoke3  Clean Me!
+@CeladonNewTown  Clean Me!
+@Accessoryamy  Clean Me!
+@ANALOVESTITO  Clean Me!
+@Mzcertified  Clean Me!
+@aimss123  Clean Me!
+@blacksmoke3  Clean Me!
+@CeladonNewTown  Clean Me!
+@augiebop  Clean Me!
+@Accessoryamy  Clean Me!
+@jimhat  Clean Me!
+@anioklin  Clean Me!
+@johnackley  Clean Me!
+@SusanB328  Clean Me!
+@MidasJackson  Clean Me!
+@ANALOVESTITO  Clean Me!
+@Lissa121  Clean Me!
+@aubinerie  Clean Me!
+@augiebop  Clean Me!
+@jimhat  Clean Me!
+@anioklin  Clean Me!
+@johnackley  Clean Me!
+@mandastico  Clean Me!
+@4eva623  Clean Me!
+@SusanB328  Clean Me!
+@wdreamer  Clean Me!
+@MidasJackson  Clean Me!
+@Kamryn6179  Clean Me!
+@1luv633  Clean Me!
+@b6KOhf  Clean Me!
+@yokPWK  Clean Me!
+@Lissa121  Clean Me!
+@wtfwouldericado  Clean Me!
+@KM5nJo  Clean Me!
+@mandastico  Clean Me!
+@4eva623  Clean Me!
+@QeJP2B  Clean Me!
+@moneytotravel  Clean Me!
+@tweetchild  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@anggiemoy  Clean Me!
+@bjwheeler_2  Clean Me!
+@astrid35  Clean Me!
+@mikead  Clean Me!
+@bridgettegreen  Clean Me!
+@blackharu777  Clean Me!
+@Mzcertified  Clean Me!
+@aimss123  Clean Me!
+@blacksmoke3  Clean Me!
+@CeladonNewTown  Clean Me!
+@Accessoryamy  Clean Me!
+@ANALOVESTITO  Clean Me!
+@aubinerie  Clean Me!
+@augiebop  Clean Me!
+@jimhat  Clean Me!
+@anioklin  Clean Me!
+@johnackley  Clean Me!
+@SusanB328  Clean Me!
+@MidasJackson  Clean Me!
+@Lissa121  Clean Me!
+@mandastico  Clean Me!
+@4eva623  Clean Me!
+@wdreamer  Clean Me!
+@Kamryn6179  Clean Me!
+@1luv633  Clean Me!
+@b6KOhf  Clean Me!
+@yokPWK  Clean Me!
+@wtfwouldericado  Clean Me!
+@KM5nJo  Clean Me!
+@QeJP2B  Clean Me!
+@moneytotravel  Clean Me!
+@IQWXGwlK  Clean Me!
+@mariajoyspencer  Clean Me!
+@Onenn  Clean Me!
+@NBAgrl914  Clean Me!
+@chicagosweather  Clean Me!
+@oq8Ncq  Clean Me!
+@christineA772  Clean Me!
+@2f3Gxx  Clean Me!
+@sxygirl22  Clean Me!
+@Makaylay  Clean Me!
+@Mr_Moofaces  Clean Me!
+@GladysSutton  Clean Me!
+@DiannaHummel  Clean Me!
+@RadioOne912  Clean Me!
+@Jibbigirl  Clean Me!
+@eDTGCa  Clean Me!
+@SRBMALIK  Clean Me!
+@anggiemoy  Clean Me!
+@bjwheeler_2  Clean Me!
+@astrid35  Clean Me!
+@mikead  Clean Me!
+@bridgettegreen  Clean Me!
+@blackharu777  Clean Me!
+@Mzcertified  Clean Me!
+@aimss123  Clean Me!
+@blacksmoke3  Clean Me!
+@CeladonNewTown  Clean Me!
+@Accessoryamy  Clean Me!
+@ANALOVESTITO  Clean Me!
+@aubinerie  Clean Me!
+@augiebop  Clean Me!
+@jimhat  Clean Me!
+@anioklin  Clean Me!
+@johnackley  Clean Me!
+@SusanB328  Clean Me!
+@MidasJackson  Clean Me!
+@Lissa121  Clean Me!
+@mandastico  Clean Me!
+@4eva623  Clean Me!
+@wdreamer  Clean Me!
+@Kamryn6179  Clean Me!
+@1luv633  Clean Me!
+@b6KOhf  Clean Me!
+@yokPWK  Clean Me!
+@wtfwouldericado  Clean Me!
+@KM5nJo  Clean Me!
+@QeJP2B  Clean Me!
+@moneytotravel  Clean Me!
+@IQWXGwlK  Clean Me!
+@mariajoyspencer  Clean Me!
+@Onenn  Clean Me!
+@NBAgrl914  Clean Me!
+@chicagosweather  Clean Me!
+@oq8Ncq  Clean Me!
+@christineA772  Clean Me!
+@amateurdelta54  Clean Me!
+@littleblue62  Clean Me!
+@Shawn1976  Clean Me!
+Getting ready to Clean 
+http://twitpic.com/6698b - Clean 
+Lots 2 do today. Clean the house, get stuff to protect the new floors from the furniture, get ready to go back to work tomorrow 
+Waiting on dinner. Clean starving lads 
+note to self, if you let old site fade, shut it down &amp; redirect it or be attacked by hentai porn spammers    Clean up underway right now
+(@brettbum) note to self, if you let old site fade, shut it down &amp; redirect it or be attacked by hentai porn spammers    Clean up unde ...
+(@brettbum) note to self, if you let old site fade, shut it down &amp; redirect it or be attacked by hentai porn spammers    Clean up unde ...
+What do you do if you work fulltime, have kids, 2 rabbits, are a fanatical foodie and have a free weekend? Clean the house, of course. 
+alright this is getting ridic. I have used 5 of these oil-absorbing sheets from Clean &amp; Clear in ONE HOUR. I hate my oily skin 
+has new technology, and buggered from all the work she's done this weekend.  Dog pen complete! Clean house is now dirty again tho 
+Oops..20 characters over   What environmentalist ENCOURAGES excessiveness like lights on 24/7?  Clean coal my foot!
+@BinaryMoon Clean license, clean designs?   Never a 'rushed' job?
+is working on a cup of joe and what to work on today! Clean, clean, clean is the name of this game  http://plurk.com/p/rd943
+just showered  Clean clean clean
+Oh well! I'm off tomorrow and the next so, do what I do best. Clean &amp; have lunch ready for the lady! 

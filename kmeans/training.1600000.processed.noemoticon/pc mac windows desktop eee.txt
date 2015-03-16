@@ -1,0 +1,229 @@
+Most common words for this cluster:
+[('pc', 190), ('mac', 19), ('windows', 19), ('desktop', 16), ('eee', 13), ('laptop', 11), ('com', 10), ('http', 10), ('hardware', 9), ('i', 9), ('my', 8), ('quot', 8)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'PC', 0.9394826292991638), (u'PCs', 0.7776548862457275), (u'desktop', 0.721421480178833), (u'Windows_XP', 0.7027700543403625), (u'Windows', 0.6952937841415405), (u'netbook', 0.681556761264801), (u'desktops', 0.673202395439148), (u'Dell_Inspiron_Zino_HD', 0.6727758049964905), (u'Gateway_NV####u', 0.6724134683609009), (u'Perspective_Hardware_Leaderboard', 0.6719828248023987)]
+
+
+
+
+
+Put vacation photos online a few yrs ago. PC crashed, and now I forget the name of the site. 
+Laptop died on me yesterday    Have to reinstall, but its the perfect time to try out Windows 7 (beta)
+Great, PC fixed, CS4 installed, but now the wireless adapter doesnt work! Of to buy a new one.... 
+My external HDD sometimes fails to get recognized by Windows. I think problem might be conflict with USB hub. It's not fun to use anymore 
+@StonedSteve Alas, I have no Live connection at the moment  My PC got sick, I have no landline, and i am on a Dell mini. Needs sorting!
+Right now I wish I had a decent desktop 
+@Jwoohoo sorry but, I haven't used Windows Mobile in years (since before Twitter; when they still called it Pocket PC)... I have no idea. 
+@Cianmm ok then, just as long as he does not get screwed at PC world, etc 
+Oh dear, the disk clone that I started yesterday has failed  reinstall is called for.
+Ah, the RC for Ubuntu 9.04 has been released. My PC, a thousand km and two weeks away. Missing to upgrade 
+McAfee suite is killing this PC.  What a resource hog! Runs on top of anything else too. 
+Oh right forgot workstation hard drive is still dead 
+wish i had a PC so i could learn C# 
+@the_nexus It's a 2.5 year old PC, so yeah, I am due for a replacement. I wish I could afford a mac 
+@relocatedyank yeah, that stinks   maybe they'll get it on the PC soon :/
+I'm trying to figure out how i can get Vista to work with my XP hardware using Virtual PC.  No luck so far and not having very much fun 
+@8q will have to wait till I get home. PC at work 
+Headache. Hopefully not on PC for too long then out and about on job search 
+Can someone recommend a good USB flash drive thats PC &amp; Mac compatible &amp; cheap - sick of using colleges crappy ones &amp; I lost my old one 
+I want I'm a PC stickers  #pc #microsoft
+Is PC world open today, my graphics card melted 
+finally figured out desktop manager is the culprit  and 
+Wanting the Sony FW laptop to replace my bent Vaio but don't want Windows Vista.  When is Windows 7 coming out?  
+watching final fantasy XIII trailers... its  bloody awesome and its not coming to PC 
+my zune does not want to sync with my PC 
+I still can't understand why Windows is so popular... I've been sitting here for 20 minutes waiting for it to finish charring up my HDD 
+@MikeAtheNERD computing 
+Windows Vista is giving me errors on installing MTP driver! :@ I can't use my Nokia N96 with PC Suite.  I want to backup my contacts!!
+It's really hard to build a PC for designing if you're on a tight budget 
+still hasn't fixed the sound on this PC  http://plurk.com/p/sxvav
+Dear PC, please work 
+@xohanna Gutted  moving from PC to Mac was the best decision I ever made in terms of New Technologies.
+need to transfer a 8 gig file from Mac to PC... how!?  too big to go straight to USB drive
+@Lequandreshia I gave it to you. I just havent logged on Y! lately because I'm on this slow ass PC. 
+@fictillius Well when you still owe $30 on your Eee PC to your parents &amp; have no iTunes credit, it's not loose change... 
+6 hours reinstalling Windows and Flight Sim X and now I find out AVSIM site has been hacked beyond repair, bad hacker, very bad hacker 
+@sue_treanor i was gutted. and you will be if you love the book like me  . you can tell they have changed it to be all PC. bah!
+@rjw8888 Work PC's are never good unless you work in ICT  lol
+@mattydee Thing is, when you're owing $30 on an Eee PC to your parents still &amp; has NO MONIES elsewhere, that's hard. So is a real domain. 
+Why are there so many files on my desktop? 
+They stuck me on a PC 
+@chrisspooner I'm not sure where you'd go, but Crucial has always been top stuff for me - admittedly in the past I used PC's! 
+Finally another boring week at school past by , Computer's HDD Might be busted won't boot from it. 
+@PsychoPiloter They did indeed. I visited it. It's very nice. It has a drawback: no PC downloads. You must download it over network data. 
+@BaKKaNeKKo probably as heavy and as expensive as a regular desktop 
+@prime8507 PC I agree...  We have a problem. We must stop spending and only work!!!
+I hate PC 
+almost died. Laptop screen was set to 100% brightness after I reinstalled Windows Vista. Got a headache now  #insanedefaults
+@wita  Still think it's unfair that Infamous isn't on PC. =/
+my PC just died... again. now i have to find a firewire to save all those photos i havent backed up to the mac yet 
+Had now trouble with Vista SP2 on Main PC just my laptop Multi Country OEM install. 2nd Chinese Language removed another long re-boot 
+Still sick   Reformatting my Media PC to be Windows Vista 
+Waiting to get back to my workstation! 
+My PC is down... 
+im on PC again!! whooot... :-D but i cant go there til thursdayc officialy 
+stuck repairing a PC when it's gorgeous and sunny 
+Seem PC 
+Mac's getting PIV integration: http://tinyurl.com/n7cdzb Too late for me as just got issued Dell laptop with XP and PIV card reader. 
+Want an Asus Eee PC 1008HA before I go to Ibiza but no-one seems to have one in stock. Gutted 
+On my Eee PC!    On Windows XP.    Got Spider Solitaire.  
+@EllieBeck Actually I was on a laptop at the time, have both PC and Laptop but no Mac  Want one for artyness though
+i hate my PC now it is tooooo slowwwwwwwwwwwwwwww 
+@unitechy arrey my PC is dead...won't  be able to play 
+@BarryHurford I'm round and dads and although he has a PC he has no webcam  will get photo uploaded soon! 
+@HughMc - My PC is running XP, so the problem is wider than I'd hoped..Also haven't had any feedback from @adwords or bug report 
+Still not done with homework for the night. I need a household to PC cable for this damn power pack 
+Headin back to PC! 
+A client came by and gave me her &quot;ATI Remote Wonder&quot; which she has never used. ATI does have drivers for the Mac OS. However, only PPC 
+Revising computing 
+I don't know, but as i build my PC new, i have see, thas it is not ok. It doesn't start! 
+4 hours later and i've managed to restore my PC's original settings. A word of advice, don't remove PC components 
+@attamusc Thanks for suggesting Mass Effect for PC. I enjoyed the game a lot until I noticed a gamestopping bug on Therun. 
+nooooooooooo. i think my other PC has a virus!  or more. but i cant tell coz 1 anti-viral thing says there are no threats but the other...
+Feeling Sad to Know that I won't be Able to Enable XP Mode in Windows 7 on my P4 PC 
+@thomasbrunkard Good to take a break from it... but sitting at the PC when the weather's like this is a bit of a challenge  for sure. 
+in PC9  bored shitless  and twitterfon D:&lt;
+http://twitpic.com/6ghm7 - R.I.P. to my PC for now 
+@countstex I just wish I'd left the console on standby now that I've queued them from PC so they'd be downloaded by time I'm home. Doh! 
+@wrongcrowd I know! Very exciting. Although that doesn't look like Guybrush to me. It's PC only as well  Is there a PC emulator for mac??
+@Susan48 - For iPod or PC?  Soooo jealous!  I have to wait until my birthday!  
+i have not yet an Eee PC 1008ha 
+Why no PC love? I'd buy it in an instant if I could  #e3bl
+Computer network is baffling. So many options to consider. Mac Network?  PC Network? PC Server w/ Mac workstations. Case management s/w? 
+I clearly have some broken hardware.  I really need to stop having hardware. 
+@praxxis To each their own though - I'll stick to PC/XBox360 gaming, Wii makes me sad these days 
+@jasonhockey well i never have time to play anymore and i don't PC anyway  but thanks though
+Oh and it's for a WIn PC or else I wouldn't need help - all the help refers to Apple keyboards only 
+battery low. need to switch the PC  #dwgmf
+I have been removing malicious code from a website. We didn't code the site &amp; the dodgy code was added via infected PC not than hacked. 
+I have been removing malicious code from a website. We didn't code the site &amp; the dodgy code was added via infected PC not hacked server 
+Homebasics.ca have discontinued sending their mags out. I can't bring my desktop PC in my bed or out on the patio. 
+@artcon I WANT SIMS 3 NOOWWW  This is where PC's finally win the Mac/PC war. You win 
+@MissPassion well i have it with me but in this neighborhood all the wireless connections are security enabled  so im stuck with this PC
+it isn't looking good for me being able to recover any of my files from my PC   some good news... tonite the bf is meeting my family
+Official Eee PC T91 website is online... now, if only German shops had it available 
+I really need a new PC - this one is feeling rediculously slow  even scrolling webpages is making it stutter   Or maybe xubuntu time..
+My PC seems to have died...not even a beep to tell me something is wrong!  I hate PC building... Next time I'm buying a mac.
+@sassysam2121 @wereolfseth A crappy one I've already deleted. I wish there was one I could use on my Mac/PC/ AND iPhone. 
+The motherboard crashed on my PC ,so i'm using my mom's to tweet...*sigh* very frustrated right now... 
+I want OnLive in Canada... Like, NOW! My PC can't take latest games but I want to play them 
+What did my dedication say, guys?! I can't be on the PC. 
+great.. my phone cant compete with the PC for the signal of the router! no more portable twitter for me til the PC's turned off.. 
+needs to reformat her PC.  http://plurk.com/p/z1oi6
+'s PC is sooooooooooooooo bagal  http://plurk.com/p/z27za
+unfortunately i cant upgrade my account due to PC problems... 
+oh how special.. my monitor broke on desktop (read SL) PC.. and I was planning to go to http://musimmersion.weebly.com/reservations.html 
+All I want to do is play KOTOR and it won't run on my old laptop. Stupid PC specific game CDs. 
+Well, that wasn't tooooo painful... downloaded ePub book to mac to see if Calibre would upload, sadly not  however, PC was happy with file
+@daniellewoods  did you try threatening to buy a PC? that seems to work.
+says my cousin is using the PC   http://plurk.com/p/112hki
+Ghostbusters PC has online-activated DRM and no multiplayer? I don't wanna shell out $60 for a 360 game when I can get it on PC for $40. 
+well... I was back yesterday but PC wouldn't turn on. had to use Birthday money to buy new power pack for the pc 
+Frustrated to discover that Virtual PC under Windows 7 requires hardware virtualisation  - which I don't have! 
+Reinstalled the PC system and met some problem... Have to try again tomorrow night.   
+Moblin doesn't work on the Eee PC 701. 
+this is sooo hard with a PC 
+Cripes, this PC runs hot. I wonder what's going on in there? I'm sure it's a fire risk leaving it on 24/7 
+My PC has permanent hardware failure. 
+@JessicaMonster tell everyone on the chat I'm sorry I haven't been on much PC trobules 
+@Alonely I wish I had a fast PC to play it on. 
+@sdjmchattie it's actually quite a nice 17&quot; LCD... just looks crap because Linux was panicing due to a corrupt swap file 
+@chrispreston @malross and if I PC melts its own solder you don't have to wait 3 weeks for a Microsoft repair 
+@EvilGayTwin wise move! I am still waiting for them to let me sync to more than one PC! 
+I have used 2 PC's today. 1 is my laptop at home, the other is a desktop PC at work. Both have broke 
+I want my new PC lol no music means 
+Airtel Net PC doesnt allow install new sofware  http://tinyurl.com/mts62r
+@ArmA2PC and if we don't live in London 
+is restoring my PC, I am trying to build an opensim, it's so hard for me 
+@johnattebury @charlirae  or electronics... PC 
+@mealmaguer Sadly, this new version of the OverDrive Media Console is for Windows only. 
+@Lorata I'm sorry.  I've had good luck with my Western Digital, but unfortunately don't know if they work with Macs.
+xbox server still down 
+@bsanfordjr No new hardware for me 
+@sailerman hate proprietary hardware 
+@j_holtslander right.. Only on new hardware not 3.0.. 
+PC of five years has just died 
+@TheDarrenxshow yep, all it needs is more features! And all I need to do is figure out why the desktop client is not working on my PC!! 
+Bored now. No Internet ATM so PS3 and PC = fail just now  GPRS ftw
+@GoldyMom I have no idea what makes the BB so special, I just know that I am NEITHER Windows mobile NOR PC. Just no way, *must* use both 
+@TrinaWright no picture! Am guessing you're mobile, will have to wait till you get to PC 
+hates it when people stick thier nose where it doesn't belong! My PC crashed and I've been reloading everything since midnight,   F-U K.B.
+@ondubuu &amp; my graphics card is stuffed, so my desktop is always blank when I restart my compuer.   I wish I could have him on my desktop.
+@Schofe Since when has the word bitch been so offensive that you have to censor book titles? This is the Nanny/PC state going too far! 
+Really hope there's something decent on TV tonight, as I have just realised I'll be PC-less and hence no TweetDeck for me 
+@jeramypwns thanks, but I havea PC not a MAC  
+@vRITHNER I need to switch back to PC  ?
+hopefully I'm one step ahead of an imminent PC crash ...eeek 
+Just has this Eee PC sat here all night trying to connect to our Wifi. Yep, it's not working. 
+@SamanthaEnnis11 I would but I have to have a PC because mac's done run QuickBooks as effectively 
+Excited that my Eee PC 901 arrived this afternoon...sadly I must wait until after class this evening to start playing with it  
+@weylinmcconnell They are brainwashed zombies that make the store scream aloud when some dumb kid goes from PC to Apple. They scare me 
+Why do I keep getting too many story ideas? My PC is being filled with notes for &quot;stories to write later&quot;. Unfortunately, I type slowly 
+My PCs died 
+I am getting booooooored!  I want mah new PC now!!! XD hahahaha  So excited lol!
+@PC_Gamer: How can I come back to PC gaming? (recommendations) Simply as I have lost my way in the world of 360 
+anyone know how to get rid of this recycler virus thing :| I think its messing with my PSP to PC connection. My PC cant read the psp  &gt;&lt;
+@daniawesome @ophelias_garden @liabolicious I was going to send you a tempting screenshot, but you can't screenshot Windows Media Player 
+I want a Mac! These PC's are kinda shit. 
+Yay for being home  meh for no PC 
+The desktop... It gas finally given up on me 
+@mfmakichen I think so. But mine don't download to my PC. 
+Still not done with PC recovery... Haven't got sleep yet. 
+awaits the verdict on the wellbeing of her desktop mobo. 
+@jen_hintz I think its just my POS PC 
+@wickedjunkie I need to name my iPod and PC  The only one with a name it's Lupito my pen drive!
+@tamaslorincz @burcuakyol we had some techinical difficulties because the PCs in the lab were in Japanese  but it went all right.
+is sad because the Armalyte PC remake demo does not work on his Windows 7 box 
+@skdev  get on PC like me @blessedAyesha
+@CrypticArkayne I was hoping to be able to use my 360 to play with my wife while I'm on PC (with the better h/w ;) Ah well 
+@OfficialBF1943 So many reviews  ... but I shall patiently wait for it to come out on PC and then I will PWN! &gt;
+Once again I tried to get Mac OS running in Virtual PC or VirtualBox, on AMD platform. Neither iATKOS nor manual for boot132-AMD worked. 
+@edsaint Have macs at home but have to use PC at work sadly 
+Trying to install easy peasy on my Eee PC, sadly not easy peasy but hardy pardy 
+@Drogheda_PC oh !!what will we do 
+@Drogheda_PC he also has an alter ego, bit worried about him   split personality disorder. LOL
+Nokia PC Suite7.1.30.8 gets Nokia Music PC Client. Installs separately 
+@jhaebets Nah, AUS PC is more salesy (best left to the sales guys). We have 6 of the team going from Aus to Vegas in Oct. WWPC's my scene 
+@jrgibson1 Im quite happy with my HP PC Laptop thank you 
+the cool thing with the Giampaolo PC hunter ad (http://tinyurl.com/cbhhqu) is that now everybody knows how to pronounce my name 
+@madalinaa - I think yes! My PC completely dying on me was a great motivation to get a Macbook. It shouldn't be, but it was 
+http://twitpic.com/3jqrq - How cute is my desktop? 
+@kathyIreland LOL, I did too for awhile...but its FREE PC to PC, low cost PC to phone. Take care, safe flight! 
+@kimyeah i would definitely paint them and get new hardware.  
+&quot;Future PC just froze.&quot;  #apple #ads #getamac
+has an I-PC 
+Exam in computer science today  Haven't studied at all, just to see how much i really know about PC's
+@Kirsty_H_99 Well, I've just upgraded Firefox on 60 PCs. Thank god for automatic deployment 
+@secretGeek You want a wireless one that can be controlled by desktop  That would be awesome 
+@SureSister When I went through rush, I called myself a &quot;rushling.&quot; That may not be entirely PC, though. 
+plopped a DVD into PC before bed and woke to... Windows 7 loaded up 
+I'm back.... hehehehe doing homework though, but now I'm on my PC and not on my laptop 
+@microsoft_cares Ah, I was wondering about that link. Either way I'm not getting it - PC is happy w/ XP &amp; my Mac is even happier with OSX 
+@randomsonggirl  it's  easier  to tweet if you have  tweetdeck or  seesmic desktop  
+Just ordered an ASUS Eee PC. 
+Downloaded EeeControl for my Eee PC today. Was playing with the settings to make the fan kick in at 1500RPM if above 55C, 0RPM if under.. 
+Morning all, finally got to stream media from PC to PS3 via wireless router, much easier than using a USB dongle, ah, techy simplicity. 
+Correction, I'm tipsy @trelittle when * I * get on the PC 
+@ErikBernskiold  Gosh Erik, you're cool even to PC people!  
+@iamchrisgreen I was, but not near a PC 
+@Ash10_PC 
+@gilesgoatboy it's not the PC3X or anything like that, but it will do me nicely 
+.@ninaspringle It is! Not my favourite PC game though...I'm afraid. 
+@geekwrestler oh I am sorry, if it ruined your chances of getting a PC. I was just trying to show that the glass is half full actually. 
+..there's nothing important on my PC 
+@TaraSutphen saved your show on my PC  xoxoxo
+All right, enough of the social networking sites for the evening. It's the gaming PC I switched on after all! 
+FIrst Tweet of the Day  - Dell Mini 9 or Asus EEE PC 901?
+ooohhhh  Free PC Upgrade  http://domypc.co.uk/  as long as yr willing to  have the whole thing video'd for a website. sounds good 
+@johimself What's Windows 7 like Jo? thinking of installing the release candidate on my old 2ghz p4 if it will even take it 
+@exmk Sounds like time you went to bed after ALL that PC cleaning up.  LOL
+updating PC.... 
+@harsha_rao gonna run SC server on all 32 PCs next week. So be prepared for a torrent of streams!! 
+Shutting down our PC and I'm off to school! 
+@nscafe LOL. That became my desktop wallpaper yesterday. 
+Is it wrong to love your PC?    It's a precious thing.

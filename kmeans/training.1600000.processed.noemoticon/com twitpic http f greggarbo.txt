@@ -1,0 +1,276 @@
+Most common words for this cluster:
+[('com', 270), ('twitpic', 268), ('http', 267), ('f', 13), ('greggarbo', 13), ('amp', 13), ('sjsn', 13), ('mileycyrus', 12), ('www', 11), ('y', 10), ('e', 10), ('haha', 8)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'twitpic', 0.9999136328697205), (u'Twitpics', 0.699178159236908), (u'twitpics', 0.6574800610542297), (u'TwitPics', 0.6565842628479004), (u'screencap', 0.6522257924079895), (u'tumblr', 0.6461648941040039), (u'Twitpic', 0.642867386341095), (u'@_mileycyrus', 0.640041172504425), (u'BillyMasters.com', 0.6324514150619507), (u'yfrog', 0.6298167109489441)]
+
+
+
+
+
+Sodding M25   http://twitpic.com/2y3y0
+Heading to work  http://twitpic.com/4eojz
+@fueledby http://twitpic.com/4gvdf - 
+@fueledby http://twitpic.com/4gvdf - 
+@aliholli http://twitpic.com/3zthy - I spelt excellent wrong 
+@postsecret http://twitpic.com/4feyc - pic isnt showing up for me 
+@daveryankdwb http://twitpic.com/4fqv8 - it's not showing up  ah
+@postsecret http://twitpic.com/4feyc - It isn't showing up for me, either.  
+@harlowshouse http://twitpic.com/3htnl - pic still isn't working for me 
+@paulblg http://twitpic.com/4iwfp - they ran out of that before i could buy one i was sadd 
+@lancelotmsm http://twitpic.com/4hesn - That's awful! 
+@simplyyv http://twitpic.com/4w87z - i am jealous 
+@SashaGrey http://twitpic.com/4wixz - aww i wish i could go but i'm not old enough yet 
+@iamsin http://twitpic.com/4ufle - 
+@tedfu http://twitpic.com/4q698 - where is the blue? 
+@theroser http://twitpic.com/5dbsj - WOW I wish i could be there 
+@lilyroseallen http://twitpic.com/1o148 - Is it wrong that I'm aroused by this 
+@stephenfry http://twitpic.com/4zk75 - I feel soooo old, I remember them. 
+@twicullen http://twitpic.com/5ovk2 - That is good...I so can't draw 
+@djknucklehead http://twitpic.com/665n7 - I dont like it 
+@smashingpumpkin http://twitpic.com/67h72 - 
+@smashingpumpkin http://twitpic.com/67h72 - 
+I was the blue  lol http://twitpic.com/67zgz
+@efefe http://twitpic.com/64g3b - i think so ! well,u're lucky 
+@iamchrisc http://twitpic.com/6868j - that really sucks 
+@joegatell http://twitpic.com/6admo - awwwwwwwwwwwwwww i want her 
+@PoisonAndFire http://twitpic.com/6advy - LOL that's sexy. You have such pretty eyes I'm jelous. 
+I will miss you @Oscarthecat   http://twitpic.com/2lgkw
+@trvsbrkr http://twitpic.com/6bft5 - she shouldn't have cut her hair 
+@shabok http://twitpic.com/4xwd3 - 
+@twitpic is down  http://downforeveryoneorjustme.com/twitpic.com
+@souljaboytellem http://twitpic.com/6ccu7 - i miss him 
+@vickytcobra http://twitpic.com/6cjpo - I can't see it either. 
+@azizansari http://twitpic.com/6dhqb - i can't see it either!! 
+@JMatthewFlyzik http://twitpic.com/6djbs - it won't show up matty 
+@itsallaboutme01 http://twitpic.com/6d5g9 - no pic 
+@sevinnyne6126 http://twitpic.com/6dfd2 - I can't see the photo 
+@jkreeftmeijer http://twitpic.com/6e4n2 - That sucks 
+@angelmagno http://twitpic.com/6e2u1 - It's so awesome! 
+#uniwar bots seem to be down   http://twitpic.com/6ecl6
+@robdyrdek http://twitpic.com/6ejcv - haha...i live close by there unfortunately 
+@calebftsk http://twitpic.com/6etif - oww. What happened? 
+@mmitchelldaviss http://twitpic.com/6bfvb -  i dont get it...
+@latvianquiet http://twitpic.com/6f4is - i want to pet but can't reach through my monitor 
+@jessicasanchezz http://twitpic.com/6ffpv - i miss you too 
+@urbannativegirl http://twitpic.com/55qfq - that is sooooo shitty 
+@mmitchelldaviss http://twitpic.com/6emun - aww. what about kyle? 
+@LeighAnnMol http://twitpic.com/6gfdn - I want them  ...
+@Sugarscamp http://twitpic.com/6iwpg - No, you rotate for your own view only, after that it will go back to it's original ugly self! 
+@tommcfly you keep ignoring me, all i aksed you is to look&amp;say what you think!  http://www.twitpic.com/5hfjr http://www.twitpic.com/5f9e1
+@tommcfly you keep ignoring me and all i asked you is to look&amp;comment http://www.twitpic.com/5hfjr &amp; http://www.twitpic.com/5f9e1 
+@camkam5 http://twitpic.com/6ofpb - it is not showing 
+@bakespace http://twitpic.com/6n1j1 - aw, what happened? 
+before: http://twitpic.com/6qebm - after: http://twitpic.com/6qe9t. I think I wish I hadn't 
+@fadiakader http://twitpic.com/6qwqe - i cant even make it...  and im on the flyer too...
+@brendonuriesays @thisisryanross I was so looking forward to this  http://twitpic.com/6r9i0
+@laurenconrad http://twitpic.com/6otml - awww i want one with your signature !!!! 
+@yourfriendjennn http://twitpic.com/6ryll - You didn't kidnap me. 
+@mileycyrus http://twitpic.com/6shtr - its not working 
+@mileycyrus http://twitpic.com/6shtr - i can't see it! 
+@mileycyrus http://twitpic.com/6shtr - repost it...it isnt working 
+@mileycyrus http://twitpic.com/6shtr - i cant see it 
+@mileycyrus http://twitpic.com/6shtr - why can't i see this pictureeeee 
+@greggarbo http://twitpic.com/6sjsn - I didnt unterstand  lol
+they said i didn't need to fast after all!!  arggghh  http://twitpic.com/6skbq
+@greggarbo http://twitpic.com/6sjsn - i want to laugh!  lol the pic is not showing for me!
+@greggarbo http://twitpic.com/6sjsn - i can't see it! 
+@greggarbo http://twitpic.com/6sjsn - why cant i see it? 
+@greggarbo http://twitpic.com/6sjsn - can't see it anymore 
+@greggarbo http://twitpic.com/6sjsn - I can't see it either 
+@greggarbo http://twitpic.com/6sjsn - i cant see it 
+@greggarbo http://twitpic.com/6sjsn - I can't see it 
+@greggarbo http://twitpic.com/6sjsn - I cant seeee it 
+@greggarbo http://twitpic.com/6sjsn - I can't see  love you.
+@greggarbo http://twitpic.com/6sjsn - GARBO i cant see the pic  still love u though
+@greggarbo http://twitpic.com/6sjsn - can't see it too 
+@NKArmyTNgirl http://twitpic.com/6snwp - I can't see it! 
+@carbonleaf http://twitpic.com/6nydy - You must be tired. 
+@DanWarp http://twitpic.com/6s8ah - i cant c it 
+@greeneash http://twitpic.com/6rrtf - Aww, I can't see 
+@greggarbo http://twitpic.com/6sjsn - I can't see it 
+@theDebbyRyan  http://twitpic.com/6svcm I can't see it all I can see is a little red X  
+@lizjonashq http://twitpic.com/6swun - i can't see it 
+@DanWarp http://twitpic.com/6s8ah - i cant see it! 
+@aplusk http://twitpic.com/6siah - Agggggh! i thought that was real 
+@hothusband_01 http://twitpic.com/6rrs2 - i cant see the pic 
+@tommcfly do you hate me or somthing? i just want you to look&amp;comment!  http://www.twitpic.com/5f9e1 &amp; http://www.twitpic.com/5hfjr
+@tommcfly do you hate me or somthing? i just want you to look&amp;comment!  http://www.twitpic.com/5f9e1 &amp; http://www.twitpic.com/5hfjr xx
+@tommcfly do you hate me or somthing? i just want you to look&amp;comment!  http://www.twitpic.com/5f9e1 &amp; http://www.twitpic.com/5hfjr x
+@lucascruikshank http://twitpic.com/6r91c - WOW! no more fred swinging 
+@kyky201427 http://twitpic.com/6ugde -  when was this?
+@msbkb http://twitpic.com/6umdh - i cant get the pic to come up 
+Why am I blocked by @MaximeVerhagen ??    http://www.twitpic.com/6uyv4
+@ambereverlife http://twitpic.com/6v0rq - can't see it 
+@ohmydamnkelsey http://twitpic.com/6vsxi - You eated one. 
+@CocoFangBeanz http://twitpic.com/7fxyq - it looks amazing! i wish i cud c it... 
+@rainbowgeorge76 http://twitpic.com/7gnh4 - and I love you. I miss you  x
+@sincerelykase http://twitpic.com/7glh3 - Awwwwwwww I miss you 
+@nany710 @gaby196 http://twitpic.com/7ftna miren  y entenderan !
+@_MIIMII_ http://twitpic.com/7i6cn -  i miss this too
+@candisleigh http://twitpic.com/7i6s6 - i hate you 
+@jessicamauboy http://twitpic.com/7ifgz - i got that poster! i wish i can meet u again 
+@FakerParis http://twitpic.com/7hqm2 - @ECullenz yes I think she have to go ! 
+@adarlingxo http://twitpic.com/7irbu - you is sickie? 
+@lovekelsey http://twitpic.com/7e2c6 - i tooook thiss ;D i misss you 4. 
+@sjwhiteley http://twitpic.com/7jqfa - How can I put this? ...I want to cry 
+@Tracemace2000 http://twitpic.com/7kefc - I guess not 
+@anothersaturday http://twitpic.com/7lqs3 - these pics are mostly mine  lol STEALER
+@JoshieSquashy29 http://twitpic.com/7mmxr - This is sooo stupid 
+thought i could fly. I was wrong  lol haha http://twitpic.com/7o1q9
+@RealOneTreeHill http://twitpic.com/7mtju - yayyyy! but i miss chad&amp;hilarie 
+seriously @sevinnyne6126 if you keep posting pics like this  http://twitpic.com/7g2y1 I'm going to have to follow you  I don't want to!
+@andrewgoldstein http://twitpic.com/7oogf - andrew..I can barely see! it's too dark!  but it probobly looks rad. ;D
+@coldplay http://twitpic.com/7ouow - it's so sad when it's over 
+@BrittaniTaylor http://twitpic.com/7pyqu - i want those so bad now 
+@izka2 http://twitpic.com/7r269 - *makes gimme hands* I wants them!!  or, ya know... those are awesome!
+My handz0rz   http://twitpic.com/7rlak
+@lajo88 http://twitpic.com/7roxu - I wish I could do that too!!   
+@AlanaJoy last twitpic is no going! 
+@shannamoakler http://twitpic.com/7s8p5 -  That is so sad
+@OfficialAS http://twitpic.com/7sqll - haha! naaaaaaw coold 
+@trvsbrkr http://twitpic.com/7t5d9 - I will be away ...just not there...super bummed  ;)
+why isnt my twitpic showing on here ? :S 
+@PhillyD http://twitpic.com/7tsc8 - I cannot see it! 
+@anisafatima http://twitpic.com/7uidy - So jealous! I wish I was there 
+@sampo_ilmari http://twitpic.com/7vaq8 - You look high. And unhappy. 
+@perezhilton http://twitpic.com/7vxb6 - That's not nice 
+@durkaderekdurka http://twitpic.com/7wchh - I hate you 
+I miss this.  http://twitpic.com/7we6z
+ it looks so bad but you cant really see it on here http://twitpic.com/7wq7t#
+@mileycyrus http://twitpic.com/7vvww - With this you look cheap 
+@tracecyrus http://twitpic.com/7xcax - i miss youu brotther! 
+@tracecyrus http://twitpic.com/7xor6 - I can't see the pic 
+@BrentCorrigan00 http://twitpic.com/7y03y - can't see it ! 
+@angelibarra http://twitpic.com/7xsop - i can't see it 
+@cierraj http://twitpic.com/7dcws - I want one 
+@RosieGaga http://twitpic.com/7yikh -  why niley is back?
+@mileycyrus http://twitpic.com/7vvww - why are you so gorgeous. i'm jealous ... 
+@adamrucker http://twitpic.com/7z3m5 - I wish I could've been there! 
+Oh no! I read this  http://twitpic.com/7zmct
+@rochellewiseman http://twitpic.com/8001q - awww i wish i could be there 
+just remembered i don't have any of this http://twitpic.com/80g25 left 
+@morenamarie88 http://twitpic.com/8793h - omggggggggggg that looks so painfulll 
+@elliotminor http://twitpic.com/87pml - i wish i could have been there 
+@selenagomez http://twitpic.com/701i5 -  but hes cute still
+@localxcelebrity http://twitpic.com/8cidj - ugh that makes me sad too 
+@mileycyrus http://twitpic.com/8cmop - I do too 
+@tracecyrus http://twitpic.com/8d047 - awww  I'm sure you'll see her soon!! What are ya drinking?
+@fastidiousbabe http://twitpic.com/4uszh - i wana go 
+@tracecyrus http://twitpic.com/8dgix - I love you 
+@mileycyrus http://twitpic.com/8cmop - i wish i was there 
+@mileycyrus http://twitpic.com/2xszg - you're so cute 
+@mileycyrus http://twitpic.com/2y606 - Awww omgsh she's gorgeoussssss. http://twitpic.com/2y62a they're mine 
+@mandyyjirouxx http://twitpic.com/2y6t7 - you two are gorgeous 
+@mikeyway http://twitpic.com/2xznf - Niiice! 
+@porphyriac http://twitpic.com/2xxxu - Just what u want to be greeted by 
+@LinaLovesJB http://twitpic.com/2yebs - you look cute 
+http://twitpic.com/2yetf &amp;&amp;  http://twitpic.com/2yetx - Workspaces de hoje 
+@cydneyw http://twitpic.com/2nvz6 - We're both famous 
+@TheSpencerSmith http://twitpic.com/3cfwi - 
+@souljaboytellem http://twitpic.com/3izgy - 
+@souljaboytellem http://twitpic.com/3izgy - you don't even have to tell me 
+@souljaboytellem http://twitpic.com/3izgy - i love this pic.... 
+@anamariecox http://twitpic.com/3itlh - What a totally awesome photo of you pretending to sleep. 
+@charlestrippy http://twitpic.com/3jsb1 - Why didn't I think of that? Haha 
+@lilcausey29 http://twitpic.com/3kpft - awww that's so cute 
+@selenagomez http://twitpic.com/3knsj - she is so pretty as you. 
+Finally it work  http://twitpic.com/3kvro
+@ThiaHeartsNick http://twitpic.com/3kxds - aaawww... 
+@wtcc http://twitpic.com/2l5p5 - kid cudi!! coool 
+@digitalsprawl http://twitpic.com/3l76i - How absolutely ADORABLE!! 
+@selenagomez http://twitpic.com/3knsj - That's soo cute! 
+@freddurst http://twitpic.com/3kuf3 - damn..shes cute   you lucky one! 
+@selenagomez http://twitpic.com/3knsj - haha that is soo cute 
+@mussomitchel http://twitpic.com/3lxqd - sexyyyyy. 
+@jackalltimelow http://twitpic.com/3n3h2 - it's kind of like 'find waldo' 
+@Smiffla http://twitpic.com/3lhc4 - I was there when you did that 
+@grantimahara http://twitpic.com/3lq9z - How sweet 
+@jaredleto http://twitpic.com/3ncr0 - I know now like you are! Wow! 
+@ashsimpsonwentz http://twitpic.com/3pdzd - the comments are making me laugh, seriously. I'm quoting them all 
+@misshollyweird http://twitpic.com/3pfps - preetttty and classy 
+@jesatm http://twitpic.com/3orkq - I agree! 
+@mcflyharry http://twitpic.com/3pgxg - nicee.. *-*  Effyeffy: yes, he can see 
+@kristenstewart9 http://twitpic.com/3maaq - Haha i love this pic 
+@deangeloredman http://twitpic.com/4drj2 - i likke this, 
+@thisisryanross http://twitpic.com/4e48i sketch from 2007 of you 
+@Jesssicababesss http://twitpic.com/4aent - this one 
+@shalznewbigging twitpic or it didn't happen   http://twitpic.com/4ersm
+@slashhudson http://twitpic.com/4azij - beautiful 
+@tristyntracy http://twitpic.com/4eywr - lovely 
+@taylorswift13 http://twitpic.com/4gnlp - that is soo cute, so so true 
+@taylorswift13 http://twitpic.com/4gnlp - so cute, i agree! 
+@taylorswift13 http://twitpic.com/4gnlp - that's so cute 
+@taylorswift13 http://twitpic.com/4gnlp - Ahh that's so sweet 
+@melodyjae http://twitpic.com/4h0a2 - Aw, he's so cuteee! 
+I can't stop laughing at this  bahahaaaaa! http://twitpic.com/4h3qk
+@abigailcook  look for my next twitpic 
+@ashsimpsonwentz http://twitpic.com/2zgqa - Awwww he looks like both of you! Really cute 
+@trvsbrkr http://twitpic.com/4hvhs - She's cute 
+@McFLYAddiction http://twitpic.com/4ijse 
+@mmitchelldaviss http://twitpic.com/4gtiu - sweeeet 
+@paulblg http://twitpic.com/4iwfp - Most definitely! I want oneee. 
+@thecomputernerd http://twitpic.com/4fgm4 - That's pree kew! 
+@DaniAtkinson http://twitpic.com/4izbj - i loveeeeee this and you girls 
+@HedwigN http://twitpic.com/4i1lk - Where are you ?? 
+@iheartmissy http://twitpic.com/4i8kk - How pretty ! 
+@claudiatan http://twitpic.com/4jber - aww .... then we wonder why they hate us later..... lol!! 
+@taylorswift13 http://twitpic.com/4gnlp - THAT IS FANTASTICAL 
+@rochellewiseman http://twitpic.com/4jguu - wow that is pretty  x
+@artcon http://twitpic.com/4vfcx - awesomeeeeee 
+@talindab http://twitpic.com/4w483 you guys look so nice 
+@ricebunny http://twitpic.com/2xjoc - can you paint me 
+@iamjonathancook http://twitpic.com/2y15g - aaww! so cute 
+@karleigh http://twitpic.com/4yphg - This is adorable!! I am sooo jealous. Nicks smile is sooooo cute  did you tell him to smile like  ...
+@kentgarrison http://twitpic.com/50uig - these are amazing!!! 
+@mileycyrus http://twitpic.com/54a51 - I love your top 
+@jessstroup http://twitpic.com/5cjdk - awwww... that is so cute! 
+@esmeeworld http://twitpic.com/5cusa I made a second pic to be sure 
+O how we heart u - @identifykings @milajane @jemasbury @bkbuilt32 - http://twitpic.com/5czk0 &amp; http://twitpic.com/5czpi. @modelphenom too 
+@syntheticseason http://twitpic.com/5cyje - your adorable 
+@bobbyllew http://twitpic.com/5cxc0 - That all looks so very odd 
+@kittykatmeoww http://twitpic.com/5ceyq - Iight now 
+@lucascruikshank http://twitpic.com/5bqrx - Aww, she's really cute 
+@Geekwife http://twitpic.com/5dfgn  As you wish 
+@lilyroseallen http://twitpic.com/5dgty - How cute! 
+@lilyroseallen http://twitpic.com/5dgty - hugh hugh 
+Another two pictures of the new puppy   http://twitpic.com/5dhgg  http://twitpic.com/5dhip
+@thebrandicyrus http://twitpic.com/5dcka - Awwwh  cuteeeeee
+@lilyroseallen http://twitpic.com/1thqh - haha, your still attractive 
+@GracieOlivia http://twitpic.com/5dfde - we are fit haha 
+We are finally on our boat!!!! Yipeeee!!!  http://twitpic.com/5djor
+@michellemalkin http://twitpic.com/5dcod - 
+@laurenconrad http://twitpic.com/5c46l - so cute  lovely
+@davidleibrandt http://twitpic.com/54fq9 - you and T.C. are too friggin cute. 
+@therealsavannah http://twitpic.com/5cmhe - awwwwwww so sweet 
+@thebrandicyrus http://twitpic.com/5dcka - how cute! 
+@kristenstewart9 http://twitpic.com/5dwtg - But you're cute though! 
+@wilw http://twitpic.com/5ezjc - 
+I volunteer for THIS! http://twitpic.com/5f228   =P
+@euphoriclife http://twitpic.com/5f3c8 - You're beautiful 
+@laurenconrad http://twitpic.com/5c46l - how pretty do you look 
+@letssingbaby http://twitpic.com/5dslm - beautiful 
+@CaptHazard http://twitpic.com/5f6z3 - lovely.. it's still dark here, how trippy 
+@coldplay http://twitpic.com/5f798 - You are indeed hooked, and I guess so are all of us 
+@jonmchu http://twitpic.com/5f70y - ahw. so cute 
+@stephenfry http://twitpic.com/5f61c - i think they're lovely.  
+@mikeyway http://twitpic.com/5npfq - I will be looking forward to it!! 
+@datinggold http://twitpic.com/5grsm - wow! 
+@david_henrie http://twitpic.com/5ogwq - i love it 
+@matthysbakker http://twitpic.com/5on1w - I recognize the view 
+@glorianatheband http://twitpic.com/6094j - 
+@samd http://twitpic.com/61e7f - i'd say.. either 1 or 5... 1 makes you look older though!  ... defs not 6!
+@nicolerichie http://twitpic.com/61fqw - you're seriously so gorgeous.  i envy you x69 
+@comeagainjen http://twitpic.com/61fmq - so cute! 
+@david_henrie http://twitpic.com/4jbsq - cutee 
+3G up/down prebo   http://twitpic.com/660fj
+@therealtiffany http://twitpic.com/66191 - instead of just saying you look very pretty how about both of you  She pretty lucky to have ...
+@taylorswift13 http://twitpic.com/5atcr - how cute, you girls are beautiful. 
+@therealtiffany http://twitpic.com/66191 - Beaitiful 
+@therealtiffany http://twitpic.com/6618d - very pretty 
+@adamgoswell http://twitpic.com/6668z - 18C here in MilkandBeans already 
+@totalgirlph http://twitpic.com/667k5 - Where is this? 

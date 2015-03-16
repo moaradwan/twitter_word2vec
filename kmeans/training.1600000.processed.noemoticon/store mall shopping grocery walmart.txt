@@ -1,0 +1,1025 @@
+Most common words for this cluster:
+[('store', 294), ('mall', 132), ('shopping', 109), ('grocery', 91), ('walmart', 71), ('shop', 55), ('target', 54), ('ikea', 49), ('stores', 44), ('today', 29), ('http', 26), ('com', 23)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'store', 0.8779147267341614), (u'stores', 0.7754641175270081), (u'mall', 0.7654781341552734), (u'Walmart', 0.7582385540008545), (u'supermarket', 0.7218788266181946), (u'grocery_store', 0.7196402549743652), (u'Wal_Mart', 0.7135152816772461), (u'Wal_mart', 0.706725537776947), (u'K_mart', 0.70192950963974), (u'Ulta_Beauty', 0.7017145752906799)]
+
+
+
+
+
+Borders closed at 10 
+I don't want to study, i want to go shopping instead!! 
+Oh no, it's a Harrods day  now I really will be sick.
+wants to go Shopping! 
+@revjesse Ahahah   if only it were hot enough!! I want to work elsewhere... like stacking shelves in some grotty shop 
+Off to The lumberyard  
+@annaxautopsy well frankmusik is on the uk store but we can't buy it from there... 
+@WholeFoods nearest store is 5 miles away 
+Whittards is gone, habitat's going, and IKEA's gone shit...what's the point in living anymore?! 
+Free E-waste event today in Eastlake at the Walmart. You all should come by until 3. And I see the irony in it being at Walmart 
+I'm dying of a stuffed up nose ... gotta get to the grocery store for food and afrin - that is if I can breath till then 
+word to the wise: never buy porno from a gas-station or liquor store. the chicks probabl are covered by giant moles, ruins the purpose. 
+I hate hate hate Target on saturdays 
+couldn't get into a record store 
+I am in a chocolate store against my will  gross...
+I'm so heart borken!  I found two amazing shirts but can only buy one! Shopping is a dangerous obsession!
+Grocery shopping... 
+@tiffanyblews danggg. I can buy almost the whole store 
+disappointed at the Chanel store @ Dubai Mall, I expected so much and found too little  not happy at all
+@amandatrumbo It's kinda freezing in our store. 
+Finally heading to the party. Emergency vehicles just arrived at Kroger and took out a stretcher. 
+So sad I tried on like a million things at Nordstrom and nothing worked! 
+we need to go shopping together!! 
+@fabispereira we need to go shopping together!! 
+The ghetto Safeway had shards of glass stuck to the pickle jars tonight. No more late-night pickle buying adventures. 
+@farre I went to BJs (like Costco) &amp; they had NOTHING I wanted &amp; walked out empty-handed.  Usually have luck there so I check there 1st. 
+@iMaria69 ack, lakeline mall?!? you were just right around the corner from me  aww pity I didn't see earlier
+@ItsJamesNewman When I worked at Target, I found one marked down like 90%. I put it aside to buy it, but never did. 
+i just finished working though, it is getting dark outside *sigh* i wanted to go shopping  ?????????????????????????????????????????
+@SirCrumpet store 1.1 is out! no buying though 
+I lost my keys  and the store key was on there. I really don't know what to do 
+Being forced to go to Borders. 
+BAck to Walmart to get the pills that they didn't have ready when they said they did 
+Is getting ready to go slave away at the Gap. 
+Getting ready to go to grocery store...watching it rain 
+Is Costco then yard.  I am hoping for rain so I may be excused from another day of mowing my lawn.
+@fatally_yours  we dont have trader joes' in fl. we actually have a very poor healthfood store selection here  I need to move lol
+why does the mall have to close at 6 on sundays? 
+is sleepy and she wants to go shopping. 
+Doing three errands in one large shopping center that doesn't have covered sidewalks. W/o rain I'd walk btwn stores instead of reparking 
+@FriscoInferno haha! I actually had a pair. They were sold at Target; no sign of them since. That makes me sad. 
+Wants to walk to the store for dessert but its raining 
+@chicsndvl  I was looking for it. But Target doesn't carry any 
+Wow! I think everyone's at Kmart. 
+@WilyOdysseus  I know I know! I tried to buy a ticket at the store but the machine was down and now it's to late 
+I got bacon at the store, but could not find baconnaise. 
+I'm soo tired   Later - shopping that's when I have to hit a starbucks
+i just realised that even if there was a massive swine flu outbreak, i would still not be able to loot an Alko or a Supermarket 
+@ChalkOLet I'm filing a report now  I'm temped to go to the store and bust some heads....
+My mom didn't go to Kroger last night, that means no milk therefore no cereal.  my hopes crushed
+back in waterville... no comic stores near by, so no fcbd for me 
+@carlsjr The store next to me closed  Now I have to drive really far away to get food 
+At the store, trying to budget shop 
+So pissed off at Walmart... Cutting my hours again. 
+went to the grocery store and there were all these 'made in mexico' stickers on fruit...so sad 
+Wow, it's amazing how desolate the Metreon is. 95% of the businesses are gone. 
+@BigTeazeToys working  ! but at least it's at a sex toy store!!!
+They do not carry sizes my small in the store 
+So CVS didnt didnt have cake mix, whipped cream, or rocky road ice cream....not my favorite place 
+@emoisforluvers it seems to be all the good shops that go out of business. Like Woolworths 
+I woke up toooo early got 3 hours to kill in barcelona before I leave what should I do? Shops are closed... 
+lamp purchased, bought and assymbled. To bad Walmart doesn't price match walmart.com  #walmart
+@ruchikabhalla omg how I miss WaWa runs at random hours living at RU. There isn't a WaWa in sight here  lucky you
+@ninjamoeba sorry to hear that  I had my wallet stolen in the Morley Galleria Target once. That event turned me into a epic snob.
+I really don't suit being up this early  didn't know shops are not bloody open until 11 !!
+Disgracefull. IKEA have put the price of breakfast up by 55%. 
+Lovely day yday with friends - ultimate pet show, bullring, urban pie, Ikea and chinese. Today's trashy TV plans scuppered as TV broken. 
+Maternity shopping not going well. The shops I like don't do maternity. It's making shopping stressful and I can't even hit the vino 
+Kmart ran out of the color ink I need and the comp. stores are closed... so I'm printing the rest of my grad. invites in grayscale. 
+@keithmcarthur no.  ups doesn't think they lost it, but i had rogers put a trace on it anyway. i should have gone to the store!
+Going to Home Depot to get my computer desk then off to Best Buy to get an iPhone case that @eRock recommended. Then to Walmart 
+@bearabledeals I hate it when the cashiers act like you are stealing if you use coupons. 
+@eightbitss Swedish meatballs from IKEA are the greatest advert for kittykat food  Atleast they are not raw though ;)
+@coffeeaddict12 That sucks.  Petco needs more people. And less customers. And fewer pets. Actually, all they need is a room and couch.
+is thinking about going to the 24 hour Walmart 'cause it's open and has power. Iunno where it is though 
+@JohnHinnant I've got a craving for cookies at 11:30pm... when are we getting a grocery store downtown?  
+left my phone at PacSun.  no texting for a whole 24 hours 
+anyone knows how to troubleshoot a podcast in the itunes music store... mine is not showing the description once you subscribe to it... 
+Spending last few minutes on computer b4 goin 2 Ikea 
+@55SecretStreet great store and they donated great pieces, now to get them. 
+Up and getting ready. Now wal mart 
+Just was helpin a really hot foreign guy, but we didn't have his cigarettes so he went to Walgreens 
+damn it i have to get ready for shopping and i hate going out on sundays 
+So I bought a pair of Bose over the ear headphones, they work great!  An earpiece fell off though and Target wouldn't take them back!!  
+Home atlast, mann I didn't get to go to the mall 
+@Marcs316 Aww.  I haven't really played with it too much yet but like what I see so far.
+@glennyt @TheSwelleLife had some boots with such slippery soles that I fell over in them about 15 times. Shop wouldn't take them back 
+@alaero it is when its my intertube outlet 
+Wondering why the sweet shop in cockburn street doesn't sell bubblegum calls for my jenni 
+making my gonococcus bacteria for bio2, ewww. i need some string though and i am not about to go to the store for it. laaamme 
+@HotForTweets I need chocolate now but don't feel like driving to the store 
+Oh the joys of the Walmart lines in south OKC 
+my throat hurts  someone remind me to run to CVS in the morning
+I wish I could go...I have to be at the shop. 
+Getting ready to do the monthly food shop! 
+My feet are killing me from all that walking around the shops! I can't believe after being so excited I forgot to go into the apple shop! 
+is worried that one hamster will kill the other =/ maybe i should take one back to Petco. 
+@BAWLSGuarana bawls does not fuel me anymore it's not in any stores here anymore 
+man, not having a grocery store in my building is really fking me up now. i was spoiled for a year and didn't know it 
+@jazzymejiaonly noo, we only have like 3 hollisters in canada, i have to drive to toronto to go shopping ahha  for you its like around
+work soon. *sigh* I wish I was successful! Kinda hard to be a successful Safeway Grocery boy  yay for being paid to be walked all over!
+@papajohns ripped me off tonight delivery was 45 min late and showed up cold. can't reach anyone at store so had to reheat my own pizza 
+@NutTheSquirrel I tried this at Target with condoms and got kicked out 
+@maeband: i wish you were back at chain 
+Its raining so I can't take pics for my shop   -  we're off to Ikea instead
+Ralphs voice is gone, mine is packing it's bags to follow him 
+Pushing the grocery trolley 
+@ConnorJack the forum and the store are took down. and the other language are teken down 
+Has been to Costco for a jacket spud and is back revising 
+Mall for prom dress! But after cleaning 
+LLBean is out of every single item I wanted to order 
+I bought chocolate at the supermarket and they charged me but didn't pack it - so no choc 
+@jakepjohnson I told you IKEA was bad for you. 
+@KaulitzToyzXD awww  well I guess I'll just have to go to Blockbuster then...lol
+@mlorelle i have to be at the trailer at 2, and i need to run by the grocery. 
+@julesyog We were talking about them yesterday, but I have yet to experience them. No Ikea round here that I know of 
+@dangartley I believe you can have the screen replaced at your local apple store for $150. 
+Alllllll byyyyy myyyyyselffffff....just imagine me singing it as I walk around the store. I am lonely!!  
+@sammiechacha  At a jewelry spot in a mall.
+Aw i wanted to go to the toy store! 
+@CelticCrossing We don't really have any health food stores here 
+@tinaism323 boo.  i couldn't make it. i woke up too late and had to do prom makeup. i bet you.. when we meet.. it'll be at a store!
+ugh, the store again. 4 days in a row 
+has very tired eyes. :'-( ahhhhh CVS. X-(  http://plurk.com/p/uipah
+@hanaabanana Mart just told me to check online banking...but I can't face it! 
+going to the gorcery store to buy meat 
+@toodlenoodle hehe i actually like Ikea, i was just frustrated and very disappointed in the office chair section 
+Just sent email respectfully withdrawing from IGA conference. 
+@PaperCakes i think my store is prepping to get some new stuff in. their shelves were pretty empty. i miss my michaels!!! it got closed. 
+@Lttljay awh that sucks  i really hope i get it soon, we dont have asda, so going to look in every other shop til i get it xoxox
+@jenniebellie Also boo to not good shopping.  
+@tasshh i know it sucks D: i even tried in the american store but it still didn't work 
+@thegirlsilver Are they making you return the shopping ? 
+so the rain cancelled my trip to CVS  ... stupid rain!
+back to Acme. it's a bit strange...not being tutored anymore 
+Off to the grocery store. No more veggies at home 
+Wish I was going to the apple store opening 
+At in orbit mall vashi. I get depressed in malls. Some bad old memories 
+@AModernMother Schools here refuse to use baked goods any longer. Everything is required to be prepackaged from a store now. 
+is sad the cherries did not make it home from the grocery store  http://plurk.com/p/vhuze
+Leaving apple store 
+breaking down and getting a coffee    and some awesome cherries I just found at IGA!!!!
+bugger it - must go do my shopping 
+@MsJBell Haha, I feel nauseous in the checkout line at the grocery store. In this tabloid culture I feel like a freak. 
+@imsoapee Retail, and home warranties. If it was mostly retail I'd do better on the new scale, but guess what? We do mostly home warranty 
+My shopping diet has spawned a new creativity for my closet... but I still miss it. 
+@iamally why no shops? 
+Short one night time med because new CVS doesn't have 24 hr pharmacy, just 24 hr store.  
+Today I wanted two things: P.F. Chang's in Memphis and a Target visit. We got lost on 240 trying to get to the Target first. No Chinese. 
+@Syo_of_the_dead I met a stranger just 10 min ago. He was stalking me at the store 
+Walmart opening its first store in Amritsar tomorrow (of all places)...the horror..hoping its limited to wholesale 
+I hate covering for other stores 
+The weather is SO nice! And there were so many hot guys in town, I felt like a kid in a candy store. Except all the candies are straight 
+@Jaisaphira I agree, however I can't sell  until I'm a full brick &amp; motar store...  soon though hopefully
+@hippyofdoom I didn't even get a chance to shop @ Aldi! 
+@chrisrcook Since the demise of Woolworths it isn't easy to find reasonably priced pick n mix anywhere 
+Off to Dollarama -- I wish I had a new job 
+i hope i can find a store to take us 
+Just dusted &amp; vacuumed apartment.  I think I need another new vacuum...my entire apartment is smoky.  I just bought this one from Kmart 
+Walmart bails on sponsorship! 
+Dreading the weekly grocery shopping. 
+I need to get my act together. At the mall again instead of studying 
+wondering if my local Borders is going to make it. Lots of bare shelves... It makes me sad 
+@brran1 that really sucks - I think I might cry if I skipped over anything important I don't have. Comps are getting to be disposable 
+@SherylBreuker I hate that Costco always costs us so much money 
+Shelf from Ikea fell off the wall. damage done...about $78.95 worth. Or at least thats my estimate. 
+@ChantelleDaily sold out in 6 stores, i don't think so 
+lost my keys at the mall... took me 45 mins to find them 
+ the sing store won't work.
+Just got back from the grocery store. Now I'm starving and can't find anything to eat! 
+http://twitpic.com/67ot5 - the most amazing decoration of a store i've ever seen... &amp; it's almost been 2 years 
+@rachyzilla still haven't been to the infamous liverpool store  my manager helped set it up said it's awesome (y)
+@FoxyOxymoron I would have, but SuperTarget didn't have any.  
+stopped at the store to pick up some items and debit card is missing 
+help! anyone know if there are stores that carry blackberry trackballs? just went to verizon retailer; no luck. do not want to order one 
+http://twitpic.com/67ykl - The stolen purse -- when it was new from the store...see tags still on it 
+Sending angry vibes to the individual in a blue vehicle who hit my car in the QFC parking lot on Broad and failed to leave a note 
+@ZackRabbit i chewed up a Starbucks and a Subway gift card at Christmas time, I got in big trouble. I not allowed near purse. 
+@malbaker86 at the store! Lol I don't have any liquour here 
+Pretty sure what I just experienced in Target was a panic attack of sorts. I feel like I could sleep for a week. Or not sleep for a week. 
+Why so expensiveee http://store.americanapparel.net/rsart400.html 
+@Cortniexoxo :: and the Warehouse isn't going this year..this summer is going to stink...I really wanted to go 
+I dislike Costco. I never see my best friend anymore  They make her work a lot.
+A sad ending to a fine pair of Diesel khakis; left in a Safeway trash can covered in nacho cheese 
+@xoshattered_ No  I hear Zehrs is a good place...If you apply somewhere maybe I'll apply there too? XD
+Why do malls close at 9?  or at least the one here.
+UP is pretty much sold out @ Metrotown Cineplex 
+@jesssicaj it's prob also less of a hassle to interview all @ once. &amp; haha, hopefully I have the car tomorrow. I have to open @ Target 
+at the great mall   but watching UP in 3D!!
+Wow, twitter is being crappy tonight.  I just got back from being dragged to Wallmart   I really hate that place.
+@thehoodnerd damn i hear ya...I miss my bed...and I even miss my half built, new, Ikea bed  enjoy sucka lol...jealous
+off to the supermarket for slow shopping... the cabinets are bare and i don't have anyone to do the running for me... 
+@fletch65 why the Galleria hate? 
+@sukhbir1583  i agree.it's been sitting too much in the shelves. when you coming to india?
+i wish i had a presonl shopper and no budget  !!
+The queue at the supermarket is huuuuge! 
+getting ready for work at Torrid... trying to figure out what to wear! Usually it comes to me in a dream the night before, but not 2day 
+The forbidden planet store is always a disappointment since ebay 
+@eve76 not yet bb aaaargh its packed in the stores 
+About to take a quick run to Aventura Mall to pick up something for work at the Apple Store. Would tweet from there if phone worked 
+wait, no I'm not, it's $45  I want to figure out where the store is so I wouldn't hae to pay for shipping!
+@ZenMommy so I always tell women when they do that in grocery stores.   &amp; don't leave my purse alone ever.
+couldn't get the high chair for my niece at IKEA Queenstown...   Hopefully they have it at IKEA Tampines..
+going to Walmart on a Saturday is not worth free ice cream to me.. Walmart gives me panic attacks. 
+@IAmStanLee no museum   Shopping though
+working at the mall for the bank again.   
+why is Ikea not open!! 
+trying to figure out when I am going to go to the store and buy groceries....I hate buying groceries 
+@ninthspace not in the shop unfortunately 
+I just witnessed a drug deal in the mall bathroom.   
+@ImWendy Walmart has &quot;buy me now&quot; perfume in the air 
+At central park right now....it's so hot out here...even to hot for shopping 
+Something in the grocery cart got all over my brand new Anthropologie bag and now it's in the washer. I'm super nervous about it. 
+My favorite store is closing it's doors...I'm very sad 
+Should be at the grocery store...but reading twitter updates instead  I'm such a procrastinator
+@SummerRP we have to go shopping for funeral clothes 
+Metreon is no more.  There's farmers market there now 
+library with william since I can't go to the mall 
+http://twitpic.com/6ac0m - Shopping cart suicide. 
+I wish I could spend this at the mall right now.  http://twitpic.com/6adt7
+@copaclaire  sorry your store is closing, that really sucks 
+I want some of that free Walmart ice cream today but no Walmart anywhere close   The one negative of living in the middle of the city
+   no shopping   
+just spent 74$ on clothes alterations, why can't there be a store for almost midgets? 
+@ebonistephae I did..I wasn't really there to shop for me  sheeesh! I need a run down of stores!
+@HappyHousewife I see that kinda stuff all day long cashiering at Walmart. 
+Why don't stores sell toy guns anymore? 
+Heading to the mall 
+@leannechatts Seeing any one at all come out of a Walmart is really stupid  Walmart is awful.
+@mjacob I talked with a rep in the store and he said because a select few people knew about it (I knew last friday) they nuked it. 
+@Allisoncds the one at Highbury and commissioners - Rona Plaza - in last couple of days I think 
+Its hard being @ the store and going passed the baby area knowing that was what andrew and I both wanted. 
+just got back form Ikea. returning shit there.....what the frak? its such a hassle! 
+Wants trail mix with dark choc but grocery store is closed 
+hey ppl my twitter is acting up   ...its weird [i just came from IKEA and i live it in there, its kinda like a whole bunch of mini houses]
+@ richadesida thought you called it a night an hour ago. haha. didn't make it to Walmart either 
+I need to shop shop shop! 
+i want to go shopping 
+walking around hypermart makes me tired n i need to pup 
+The downside of defecting to Woolworths - I now have the inane gushings of the Carpenters stuck in my head for the rest of the evening. 
+@AshTR Braum's is awesome. Wish we had one here. 
+Drooling at the xkcd store. I'd buy it, if only shipping wasn't as expensive 
+Just got back from the grocery store..it's crazy!!ibu-ibu kalap senggol bacok..huhuhu..poor me.. 
+is about to jump on a checkout 
+What a great day......but I have to trudge around Tescos shortly to get the weekly shop 
+Is relaxing around the house..and may go to Walmart later..i feel like being lazy..im still sick.... 
+I need to go to the mall 
+@jeanettejoy Going to Costco, grocery store and laundry. Not fun... 
+I woke up sounding like a man! Of to the CVS i go! 
+groceries. 
+@TasitaM0219 I know   and I hate the store
+@CassandraBatson Awww, isn't it more fun to be romping through the store!? 
+@wilgockid i already went to the grocery store. they're calling for thunderstorms today though 
+- The grocery store is my 3G dead zone. 
+@EUGENALEE apparently not my friends  Shopping sucks by yourself..That might be the result..
+I'm boring  ... But, I think I'll go the supermarket!! :s
+@redchinese19 nope, i searched the app store! 
+in the mall getting ready to take pictures in a mall 
+going to garden store with mother. she wont let me wear my bikini 
+I am done grocery shopping $ 230 later 
+off to the apple store 
+I want to go shopping! It sucks to be on a budget 
+Going to Target for misc items and maybe some maternity shirts. Clothes be fittin strange lately. 
+I want to go shopping! 
+back from Ikea, got my girls back, got shoulder sun burn and didn't get my dvd tower 
+I spent too much money at Ikea 
+I'm watching Mallrats because I don't know what else to do. Now I want to go to the mall 
+my chain came off again 
+I really don't feel like grocery shopping 
+The lines are so long at Costco I am trying 2 convince the wife 2 leave this basket right here and keep it moving. This is rediculous 
+@annzoo I want to go shopping too 
+should not have gone to the apple store to look at iphones.  want.    badly.
+grocery store 
+@Kohreeb hahah we went to every dollar store and we can't find those chairs anywhere!!  
+Walmart took all my monies 
+I regularly get compliments on my hair, except for this one jerk who's a clerk at QFC; he always has rude comments and asks why I dye it. 
+I want this Ikea mirror but they don't ship mirrors 
+i forgot my jacket in the store and its very cold outside 
+Fml I was at the grocery store and forgot to get cake mix and frosting. 
+Why does the mall have to close at 6? 
+has just found out dippin dots is no longer available in this outlet store! Waaaaahhhhh!!! 
+The mall is closed  i needed to cuz h2ocean
+I don't like it when Indian cashier dudes hit on me. 
+my hair is starting to fall out in the shower  people recommend biotin. GNC here i come.
+@ratties I hate Walmart too! I feel your pain. 
+1st time at Ikea now. I am not a fan of their Swedish meatballs 
+I wish the pet stores were open later on Sundays. 
+Grocery shopping sucks when your hungry  I wanna eat now!
+we got kicked out of ricc mall  sad!!!
+I fink i hafta drop by Kinukuniya when its open. Borders doesnt haf the last watch 
+The grooming salon at PetSmart on 50th doesn't employ very friendly people 
+all the other stores keep calling for shoe checks and I'm dead! 
+@grouponboston I just went to purchase mine and they were all sold out  I hope you guys do more salon groupons!
+@LionsVictory Publix is looking good right now 
+now that the gang's all here, I've got to go...  Walmart awaits... What a glamorous life I live... don't be jealous
+Just accidentaly ripped the shoulder out of a $3 blazer I picked up at a Goodwill in college. Transition to adulthood nearly complete. 
+disapointed... was supposed to get a new badminton racket, GOSEN, but the store we went to no longer sell them  sucks
+saw some poor kid have a seizure in aisle 6 at the grocery store today. 
+@colingrady subversion? I wish. we were using CVS. 
+augghhh where's there an apple store in nyc, my clickpad is fucked up 
+is sad.. the metaphysical store is closed. 
+At the UPS Store, shipping a piece of my childhood that I sold on CL. 
+@ASHATL u don't even know. the nearest Target/Starbucks from our new home is 40 minutes away 
+On a Blockbuster conference call, yay 
+Is craving dunkaroos and the grocery store in town doesnt sell them. 
+Thinks that the kahala mall is wayto confusing 
+On my way to the grocery store. Yay...so much fun 
+We're going to Target   I don't wanna.
+I want those shorts from PacSun.  
+@cupcakebrii good luck. i wanted to apply at bebe at my mall too but all the positions were filled  so hopefully express works out
+watching mall cop. 711 didn't have fluff 
+UNCOOL! Walked out of Walmart behind 2 teenage boys that had shoplifted food. I didn't notice until parking lot where they showed it off 
+At Carmax trying to buy an 08 cobalt outcome not looking to good 
+Were on the way to the grocery store 
+@dwpoyner it's still not showing up in the store 
+@AliceInSpace We could have gone to the $2 store if we hadn't done the tour 
+Walmart fer 2 hours -.- jst bought a magazine &amp; cheese cheetos, &amp; ice breaker ice tea! ;DD ehhh. Ahhaa science quiz tmrw  taylor lautner&lt;3
+@mommyallred we don't have fruit and the store is closed   I want junk lol.
+@leechbabe we have to go to the actual shops 
+@happymonkeyshoe think i remember a toy store in the uk going down. bugger 
+so sleepy. so, so sleepy. now coffee, cyberlab, apple store, print shop, and class. 
+Just in my local o2 store,nothing new,same old,same old  http://yfrog.com/0p4rmj
+just got back from the store getting cough medicine again 
+@this_is_thomas I checked and Walgreens.com is still frozen  Pictures to come soon.
+being a real indecisive girl today, grrr. Shop sunbath or clean and wearing what? I do love summer but the wardrobe just isnt ready 
+@didilaksana I've looked but still no sign  re: froyo @ supermarket
+Shop is insanely useless today. There's not even a car for me to work on. 
+very bummed to learn this morning that my favorite local yarn store, @amanoyarn, is closing its doors 
+@LungiZuma I know, it's really bad, when i go to the dvd store, I can't find dvd I haven't watched 
+@suPEARLative5 that sucks, you need to run to a Staples or Bestbuy and pick up a new drive ASAP 
+@BiggbyBob I had a dream there was a Biggby's in my neighborhood.... then i woke up. 
+http://twitpic.com/6hiih - At the store...I wish I was home. 
+@taylorcalta i cant believe we didnt see you guys at the mall!!!!  we were so closeeee!
+@alyssa_day I wish I had a Borders near me. 
+Finally bought a Costco card, but it's gonna take a week or so before I get it 
+@winebratsf I got it out of the Redbox for $1. It was NOT worth it. But can you blame me? I'm lonely 
+@BingTheCherry no where has mac  just dept store counters.  we need to get them to open a store here!
+Why can't there be Ikea in the Philippines 
+Safeway is now putting them out...really nice display.  I feel bad going over and picking them out in front of her 
+@BrandonPam no  we at BJs
+5 cents for plastic bags at grocery stores now  If we stop using plastic grocery bags , what are we supposed to put garbage into?
+Blockbuster doesn't have ghost whisperer! 
+As much as I have tried to avoid it, my flat has turned out to look like an Ikea showroom 
+remember florin mall ? when all the stores were open? 
+if off to the supermarket to beat the lunchtime rush...oh joy,I love grocery shopping so much  I'll have to get back into doing it online
+It's also so scary that our supermarket was robbed, hmm! 
+I want to go shopping 
+Is really sick.  i'm going to my interview at Target.
+@PreciousParcels nursing a migraine  i feel pants!! oh, i love visiting suppliers.. im like a kid in a candy store! even stationary!! LOL
+Today's gonna suck for me.It's raining outside so I'll have to stay in all day.The only thing I'm gonna do is go to Walmart. *sigh* 
+Going to WalMart this morning to grab a workout dvd. Much too hot to run outside. I need sunblock  Lets try some pilates!?!
+@pinkmotown i feel ya i just put in some applications myself, i need some money   just got a call back from ToysRUs so we will see
+if i wanted to work in stores that's the career path i would have chosen... ugh i hate going to lewisville 
+on the road to the outlet mall!! but not a fan of the construction on the thruway 
+@ThatAmy we are 45 miles from Starbucks, Target, a mall. 60 from Chili's 
+Ovi Store publisher support stopped responding   #ovistore #ovi #nokia
+@wyatthaplo worked? sometimes the store is *closed* for certain locations... like mine. 
+wtf! i didn't know there is red mango at eastwood mall 
+@ben_jamin_s @pixelmatrix I looked for a sign when I left and I didn't see one! It's a grocery store, it should take credit cards. 
+just got bac frm Walgreens. had 2 tke care of lil sis 
+@MillieRose_ I will add that to the shopping list! I like salad but I hate tomatoes and they're salad staples everywhere 
+I need to go to the grocery store 
+Soliciting blows. In Nordstrom looking at flower girl dresses. 
+@jessicarbrown After moving some Ikea stuff into my new apartment, I went to breakfast with my dad and then to work. It looks like rain 
+Starting to rain at Southcenter. 
+Going to the outlet mall. Buying a new bathing suit. For my party! 
+@stephintoronto   Shopping is not in the current budget.  I love DVF but I have to be good.
+Just finished 10 plushies and ran outta stuffing  back to sewing more until I feel like going to the store.
+At springfield mall mixed feelings about being here cause i get to go to a cool store but i have to go to other stores to 
+Shopping at Walmart for some things for work. I hate Walmart 
+Mcdonalds. Quiznos. And Starbucks. I feel fat 
+I am so sad. One of the best managers is stepping down and now they have to transfer stores because of it. 
+Wishing the work day were done so I could head home and check on my pups. Worried Target still isn't feeling great. 
+No good movies at Redbox, now what am I gonna do tonight? 
+BP Wal-Mart stopped selling fabric... I'm so bummed 
+I went to Target and in the toys section, I saw Lego's. It made me miss my childhood  I wish I was 5 again. (Or Whatever age I played lego
+left my coughdrops at the store 
+@Ladiejay what a day it was  3 hour friends graduation, japanese dining! Shopping now home. I hate graduations 
+Going to wal mart   http://myloc.me/2KNk
+I want a crumpet!   I don't want to go to the store again though
+@queenbmakeup why does my Marshalls suck at having makeup?!  but those are cute colors
+@jlk77 I'm not really sure...my store closed down a while ago, so it's hard for me to compare. I usually just suck it up on the shipping. 
+Grocery trip: TONS of awesome fresh food and ice cream because the baby begged for some. Yay! $90 later....blech. 
+Petco sold me a sick fish 
+Apparently my fish has tail rot.  Petco sold me a sick fish.  
+I got a cold  But I went to Gyobook Store and bought two books. One is &quot; Bad samaritans&quot; and the other is &quot;Lincoln, the unknown&quot;.
+Please stop the rain, I have to get some food from the grocery store 
+Is off to the shops  
+Packing up shop! 
+I hate it when the barber shop opens late. 
+poo - I need to go to the mall, but it's not open yet 
+@chucklebug Do you have a nice mall?  You're so lucky.
+I want chocolate: I can smell it, and the bars in the shop are calling me.  http://is.gd/Qjbj
+taking penelope to the shop, just filled her up too 
+Off to the post office and the bank and possibly some sort of grocery store if I find one on the way. I don't wanna. 
+@xoxojanine By the time we found the shopping mall, it was already 10.20 pm~!!! The mall was already long closed... 
+@scalia4114 Store is closed till the 15th for remodeling 
+Ugh, Sams club, then Walmart   I did get a nice new hot glue gun, dual temp but corded for when the batt is out on the coldheat Cordless
+well thats a total failure. the joanns at the lakewood mall is no more 
+The lady at the store gave me a soft pack of cigarettes today and i didn't notice until I got to work 
+Wishes adam was here to carry me to the shop 
+@jqueyriaux awww... I miss Target 
+Aww, I'm parked by this butcher shop and there is a 'deer drop off'  that makes me sad.
+@genifur not anymore  we used to have a bulletin board at the old store but we don't have one here
+@bbsipodtouchelp dude wal mart is going to suck now 
+back from walmart! i feel horrible shopping there 
+Heights Books is now a pet store 
+Wishing the mall didn't close at 6 
+im back, and our local grocery store stopped carrying some of my favorite things 
+@cursedbyevil  that must be a very bad shop then
+@graceclarke ooh! what for? i miss an actual physical american apparel store. online just isn't the same 
+wow  wow so many things ive seen i wanted from the store not enough cash for it all 
+can't ever find the size he wants at Aeropostale 
+Ikea was somewhat of a disappointment...they were out of what we wanted 
+@jesslandolfi You're on the deck flipping burgers, I'm in Kinko's straight flippin' copies. 
+bought a couple of chairs at Ikea . .but couldn't put them together (seriously!)  arrgghhh . . another trip BACK to Ikea to return them 
+Spent $60 at Walmart in less than 10 minutes on nothing. 
+@MelyssahR not in stores yet  but its coming
+@serda23 Jealous! I saw it at Walmart, but can't afford it until next week. 
+So cold at the mall 
+@thatgirlmaya i've been to like 4 different CVS stores in the past couple days and haven't found any 
+No mall 4 me.. it already closed 
+Running to Walmart for groceries and to buy a cable I already own twice 
+WTF CVS where are my damn sour watermelon candies!?!? s'ok, got some other gudsnax, forgot to buy my waterproof disposable camera tho 
+@Esbatty I actually only have Sudafed for congestion and some brand-x CVS Pharmacy shit for allergies. i wanna be claritin-clear 
+Sometimes I hate living so far out in the country.   I need club soda and our dinky store doesn't have it.
+@ock at a book store/restaurant/drinking rather to eating lol I don't know where my blackberry is 
+You know you have to be bored when there's nothing to tweet about.  I guess that's what happens when you work for Walmart... 
+@girlwithfringe I work in a card shop 
+@peteralee pretty small! only one shop 
+going shopping soon. 
+@jjjohannaaa i want one with kontantkort, and it costs 6600 in store  i wish i were a millionair!!
+Just came from the mall knees hurting so bad 
+My parents are prone to overreacting; they're coming all the way back from Ikea to take me to casualty 
+Shop shop shop - just weekly groceries, though...how boring.  
+I don't even have any desire to go the mall. That right there shows somethings wrong! 
+Of course, I'm running late; no time to stop at drive-through Starbucks in Burtonsville. 
+Grocery then hw..too many projects 
+Right now igoing to the grocery store hungry is not good 
+Why does the grocery store seem to be the place to run into all my past mistakes 
+Going to the mall 
+Still sick, can't sleep and I have watched every youtube vid already  Shopping time.. what would I do without online shopping??!!
+Pray for me tweeps. Costco and grocery shopping on the weekend. 
+if my headache fixed yet.....that would be a no  This sucks I wanna go to the grocery store but it hurts so much more when i move
+@digitalkid56 I thought they activate it in store?  That sucks 
+@missdaiisy  we looked like the biggest potheads ever. An hour long adventure in Winco resulting in leaving with a bag of cherries &amp; candy
+trying to force myself to stay home and NOT go to Sephora today 
+@arachnais her friend who was supposed to drive us to the casino are fighting soooo...well prolly end up going to the mall and dining out 
+@virginmartyr won't make it to the in-store 
+@mozdad shops are shut 
+I'm bloody hungry  Store time I think...
+@rachelhenslee I love DSW too, couldn't find the shoes I was looking for today 
+eww..stinky ranch 99 grocery store..  haha..
+ALOT of work to do today. Shopping for more camera gear will have to wait till next weekend i think. 
+Tally ho to a remodeled Walmart...lets see how the layout is now.  I miss the smiley 
+Oh yea I was going down to the grocery store and my car is making a really funny noise so I have to take it to the shop tomorrow! 
+The longest part of my weekend was working at Kohl's. 
+just raided the thrift store. no good finds today 
+@SaveOurShoes the irregular choice store around soho somewhere, I can't remember but they have apparell too and i am so jeluzzzz 
+#dontyouhate the people that won't let you go ahead of them in the grocery store when they have 271 items and you have 3? 
+Home  ... Grocery Shopping 
+@davemorin first the record store, now the bookstore...  I have to say, I'm not for it...  Makes me sad    What r we leaving behind?  :-/
+@liquiddheaven jeals much!! all the shopping! 
+http://twitpic.com/7gezc - @MaritzaMendoza I ended up having to order my much needed rainboots online due to lack of in store options 
+Working til 4:00 @ the Pharmacy today..... 
+@YazzyT i wish that shop was still there, it was amaaaaaaazing 
+No WONDER this cucumber water was on clearance at Target ...blegh! I'm disappointed 
+feeling... not good i want to go back to sleep but have to go to IKEA...  i least i get swedish meatballs :\
+is home after a trip to AutoZone and the bank! Now chillin at home doing nothing all day :/ kinda boring 
+Now I'm being dragged off to another store. 
+I took my daughters car to the tire shop to fix a leak....checked in at work...grocery store...now home...but I forgot the bananas 
+Just walked into the grocery store. Not ready for what is going to be like a 3 hour trip. Not cool!!! 
+@daisycakessoap That scares me......I just started my shop.  
+@pinksugacupcake really?  I found Target to be the same or cheaper here in houston. 
+I really want to go sit out in the park and read on my way home, but I should really go to Meijer tonight so I can stop eating out. 
+classes ugh  but after that. i'm going to see if they have LVATT at the cd store.!!!
+Having a headache  And tomorrow I'm going to ask for a job @ supermarket Spar; 12 kilometres away from my house xD
+Where did I go wrong? I'm barely holding on ever since you've been gone...   at the mall text it up..
+sitting in the philly airport, feels more like a shopping mall. too bad i got this pizza before i saw chick-fil-A.  good pizza, tho.
+back from the store... didn't find a charger 
+At Target. Buying medicine for Lea 
+doesn't like grocery shopping anymore 
+wow it smells like pee in the mall 
+@TiaJack I miss the Galleria Mall. 
+@PhoebeOH    why dont you just go to some store to pick it up?
+@candisleigh http://twitpic.com/7i6vv - All the stores around here are closed at midnight  I want it sooo bad!
+ They don't carry my favorite yogurt at the local grocery store anymore.....Just another reason for me to move...lol
+I know I should have just walked away but I was so offended &amp; angry!!  I just had to leave the store...ugh.
+And going for real now... apparently, that chocolate is not going to walk here from the store 
+@bandcandy I can imagine.   Pharmacy sounds fun, actually.
+i bought a box of clementines at the grocery store yesterday and left them at the check out 
+@mmendoza27 I just hope it ships quick... i can't by mine in a store 
+I haven't tweeted in forever  I'm solo tired. Shopping and working tomorrow!
+FUCKING PISSED!!!!! Fucking Walmart didn't have the new @Jonasbrothers cd!!!!!!!! Not happy right now 
+I'm jealous of the people at Walmart that got to buy Ghostbusters at midnight 
+just realized I got the wrong frame for my new Ikea desk, gonna have to go back and exchange this one part 
+@juanml Maybe I will today. Right now, it's 2:41am. Store aren't opened. 
+@nickjonas We just came to buy your cd at midnight at Walmart but they dont have it stocked yet until 7am  very sad time.
+@jonaskevin We just came to buy your cd at midnight at Walmart but they dont have it stocked yet until 7am  very sad time.
+@baxiabhishek well i can, but I guess sometimes impulsive shopping doesn't work out right 
+i really need to stop shopping 
+http://mobypicture.com/?vgva0q - What is going on with the OVI Store on the N97? 
+Folding laundry and eating chips and dip... I forgot to buy Twinkies when I was at Walmart today. 
+Gap won't allow app to use its brand after contest  http://bit.ly/svoMj
+@drsuessmn never at wal mart 
+@smatheson doctored-up store-bought  
+needs to relax ! Retail therapy 
+is desperate to go shopping! 
+is in the Apple Store in the Florida Mall, just waiting to head off to the airport soon 
+@rockphotogirl I called them and my local store does NOT carry it  so sad!
+Off to the grocery store with me... my last dish sponge just disentegrated in my hands.  
+@katekono We have gotten ours at Meijer, but I doubt that's of much help to you... 
+my iphone isn't working and i bought it at an apple retail store. do i talk to apple or att&amp;t? I'm getting the run-around and NO answers. 
+@nonesuchgarden - AMEN! It makes me sick to go in the store now - it's so sad 
+i don't buy the cd. don't have in the store  i want LVATT
+i am so sad now. (N) BUT ! i got good deals at the mall. (Y) .. dsnt really balance out though 
+my fav vegan store closed down   .....their samsara purses were 50% off 
+I guess I better put on some pants if I'm going to the store. 
+How come Kinkos aren't 24 hours anymore? 
+I just went to Target and was disappointed 
+@buchanan23 in the app store?  it's not showing up for me 
+@nicoleraneri I was supposed to but....my dm is only letting store managers go! I'M PISSED!  have enough fun for the both of us!!!
+I can't see it in the app store either... 
+About to walk to Publix with my sister.. ugh! I hate walking.. 
+Walmart changed their setup n now I can't find the baby lotion! 
+@techAU it's not in my app store. 
+just got back from driving all the way to the mall to realize that the mall is closed on tuesdays 
+I'm 0 for 2 on anyone noticing my MUJI socks though... 
+i need a monster. i have no energy at all  i hear it's too dangerous to walk to the curb store.
+I was just @ AT&amp;T store checking prices... like I don't already know.. but just bored I guess. 
+@cesya It is not a gift store. It is a delicious giant cookie store of godly proportions. We don't have to go though. 
+Ughhh I need to go to the grocery store, but I'm so broke 
+Waiting to be fetched by our driver. Mart's not coming.  He still has a game later.
+plugging my store: http://www.cafepress.com/bbpd because they changed the pricing so that i'm making less now 
+@sassisam that would be amazing - if only we had an H&amp;M here though  (along with Zara, Topshop etc)
+@leunix I pass the Starbucks in Sainsbury's on my way to work. Unfortunately I don't have time to go into town and then out again to work 
+@sidepodcast nooooo i want to see the jenson video  damn you unnamed supermarket branch
+@JustinHawkins Been looking for that in Borders and WHSmiths but they've only got last months' issue! 
+@YaamiHandmade But it is only for selected shops 
+@cc_chapman I think so. I took 10+ disposable cameras to ShopKo, the bill made me cringe. Only a dozen or so decent pics. 
+i cant fulfill my shopping. 
+Amish deli any then temicas 
+Any grocery stores in the galleria area deliver? I can't leave the apartment. 
+No golf...only old ladies to golf with.    Caught Macy's ball game instead.
+Really bored,nothin 2 do, i want to go shopping 
+Ugh, so hungry but no time to go to the food store 
+last shopping spree 
+Shoot! There wasn't what I wanted at the store! Darnnn 
+$2.49/gal at QuikTrip - I wanted to cry. 
+@foursquare I'm really over your ridiculous check-in limits. Do I need to video myself patronizing three adjacent stores within 15 mins?! 
+going to the grocery store. One of my least favorite things to do. 
+I'm bummed that Gap bought out Athleta - I hate it when cool brands sell out, esp female POWER brands going mainstream - bleh! 
+security let us in newpark mall at 3 am. I had my bike with me and was planning to do a couple of laps around the mall. I chickened out 
+Having trouble with the app store  #squarespace
+I despise the smell in tire stores...yuck 
+I really want a new hoodie but they didn't have a single one in the men's section at Target. 
+Disappointed by the lack of treasures at the mall 
+Off to Walmart 
+$40 doesn't go far for groceries. 
+It's crowded at the shop 
+@AbbiKakez i need to go shopping 
+I about to go on a date... to Walmart! 
+I was on the top 10 ticketholders for the Target E-Gift Card on Raffstar, but now I'm #12 
+@blublocker I tried to find some #blublockers today at Walgreens.. no where to be found 
+@shadesgodown I loved working at Target. 
+@datgirlcomedy I read some older twits earlier about the boots on cars and bust out laughing! Macy's sales always disappoint me 
+sadly   a week or 2 ago i got chocolate on my favorite Lululemon jacket but at least i can wash it! yay! but chocolate is good though!
+#uknowuliveinthehood when all the corner stores and family owned businesses around when you were growin up are gone 
+Cramping badddd   &amp; going to the grocery store for food that will make me a happier camper.
+I didn't find any sesame balls at the Asian store 
+I'm out of chewing gum  going to walk to the store and get some. Its dark and hot outside.
+@Cheep_Tweeter Chucken fail  Only small,frozen selection. Premium for corn-fed, free-range, small portions too. Foodtown it is I guess
+@bryanhawley I couldn't find the outlet 
+Considering :3 http://www.telltalegames.com/store/talesofmonkeyisland Might have to wait until I get paid first 
+last day of rotay      Shopping at Goodwill with @littlemissnicki later tonight and maybe a sleepover if someone is nice to meeeee
+not feeling too well  but pulling thru to get to the smoothie shop :x
+i've been trying to use phot shop. and misserably failing 
+Doing the grocery list, still feeling so exhausted. 
+@TransitionalTee sorry  but if coffee blood infusions had been possible, they would be selling them at Walmart already! I'm good - you?
+Is at Kinko's straight flippin' copies... 
+going grocery shopping...wish i was shoe shopping  lol
+@DHSHolly Think I'll join you. Doesn't look like I'll be able to make it to the apple store this weekend. 
+Waiting at the apple store again 
+QFC wouldn't let me buy booze because the person standing next to me in line for self-checkout looked under 21 
+Is not having fun at all...... Walking to CVS in the rain 
+Shop is warm but am freezing cold shaking all over and feel really sick...please let today be over so I can go home   
+Why are tampons so expensive at CVS? 
+going to the mall yet again 
+just dicovered that shopping at Aldi is no cure for being broke, that was fucking disgusting 
+Looking gloomy outside. I need to run to CVS but I know it will rain the second I cross the street 
+@tiffy_sexyy_bby I wanted to go the mall 
+Missing @heyiitsjamie and the rest of the fam already... It's raining in Florida.  What a welcome... Walmart and Redbox with the uncle.
+The spca area at the mall really makes me want a pet 
+damn you rain, i just wanted to run to the store 
+My favorit independent toy store is closing.  so sad.
+@Sammyj0 it's horrrrrible haha I'm waiting in a store door  boo to rain I heard it's raining on long island too!
+I now know why i RARELY come to the mall. I'm going to be SO ridiculously broke after this 
+There is the most gorgeous Filipina girl next to me at Costco. She looks like @lilythai! Fuck, I hate Costco sometimes.  FML woe is me LOL
+I am so fighting the urge to drive back to the mall and get those coach shoes 
+Feels kind of guilty, I missed going to the mall with maggie because I was eating lunch with dad. and I made the plans. 
+So sad to learn that my favorite design-y pet store, http://www.rowfny.com, is packing up. They had the coolest stuff 
+just left the music store 
+@ToysRUs I wish you had a better policy around replacing defective items. I have to wait too long. 
+Mall was g-a-y I didn't find shit for satt  ugh now iam rushing to the gym!
+Finally at the mall!!! Not much savings 
+I fell in the grocery store tonight 
+had fun shopping with two in tow after daddy introduced them to the 'cool' grocery cart - my shopping will never be the same 
+@Jcookonline they still have the old people mag at the store 
+Why is it so impossible to find white 1/4&quot; grommets? Also, the tiny &quot;craft&quot; section in the new Walmart sucks. It's only one aisle. 
+@corywatilo Just messed around with the palm pre at the sprint store. Not that impressed 
+Going to bed soon.  Ikea wore me out today and I'm a little cranky 
+@QueenBeeOZ noooooooooo u said u was at the mall..i was waitin on u 
+@Duckfbfan15 I didn't receive the giftcard you got me from Ulta.  Bahahahahaha
+Ikea furniture is great! I just wish the product on display could be bought as is. It can be a real hassle to put some things together! 
+i am UNBELIEVABLY sleepy. but the Ikea guys are still not here yet.. nor is the electrician 
+I'm 17th in the normal queue. Not sure where Personal Shopping appointment folk go 
+@bryancarter13 I miss you, as well.  When will we be able to roam Walmart, etc. again?
+still haven't managed to get off the comp and feed myself. Partly because I know there is no decent food until the shopping arrives 
+@samjmoody  :O have the lizards gone back to the shop?? 
+gah the only one we have is at the mall 
+have to go shopping by myself 
+Hey guys I'm just back from supermarket LOL there is crazy so many pupils are in there and I'm tired 
+@coconutlime jealous that you have an italian store! LOL We don't here   blah
+Shop migration slower than I'd hoped.    This weekend, working on my next tote bag-a large one.
+@andiecapes Make sure you buy enough storage boxes from IKEA. I never do and then when I want more they've discontinued them 
+At Costco but no free samples yet 
+will try to go back to the store to exchange.. 
+Mall trip: unsuccessful 
+is upset Petco doesnt sell fish bowls that fit over your head 
+Grocery shopping mixed with rain.......not fun 
+@pfwebczar I know, there just isn't a good selection of stores in this area; so many of them cater to the students 
+@arlenexo i know  we have to make plans to go shopping - maybe in soho ;D
+just got back from Walmart. going to a wake later 
+@idrisnme is it at the outlets stores? I have one too but dont think i will be able to use it 
+Aggravating trip to Wal-Mart...busy store (expected), millions of employees rearranging store (unexpected), fabric section GONE. 
+Has anyone else become a fast food junkie since they started working at Payless? I an so sick of taco bell but its the only thing around! 
+just got back from the mall. how i hated that visit 
+i want to go shopping 
+@ndeaubrey You have to pick em up from a store sorry to say and none of the stores around us have one in stock 
+@omgitsSOB i neber get to go shopping with you  
+@rooshkin If it helps, I had a dream that I bought a plane at Walmart and I loved it and had a blast, until it blew away. 
+Needed: a new place to buy whole wheat matzo from.  Superstore, you fail me!
+Wow. I think my trip to Target killed my flowers.   http://twitpic.com/7ur3k
+I get bad reception in this store. 
+@bubblesunshine I really want some food but I haven't gone grocery shopping so I have nothing for me.  So cake it is haha.
+And of course I choose grilling over yoga. Grilling indoors that is. We and Target and the gas station don't have charcoal 
+@genevieveeex3 I loved the disney store but they took it out of the mall in brooklyn 
+@JoN0 I friggen wish lol I'm stuck closing the store 
+iiii wannt a shopping spree 
+going shopping 
+@ashemischief I'm an emotional shopper, too. 
+is sick and tired of Target breadsticks  I need pancakes or cinnamon buns or something!
+At the grocery store, the meal plan is all gone, we have to fend for ourselves again.  
+@urboyxander -- haha. yeah, it is. but I haven't seen it in any stores. I've looked at Walmart, CVS, Walgreens &amp; have yet to find it. 
+walking to the mall, i got lost 
+RUEHL is closing 
+why does everyone have significant others and cuddle in Target? 
+going grocery shopping...wish i was shoe shopping  lol
+I just applied to Target! I hope i get the job.. cause im so poor 
+My phonee got water dammagee and barly works. 6 major buttons are broken! going to the us cellular store tomorrrrow 
+Ahh poo...I gotta work tomorrow  But I guess Target would fall apart without me lol
+@xbrookecorex can i reiterate how jealous i am that you have a lush in your mall 
+@nokking kino sold out already. Popular also. Borders said they're not sure if they're even able to get copies 
+I can't believe I'm actually at the IKEA midnight madness sale  ugh
+@thekelliejane sadly, this is a grocery store, not a restaurant.  might it still apply?
+I just got excited about a sale on milk at the grocery store tonight. I'm officially an old, boring adult. 
+Store,discount,reasonable price,fiuh!its so killing me.help!its not in my budget for shopping today!make me defisit now 
+Just woke up going to get breakfast, I feel quite ill and I neeeed to go shopping 
+@andyfield if they enable flas think of the effect it would have on their app store 
+does not want to go grocery shopping .. 
+i want to go shopping 
+morningg :') loool we slept in :| no shopping for us 
+is sat in McDonalds as the Starbucks WiFi wasnt working 
+going grocery shopping...wish i was shoe shopping  lol
+@Boize_ I wish - stores aren't open this early here 
+need to run some errands... but I'm too lazy to go to the store...  what now? motivation please.
+at home still, with my nan, she's trying to make me get a job in Marks and Spencers, meh... missing bbq at @sophieplayle 's, is no good 
+missed going to the malls with my mall buddies! 
+@sarzparella sorta. this bra in particular isn't offered online.  i think it was in-store only. some of their lines are like that. sigh.
+Mission walk to the bottle shop and it's closed 
+Just waiting at the entrance of the mall for desmond to show up 
+@w0nk0 rofl...i just had SBUX cappuccino with 6 shots of espresso...i miss that cappuccino just down from the Euro Store in Firenze 
+there's no swatch shops in b'ham 
+The story continues: manager picked me up, I get to the store, and then discover that I wasn't even on the schedule!!! 
+TRYING to find a store that sells DreadHead supplies 
+I have to go to Walmart 
+Going to Kohls, Culvers, and then watergun fight again tonight ... So I'll be gone most of the day.. No twitts from me 
+Packing up the store.....sad 
+i want to go to the source mall. i wish i could drive 
+I'm working at FYE from 2-9:30 pm today so no tweeting from me after like 1:30 
+Does anyone know where I can find flavor ice? Walmart doesn't have any 
+Mall n lunch then work again 
+@dmvc I would dana! I just have to close at Target 
+Grocery Store 
+So, now we have a tile floor, which is new for us and gives us cold feet. Walmart and Target don't have slippers. 
+I'm lost in the store! 
+just came from IKEA wanted 2 buy just 2 frames ended up buying much more  they were all for the sake of my studio, so money wasn't wasted
+I want to cry at how busy the mall is  dnw to work
+@htoddcarter I didn't ask if there were more I figured if they had more they'd be on the shelves. 
+No cigars for me  Store closed up, big lease sign in the window.
+@moto62 no  strike 2. The 2nd walgreens had twice as many animals bit not tweetie. I'll go back out to another store I know of later.
+headed 2 the mall wit only 2 bars left 
+I want to go to Ikea! 
+Nothing good at Saks 
+gtg Shopping not the  Clothes and purses shopping the Grocery kind 
+Perimeter Mall Apple store: http://bit.ly/nhAP quick diagnosis, but no in-store vid card swap  should be a 3-day turnaround.
+$116.65 at Target. . .broke much? 
+I'm here at the mall by myself waiting haha... Where are they 
+In the sprint store 
+I'm sad now  (heads to liquor store)
+I was going to run out to Safeway and buy cupcakes (craving) but having seen how fat I am in the Winefest pics I think not... 
+@fuckingdewable They won't have that at the store though 
+Why is it that you can find a Target on every corner but the time you need one you can't find one  http://myloc.me/4Jcq
+Hates leaving the mall empty handed. 
+Power meeting, mentor meeting, Urban Home, Z-Gallerie, IKEA, Target, office...All work related. I want to play. 
+Sadly, the Nordstrom sale no longer excites me. 
+Closing down Petsmart. I hate counting money. 
+@karissa713 aww rian's near an ocean in nc  now i cant just run into him at the mall haha like i was hoping would happen
+Target sucked 
+just bought way too much joseph schmidt chocolate. the store is gone after june 30  factory already closed.
+@sarney I just joined your 'I bought mascara at the grocery store' club. 
+@onecoconut No we don't see it at our stores. 
+@onecoconut No we don't sell it at our stores 
+Yay my glasses have arrived in Eastgardens but my toes are too much in pain to be able to go get them 
+@BootsRiley what stores? there's no stores left! 
+@KMCme Can you hurry up and come back home. I made that trip to Bloomies today, it didn't go so well 
+Still no #beejiveim 3.0 in the app store 
+@brittanyhorth you didn't even come to my apple store and visit me and vic 
+Grocery shopping 
+going grocery shopping...wish i was shoe shopping  lol
+@sunshinebudden why not am HunGry  and the stores close
+If I had been allowed to work at my level perhaps Woolworths wouldnt of gone bust 
+looks like I'm not gonna get much more rest so I'm heading to Walmart 
+@maevoniq  i don't feel like walking a million miles to your store.
+My dearest Starbucks has failed me 
+I don't like Sundays for all supermarkets and shops being closed 
+I really can't clown goin to WalMart anymore!  When u have a babygirl, u'll find ur way there also!!
+ChicagoPersonals Ok guys, please don't disappoint me again  - w4m (Ford city Mall) 21yr: I tir.. http://snipurl.com/kkupb
+@mildmanneredboy I don't mind if the store is empty. People are catching in on that it opens earlier 
+@mumbleguy Yay for you. I got nada   Just a grocery list. 
+did great at grocery shopping until I went to one store and blew it by 30.00 on olive oil and sushi! 
+I learned that you get your child's prescriptions really fast at Walmart if your kid is sobbing and screaming in agony. 
+Going to the store - be right back.  I hate driving solo.  
+@adrian_arevalo I left the apple store empty handed , so sad 
+going grocery shopping...wish i was shoe shopping  lol
+I seem to be developing a southern accent from working at the mall.  This makes me sad. 
+It's hot as hell in this store!!  
+Starving my mind away  I neeeeed food, but there is none in sight. Shopping = must.
+@beckie0 Not having an outlet sucks 
+@Sephora_monroe I thought you meant lock the tooth in a dark room. I tried that with the puppy, but she cries like a mofo. No sleep again 
+@JENMARQUEZ islands was great and BJs was good too.. I got a lil drunk 
+no more clients, but i cant leave the store for an hour. 
+At PetSmart. Theres a big fluffy black kitty named Boots up for adoption that I want 
+@jshmrtn http://twitpic.com/85unn - fantastic!  my gamestop is lame though, it's in an actual mall, not a strip mall. 
+gota run to the store, bummed, have to get too much so can't take my toy...  
+Leaving the mall. 
+wishin there was a italian deli downtown 
+ @zochula just yelled at me for picking apple store over food.
+@sawhitenack y dont u try applying 4 a different  job...I tried applying at Target but they werent hiring 
+@enricoeric yea apparently it's great! @t00muchcaffeine says he bought some at WalMart but I can't even find it at 7/11 
+Wants that pretty little baby at Petco  but he cost too much.
+@_kkatie You aren't texting me back.  Are you going to the mall?
+orientation at Target. scared. 
+wanting badly to go shopping 
+Caught in the rain walking back from Publix 
+@ Target. Where is all the dayquil?!?! 
+Wishing my store had the blue icy 
+Like literally go to the store and buy 1, try to print and fail, go back to the store and buy another 1 
+just got in trouble with his doctors for riding his scooter to the grocery store! 
+@PeachPosh I was down at the store and all the peaches are green as can be. I mean, they are completely rock hard! 
+@Mirahtrunks I need to go to Walmart 
+At Walmart supercenter. I wanna go home 
+I miss my Target friends...   I feel like such a bastard child...
+@MayerHawthorne no free songs at the dutch store  http://yfrog.com/2ffu6j
+heading back to the land of gluten-free free shopping 
+@missmoox You can get Modelista in Target. And yeah, i hate it when specific websites can't ship to my country 
+although has anyone else noticed the lack of the amazing strawberry milkshake bottle sweets on the new Woolworths Pick'n'mix online? 
+At a mall and we didn't know how we get back 
+My aunt betta get here soon or i'm goin back to bed! Mall or no mall i dont care! not like i have $ to spend anyways 
+is all alone in the shop 
+I have to go to the supermarket.....  I hate it!!!!
+@abigaillovesyou LOL, well, that happens. But its worth it.  You've got me wanting to make a midnight run to the convenience store.
+@KnitLuck I have crocheted washcloths in my store - afghanartistry 
+@burlymulligan yes, theeee Target.  it may happen again this week 
+is going to go shopping 
+@iainbest apple store is down for an update... you gotta be kidding me... 
+All the silly things of our society seem irrelevant. And yet, Mall of Emirates is not so far away 
+is sleepily doing the window-shopping thing with the children at ToysRUs.. although they don't do the toy I want, we're all resisting 
+@mileycyrus lol the conbrainer store thats cute 
+Going shopping. 
+About to get in the shower &amp;&amp; then head to the grocery store. 
+@McKBrew man I spend too much on beer pron at Lowes 
+@adriyah Thanks girl! I'm leavin for Sephora now! 
+@selenagomez Haha that cracked me up about the Wallmart moment. Sounds incredibly cute 
+Getting in the groove to go to the mall...rent is paid why not 
+Final interview with Bloomingdales 
+shower, than out to do some shopping at ma fav store.. urban outfitters 
+Going shopping. 
+@1LovelyDreamer then Walmart it is 
+Out the door to go shopping.  How girly!  
+Getting ready for work at the Zumiez today 
+@_Sulpicia_ enjoy too.. I think all the shopping has affected my typing 
+is encouraging you to support your local record store 
+Vacuuming, and then camera shopping 
+going out to the mall once again 
+going to the mall with colie 
+@justjennyxo i'll ship some over for you  well obviously, the coffee shop should be real, i'd be like 'me in the friends coffee shop'
+On my way home from Tanger Outlets!  then off to jane eyre
+Going to the mall 
+@petewentz eat in the restaurant and shop in the shop  helpful!
+i'm officially accepted into uams college of pharmacy! 
+@susanbdot on my way to the app store 
+SNL;;;Manhattan tomorrow, on a mission to find Consignment Store's 
+@annahawkins Plus, we have Panera and Powells. 
+im at the food court at a mall 
+@Cajo1 until he can actually talk he will have little say, actually even when he CAN talk he will still have to go shopping 
+Going shopping! 
+@hollemo How'd the IKEA adventure go?? 
+the rain is coming . . . and i got my new Gap umbrella. 
+At starbucks waiting for the mall to open. 
+Loomstate for Target goes on sale today! I'm already done with my shopping so now everyone else can partake of it 
+@JenPerezPSU Target and Publix are my Sunday routines -- checked Publix off the list already.  Aaah, life in the fast lane, right?
+going shopping. 
+cleaning, shopping, and running errands....fun, fun, and more fun. 
+at the grocery storeeeee 
+@liplash No. Wally-World is the root of all evil. Costco is not to be feared. 
+@grider - grocery shopping at amazon...overkill 
+Goofing off on the computer for now, but going to Payless for new shoes soon... BOGO  heheheheheeee
+Going shopping!! 
+Walking to valley fair mall with kim 
+On my way to Wallyworld  I *heart* Walmart!!!
+I put them in the plastic muffin thing you get when you buy from Foodtown/Countdown... and boy, they look good enough to sell! 
+@harlequinne most certainly do  just setting up an etsy store at the mo 
+@momentbymoment1 all ur visitors sounds fun - store is good and E is much better .... getting into some mischief now. I'm tired though 
+redecorating my living quarters... feels so earthy and beautiful... yay for thrift stores in the morning! 
+@missmandagrace I didn't know you could buy nerds at the store! 
+is making a shopping list 
+@zhilovestdwp grocery shoopping owns 
+30-40% Discount  - Discountcard or distributercard? http://tinyurl.com/cdoald
+@nbarday want in on your coupon CVS lady lol  I will explain later
+just went on a shopping spree. WOOOOOOOOO 
+going to book store 
+He he, sorry if you have seen the &quot;Hitler-Aldi wet weather gear&quot; thing but it is making me laugh  http://post.ly/R3A
+is off to the shops 
+Part time job is to work on a store.. an e-store 
+Driving to the shopping haven 
+about to go shopping  x
+wow I'm shocked! someone in Selfridges actually gave good customer service! something to smile about 
+@afredriksson ha ha, I am not kidding! It's perfect going to Ikea when the sun is up 
+Mall with Justice today 
+: @IKEA ... What a lovely way to start the weekend 
+@butterscotch77 YES! We went to dinner at sparkies and fooled around at Kohl's before the movie. The movie was predictable but good 
+@JNetchaeffJones  Hey, that's my favorite store too!! 
+mall with stef 
+Off to Lowes and then to Menards...being a homeowner is expensive..... 
+At a thrift shop.  found me a bracelet and a watch.
+Going to the mall 
+@FashionWhore87 I'll be there  Hopefully they won't practically start a riot and actually let us in to the store.
+Going to the mall soon  with @laurenroolz
+I always hold my breath when I walk past the Medi Clinic at Walmart. This is apparently the best sickness prevention I've come up with. 
+@mcteach going to Costco not crazy it is the going w/3 kids I was questioning  although my toys r us bribe is working wonders
+going to the store be back soon 
+At the tattoo shop. Yay 
+@maxime68 can't say so. i mean, maybe in cafes, don't know.but in this starbucks-kinda-shops it's normal. and when i make coffee = strong 
+Just got home from Winco 
+Just bought a ....variety of body parts at Walmart  I say a good night!
+@Superpowerstoo  A delicious raw food restaurant -- down here, we call such establishments, &quot;supermarkets&quot; or &quot;grocery stores.&quot;  
+Going to Hobbycraft now 
+@shrinkwithme are you allowed to work other health product while with usana? are you allowed to sell to stores? look forward to tweeting 
+@Suefromque It's taken me 10 yrs to learn restraint there lol. I adore Ikea and love their Swedish Meatballs for lunch 
+going to the mall 
+@2LittleMonkeys Oh no ... what happened?!    Shopping overload?
+going shopping,, ! 
+waiting to go shopping 
+At the mall 
+@JoshuaDRollins @bitmapped @mmaust @MoiraNous  thanks for the ALDI information 
+@MajesticFlame yeah but not a good one...I think she is going to let me take her home...I'm at Petco stocking up on supplies 
+So, my first offical drive was to Target 
+I fucking love costco  . At the Costco in Fullerton.
+@girasoli p.p.s.  I bought original phone 5 yrs ago @ Target, and 1st saw X-tc there. When I decided to buy - local store out of stock!
+checked into a local boutique hotel for a staycation. 
+I will always be addicted to shopping. 
+@jasoncastro stop at convience store and grab some chips! 
+I'm off to Costco in a bit to print off more photos for my photobook 
+I like taking my dogs with me in the car when I run errands. They are always excited to go anywhere. like this morning to Krogers. 
+Going to IKEA with the roomie so she can shop for her apartment. IKEA is in like my top ten stores that I love 
+@CraftedClay  most name brands have dairy even if it's called 'semi-sweet' or 'dark'.  I'll try to get some in the HelloVeggies Store! 
+@gheekchik hmmm...the one restaurant/one grocery is sad. not the dukbolgi. 
+Home from the mall  &amp; got mommy's gift for tomrrow   
+@tylarjay i was at the outlets too 
+just came back from the mall 
+at thee mall 
+Going to bed, stores are closed 
+@dbgrady Shop smart.  Shop S Mart.  
+no food in fridge... time for grocery shopping... via internet!!  could get used to shopping like this.
+@PeppermintMag thanks for posting that link. Just bought 2 items!  gorgeous store
+mall with my mommy 
+http://www.bhs.co.uk/mall/productpage.cfm/bhsstore/128496/209318 I saw this dress in the shop in pinkk &amp;+ tried it on  I lovee itt.! 
+@panache I'm going to the Brewster General Store! 
+@ the mall again 
+@kristinhunteman I had my Aldi Canvas bag there but didn't get a chance to mention it!  Talk of another report, if so I'm going to Aldi.  
+@songineverheard that pick of the Starbucks drive thru is in Vaughn Mills &amp; you should talk to your Starbucks man crush 
+now has a store where you can buy prints and much much more! 
+@JDIZME oh yes. I'm going to WalMart the night before and get it at 12am 
+Going to the mall 
+@recyclersREALM can't wait to see tour bag. I'll peek at your etsy store too. 
+@toddvossen I thought the same thing when I couldnt find the fabric at Lowes. 
+Too late. I already have one on layaway 
+@gregkrauska well I have only one IKEA furniture that lasted, the others literally fell apart! But the good one is still going strong 
+Tooths ok  now. Looking forward 2 the weekend! Shopping here I come 
+pancakes for breakfast with my favorite...  now off to IKEA with my sis...
+azn grocery shopppping 
+leaving work to park in Leisure Mall Starbucks till 7-8pm 
+@evzi say hello to that huge shopping mall 
+Updating the store's page 
+/stores/near/:postal_code is coming soon 
+About to get dress and go to the mall........ 
+@demiguise Just make sure you're out of the store by 9:25. That'll ensure you arriving early. 
+where are the american apparel outlet stores?  i need that in my life.  
+Grocery and then home to Vector... I need female subjects... @ me with a photo of one and I love you long time! 
+@jfink77 Did you make it out of Target yet?  
+@nicolerichie the mall is open on sundays 
+@mcgravy_biscuit I know I was just hoping you would randomly stop by the store to hangout tonite 
+@aivlysweetie How are things at the store tonight? Can you twitpic some pics of the best toys or hottest customers? 
+went to the park and just came back from the shops 
+found a Daiso in IOI Mall 
+be right back ;) we'll just go to the mall 
+@HAZELNUTPOCKY sounds fun  dianne did the esthetician program too. what are you working as? I just work at Target right now.
+i take you to the candy shop... 
+@VictoriaMia does Ikea not have their own casino? Cause if they do you're sorted right there 
+@dontforgetchaos Do as I do. Shop online for clothes and food. Makes life far simpler! 
+@RevancheGS maybe this is another excuse to go shopping! 
+Having some coffee, thinking about things... Shopping for summer clothes today! Finally  Not a very nice to do so though.
+@MorrisCompany I love your store 
+@xoAdrianne I am going shopping at Yorkdale  what about you??
+getting ready and then heading to the mall with heather! 
+finally going to the mall! 
+mall without crutches!   
+At the mall with my mommy 
+@kristinhunteman Gotta make my weekly trip to Aldi today!  
+mall with kiley 
+@RyanSchartz If you can buy the same thing cheaper on sale, it just makes 'em dumber, not cooler  (Says I Buy Mr. WalMart shirts. ;-)
+at IKEA about to get una into the playground  then we will go and get her a bed. we are le awesome sauce
+@sugarswirl yay...IKEA!!  I knew I shouldve come this weekend 
+looking forward to the future   I can't wait to see what's in store for me.
+@bryanbrinkman Costco is the same way  :/   Those Ikea Swedish meatballs are good! mmmm 
+Store(s) make fruit salad order pizza get fruit salad and jello in the car and go to sue's 
+Getting ready to go shopping .. 
+Goodwill! 
+@NovaWildstar @hannahpoulton Starbucks? if you're after that burnt, poorly made &amp; depressing chain store vibe then yep, starbucks is it! 
+@mrdaps sounds like a good day to me! I love Target 
+Just came home from the mall. We basically bought out the whole mall. 
+Goodwill is a wonderful place, so many baubles and other curiousities to discover 
+Tire fixed, on charge! I love Costco. 
+@rebeccalhh omg when we open our vneck/moccasin store, everyone has to speak pirate 
+@bagsnob I sometimes love when that happens. It's like going shopping/treasure hunting in your own closet! 
+@RenovationThrpy the sister store to Neimans that sells home based items - Horchow 
+i need to stay away from shoe shops... N handbag shops... N makeup counters... i will never learn 
+clueless : at the mall 
+is still going strong, work at 7a..ugh Walmart...I will have a wonderful lunch I believe! 
+@18percentgrey We have a very large hasidic community up here, and we fondly refer to this one as the Wailing Walmart 
+Scribd Store is growing up on tweetrends 
+my design - PasswordManager is going to be upload in app store... 
+It's a huge jewelry-making day here at the ranch. I have another store lined up..... 
+@klbeasley It was good too... fresh snapper   Shop's changed hands recently tho.. not quite the same
+@claymuse look at my shop!! 
+@igitur - you still visit a video store? 
+Finished up some banking off to shower the girls and get us all ready for the day... starting with a brave trip to the grocery store 
+Going to the grocery store with mom and dad.  making sure we have stuff for conchitas!!!!
+@nicaquino yes! just shoppy shop shop! i leave in july 
+at the store/ mall 
+is going to the mall 
+Tomorrrrowww: workkk-go to the liqour store ;) - get his tattoo and partayyy 
+Up since 7:00 am. Waaaay too early. [= Shopping today. I ? shoes.  SOme nice Nikes would be fine. I want that txt thing in germany! xD &lt;3
+I love you too man, so much. &lt;3 Safeway bags, skateboards, and mcdermoth. 
+going to the first Primark Store Opening in Germany 
+Morning all  at the mall, waiting to get my haircut...
+@Pheliziph you really like shopping don't you?  I need food as well... very hungry 
+@smityas Hopefully our store is one of them. 
+@DanielAlarcon Flog you some of my unused Kmart exercise books! 
+chilling around, packing  maybe later shopping
+I think I will just go to the next store and get a #wii with #EASportsActive 
+TGIF! Shopping on weekends! 
+http://twitpic.com/5opfa - The mall is almost empty ..I love it 
+is bored! may take a wander to the shop! 
+I just walked in the store and their playing admit it this is crazzzzzzzyyyy 
+@astynes lol screw diplomatic on a friday arvie.  only winter clothes in the stores. *grr*
+going to the mall with mahh mommaaaa 
+@schrodinger212 yah I'm at the store now 
+watching mall cop 
+Out the door to the grocery store--yeah, time to buy healthy eats... 
+Never underestimate the pain of a broken toe! It's been a week today and still hurts like hell. Target should make me feel better 
+greetings from one of the macs in the apple store 
+@chattgreenlife  hey Brittany, at Greenlife Grocery, nice to hear from you! 
+going shopping!! 
+Comfortable in the car!  drinking squirt from QuickTrip
+@melissacarolina haha. It was random! Walmart trip turned into a snack trip 
+had to stop at Target to pick up a book. 
+@brianchouston http://twitpic.com/60x77 - We could watch Sav forever...and will! 
+@marvisc i'm working at a clothing consignment store....reracking minion but i actually quite like it 
+@cadycullen we need to hangout at le mall like old timmmeeesss 
+@DrummerFrek I love pasta! And Target!! hahaha that's awesome! Congrats 
+@JoannaSimkin Ralphs is open til at least 11pm...I think 
+@GeorgiaPrincez ask her if she called the mattress store!!  
+Actually LOVES WaWa hot chocolate 
+gaaaahh...im soooo tired...just got home from the grocery store 
+@feliciaday I didn't know you did a Sears commercial! I was just sitting in front of my TV, looked up from my laptop, and there you were! 
+just got back from a store 
+bought two new shorts from Aeropostale 
+@OfficialAngie I am not opening the restaurant I am just the light designer 
+@BreakfastatSaks have a deelish pastry and some good caffino in the a.m. ... at Tiffanys's, Saks, or wherever you may roam 

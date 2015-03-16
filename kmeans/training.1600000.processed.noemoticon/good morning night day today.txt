@@ -1,0 +1,1347 @@
+Most common words for this cluster:
+[('good', 1362), ('morning', 738), ('night', 267), ('day', 245), ('today', 161), ('everyone', 158), ('luck', 117), ('work', 71), ('time', 65), ('tomorrow', 63), ('thing', 55), ('world', 48)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Good', 0.9998923540115356), (u'Bad', 0.6176255345344543), (u'good', 0.5618909597396851), (u'Decent', 0.5172849893569946), (u'LAKE_WYLIE_Largemouth_Bass', 0.5050326585769653), (u'Better', 0.5045495629310608), (u'Awful', 0.48919621109962463), (u'Excellent', 0.48284032940864563), (u'Perfect', 0.4787592589855194), (u'bad', 0.47234922647476196)]
+
+
+
+
+
+Good morning, hope everyone is feeling better than me.... this cold has really got hold now 
+Good morning at work  don't wanna be there fuckit another day another dollar!!!
+Good morning fellow tweets, there is allot of spamers on here.    but thats ok, I'll just get rid of them.
+Kelly Good morning fellow tweets, there is allot of spamers on here.  but thats ok, I'll just get rid of them. http://ff.im/1Y9yn
+why does it have to be cold? why do i have to be awake??  oh well Good morning all
+@PhilonBOB Good morning to all of you!!  Who won the birthday game?  Cannot get you on my radio at my desk 
+Good morning world. Another cold day. 
+@jenscloset Good for you!  I think I'll live the rest of my life driving a mini van 
+Good morning cloudy day  I hate cold spring morning !!
+Good turnout for the party! I'm so out of it though, kinda just in my world for some reason  I guess I have too much on my mind
+Good morning. On my way to the funeral of a good friend's daughter  
+Good morning!!!!.....rainy day..  no climbing today...
+Good morning! just helping otu to clean the house... 
+Good morning mi gente. I got the bad case of allergys  no bueno
+Good morning saturday !!! ...ehh spring break is almost over 
+Good morning tweeps im running a bit late 
+ok, I am done twitting...got to get in bed.  Good night.
+@dancerboy89 it's true. Good thing i have my stephen pillow! ...it's losing its stephen-ness though 
+Good morning. I have to go out to the coldness....  It's -4.... unbelievable! As soon as I graduate I'm going back to the south.
+I'm sad bc @iamdiddy is the only reason I got twitter and he doesn't reply!  Good night folks!
+Going to bed with a bad migraine. Good night everybody. 
+Congrats to @anyasnader for her confirmation! Good night my firends. I have to be up soon  
+Good day, bad night  don't know what to do now exactly..shoot.
+Good morning everyone! Where has the sun gone? 
+Good morning, everyone! Uahg, I feel like I'm heading toward a bad cold... 
+Good morning tweets!!!!! On my way to my photoshoot!!!! And only slept for 4hrs!!!!! 
+wants to go for a swim... too bad I don't have a pool   Good morning everyone!!
+Good times with old friends last night... and now I need to run a marathon to work off all the beer... 
+Good morning!!! I thinl the rain is on the way here 
+Good morning world! a hot and sunny day in socal and I am indoors slaving away 
+Good morning twits &lt;3 such a beautiful day...too bad I'm sick 
+Good morning ! Last day of spring break. 
+Morning everyone! actually Good afternoon! hahaha...just got up. gotta get ready for work 
+Good lists so far today... But still a shit day overall. 3 hours to go, aargh 
+Good morning world!! 8.42 am here and it's always raining 
+Good night weeked..... Good morning Monday...... 
+Good morning to you, too, @Toxophilist - it is indeed a glorious day. I will admire through office window 
+Good morning! I love this getting tweets on my phone woke up to 46 texts lol. But idk how well im going to do with no computer till fri 
+Good morning everyone, I am gonna to have salmon today! and get ready to go to work 
+Good morning twitters! How come our weekdays go so slow but weekends go so fast 
+Good morning everybody. Its raining up here 
+Good morning world! I feel like shit but i have to go to school! Wish me luck! 
+@Seamonkey86 Good Good just getting through paperwork 
+Good morning everyone, yep another shitty day 
+Good morning all tweeters, yes i knew this weekend's weather wouldn't last..  so sad back to another 3 days of rain and thunderstorms
+Good morning guys! I'm still tired... 
+Good day and goodnight. miss my bitty 
+Good day, nice weather, bad mood. 
+@Zycban Good luck ..I just hope the trains later today don't pull the same stunt 
+Good morning all looks like i'll be off the bike today but doing claims in the car 
+Good morning tweetheads. the suns shining again, but I got to do spreadsheets 
+Good way early morning my tweeps! I wanna go back to bed, but thatwould be bad on my part 
+Good morning twitter. I'm sooo tireddd. 
+Driving to la... So tired!  I hope I get to sleep in holding. Wish me luck to get there in one piece. Good morning!
+@cpritch  Good morning, no sun here its gone behind a big dark cloud 
+Good night with friends. Missing my marty though.  night peeps
+Good morning! At work again today  I wanna go home!
+Good night endin 4 a day that didnt start out how I wanted it. Thanks guys. busy day tomorrow, and I'll probably only get 5 hrs of sleep 
+@QUICNTEAZ Good morning sweetums!! I missed u yesterday 
+@spldrttngrl That's true. Good luck with the &quot;accident&quot; thing, I think it works better for girls. Never has worked for me. 
+Good morning...work today  tired from last night, but it was fun...anyway how is everyone?? I miss u all
+On the way home from dinner. Good nite even though I was sick 
+Good morning! Its beautiful out..sucks I got work 
+Good morning twitter. I had an amazing dream last night. I wish it didnt have to end 
+Good morning. I feel awful today. The past few nights I've slept, but not felt rested when I wake. Last night I had unsettling dreams. 
+Good morning twitter land!.....so i didnt have enough sleep... dang! n we're not done with the cupcakes! 
+Good morning everyone! I think I had food poisoning   I'm feeling much better today but not at 100% quite yet
+@missbrandii Good, I gotta do a lot of manual labor here in a minute 
+Just spent an hr on hte phone to my best mate in spain, miss her so much   Good excuse to org a weekend out too see her and family :oD
+@decoystars there's no autosave? that sucks  Good night!!!
+Good morning  I've got terrible hay fever 
+Good morning all. I'm trying to stay away from the pooter today due to headaches 
+@jordanknight OK!! still waiting on the explanation!!. Good job I didn't get up at stupid o'clock to see the meaning of 'tink'....  
+Good run this morning (15s ascent time, won't mean much but good), got work to do today as well so probably no coding, boo! 
+Good morning everyone!! Today is beautiful so far, but it's suppose to rain. 
+Good morning twitters!! What are your plans today?  It's a dreary day 
+Good morning people... I hate sunday... 
+Good morning! We'll be hanging around the house today since all of the kids are slightly sick. Not really sick but sick enough. 
+I miss my zouk dance lessons  &amp; miss my crazy but great dance teacher : http://ncane.com/ct6 Good thing i'm going to a party next week!
+where's my sunshine?    Good time for a cup of hot tea and honey and a blanket.
+Evening naps = late nights  Good morning, tweethearts A funderful week to you all
+Good morning @all.I feel like s... today  
+Good morning! I missed some tweets again...  (why does this thing only load 200 new tweets?)
+Good afternoon, back work from holiday, today is tired! 
+Good morning all, I have had no contact from anyone this morning, how sad 
+Good morning tweeters. I look like shit today.  i'm glad it's not tuesday today.
+Good morning twitter fam! am home this morning feeling sick 
+Good morning tweeters...man I don't feel like going to work tonight!   I gotta play the lotto or something. LOL
+Good morning! At the gym, hitting balls is ify with rain looming 
+Good morning, getting ready for a day back at school 
+Good morning....at work and i am just not feelin it today. the rain + not much sleep = a horrible day at the job. wanna be sleep!!!!! 
+Oh I am so gonna hate camp, (think positive ash) At least now I have a camera, that can only take 144 photos  oh well Good night (morning)
+@EvilSue I saw.  Shits on the others there!  Good luck!  I got up too late to shoot mine, think getting flu 
+@rgoodchild Goodheaven's mother;s day wishes come in all sorts of ways.  Good and badhttp://bit.ly/jBsZB
+I miss &quot;him&quot;  6/8 can't come fast enough. I patiently await his arrival knowing just how bless'd I am. &quot;Good things come 2 those who wait&quot;
+Good night; see you in three and a half hours for moving day 
+Good morning, I look sneaky today 
+Good morning! Even though it's afternoon... I hate sleeping in this late, but it was necessary 
+@_T_a_y_ lol. Good for you. Am on a 8 hour bus journey. And don't have any sexy flt attendants 
+I miss my madre.  stupid oklahoma. Good thing I'll see her next month though!
+Good morning!!! got a lot of things to do today  no tweets till 3pm?? i think so.. =(
+So sad sometimes...  Good morning everybody!
+Good chat with a friend... Trying to find something to watch because I never sleep well on these nights... 
+Good morning, I wish I was off work today  just had a bagel and going to get ready for my run!
+Awwww man i've been forgetting to tweet.  well... Good night.
+I can't get used to waking up lafter 6.30 am yet . And I have a very sore throat. I should really visit a doctor..again  Good morning
+@nickybyrneoffic Good luck with the game..  so totally gutted cant be there,  and dont forget the twitpic later ;-) its really easy!
+Good morning tweeple, In the office early this morning  In need of some inspiration!
+Good morning world. The winter is back 
+Good morning my fellow tweeters..i'm bummed its rainy n cold out today..always on my day off from work  ..hope u all have a nicer day..
+Good morning everyone. I really don't want to get out of bed this morning 
+Good morning. What the fuck am I doing awake?  ugh.
+Good morning, nice day out, I'm stuck in work 
+Good morning, good morning! I'm exhausted. And it feels like friday, but it's not. 
+@danlesserinc - I have to get up early to head to my &quot;day job&quot; tomorrow.   Hopefully, will be fully self employed soon, as well..Good luck
+Good morning tweetah! Only have couple hours of sleep.... 
+Good morning twitterainians how are we all doing this fine morning, I myself have to head off to work in 15 mins 
+@theboomtube fair enough. It's 8:44pm here and all I want to do is sleep.  Good luck with the sleep!
+Good morning everyone. It seems as though we had a sad turn of events - the music droids revolted at the country music &amp; self-destructed. 
+Good morning! It is almost the end  I really want to hang out with people before we all go our separate ways...
+No skyline  so crowded on a nice sunny afternoon. Good enough excuse for a second visit
+Good morning everyone, ah monday morning , my favourite 
+Good morning dear folloWers. The sun is shining on monday after a rainy week end 
+I'm sic and can't stop coughing.  oh yeah, and I'm bored.  Good thing is, we all get a day off skewl 2moro 'cos of a teacher strike.
+Good weekend turned bad and now school tomorrow 
+I'm amazed at how everyone can move on so easy. I know I need to but I don't want to. Good sunday but I miss having my girlfriend  sucks
+Good morning. Another dark day - rain 
+Good morning world. I have emerged from the dead. Didnt sleep well last nite 
+Good morn  my body saying sleep in but got school flo observation smh
+Good morning.. way to early! 
+Good morning Tweets! It's still raining - rained all yesterday and looks like it will do the same today - makes me tired 
+LOL at the bomb scare at school, oh dear oh dear! Good job i am tucked up in bed at home. But i want to go out and buy more clothes 
+Good morning peeps, celtics lost last night 
+Good morning tweeps! I might not be able to tweet much today, woke up with a very bad cold, fever &amp; body aches... I just want my bed 
+Good morning twitter world. P.s. I miss them 
+Good morning monday!  ugh.
+Good morning friends good morning Tani is cranky today very crannnnkkkyy  eff Mondays too!! - Good morning friend... http://bit.ly/H2Hdw
+Good news...my son has 2nd degree bronchitis and not swine flu...bad news my cat has the start of a kidney disease 
+Good morning. what a start..sister-in-law broke her tooth in our dressing room.. 
+@dreamer7231 what? what happened?hope you throwed up for fun reasons and not for illness  Good luck with the exam tomorrow!!!
+Just got home. Good afternoon, although I forgot to get my lightbulb. 
+Good morning to you all. Not feeling well today 
+Good morning,sick 
+@_bmoney Good way to ruin your perfect body baby.  I love you, hope you're sleeping good.
+@kirstyjean Good luck!  But... does this mean the end of fascinating social insect facts? 
+Good morning...not a great day yesterday...my jeep broke down  
+Good mornin errbody bouta go take my neice to school then ill b back then at 9 gotta go to work huh im tired lol 
+So, nothing special about my birthday.  Good try, but just another day.  
+Our last program is today. The K4's are moving up!!! Good luck in kinder!!! I sure do miss teaching kinder  but I won't miss these kids.
+Good morning tweets... I'm at the airport waiting 4 my flight pray 4 me I don't like flying 
+Good morning. It's warm outside, but the sun is gone! 
+@donielle I feel your pain re: the laundry... I have a truck load to do this weekend  Good luck
+Good morning. I don't want to go to school today 
+Feeling sick again! I hope its just a bug and not whatever i had last time! Good night 
+Good afternoon Twerts! I'm satying at home. Thanks to the fever and........the rashes. 
+want to code for some time, but must go to sleep  Good night
+@theother66 don't know of anyone  I would find it so interesting to study that. Good idea for a uni assignment.....
+Good no test today,  but i have one tomorrow and the next day 
+http://tinyurl.com/ry9wap Good day! I can send some pics if you wish. I cant upload more pics here for some reason  I will send you my ...
+I should go kennel the dogs and then go to bed since I have to get up early for school  Good night everybody!!!
+@immaterialdepth  Good luck with your paper.  It's awful doing anything with a migraine.
+is going to bed now cause I really dont feel well right now  Good night everyone
+Good morning everyone!!! I'm so tired!   want to sleep but the school will begin in 30 minutes...
+3d layers in after effects at 11pm. Good times! I wish these 50 photoshop layers would respond quicker though 
+Good morning my sexy twitter how's yall doing??? I'm gd but it's like 7:49am n I still wanna sleep 
+Good night twitter friends - I'm nodding off at the 'puter 
+Good morning/afternoon/night to all.....studying as usual! 
+@GregDigneo: Your mail server just rejected a simple, plain reply to you as potential spam/virus threat. Not Good 
+Good mornin &amp; no u tol twitter LOL but I knew &amp; called u yesterday 2 see if u were okay but no answer  how r u feelin babe?
+I was awoken by loud banging and it continues all day  Good thing I got an early rest last night!
+@wood83   Does she like it, or does she roll her eyes?  Now I'm curious as hell!  Good singing is a real treat as far am I'm concerned!
+@JonathanRKnight Good morning! Aww, sorry that you were stuck in the airport for 12 hours!! 
+@jroberson4 Good luck at the services tomorrow!! I wish I could see you guys on your vacation! 
+@justinderekrich Good morning nyc! If I weren't broke, I would have landed there yesterday afternoon. 
+Good am all..: hanging out with ma dad 2day, looking for a job still.. 
+Appreciation lunch at work. Good food! But sucks being here on my day off lol 
+@phxnerd sorry you didn't make it  Good luck next time though!
+@james__buckley Good for you mate, sadly I couldnt get pissed tonight fucking driving bad times 
+@SpringWestEnd i cant believe you are closing 2moro and ive never had a chance to see the show  Good luck to everyone - you are all stars!
+@brookeburke Good for you, have a glass of red for me too... I'm jealous, I have to study for work tomorrow so need to lay off the red 
+Good very early morning all!  @littleh77 I didn't see 2nite  hope u had a good one x
+They don't have any &quot;Looks Good/Feels Good&quot; shirts.  I waaaaant one.
+@thereisaseason okay - sorry I couldn't be of more help.  Good luck...
+Good bye everyone I'm off to hawaii for a week and I won't have my phone so no twitter 
+Good night...work early in the morning 
+Good nite twitter bugs im off to bed have to get up early tomorrow      xo.C
+@TraceyMmm Good night girlie i always seem to miss you at nights! Makes me sad 
+Good morning everyone... Driving my parents to the airport 
+Good morning, my faithful followers!  I feel awful 
+Good morning another day of work 
+@copax Good luck with the date, I wanted chinese yesterday too, but the wife wouldn't let me 
+@pancakes4life Good luck with the move Pancakes.....If you need help let me know. I'm off today but work tomorrow  I have cheap labor too!
+Good night now. Going to cemetery tomorrow to visit grandma and grandpa 
+Good morning twitters! Up to start the day 
+7:26am...hella awake....wtf? Good morning n shhhit tweeps....whatever...I'm tired. 
+@jbristowe It's only a summer job, so it's about $1000 they're taking off of me. Good refund when I need it. I'm still on stage 1... 
+Good morning twitterville, I feel awful when I sleep late  but I culdnt sleep last night. *sigh*
+Good morning boys and girls. So hungry 
+Good afternoon twitters just got up. what can I  do today I'm so tired of being bored 
+Good morning all, today I have to go help my cousin put cement outside her house, sucks  I don't like hard labor
+Good morning everyone. I've got a cold.  http://plurk.com/p/x8spt
+Loading all my contacts manually into my phone because I was with bell... No sim card  Good texting practice though...
+Good season Nuggets    happy birthday sissy &lt;3
+My day officially sucks now! Sure wish I could indulge in a large plate of nachos and big bowl of ice cream. Good Ol'Days 
+@wilsonpix Good luck!  You'll do fine.  Your pictures are awesome!  I forgot to come look at your e-mail.  
+1.5 hrs into getting my hair done.. 2.5 more to go! Good lawd I wish I could lay on a bed while they do this shit!!! 
+@domipheus Good for you! I tried to here, but (!) as it's a holiday, people went mental and got all the yum stuff before i got off work 
+Good morning.  We might get snow today.  And winter doesn't even start until tomorrow.  And my central heating is still two weeks away 
+@Whiskeypete yeah forreal! Good horror movies are foreign, sadly hollywood makes shit scary movies 
+So wack that I'm missing my homies farewell bbq!!  shout to Sharema... Good luck in ur new career move...
+What a terrible day on the links couldn't hit the broadside of a barn  worst round in a month.  Good thing i had a lesson and we fixed it!
+Good night world, I really don't want to get up at 6 am for my lacrosse game tomorrow. 
+today is the last bad food day... then its back to just the chai.  Good bye sugar/fat/simple carbs 
+@calebrothe I hear ya on that. Good day trumped by bad baseball game 
+Good morning earthlings. It's another sunny day... shame I gotta work 
+@thespyglass I'm sorry I can't sponsor you again this year.    Being w/o a job sucks.  Good luck woman!
+Good ole thai food at thai express sans bear..  
+Good mor- ting... I dragged my ass outta bed (literally) n now I'm headin 2 work 4 da next 11hrs or so 
+Good evening morphing to bad evening whilst waiting-waiting.. 
+doesn't feel so good. Good evening everybody. (sick)  http://plurk.com/p/xe9j4
+Good morning. About to hit the road to head back to tallahassee. I never knew it would be so hard to say to goodbye to him  i dont wa ...
+Good morning everyone! I am at work  wishing to be still in bed!
+Good morning so tired wish I could stay nd sleep on but got to work 
+Good morning ... some gentle music for my honey's sore head.   ? http://blip.fm/~7dfjw
+@dannyj42 rumour has it its gna rain  sorry! Good luck, see u in manc x
+Good times last night, but i think they came with the flu. I'll be in bed.  
+Good mornin ya'll...There ain't nothin like wakin up with a sinus infection. This is goin to be a fun day 
+Good morning everybody! I'm breaking out! U can play connect the dots on my face 
+Hellooooooooooo, thunder &amp; lightning  [o shet] electricity gone/dippin...Good byeeeeee, thunder &amp; lightning!! mudda skunt jed!! smt ugh 
+@angela_gmb I think it's normal; email after the vacation is the worst  Good luck; hope you had enough fun that it won't matter though.
+Good evening everyone  havent learnt my lesson and have ended up even more sunburnt  how is everyone else? xxx
+Good bye tweets. I'm gone from twitter  still luv y'all ........
+@GrantMc Lol nice one. Good time? I've no been up in loch lomond for ages 
+@nicky_t a pebble beach though  painful after a short while! Good weekend-o?
+@benthechaser Good man. You know your stuff. Also, are we ever gonna have a real conversation? 
+@mileycyrus Good luck! I went to vote a few hours ago but the polls were already closed and the site wouldn't let me register. 
+Bad news: In the car going home  Good news: 4 more days of school and 2 more days of classes
+ok, i think 3.15 am is a good hour to go to sleep, even i don't want to!  Good night!!!
+@DWsRoseC Good for you......mine will have already passed  No extra b-day luvin for moi!! lol
+Good morning ... ruff morning 
+Good morning, school back today  new timetable. Wish me luck ^^
+Good morning tweaple, kids fed now time for uniforms, and after a week of no school run today is not a welcome return 
+So tired and sad. I gonna go to bed and emo in my sleep. Good afternoon and good bye to a C 
+To all those with exams today.. Good luck and relax... I got another 10days till my 1st .. You will all be finished.. 
+Good morning.........making the breakfast and trying to get everybody ready and I have no coffee.       Strong tea instead .
+@REALiiiTY get home safe! Good times in the pod wit all the ghost stories now I can't sleep  lol
+Good morning! Finals today... 
+Good morning. Its 46 degrees out   And where did the weekend go?! I still need more sleep!
+Good morning twppl..the count down to the end of school begins. 
+my throat kills. i think it's the over-consumption of alcohol  On a brighter note, it's another sunshiney day. Good.
+@LightFoundDark Good morning! now its off too school! 
+Good morning everybody! Unforyunately, I had to take down my picture recently because I have been working some undercover assignments 
+Good golly long night. Couldn't sleep.  on the phone w phone company hate this music Wtf Wtf
+Good morning driven w/out my ipod.  so sad. But still a good mornin tryin to mak it bac for wrk gotta pay dat rent
+Good morning. I can't believe it's monday. The weekend went by way to fast 
+@thesiegster wow, that is amazing.  Good job man.  I joined your challenge today, I posted a reply but I don't see it on the list.. 
+Good morning world, goodbye mullet. 
+Good job last night at the awards twilight cast . pretty sad nikki wasn't there . 
+Going to be offline most of the day tomorrow.  tough. Good night.
+@diana31380 Good! I was crossing my fingers for you! Yes, I'm working til 9pm. 
+I'm off to sleep..it's 11:20pm... gotta wake up at 6:30am!  Good night Twitters =D
+@MariaMcmillan Good idea lol! think i'll be doing some art revision tomorrow too 
+Good grief... is that the time?? But I've only finished one section of my case study!!  'tis the biggest section tho...
+Good morning twitterz! Productive weekend .. working on ideas 4 2 new songs.  Right now got a sore throat - winter ills  urrgh 
+@theiancrawford i wish you didnt want to leave the cab  i still love you! Good luck with everything, i hope i get to meet you someday!
+@cesarnoel had two bowls today, but no results     Good lookin' out @cesarnoel
+Good morning. almost time to head for school again  ..  let's grab some coffee first
+Good morning On the way to school  but only 3 houers juhu  german , history,  french and FREETIME 
+Good morning! waiting for her parents to say byebye #caus they are driving home 
+Good morning my lovely friends, again a new workday. I'm sitting here, drink my morning coffee and later I'm at work. 
+@lewisbostock Failed miserably on the 1st day of diet. Good start weetbix, then butter chicken for lunch and casserole &amp; bread for tea 
+Good morning. day 2 #quitsmoking...an kai gia #fail to vlepo pali 
+Oh my, the work I did for this week's update was out of date by the time it went live. Good job work  I'm redoing it now 
+Good morning twitter looks like I'm off to work today 
+Good  night/morning, busy day today  and I am not happy camper 
+Good morning tweety birds.. Another day, another dollar, and I guess I should expect to come home in pain since I close tonite 
+Good afternoon everyone. Is anyone attending E3? I wish I was there 
+Good morning twitfam. I have to take daughter to the doctors her tummy hurts   a mothers wrk is never done.  http://myloc.me/2m1Z
+Good morning! I have to go in early today for tech apps 
+I forgot to say &quot;'Night Twits&quot; last night ... I fell asleep on the couch quite suddenly ... I have a crick in my neck.    Good mornin' ...
+@gg_the_undead Good girl. Always nice to be joined in the #tuesdaytantrum. But sorry your leg is still bad. 
+Good morning stuffy nose, sore throat and achy body...please go away soon 
+Good morning all, I am without beard this morning....it's a sad day 
+@moviegirl09 Good today, but it is back to work this morning. 
+At work. And I forgot my breakfast banana  I also forgot my fresh strawberries !  Good thing I keep an emergency pop tart in my drawer!!
+Good morning twit fam..please pray I make it thru this day, I did not sleep at all. It was a rough night 
+Such a nice morning!!! Good workout...now work in an hour. 
+Good morning tweeple bout to get ready for class my 2nd day of summer school  smh this sucks
+Good morning! working from home today, I have to run some errands today, too bad I have plate restriction on my car 
+Good morning! Lots of issues with the coffee this morning. our big coffee machine has taken the day off, little coffee maker overflowed 
+@jemappellekim No-one ever wants to stay up with me.  Good night!
+Good morning! busy day today.i really just want to hang out outside,but grandma wants cleaning done 
+http://tinyurl.com/ry9wap Good day! Can you tell me more about yourself? I cant upload more pics here for some reason  I can send you  ...
+Good morning all, gonna go to school in a min,i don't wanna leave my bed,it's soooo cold in my room I wanna go sleep insted 
+Good morning! I really need to learn how to sleep for more than a few hours at a time 
+Good morning world!  I have to go to work in a bit, but I wish I was still in my tent 
+Good morning to the world... had a bad night, twice woke up with heavy nosebleed - what's not a good thing... 
+Good start to the day. Just ran over a squirrel. 
+ahhhh... Nothing like waking up to the sound of ur dog puking in ur bed. Good morning to u too winston 
+is Good morning, what happened to the sky?  http://plurk.com/p/y3ho6
+Good freaking morning! I'm totally sleep texting, walking, etc. NOT a morning person. Yawnnnnn 
+Good morning world, time to work 
+Good mornigan!! At work, looks like a slow day 
+Good morning guys, gotta get to the office early to search for papers from 2004 in storage 
+...Good thing we have LOTS of college ministry taking place at 2-year schools.  #sarcasm
+@rogueevents Good point. But what if this is the last one. As in last season and they don't do any more  hmmm oh well i can only hope.
+@Live720 I'm in the middle of my exams right now  I finish the 17th and hopefully then I'll be able to enjoy a 3month vacation! Good luck!
+Good morning. I slept so good last night. I wish I was still in bed 
+Good morning everyone!!! this morning I woke up with a really really bad dream!! 
+Good morning peeps! Just getting up thinking about what the da has n store for me! I kno peeps were calling me b4 10 am  that's not wussu
+Good morning everyone! Today I get no walk, even though its really nice out today  but mom is going to do training with me instead
+@h33nah Good luck with that my friend. I know its not an easy thing to do 
+@joeymcintyre @JonathanRKnight @dannywood You speak when one sleep and you will lie down when one rises   Good night and full with kisses
+No one i work for is here! Good thing this is a half day. 
+@HautTotes Good luck! I tried that last week and only lasted about one day because I have no willpower and sugar is my master. 
+After a 10 day road trip and a week of catching up, no steps until today     Good thing my legs knew what to do but took it slow...
+ I sooo wanna see hangover... Uuugh, well its still gonna b a good friday... Good tings a gwan tonight  http://myloc.me/2Imd
+@angelixd Good point.  I did have a blog once, but I eventually shut it down because most of the people who read it sent me hate mail 
+@americanadian sorry Sheils, won't be able to make it this time   Good luck, tho! 
+5 hours overtime tonight, and still going. Good for the budget, bad for my knees, feet, and #WoW habit and I miss my @brdwychick and kids 
+Good night..I've got to be going I sleep now  I have a very early start tomorrow...ugh sooo...good night tweeplys
+@Ratspeaker Good job today. Sucks I cant show up tommarow  alas I am stuck with a bunch of 16 years olds. but it was fun hangin with ya.
+Another boring weekend  Good thing I have my music.
+@JamesMurphy wow 8 months of emergency funds! Good job on having 5, I gotta try to get to 1 
+Good night world!! I miss my neice  !
+Good night everyone!!! I'm tired as hell and this sleep gon go by reeeaaaal quick!! Uggghhhh...its my own fault though 
+Good morning,everyone! Just reag the latest tweets ..and I'm not happy that there where NO steamboats  ..gonna have some breakfast now! 
+Good morning,everyone! Just read the latest tweets ..and I'm not happy that there where NO steamboats  ..gonna have some breakfast now! 
+Good morning got woking up by the post man 
+Good morning twiends i am sooo overly exhausted  its not even funny!! at work right now trying not to fall asleep...
+Good morning all, saturday... half day work 
+Good morning twitterverse! I'm keeping my son home, he was going to grandmas with his cousins. He's been ill overnight, poor little guy! 
+Good night out last night, now back to work 
+Good morning! Its cloudy and only n tha 70`s here no beach 4 me 
+Good morning tweeter bugs! Hoping to have a great day at work even though im going to be stuck there all day 
+Good morning. I don't believe I twittered at all yesterday 
+@Jaylien2010 Good morning, it's almost evening in scandinavia, and under +10 degrees of celsius outside which is too cold for me 
+Good morning! I hate that feeling when you feel the sniffles coming on  I'm gonna let it get me!
+@indii093 Good job someone is tweeting! And about the job situation, I KNOW there's NOTHING anywhere 
+@poppy_dog oh no  so how do you get over having it done now. Good job you dad was there
+so tired. Good day out with friends though. No winners 
+Good morning thunderstorm 
+My external hard drive just died. Good thing I back up to an online service, but damn I had a terabyte of movies ripped to it. 
+Good morning world. How are we today?. . . I'm still tired 
+Just watched hotel for dogs with my girll after doing 6 hours of regents studying. Good movie. I cried but not as much as marley and me 
+Good night everybody..! W out phone yet..! 
+Good night twitterverse...feelin tired n drained 
+Good night, goodbye austin.  
+So I guess this is just another night for me to miss you guys. Good night 
+Good morning ;)  I am a bit sick 
+@Jirad13 no quiere revivir  asi es que me voy a dormir... Good night and sweet dreams 
+Good morning for the last time 
+Why does it have to rain?! Good week of sun. Now rain 
+@mars_d Good morning friend  !! well thanks !! where are your boots??my are in the rubbish! were broken  see you later!!
+Good morning followers, its not a nice day today, the rain is out, and its cold 
+Good morning all....cleaning time....then gym...gloomy sunday  
+Good morning everybody. The weather is a let down 2day as per yesterday. It's been raining all weekend. 
+Absolutely dead. So not looking forward to this week  Good night! X
+Good morning my twitter family! How's it going? I'm at work right now--tired. And to make matter worse I'm 1 of 2 ppl  that means busy!!
+woohoo free drink upgrades with combos at sonic. Good thing. I forgot my cooler with my bottled water 
+@sethcaskey awe! I won't be there.  I've been sick all week so i'm resting up. Good luck and have fun!!!
+Good morning fellows  sometimes I wanted to be an early bird, I'm almost asleep...hate snoring brothers. 
+Good weekend, but actually knackered now : i need another day to sleep 
+Good morning folks. I'm still so tired  lol
+@nkirchmar and I changed it again...bwahah...I have no idea why my picture went away  I'll have to put another one up!  Good job in math!
+@liveonmars lol! Good for you on the jog, I skipped it today. So I'm sure I feel it tomorrow. 
+@NicWilko Your going to kill me... I forgot my digital camera only a disposible  Good day at whatever comics?
+Good morning tweets!! The weekend is almost over 
+Car broke down  Good thing its only a few blocks away from home. Pushing the car home is my exercise for the day I guess? Lol.
+well... I'll ho to bed very tierd.  It was a hard weekend tomorrow school  see you tomorrow Good night tweeter world
+Who ha. Good sleep but scary dreams about roaches. There was billions on them . 
+glad my daddy is alright  Good thing I didnt watch the fourwheeler flip on him.
+Good bye batman 5,6, and 7.  i'm just going to stop buying anymore fish
+After a productive day it's time for bed! I really don't want to go to work tomorrow   Good night, sleep tight!!
+Going to call it a night falling asleep at the keyboard and mouse is all over  Good night everyone
+I think I'm coming down with a sore throat....   I hope not.   I need more rest and less stress.  Good night
+Good weather in town this morning - thunderstorms later though 
+Good morning/afternoon/evening/night  it's raining  xoxo
+Good morning everyone, just had a coffee and made my 'to do' list, better get on and 'do' it now! It's very long. 
+Good morning. I stayed up too late watching that movie 
+@RenLucy I chose sleep/lazing about over the party down there  Good luck today!
+Good news, I've a saved version which just lacks the most important part of the table... but has everything else intus 
+Good morning twitterville!! On my way to work 
+Good morning! I should not be up this early  I feel like crap and now I have to go work with kids for eight hours...Wish me luck!
+Good morning! Another work week 
+Good morning!..getting ready to run some errands...but before I go I have to make sure my niece is comfortable...she's not feeling well 
+Good morning twitter!! No work for me today cuz my car in the body shop cuz I had a accident over the weekend!  picking up my rental
+@drenee1026 The link is broken    But I'll check into it.  Good job on the boarding pass!  You're kinda awesome!
+Good morning my twitter darlings. The sun made a brief cameo this morning and had me hyped then ran back into hiding  time for breakfast
+Good morning, twitties! (: getting ready for summer school 
+While going to through my purse to find nail clippers I found a hole in the lining.    Good news is I found almost $5 in change. 
+While going through my purse to find nail clippers, I found a hole in the lining.    Good news is I dug out almost $5 in change. 
+@sunnygirl82 I'd recommend speaker phone or a headset. You might be on hold awhile  Good luck!
+Getting electric turned on at a house on top of starving.. Good morning 
+Good morning today I dont feel anything right 
+Good morning my lovelies! Apparantely, people with lifted trucks think they can just drive right through stop signs into people.  ouch 
+@LilTanLines @emdeezee @JensCamaro Good morning everyone.  I still have a cold  so if ya don't hear from me much this week....
+I'm going to bed with a heavy heart. Good night world. I pray tomorrow will be a much better day. 
+Good morning everyone--woke up at 10 wait WHOOPS its 12  http://plurk.com/p/115zl7
+hell a lot of things are left to read..  feeling sleppyy (1:30 am) .. Good night everyone
+Good morning! i'm still awake! No time to sleep! 
+@MixEdMaMi619 why are u guys moving anyways? Good luck must be a pain in the ass 
+Good night everyone.  I have to work tomorrow, so no Nmm news till six.  
+Good news is I got new passports for the whole family, bad news is my new surname is Zhusupov 
+Good night. my brother is a computer hog. 
+Good morning....or not....its mornings but its not good 
+Good thing I checked my schedule for tomorrow. I would have been a hour and a half late. Not good. And no luck shopping today 
+sore from my workout....I think I overdid it  I need a massage. Hopefully a good nite's rest will do me some good. Good night world!
+Good morning everyone, it's gonna be a nice day today so yay for the uk it's only 68 degrees though   http://twitpic.com/7j2d3
+Good morning all...the lovely sunshine helps me to forget I haven't slept for coughing all night 
+@kyarorin YIKES you definitely are having a rough day. I hope yours passes. Good luck. 
+I don't want to go to bed but I will be fucking awful tomorrow if I don't. Especially if I'm getting ill.  Good night 
+Good morning... another day in hell...  to the study room for me.
+Good morning!  now it's time for school 
+Good evening, twitter :-D im still working on my revision though 
+@e_noir  Good luck hun, hope you get something sorted x
+Good morning, world! It's supposed to be rainy and thunderstorms the rest of the week so I guess I won't be focusing on painting. 
+@DegaDeals Good morning! It's overcast and rainy here. Looks like it's going to be that way much of the week. 
+Good morning....I can't find my sweater  come out come out where ever u are....about to miss my bus if I don't find it.
+Good morning! I had a great #run yesterday followed by a disappointing loss in my flag football game  We dropped too many passes!
+Good morning till my bf spilled cofee in my car last night and didn't tell me ! So inconsiderate 
+@Peckinpaw hmm, interesting, but unlikely. Good convo tho. I hope to launch my own webcomic in 2010 but no clue how to profit from it. 
+@db0y8199 Good Good! anotha LA trip is delayed 
+Good shower, but have figured that I have no friends  sad times.
+Good morning! Doesnt feel like going to school. 
+@jschairer  damn roofers. The wine does work...But watch out for that crazy hangover! Good luck
+@lmwarren85 Good night! At this time 2mrw, we'll be far away from each other! 
+Off to sketch in bed, hoping my ultramatic bed will soothe my aching back with the massage option  Good night all.
+Good night @nvncyble....I guess you'll call me back when you can pencil me in between masturbating and taking a shit 
+@laurenjane001 Good night dear- sorry I missed tweeting with you tonight. 
+Good night twittz...wake up at 5:30am tomorrow...we have a 6mile road march ahead of us 
+Good night life chem regent tm oh joy 
+Good morning twitnam! To the office without 3.0 update 
+Good morning! all I can hear is the heavy rain against my window. Not looking forward to school today 
+@DonnieWsGirl32 I think he's done  I'm gonna get to bed. I will talk to ya later. Good night! and good night 2 u @DonnieWahlberg love ya!
+Good morning. starting an new day. still knee deep in amateur vb6.0 code 
+Good morning... another busy day.. ..and I think is gonna rain!!! 
+Good morning! I'm off to hamilton later... And the weather is shite! 
+Good morning everyone from a muggy British morning...even tho I got my shorts on looks like rain 
+Good morning peeps! bit of a late start but I was awake from 2:30-4:00am 
+stomach cramps!!  Good thing im at home
+Good morning world.  I'm not so peppy today.  
+@StephCupcakes Good luck hunny!!!!! I'm good, just bored at work as usual and hating the recession  daydreaming about le wedding lots 
+Good morn tweet fam...walked/ jogged the dog..its 79 degrees w/out sun 
+Good noon, everybody. I'm feeling pretty sick today. Not so dy-no-mite 
+Good afternoon everyone, not smiling today cos it raining 
+Good morning world, woke up with a not so nice stomach ache. 
+Good morning tweets feeling a little sick here 
+Good morning! 101 heat index today 
+Good morning dolls!!! I have a sick little girl this morning so we're gonna be lounging allll day in between me giving her medicine! 
+Feels like it's one set back after the other!! Good news then bad news!! 
+Good morning rainy day 
+Good morning tweeties! I am in pain today. 
+@TonyLetts Good afternoon! I was so proud, I guessed an English dude, but then I was accused of cheating. 
+Good morning, and not so good to me, I'm with a damn headache 
+@SteveGarufi Good morning~ We had 2 days without rain! YES!! But clouds are moving in now. 
+Good morning! Last day at the lake 
+@myogis Good looking peeps! Unfortunately I'm on mom duty tonight. 
+Good morning. 48 days left. 
+@melissajill I miss you too, roomie!  Good thing flights are cheap so I can come stay often. ;)
+needs to stop panicin . Good night twitter 
+Tracy No rain today - it went right by...  Good thing someone invented water hoses! http://ff.im/46LVZ
+Good morning. I finally have a fever to go along with my colds. Might have to skip rehearsals tonight.  This sucls!
+Good evening, I am very tired, tomorrow will be a tiring day 
+@jewelpike I didn't see you at midweek tonight!  It was so weird.    Good luck on your exam tomorrow!
+Good morning everyone...I don't like the weather cause cause I don't like the rain.... 
+This week I slept about 2 hours less a day and that's killing me. I need 7h+ for considering myself a person. &quot;Good&quot; morning, btw 
+Good morning everyone. I dont feel well 
+okay im tired today! i worked since  7am-6pm Good night. tomorrows my last day @ voorhis  im gonna miss the kiiidddies
+@hramos Good, cuz I don't have any more high-res soft-porn and totally-awesome pictures to link you today! 
+Good morning. It's going to be a crappy day - physics exam... 
+Good night with the nigs..escuela  in the am
+Good morning, everybody! Here is cloudy and maybe is going to rain! I already miss the sun! 
+Good afternoon folks. Its miserable weather today again. It started off okay but its now gone cloudy &amp; grey 
+Good morning  my luvs....got that morning work out in...great breakfast...now I'm at work 
+Good morning twits. I kno I say this every morn, but i'm exhausted 
+Good AM twitter fam had a wonderful dream last nite hope it comes true!  on my way 2 the gym 1st i have to sit in traffic in the rain 
+Good morning tweeeets! Having a bad day already 
+Good morning twitter! I set the microwave @ work on fire again!!! not allowed 2 use it anymore  &amp; ppl wonder why I dont hav 1 @ home.
+Good morning twitters.....hmpff another day of shitty ass weather....wish I was still on the beach 
+Good morning!  one question... What is happening with the weather, where is the summer heat?
+Good morning! The sound of the rain this morning is so soothing. I want to stay in but I need to go out and get food 
+Good morning...I'm extrememly tired and out of it today. But I still have to go to work. 
+Good morning! I have class today 
+Good morning to everyone. What a rainy day. I guess the range is out of the question 
+@_fatdad  Good morning  about ur account...
+Good morning tweeple...it is a rainy day out here and I don't think me and the family are gonna be able to enjoy our day today 
+Good morning!  what is up with tweet deck?  All my little icons aren't up there 
+Good morning tweople.... I hate the rain......it's makes me cranky 
+Good morning world, serious day of drum smashin ahead, I miss my Fernn 
+Good morning....so I had fun last night. But I'm def paying for it now 
+Yay no work! Good cuse i dont feel to good again 
+@rachelle_lefevr what twi events are you scheduled for, i want to see if i can make it to one  ? Good luck on your movie! have fun today!!
+@Tifflicious okay  lol. I hope you blow up like diddy damnit! I'll be rooting for you girl! Good luck &amp; mucho &lt;3
+I wish I was feeling better to go to del mar &amp; watch jas, ros, &amp; marky perform  Good luck my rugrats!
+The sky is falling! - ok, more like a giant branch. Good thing the hood of my car was there to break its fall!  Not cool!
+My power has been off since 7 last night, and isn't supposed to be back on until midnight tonight.  Good thing I can tweet at school!
+@binhog737 Good luck girl....nothing worse than finishing work and can't go home!! 
+says Good morning! I had a terrible dizzy this morning  http://plurk.com/p/12096x
+Good night. I should sleep because tomorrow I will have to study a lot and I won't have more time to do it later. 
+MY dreams have been crashed tonight..... Good night everybody 
+My church overseer past away  Good man, good man.
+Good night... Test tm  but then a nice little break!
+I freakin hate when we argue. This is not how i expected the night to end  Good night twitter....
+Amazing dinner with brad otts, his arm pitt smells like ground beed. Good or bad? 
+Ugh i want my tattoo  i don't think i'm getting it any time soon  but for now i'm going to sleep. Good night twitter
+@dreamyla  zomg so pissed last night! Good luck today! You will be fine!
+Good start to the day, get up, phone call, todays job canceled,,,,  not a happy chappy  best find something else to do!
+Good morning! It's a really nice day here! Too bad I'm in such pain 
+Good morning tweeples. We have allot of flooding this morning and a couple accidents already showing up. 
+Good morning world...more llike bad morning, i had a bad dream 
+Good morning everyone!  Another rainy day here 
+Good morning.....with chicken pox all over my body 
+Good morning. It's raining this morning, killing my chances of ridin' into work today. How sad. 
+Good morning  . I have an la exam today 
+says Good morning! crazy storms rolling in here. Probably gonna have to shut 'er down. No Market today  http://plurk.com/p/126kpn
+Good morning everyone!  I have to say I'm super tired still 
+Good morning. I got a lot of sleep last night, but also a lot of bug bites when I was outside 
+is upset for the rain on the weekend! Good thing I have lots of homework and housework 
+Good morning... last day at the firm  but so much to finish b4 5pm :-/
+Good morning all!! I so woke up on the wrong side of the bed this morning  it's ok got the rockstar I'm good to go!!!
+@chrisdior06 but even with &quot;thunderstorms&quot; here it eill still be this hot . Good thing that's not in the forecast tho . Aw rain sux 
+My car's towed off... poor thing looks rough   getting a rental tomorrow. Good thing I'm got cat-like reflexes... could've been bad
+@kilianvalkhof worst day ever?  Good luck sport!
+@PaulaJAfan4evax Good good, but I have a cold or something and summer just started for me yesterday 
+Good night but feeling sad now that I've got home 
+This is my last tweet. Good bye tweet world!   Lonelyandroid ):
+Good nite tweet twitters, time for Nyquil and get rid of this bug  Good shot of whiskey would be better  , not
+Good evening twitter; finally on the way home. sooooo sore.  its gonna be 100 degrees tomorrow.
+Is really sick. Good thing I forced my mom to take me to the doctor before it got really worse. Now I. can't go to the wedding 
+@DestinyTrack42 I barely talked to you today, we've both been so busy!! I miss you  Good luck tomorrow!
+Good morning everyone :O I hate waking up early morning but I think I got used to it 
+Good news/bad news.  Good news is we don't have to pay a babysitter bc bad news is we LOST at the casino!  
+Computer keeps crashing while trying to install winxp  Good thing I got my iPhone today
+@cassiehl I'm always doing things like that. I think &quot;I'll put the work into this one and make it nice,&quot; but it never works out  Good luck
+Good night twitter. I hope your night has been better than mine has.   good night.
+@WolfBitTink Been better, but you know how that is. Good days, bad days, then some that you just wish you never had to live through. 
+Starting to suffer for hayfever already this morning. Good start to the day and weekend 
+Good times headed home now tho gotta work tomorrow! 
+@mizversailles I know I suck.....and its hard wood floor  Good thing i have a hard case on it already. but no cover on screen yet.
+@shaycarl I'm gonna make  you a banner out of my hair!! wait...that would be gross...umm sorry That's all I got   Good luck though :-P
+Good morning! was a bad night  woke up at 8 am because outside guys sit on their lawnmower and make noise!
+Good night  saw the proposal  was.nt my chose in movie
+Good luck to all those doing the photomarathon today, I had a last minute change of plans and won't be there 
+Good morning. It is 6/20/09, a day of reckoning, and I will not lie; I'm petrified. A lot of people are probably going to die today. 
+Good morning  I woke up late, this is good, but I still dont wanna go there. Even more after dreaming with him.
+Good night world. I got a long day tomorrow 
+@boyink - Good luck with the flooding, nothing worse than dealing with water 
+Good morning tweeps lmao getting ready for work 
+Good start to the family trip. Out with the slowness. Yay 
+@superdumb Ugh. The early rising is so much more frustrating (to me) than kids who won't go to sleep at night. Good luck. 
+Good morning everyone... I am watching a old spin city wishing michael j fox could get better  i love him!
+Good morning... I'm cleaning my room... 
+Good morning ppl. I wish i had some time for bfast. But its not fast enough 
+@cloudsaredreams Good, but feel guilty for not doing a vlog  I had a water fight instead and cbf to do my hair :\ yourself? &lt;3
+@BrokenStruggle Good idea! This year must take less stuff, I always say it but rucksack always so heavy, not getting any younger 
+@Russty ~ awww.   It'll take time before you get your bike legs (and lungs).  Good on you for giving it a go. *hugs*
+Nothing to do tomorrow , it's gonna be an other boring day  Good night &gt;&lt;
+Good morning!!! have a lots of assignments to do!! and household chores  It's hard to be away from your mom for half a month.
+At Good Samaritan hospital recovering from back surgery... missing the fresh air and learning to walk again 
+I'm tired. The last store was not busy but slow as molasses. Good thing I'm off tomorrow...but without my dad. 
+@markhallCC relatively small crowd for a festival! i wish i could be there. im only 4 hrs away.  Good luck!
+@jonaskevin Congrats!! I wonder how the concert was! I couldn't go  But don't worry, I'll go to another one! haha well... so, Good night!!
+alright. Good night. watching jackass with @me, myself, and I.  
+Good bye grand wailea  I hope I make my flight home!
+Good morning tweetland i have yo say that before the storm in live is horrible NILEY NEVERR 
+Good morning twitts  making this drive.....*yawn*
+@elusiveangel Good luck!!  I can tell ya, it gets pretty crazy! And then everything in the house breaks 
+More rain today...Good.  I hope it rains all day, cause I have no desire to do anything.  
+Good morning everyone, I'm waken up with a sore throat.  how's everyone's sunday going ?
+@pedestrienne I didn't sleep the night before my early flight this past week. I believe you only make that mistake once. Good luck  *hugs*
+Good morning.  It is strike/changeover day and I don't feel well.  booooooo 
+Good morning everyone. I guess I fell asleep just a few minutes to early last night. 
+@lbenitez Hopefully.... Good luck getting here! It's been that kind of a travel day. 
+Good morning twitters I hope your feeling good today as for me woke up sick with bronchitis, no fun, am very tired 
+Good day in school, played cards and done some gardening, doing it again tomorrow, burnt to fook the now 
+Good morning! About to be on my way to the doctor 
+I need a few Good men to help me move july 11th a sat, the family will be out of town 
+I have school tomorrow  ... Good night!
+Good thing no one can see the show my lip looks horrible 
+@Artificialxgirl   its ok. Good effort but i guess my attempt at a @yelyahwilliams bday greeting was an epic fail 
+Good night everybody...&quot;what a day...what a day&quot; I'm headed to the gym to do my evening work out. I have to meet my trainer this weekend 
+@debaoki I'm sorry  I'm lucky and local and planned for it this year since I missed it last year. Good luck though!
+Good morning!! Its too early  6.10 am here and I have work soon.Too too early 
+ahh todays a big day! Good news: I'll be soon free! Bad news: I'm taking an exam and know nothing!! 
+Good morning all! I have a poorly girl to look after today 
+Ahhhhhhhhh my eyes! I hate you internet!  http://bit.ly/11FAWG Good bye innocence 
+Good start to the day - feeling grotty and the water pressure is low at home (burst water main) so no long refreshing shower - great 
+Good morning twitters. Waiting for friday to come 
+Listening to pop ballads is amazing.  Good times tonight with some great friends. I'm gonna miss alot of people in a few days 
+Good morning, it's 3:50am and I can't sleep 
+Good morning every1   shit weather goin 2 rain 2day  (again) cant wait till saturday
+Good morning all, up very very late today, cant remember my alarm going off, i think earlyer nights are needed. 
+@Hollowbabes Good on you for keeping it up. I haven't been for a week as I've been too busy filling out job application forms 
+Good night all dead tired walking up early no bueno 
+Swimming makes me so sleepy  and i ate so much food i might get sick. Good night though after some minor bumps.
+Swimming makes me so sleepy  and i threw up so much food i might get sick. Good night though after some minor bumps.
+Watching click. All by myself.  oh well tonight was great. Good night everyone. &lt;3Verenise&lt;3 blv.n.ul.c
+@CallyGage can you believe that only a week ago today we were blagging that boat party? Good times 
+So y do ppl feel the need to bathe in their perfumes/colognes? Good thing I have an inhaler with me... just not sure I can get to it 
+Good morning everybody. Unfortunately, the sun doesn't shine today as well   I'm off to this little town today - Wohoo 
+Good day everyone, thanks for the wishes. I rly don't want to be quarantined for 7 days  I'm going for buffet now!!!!!!!!!! 
+Good morning! Last day of school (1/2 day). Its gonna be 85*..god i hope it won't be humid 
+Good morning, I had to get up early to go babysit...i wanna go back to sleep 
+Good morn' daughter's last day of school, then she's off for 2 weeks, 
+Good Morningggg! sitting trying to wake up with my coffee, reading ash's twitter and i feel so bad for her, she seems so tired  ily ash
+@Elphabarocks01 Good luck getting it all done! I know its a crazy day for me and I wont have much to to Robsess 
+Good night world. I miss my cuz 
+@erin2011 If you have any questions about journalism don't hesitate!   Good luck with everything!
+Good morning everyone! 
+Good morning everyone 
+Good night and good day twitters! 
+Good morning everybody! 
+@ElementsOfJazz Good question, had a bit of a rough day and physically not well but I'm hanging in there and still smiling 
+Good morning beautiful people  - coffee &amp; sun ... 
+Good morning everyone!  It's a sunny day here!
+In our new feature we're launching tomorrow I am going to launch a new list &quot;people I really trust&quot;  Good night!
+@JonathanRKnight Thanks, I'll go with &quot;wake well&quot;  Good night to you!
+@isedo sush, memory- champ  Good morning honey 
+Good morning twitter world 
+@jerrycchen hehehe! Good morning, it's night here, time for me to chill out and relax 
+Good morning everyone! 
+And So drunk that im all numb and tingly. Good thing I'm not a real nurse yet or I'd take that to be a sign of head injury. Lifes great! 
+Good mornin' people (for the brits at least) 
+Good morning tweeters  did an hour in the gym yesterday can't cough or blow my nose today - its gr8 to be fit lol x off  2 treadmill now x
+Good morning all. I hope today brings hope and joy to all of us 
+Good morning  And to think I was  worried about another 30th birthday, nah, its a cinch xx
+@msg621 There's not panic here, just bludging. Haha. Good work on making the move to become an official twitterer. 
+Good morning...good morning..good moooooorning 
+@greedydancer Good luck, then... for the meaning of life thing. And twitter too 
+too many late nights are catching up with me...need to go to bed! Good night Twitterers 
+Good morning jdzca.  At least it will get up to mid 60's today... But it was very chilly this morning. 
+Good morning, advertising world. 
+@alyssaavant Good morning! I'm sorry you had a not so good night. I hope you have a better day 
+Taking baths are way better than showers, lol. Good morning! 
+Good morning everyone 
+Good morning, everyone! I hope you have a great start to the day! *raises cup of coffee* 
+Good morning everyone and hope everyone has a great day. 
+I woke up on time! LOL Good morning tweeps! 
+Good lord, I still have 125 work emails to catch up on and actually read.  That'll teach _me_ to go have a vacation. 
+Good morning twitter 
+Good morning tweeters!  I am off to watch the news
+Good morning everyone and hello to all my new followers 
+Good morning everyone! I'm feeling blessed 
+Good morning everyone!!  
+finished my essay - time for bed . Good night 
+There's a whole bunch of &quot;FlipVidding&quot; going on all over my building today. (Good to see!) 
+Fabulous 1st date! Good food, great conversation, &amp; great to be treated properly &amp; appreciated. 2nd date next weekend... read &amp; sleep now 
+Good night all  I hear the sounds of sleep calling.  
+@snowberrycreek Good night my wrangler friend....! 
+Good night world!!!  I'm still at 5!!!!  c'mon people...get me up to 6!!!!  
+just got the 12 year old boys to bed (fort of blankets &amp; chairs in basement) now its my turn.  Good night all 
+Good night cruel world.  LOL 
+In your own way youre perfect!! Pretty girls only!!  // Good morning!!
+Good morning everyone 
+Good mornin folks, I think I'll make a couple of home made egg mcmuffins to go with this excellent coffee on this clear sunny 58* mornin 
+Good morning, Twitterbugs. I'm feeling very inspired today... it feels good! 
+aww you're so cute :$! love you @terregoss &lt;3 ! missing you already. Good luck 2day  muah!
+Good morning everyone and especially  @jodi54 and @kcarpentier77 
+Good morning my bebe hunny hotness chick magnet! 
+@nycgrl88 Good morning sleepy head 
+@SirenSongTX just his voice   Good morning.  Hows the weather in your neck of the woods
+Wow fell asleep last night and forgot I was signed on myspace haha funny. So good morning everyone! How are you today? Good I hope?! Lol 
+Good morning!   today should be a good day.
+@jshe lolz you are just so interesting. btw i need to go sleep now. busy day tomorrow. Good morning to you! 
+@Sixtiesguy Good point~it looks like it ties in front so ur stomach shows! So I guess making it, u could alter it 2 look the way U want! 
+No bodily parts were exposed. What sort of minds do you all have? (via @RealRobBrydon) - Good old British ones 
+@joepolitics Good afternoon ;)  nice quote, gotta agree! 
+Out having a chilled time in a cool but laidback bar and excellent company. Good times 
+@CandiceJarrett If you havent gone yet, Good luck with the show tonight!  Also you taking plato with you?
+Good night hanging with even better friends!  Now for some sleep.   
+Just saw the most amazing dance show ever and friends I haven't seen in a few weeks. Good night. 
+Finally got home. I won my first game of settlers of catan ever! Good night everyone. 
+I hate this new phone i got friday. Good thing I put it on ebay yesterday! 
+@BBluesman Now thanks to you, I can't sleep. I'm gonna go read in bed. Good afternoon 
+I swear to god @hanaispoca attracts alllllllllll the boys. Good thing i gotta man 
+Just had a sock fight with my husband while folding laundry.  Good times! 
+Just signing in to tell everyone  Good night! 
+Good night and tweet tight! 
+@Vasilly I'll check in with you at the respectable times.    Good luck reading!  #readathon
+Good morning! Thanks for all the new follows, everyone 
+Just about ready to go to bed. It was a long day today. Good night. 
+I have a little crush on zac efron now... He was so cute in 17 again. Good nite tweetys 
+Good night everyone 
+Good morning everyone 
+Good morning all  enjoying a cuppa T in the sunny but chilly garden watching while DIYhubby does his stuff http://twitpic.com/3l3v6
+Yay for seesters, carne asada fries and dancing under the stars! Good night 
+Good morning everyone 
+@plumpgoddess Good morning to you; not tweeted yet; but good luck to your nephew 
+Washing machine installed and running; no gushing water, no exploding machine... Good day 
+@JonathanRKnight Good night... smell of home... 
+I think my timeline in twitter is wrong and should it be 8 hours behind... I like that... !!!  But.... Good morning 
+@SeBESTian It was a whole lot of fun  Good luck with the water damage
+Good morning tweeple  Yay - it's my favourite day of the week!
+Good afternoon guys, getting ready to go to class, how's it going? 
+Good morning  Or afternoon, it's heading that way here
+@Spoonsie Good morning sunshine. 
+Good morning all my twitters 
+Good mornin glorida &lt;3 i love you and your perfect summertime weather 
+Good morning twitter  It actually is afternoon but who cares, I just woke up, so it's good morning for me  I had THE weirdest dream 
+Good morning twitters 
+Good morning twitters 
+@bethcardwell Good luck with that rain staying away til 6pm. I only need it to stay away til about 1pm. 
+Good morning u all , no rain , no rain, No rain ! I can get out and about 
+@silvercrone Good tip! I've never presoaked beans.  Always make in crockpot, great results that way.
+Good morning everybody! Today looks like a good day for atlanta 
+Good morning! I'm working on work this morning so I can goof around in the sunshine later without guilt 
+@pixiepop Good morning -- and good night 
+Good morning twitterland. 2day is a beautiful day 
+Good morning everyone!  
+@KelleeHR Good morning, sunshine. 
+Good morning all you beautiful people 
+Good morning flippin twitterverse! 
+Good morning/afternoon everyone!  Looks like I missed out on alot of tweeting by our boys last night. I hope all is well with everyone. 
+@Sugarwilla Good morning sunshine 
+It's time to sleep. Good night 
+Good morning twizzlers. Thanks to all the family and friends that came out last night. 
+Good morning twitter  I need more followers
+Good morning everybody! 
+Good morning  ah whatam i going to do today? [missingJuice]
+Good morning my honeys, have a great day even its monday 
+@cochina_40 Good night Cathyy  cant wait to hear your story sweett dreams 
+Birds are singing, sun is shining .. no better way to walk the dogs  Good morning!
+@Ethnicsupplies Good morning gorgeous. Yes indeed, but I love winter so much, it is my most productive time of the year 
+Good morning, 13 Days, 10 Hours &amp; 7 Minutes without alcohol 
+Good morning everybody! I wish you a nice week! 
+Off to bed, Good night everyone. 
+@xamiex That is the question women have been asking since the dawn of time. Good one! 
+@amp451 Good morning from this side of the pond! Thanks for following 
+Good morning or good night my friends as it applies to you. 
+Good morning everyone! 
+@JoeyShenouda Good morning to you too ; while working on that; don't forget to enjoy the weather 
+Good morning, people 
+Good morning everyone 
+Good morning everyone 
+Good morning, it's a beautiful day 
+@tesas i know! haha, thanks for the reminder. &quot;I just gotta....&quot; is a killer! 15 more minutes tops!  Good luck with school!
+Good day everybody 
+@Vanessica55 Good luck on your first day at the new jo, &amp; on all the subsequent days, too, of course 
+@Vanessica55 Good luck on your first day at the new job and on all the subsequent days, too, of course 
+Good morning my twitty tweets ..... hope your havin a nice monday ...  kinda crappy weather but at least it isn't snowing ... right? ... 
+Good morning and happy monday 
+Two Bones epi's this week... aweeesome! P.S. Good morning 
+Good morning everyone 
+Good morning all  It was a busy weekend, and looks to be a busy week as well.
+@TizzySizzleberg Good morning!  How are you feeling this beautiful morning?
+Good morning it's back to school for the kiddos  woo hoo!!
+@23graeme23 Good luck with ur revision 2day hun, dont overdo it, mind 
+Good morning girls 
+Good morning, folks! How's everyone doing? 
+Is all about sun,football, worden, his first frisbee since he was 7 and kerry getting a blackberry. Good times 
+Good morning tweeters! its off to school for me 
+@PinkCookieshoes Good morning  hope you had a fabulous vacation. thanks for the follow friday 
+just wanted to let u know that ur an amazing person and u have many fans around the world who love the work u do ... Good luck this week 
+Good morning, friends! 
+@Xlex Good morning Xlex!  hahaha
+Good morning everyone 
+Good morning beautiful people!  How is everyone today?
+Good moring another great day in the making 
+Good morning twitpeeps  its gonna be hothothot today!
+@SueInge Lol, it didn't seem minor at the time, but compared to a book, it is   Good luck with the move (and staying sane/calm!)
+Good morn twitterville... on my way to start a productive day  yay me 
+Good morning everyone! 
+Good morning   The sun is shining and my head is still killing me #headache #moaner
+Wow... Good job britney. Although i think u could have sang the slow song live hahaha!  Gooood show 
+I sleep so much yet I'm always still so tired. Good thing I can sleep late again tomorrow! 
+Good morning sunshine 
+a dormir!! Good night everyone!! 
+Good morning everyone  @nick:carter: your shouldnt drink so much coffee 
+Good morning! It's a beautiful rainy morning here. 
+Good news early in the morning 
+Good morning! new day new tricks 
+Good morning everyone The sun is shinning hope to have a better day then yesterday 
+Two nights of drinking &amp; swimming consecutively.... I'm super exhausted!!! Good night 
+Good morning everyone! 
+@an0key need to invest in a folding bike though. The four mile walk in the mornings is getting a bit dull. Good exercise though 
+Good morning  great start on the mornin =D
+@AndreaCarnell Good morning. How you been? Just wanted to say you're lookin hot in that new photo 
+@semanticwill Good morning, dude 
+@jL Good question, and yes we pluck a few featured stories from the day's news. Ah, your call then 
+Good morning all!  It is a beautiful day because I keep the sunshine in my pocket! 
+@mariakitano Good morning ... have a great day 
+Good morning all you stateside folks who are just waking up! 
+allrighty....time for my morning nap. Good 'night' for now 
+At home finally... Good night with good people 
+Good morning twitter 
+@Intelligentwmn  - I'm tellin' ya, 'healthy' is just as addictive as making money to me! ;) Good job on the good eats! 
+Good night all gonna kick back and watch some movies 
+@identitykrysis I think we'd have a blast getting pissed at noon on mojitos with brunch.  The rest of the stuff? Good to have goals.
+Good morning, everyone!  It looks fantastic outdoors!
+Good morning all! the biggest question, to go the beach or not? 
+Good morning!  It's 8:11am - I couldn't sleep xD.
+@sweetcherrypop Good night, pleasant dreams!  (SweetCherryPop)
+Good friends + good food + a good game of cards = good times. what more could a girl ask for? 
+Good times with good friends... it was a great night! 
+I'm going to sleep now. Good night. It will be a good day tomorrow, if i'm even 10% as happy as I was today. 
+Good night everyone. I love you craig 
+@selves Thanks! The eyes in the back of my head will be staring down that broom wagon! Good luck on your first big race!!! 
+@mamasvan Good morning! Would you believe I'm intentionally up at this hour and happy about it! 
+Feeling a wee bit rough from last night...Good night though  I loveee karaoke &lt;3
+Good morning! The weather is awesome!!! 
+Good night  actually great night 
+Good morning everybody 
+Good effin night  I love old + new friends
+@citygarden Good morning. I saw nice list of tomatoes you are growing this year  
+Scouting For Girls She's So Lovely ... Good morning/night to you all!  I am currently trying to wake myself u... ? http://blip.fm/~5eoo5
+@NathalieNL I'm up!  Good morning! How are you today, except tired.. =p
+Good morning!! wonderful day, i`ll gonna do a lot! 
+Good morning to all  I just woke up and I'm happy cuz it's a beautiful sunny day 
+Good morning!!!! I think I will let the sun sleep a few more hours 
+Good morning beautiful. Good luck today with SAT's. I know you will do amazing. I hope to be able to see you today! 
+Good morning. Good weekend. Great weather 
+Good morning, thank you everyone who are now following me...I  also found so interesting people to follow 
+Good morning 6:30 on a saturday! 
+Good morning! How is everybody? 
+Good morning my peoples!  I'm looking forward to a day of yard work, and, yes, I'm seriously looking forward to it.  
+Good morning world!  I'm going to meet my new granddaughter today.  
+Good afternoon world. So far I've done all my forensics work and nearly completed textiles  xx
+Good morning everyone  today i have the whole day off, yay!
+@elizatizer you're welcome! I'm ok, nursing a 2 day headache that won't quit. How are you? Good luck with the auction, hope it goes well 
+Good morning world!  Today is my bear's 4th birthday 
+@Southerngirrl Good morning! hope you have a great day as well. 
+Good morning starshine. The earth says hello! 
+Good morning everyone  (via #zenjar )
+@Mareeclo Good morning by the way 
+Good morning all   i should get up.  hmmm jesusismyfriend
+@jordanknight hey you! Good morning  american pie 2 is on tonight, I have to watch it because it makes me think of you haha xoxoxo
+@Larkn0298 Good morning  hope its another lovely day 4 u
+Good morning peeps....had the greatest dinner ever last night 
+@jmayoriginals I can't function w/out my morning coffee. . .  Good for you for &quot;surviving&quot; that long w/out it?  
+@TJGishere Good god that's a long nap! how was the park walk? 
+Good morning twerps! hehe! Going dress shoping today! YAY!! 
+Good morning twitter luvs...celebrating mamacita's bday today 
+Good morning @tickerville - long time no see!!    $$
+@flyirene yeah! And it's great to see u gals fighting hard for this!!! Good work and support.  now, for some serious work and partying!
+Good morning tweet stars. 
+Good morning all. All ready for work. Today better be not busy I like to day dream 
+@justtakenotes Haha, yes you do! Good work.  You're one of the few people who will understand that update today.
+Good morning twitter!! 
+@leblanc74 Good for you  I'll get some down time later, but for now it's laundry &amp; general house stuff.
+Good morning, good morning 
+Good morning  a mes day. To get drunk!
+@PaulHarriott  Good morning to you too   i had a blast..thx 
+@Pepperfire oh so what now  Good morning there!! just in the middle of something 
+Good morning  time to clean D:
+Good night world. We'll take over the world another day 
+@feltbeats oh yay... i'm so happy been waiting to use my amazon gift card for &quot;In Good Hands.&quot;  This just made my day 
+Good night, everyone!!! 
+Good thing I'm a freelance night owl.  Everyone needs their ads by the morning.  
+I miss the days of truth or dare hahaha.. Good times good times !! 
+Good day  I hope it stops raining tomorrow.
+@renu19 We are friends and I will always take care of you. Good night, sleep well! 
+@chamithal Good luck wid ur new life at work buddy!!! 
+@romashkaaaa Good night! Thanks for the tweets and the sharing of thoughts 
+Just got a &quot;brainwash&quot; at motivation training  Good thing... I wonder how long will it last?
+Good Night. Good friends, Good life, 
+Why am I still up at 3am? Good grief and good night! 
+Good afternoon! wahaha woke up around 3pm 
+@iantalbot Good morning darling. Even I cant text and drive at the same time  Just arrived and setting up xxx
+Good morning everyone! 
+@ridhi_07 wah.awesome hai! So 2years was worth the wait. Good luck for d future too 
+Ahh hangover free again. Just lazy. Good night out, saw lots of people I knew from years ago 
+@esmeeworld: Paris is awesome. Good food. Good people. Good shopping. Wonderful hospitality. 
+@kimmcleod I hope your researh gives you some ideas about what you can do to have a restful, peaceful, nice-dream sleep. Good luck. 
+Good evening ladies and gents 
+@suzbowen nighty night....i will talk to you soon!! Thanks for your help tonight  Good luck with everything moving wise......
+@colocelt Good buddy. I am just having my morning coffee waking up. 
+Good morning  getting ready  then breakfast....
+Good morning to all  The fetish tease pic of the day has been discontinued for now due to apparent lack of interest. I feel the same time
+@MeganPires Good morning sunshine. I see you are my stiff competition with the cheese contest 
+Good morning. I slowly feel like I'm getting better. I hope that today continues this healing trend. 
+Good morning sweet peas  off to the beach... http://twitpic.com/4h9vy
+@rajacenna Good dude - you are certainly one mad twitterer  I actually dropped my phone in the toilet once - it didn't survive though
+Good morning sunshines! So much to do today  But if I hurry through the cleaning part-I get more of the fun! So let the chore list begin!
+Good morning everybody. 
+@mrrocknroll Good morning! oh, but it's such a sweet beast 
+@ReneeSmyckova If it's any good: I'm relaxing in denial. I have to type lots of stuff and study and everything. Good luck you 
+Good afternoon!  How good wake after noon! Especially after we have kids. 3 years, this didn't happen to me! 
+Oh and p.s. Good morn world  and good morn bff who we wake up everyday w/ our meaningless chatter lol
+@idreamofjeanny Haha hells to the yeah! I like walking when its pretty out! Good exercise too whoohoo 
+@kaotic2 Good morning kind sir! 
+@sezykins Good evening  How has you're day been?
+@DavidArchie I was well impressed with your set last night.    Good on ya mate, really got the crowd going!
+@JRSterne VODE!!! I had him freshman year. Good times, man, good times. If you put enough &quot;interpretation&quot; into it, you'll be fine. 
+@eviltabbi  You missed an ACE night! So much fun ... You have to come next time. Good tunes and my set was well received 
+@pinkmeringue No alcohol?! hehe jk. Good luck on your writing! 
+@iamDavidMarsh Good advice. I'll be sure to take that break/mini vacation after my last exam on the 9th. 
+@ChrisTJones  It was nice seeing you at the softball game, glad to see you take some time to have some fun!  Good game!  
+@misscole74 you'll get close to the stage if you go there in the weeeeeeeee hours of the morning...lol.  Good luck! 
+@teresa_most Good luck tomorrow! And hope you're enjoying your new place 
+@thebrbb I'll miss ya too. It was fun.  we'll have to make it intentional and catch up next year!  Good luck on your finals!! 
+Looong day of doing nothing! time for bed. Good night 
+@JonathanRKnight I hope you had a great day!  Good night  xoxo
+@nikonman60 Nothing, i just went to the mall today to know my new friend! what did you do today? Good morning tomorrow 
+@MsJBell  Good! I need to get my housework done so I can sit without interruptions! Of course will Tivo so I can pause on the good parts 
+@Jaaaaae awwwwww yayyyy!!!  I'm genuinely mad happy right now! Good luck mama seahorse!!!
+I think one of my hard drives just took a dump... Good thing I got like 10 more!!! 
+1 more week..finals will soon be over! Good luck everyone!! 
+@bndesign Good morning, I am sure this week will be great! I hope so 
+Good day today tomorrow will be even better 
+Good mornin twitterers, watching my first naruto of the day and it happens to be the 100th episode  lovely juvely
+Yay! Good way to end the night.   
+Good morning universe, how are you today 
+Good morning ladies and Gents.  it's going to be an awesome day &quot;even though the weather is terrible&quot;
+@rosehwang U R &quot;happiness pollinator&quot; 4 shizzle.   Good friend you are.. I am smiling! 
+Good morning twitter world.raining in dingle- hopefully means a busy day for me 
+@utterhip Good morning to you, however it's night time for me, so I am off to bed *hugs* Have a great day 
+Good morning everyone! It's back to work for me - so won't be able to chat until tonight - I hope everyone has a great day! 
+@bobbyllew your lisa rogers carpool is now my alltime fave!! Good work!! 
+@lccsweetme haha that's way cool! Good morning 
+Good morning!!!! Yes is 5:57am 
+@DrRus @BruceBrownNC Good morning, gents!  How are ya today?
+Good morning  ready to start this week.
+@DesktopGoldfish Yay, three followers! Good to know more than one person in this big wide world likes fishies. 
+Good morning my little twitternut squashes   How are you all today? whats the weather like where you are?
+excited how the jon does will do today  Good luck guys ;)
+Good morning my fellow tweeters 
+Good morning! It's going to be a kick-butt day! 
+Good morning, everyone!  Just finished breakfast, and getting ready to see what this wonderful day has in store for me!  
+Good morning tweeps ... wishing you all a great day 
+Good morning  hope u all have a great day 
+@maximCH  there's finally time, it's raining  and the hockey doesn't start until 4   Good idea for a myepisodes.com script, but it's me.
+@azmomofmanyhats @rocknrod @gailelaine @sarahstanley  Good morning to you !  Its so pretty outside today 
+Going to bed, in pain fell on my shoulder today. Good night 
+Good morming my sunshines! Have a beautiful day! Last day of classes for me! 
+Good morning everyone 
+@teejay0109 Good morning buddy 
+Good morning everyone 
+@TerrieSoberg hey that is pretty good sucking up - my daughter is exactly the same - glad to see I am not alone   Good luck mom 
+All new implementation of test discovery for unittest. This time in a loader. Good start I think.   http://twurl.nl/nz8f4y
+Good morning scary world! 
+one of my favorite, most relaxing songs to wake up to: http://tinyurl.com/c8fr3e Good morning. 
+Good morning, everyone! 
+@jtimberlake Good luck whit the show tonite man, ill be watching 
+Laying in bed texting. Good night ya'll 
+I'm sadly dissapointed in the show ''Jonas''. Good shows on disney= hannah montana &amp; wizards of waverly place. 
+Going to bed, no plans for tomorrow, just hanging around  Good night people &lt;3
+@LarieBeck Good to hear! I got a bit of a tan today too, which is unheard of for me- I am SO pasty white all the time.  Mostly I freckle.
+Good morning twitter&quot;ers&quot; 
+Good night all, 15 miles of trails with 7 peeks to climb in the morning, fun times ahead 
+Good morning &amp; a very happy mothers day to all those lovely moms across the pond 
+Sleeeep. Good day, nice night, comfy bed. 
+Good night everyone  im going to lay in bed and watch eraser!
+@aeche We didn't...but we did have to wait a good twenty minutes for one.  Good night, though! 
+Good morning, sunshine! I`mm gonna start my day wth some movies. 
+@marco_cali Good morning 
+Scotts the only guy for me   Good night&lt;3
+@WollemiPine Or nudge the partner! Good birthday/ christmas/ I just want to buy you something gift! 
+Ive been passed out drunk for the passed couple of hours.  Good to go now 
+Good night everyone 
+Good night you twitter people 
+Is going to sleep. Good night everyone!! 
+@ddlovato Good to hear you're bck!! don't let stupid rumours put u down! as long as ur fans r behind you, you got nothing to worry bout  x
+Good morning   http://bit.ly/Tjvhv
+Good morning everyone  It's a nice day #iloveitwhen the sun is shining. And now I'm going to write some stuff 
+Good morning  I don't think it has stopped raining once for the past three days or so, but who cares?
+Good morning everyone 
+Good morning!! It's 12:00, I think it's time for breakfast!! 
+Good morning, to all the mommies happy mothers day.  Now I am off the pull the cats tail.  I know she likes it 
+Good morning everybody !! 
+@jazz_machine lol - Good evening/morning/day (just to catch everything!) to you too! 
+@biancabritton haha ok good. I hate when parents get into that mood. I know it well. Good luck 
+@TheBook411 Good morning buddy. 
+@lannydoodle Good morning, good morning too late to say goodnight. Lol that's from singing in the rain, I'm in a singsongy mood 
+@Patsytravers I had my french oral the other day, didnt go so good lol. Good luck  x
+@AceConcierge @digitalfemme @twochix1 Good morning ladies! How are we all today?! 
+@AlCarlton Good plan but I suspect they don't like you any better drunk ~ hang in there and kill them with your kindness 
+@HilaryAnnDuff Good morning (or afternoon, as the case may be) - hope you've been having a great weekend. 
+Good morning everyone! 
+@walters Good point; I shoulda checked twitter before I returned home though 
+What a great day!!! Good lovin... Good food... Did I mention the lovin??? 
+Long day. Good night. 
+wonders if today will be nice ) Good morning, y'all!  http://plurk.com/p/t0e7g
+We got some wonderful footage today.  I'm working on the website this week adding new footage.  Good night, sweet dreams 
+Goinggg to readdd eclipse and then going to bedd!!! Good night everyone 
+Good morning! I love the sun 
+@kirstiealley Good night. You're my favorite tweet vomiter. 
+I hope I don't have a math test tomorrow! If I do, there goes high school for me. Good night, $$D 
+Much as I'd love to stay on, I have lots to do tomorrow and need to get a good portion of the 40 winks in. :-P Good night, Twitterdom!! 
+tonight was my silly night of the year  Good night Twitterhomies! HAha
+&quot;The hatred you're carrying is a live coal in your heart - far more damaging to yourself than to them.&quot;. Good night!! 
+I'm at the gym! Good morning! 
+is off to bed. Good night guys!   
+is searching for the sun. Good morning all  
+Good morning! The sun is shining!  
+@fixgear at the end of the day...no really, it's the end of the day. Good night and more tomorrow.  http://myloc.me/Qzl
+Good golly I love my playlist   I just don't understand why people do certain things :/
+Good morning everyone 
+@pvponline I'll agree with the rest, today's strip is quite clever and funny  Good stuff.
+Good... morning...  ? http://blip.fm/~68tu1
+@DiznyPrincess Good night girl! have a good day tomorrow! 
+@LisaHuntArt Good idea to bring a camera.  I'll tell customers that if they don't buy a copy, their pic is going on my wall of shame! 
+Finished cleaning my room and my parents are finally home so I can now sleep in peace. Good night twitter world! 
+@michaelcowles dude are you that desperate I'll loan you a ten spot  man say Good bye ;)
+@michaelcowles dude are you that desperate I'll loan you a ten spot  man say Good bye ;) http://ff.im/2SjwU
+Good morning.  It is going to be another great day! 
+@Dropsofreign Good luck with cornering that cat, pesky feline that it is. I have my productive moments, brief tho' they may be. 
+@jalove @ParkRat I find myself using &quot;Good luck with all of that&quot; on an almost daily basis at work (sometimes to myself) 
+Good morning social media lovers 
+Good morning everyone! 
+Good afternoon! i'd better stay in my room tonight, really hav lot pending job, so next time? Thanks 
+Good morning everyone!! Its going to be the best day ever so lets go enjoy it 
+Good morning everyone  sometime during the night twitter text started working again but i think its kinda laggy :-/
+@Jaineen Good morning I was waiting for that coffee.  LOL 
+@thehappiest1 Good morning so glad to hear everyone made it through the storm ok 
+Good one  &quot;sponsors of tomorrow&quot; http://bit.ly/8sNAl
+Good morning sunshine, the earth says hello.  hahaha makes me laugh everytime
+Good people lift my spirits no end  thank you 
+Good morning!!  i ate a dove candy today..  here's what it said, &quot;whatever you give, give from the heart&quot; I liked it! have a good day!
+@MissShuganah Your avatar 'mockingly' self screaming in horror at the 'pastiche kitsch' of real horror.  Good morning sweetie.
+Good morning! I'm on cloud 9 and yes I skipped over 1-8 
+Good morning tweeps,running late 4 work..blasting soul 4 real-candyrain..definately song of the day 
+Good morning! Todays going to be a good day 
+Good morning Safettes!  77 now, high of 91 here today, should be lovely on the playground this morning 
+Good morning. Why give into rudeness when you can fight back with kindness..   rev run
+I wonder too, is this like a chat room...? Good question, did you get any answers? This is my first time using this 
+Good morning  ? http://blip.fm/~697rs
+Good news all day, couldn't get much better than this 
+Good morning...yet another day @ work. I hope 2day brings more joy than yest. But on a better note as of 12 am @s_ofelia will be 21 
+@LatinaNichelle4 Good morning  we have some sales going on today 
+Good morning/evening everyone!   how is everyone doing today? 
+@ladykaisthename yeh I gotta get my hair done sat. Good morning 
+Good morning twitterworld! 5 more days till the love OF my life comes home! YAY!!! even the rain cant damper this mood 
+@clevertitania Good morning. We have rain and thunder here 
+@thepottedpansy It was nice to meet you! Good luck with your party tonight! I hope the cupcake tier meets your needs! 
+Good morning twitter 
+@WearTheEyepatch oohhh no &lt;3 love you. Good luck with your exams can't wait to see you during summer  x
+@JadoreMarmite I get hayfever - do you have itchy eyes too? I've always had it since I was a wee girl! Good blips btw! 
+Good morning and good night. 
+Good concert tonight  hope y'all are having a fun saturday evening!!!
+Good morning, guys! 
+Heading to bed busy day ahead! Lots of fun laundry to do (insert irratated face here) Good night everyone 
+The more good you do, &amp; the more on the right track you are; the more people will try to tear you down. Good sign you are progressing. 
+Good night everyone 
+Good night my love, and who blip!   ? http://blip.fm/~6g699
+Finally home! So I'm gonna get my clothes and go to sleep!! Good night twitter! 
+Good night people 
+In a bangkok phone booth waiting out a rain storm. Good cover but humid. 
+Good morning, playing with my son &quot;Power Miners&quot; 
+Good morning and a fine week to everyone! 
+feeling a lot better, just a headache, but now i'm going to bed. I will tweet you tomorrow. Good night! 
+@Atomicbrahms cool! And that's what happens when you talk last! hahaha! Good job!  I'll try doing that when an incident will happen
+Good morning all you lovely tweeters.  What a lovely sunny day 
+@feblub Good morning, gorgeous! And again, thank you! 3 inquiries are in progress. 
+Good night by the way angels &amp; demos was pretty good 
+Good morning and actually I mean noon. But I'm just having my breakfast. 
+Good morning everyone 
+Good morning everybody!! 
+@mustntgrumble Good morning !! or good afternoon  relaxing time for you .
+I find not working at the weekend really strange! Good strange though 
+Yet another lazy day... apart from washing and cleaning. Good relaxing time 
+I'm at my favorite hang out place but the wi-fi connection is not working.  Good thing I brought the prepaid internet connection with me 
+@Crubalo Good morning. It the sun comes out I have to garden. If not, I get to vegetate  How about you/
+I'm so freakin sun burned...getting blisters on my shoulders and back...ugh! Good day on the boat though yesterday 
+Good AM! What am I doing today?Packing 100 years worth of living into whatever remaining years I'm blessed to live.1st things 1st--PANERA 
+@amcmoore Good morning - I hope your vacation feels awesome 
+Good morning Dears =D youre welcome for comments in my blog http://extraordinary.girl.zip.net 
+Good morning everybody. Today will be filled with lawn mowing, catching up on a little work, and a nap if at all possible 
+@HellenBach  Good morning sweet lady  how is you're day going ?
+is going to miss the UIowa class of 2009, but please note that the future should always hold better things. Good luck to you all 
+Good morning. I'm on my way to class to take my biology final. I'm so happy this semester is over. I'm gonna really party this summer. 
+Good morning everyone! 
+@MoocherGirl so, this is your night time!  Good night. hope you have much better luck than I did.  
+Good morning tweeps! I pray that you all have a blessed day 
+@nanisnap I am saying the same thing! Good night! 
+@SexyNeleen Good morning  yes the rain is lovely.
+@tweetles Good morning I have not seen you around alot lately  How are you
+@ZwinkyNews Good morning sunshine! 
+@420thoughts dude, that's a ton of rage! relax, retrace your steps you'll find what you're looking for, I promise. Good luck! 
+Good morning everyone 
+Good afternoon twitterbugs  about to workout, then head to work.  What a day.
+@SamBennington  today is nice day  . Thanks. Good time to you
+Oh well. I need to turn in. It's already 1:30 a.m. here!  Good night folks! 
+@SamBennington  today is nice day  . Thanks. Good time to you.
+@superspiritgirl Good morning sweetie.  I am groggy still 
+@beebalmdancer @groton saw pj back in 98... Good times! theyre playin outsidelands the night before dave! 
+@PheasantPhun Good luck and have an awesome time...send me some pics when you get back 
+~ @evliving Good for you! Looks like a very good time  Yes, I was good made it to bed w/out tripping lol!
+http://twitpic.com/5dek3 - Good afternoon world  #fb
+Thanks to everyone who has signed up to the email list so far! Good to see there's interest in the subject 
+@Rachellous Because that way people give up and only the most motivated remain? Good thing you're amongst these. 
+@my_black_heart Good luck tommorow  sure u will do souper lol
+Good afternoon people about to head to nj than going to get me my new iphone station 
+Talylor swift album again I could play this album everyday for the rest of my life its just that Good 
+Good afternoon twitter friends..im enjoyin my last week at work*sigh* oh well 
+@Sawdustt Good day for a ride. 
+is off to bed... Good night people of the interwebs.  http://plurk.com/p/uene0
+it was a nice speaker dinner/welcome event. Good to see lots of familiar faces.  #360flex
+@chelzmae okay I get you now! Good, I'm glad  I know what you mean, the rude ones those you dislike...I got ya!
+In a few more days I won't have internet.... how will I survive??  Good thing I have books 
+Good morning guys 
+@Hugobiwan Good morning and have a nice day! 
+Good to see that the internet progressed when I closed the facebook tab and opened a new window for facebook. 
+Good morning...hoy hace sol 
+@andreaguasch  Good morning in spain girl 
+Good night twitter buddies   missed u today&lt;3
+Good morning/night everyone and special kudos @D_D_ 
+Home. Good day today 
+@djpar07 Good night &amp; you did great on your song tonight, by the way. 
+Good morning, busy day today, get new tyre, buy dog food, do banking, lunch and work + look after dog, how will I fit it all in!! 
+@skashliwal Good morning  How are you today?
+@kingdavid28 just pencil the stuff. I had smearing with the pen u used.  And gotta get better paper soon too.  ttyl. Good night. 4real. :O
+had an amazing day.  Good night to all!
+Good morning tweet WORLD , how ya all doing , well im fantastic and am so oooba excited that I have 8 weeks to go before my boy is born 
+Good morning twitter. off to my sociology exam, wish me luck  x
+@Grannny63 Good morning, my favourite grandma 
+Good morning!  ? http://blip.fm/~6illw
+Good morning everyone, had a busy weekend and didn't use the computer at all, so now back to office and internet access 
+@bobbyllew aaah the good old tidy up of the computer, mine is long overdue! Good luck 
+Bad: headphone cable + glass of water = everything on desk very wet. Good: keyboard &amp; mouse still working and now my desk's much cleaner! 
+Good morning, afternoon, evening, night (choose one which applied u) 
+Good morning everyone, hope you all have a good day 
+Good morning everyone!Its a lovely sunny day already so today I'll take a chance to wash my car and hope it won't rain later 
+Good morning everyone - I hope you all had a restful night 
+Good morning @ office starting work / hope everybody has a nice start to a productive week 
+@evilbladeuk Good morning my friend, hope your week is a brilliant one 
+Good morning everyone! Looking forward to an exciting week 
+YAY! it worked. The car battery charged and switches the thing on. Good start to the week 
+@HillyHindi Your hair looks seriously great  It's pure awesomeness! Good luck with the post-production by the way!~ &lt;3
+I think I'm calling it a night. Good night tweeters! Have a blessed night!! 
+Good morning  having a wonderful time in Pfullendorf.......with my very very lovely friends
+Good morning fellow twitters,well tomorrow is today and its still yesterday for some.....really there is only now..seize this moment  
+Good morning twitter 
+After very busy day, a productive night and one earthquake, I'm going to bed  Good night!
+Good morning world!!  It's a bit chilly here in #westernma this morning, but we're looking towards 80's later in the week 
+@wantit hehe well in that case include banana with the pineapple and a shower that goes cold at the end somewhere in there! Good luck 
+@ImInLoveWithMJ Good morning haha I'm well, hope you are too 
+Going to sleep. Good night everyone 
+Good night world! I'll see you tomorrow 
+@emscriv I sprained my ankle in 1993 &amp; it still gives me issues especially in humidity or if I've been on it for a long time. Good luck! 
+Good morning all, having my first coffee of the day  yum, had a fake miley follow me ...i was so excited too. xx.
+Good morning sunshine.  NemoNemesis 
+@garethemery Good night mate ! whats the time there, here it'snearly tme for the afternoon siesta !! 
+Good morning everyone 
+Good morning. A little wrecked but it's a short week for me 
+Good morning from the dull rainy north east 
+@Jaaycooxo niters babe!  @AlexisMarie Good girl gone bad, eh? blame @nic0pic0 for that, she did that to me too! lol ;p *hugs nico*
+Good morning! It's a chilly one here. But it's okay, I enjoy turtlenecks 
+Good day twitters  , otro dia a sufrir en bancomext
+@ home getting ready for work then that math final. Good morning to all my twit heads... Have a wonderful and productive day/week! 
+Good morning sunshines!!!!! Off to school! 
+@mrsboozer Good morning...having a coffee? 
+Good morning  i'm running kind of late.
+Good morning another day of frekin gay school.FOllow me 
+@heidimotag Good morning  good luck on the show today, your the best ;D xoxox
+Good morning twitters! Y'all have a good day! 
+@kymhuynh thanks for the follow! I checked out your music and am impressed! Good luck with everything. 
+Kids are getting uglier these days... Fuglier is more like it... Good morning, btw!  
+Good morning everyone 
+Boooom diiiiiiaaaaa!!! Good morniiiing!!! I hope you enjoy your day and the week... 
+Good morning! The girls barely made their buses - it's the last week of school.  now back to work. . .
+Good morning everyone 
+Good morning everyone 
+Good morning tweeters! Imbibing in mucho caffeine at the moment...6:20 am here on the prairies.  Looks like a rainy day ahead!  
+Just got home from school.. was fun  Good luck to all the people that have exams today!!
+Its not even 9 yet and its sooo hot outside! smh. Good morning all 
+@Kalofagas Good morning, have fun in the garden. I spent the whole weekend there. 
+@ALauderdale: hey sweetheart. Good morning. 
+Good morning everyone, im feeling tweety to day 
+Good morning all my beautiful people!!  *muah* &lt;~kc~&gt;
+@DaveMoran Good going for having a wee baby  I think I clocked up 80+ hours. I had a lot of time on my hands then, however. #fallout3
+Good solid recovery run this morning @ 5am 4.5 miles  Good morning ev1
+Going to head to bed and try for a decent night's sleep. Good night folks 
+Good morning sunshine hope you have  a great day i pray Gods sheer grace and mercy flows through you all day i love you 
+Good morning bitches and hoes!  I just got to work ran half way and then took the bus
+Good gym session, sleepiness now gone, woohoo! 
+@markstanley - Good point, yes, we need to send the download link to the email address provided in the first step - oops.  Wow.  
+@amandabynes Good morning, what u gonna do 2day? 
+@RachelDennys Good night to you, may your next day be great! 
+Good morning y'all  It's on the chilly side here this morning -- in the 40s -- but the sun is out!
+Good morning! Should be a busy day- I hope everyone starts their week off right! 
+had a power nap, now awake. Good for the energy levels  afternoon training will be 4 blocks of 4 x 1 minute sprints, nice!
+thinks he has accomplished a lot today! Good productivity today 
+Good morning twits  enjoy your day.
+Good morning @yarnpr0n!  I &lt;3 finding new ppl to tweet with!  How are you today?
+@queermonkey Good morning  how are you this morning.
+The sky is the limit. Good night 
+@adam_d I know, I know. I am too quick to judge =D Good night and enjoy the conference that I wish I could come to! lol 
+Good morning! rise and shine! I've been up for 2 hours and I'm not tired! 
+@LouPage Good morning tou you sir! Thanks for sharing great stuff! 
+Good morning wakey with the bff 
+@sarahgb @Bookorama thank you both! Good 2 know I'm not alone- it looks ok though 
+Good morning everyone!  I sure hope this week is better than the last one.
+@mcleodd Good luck-just watch out for the &quot;bullshit baffles brains&quot; effect. And no, you're not the one who's bullshitting 
+Good morning everyone 
+I know it's summer -- but I have never been this stressed &amp; tired. Good thing there are sweet things in life -- like your goodnight kiss! 
+Good week everyone!!! 
+@michaelgrainger  Good Times are coming mate,Good Luck lol 
+@SamuelNelson Ah, class assignments. I know how that goes; endless nights! Good luck 
+@thekeithchegwin Good morning, another happy man on board, hi 
+@GeekMommy LOL, done that... And have caught hubby snoring in front of it fairly often, lol.  Good night!  
+YAAAAAWN. Good morning everyone  What does life have in store for us today?
+Good morning twitteries  how is everyone today?
+@andyroddick Good morning sunshine!  Can I get a happy birthday from you? Haha!
+Good morning world, ah its gonna be a good day 
+Good morning everyone!  How are you all feeling on this beautifully sunny morning?
+Good morning... what a gorgeous day 
+@krystinascott Good to see you too! And I hope you have a better day tomorrow. 
+Good morning everyone! 
+I'm back home!! And my eyes are BURNING! But @ least I had fun playing bored games wit my babe and friends  Good times
+Good morning twitters! just had a well needed coffee 
+Good morning all...how are you today???....what a fab sunny day today 
+Good morning everyone  last day today at work.. ahhhh! x
+Good morning, hope everyone has a cracking friday 
+Good morning everyone! (when you all wake up  )
+Good morning twitters 
+@Veronicah86  well, i'm going to give this one more shot and see if I can sleep see you tomorrow, k? Good night.
+@PembsDave this is becoming a ritual for me! cant go to bed until i tel you good morning!  Good morning.
+@briigita Good mornin my lady  what are ur feelin today 
+Good morning all, I'm awake now  just added some tracks to http://tinyurl.com/psso8v #hiphopfriday sweeeeet
+Good morning ! another lovely sunny day; back from my first meeting to find another wedding booking in my inbox 
+Holy crap im up early. I dont know how that happened. Lol. I cant sleep. So I'll just stay awake. Lol. Good morning. 
+@CosmicMother Good morning, thanks for following, how are you, hope your having a good day!! 
+Good morning everyone 
+@DeeParamour Good, glad you're on the mend. I once had a stomach bug which lost me a stone in 2 days. Every cloud has a silver lining 
+Good morning everyone...have a wonderful and productive day...headed to the office early...so that I can  leave early. 
+@peppastar Good morning...40 more minutes and its lunch dont time fly when your hungover.hope your day is going well 
+Off for conference call with @gillmcl - then I can get round to actually doing some work! ;-) Good mood because it's a bank holiday! 
+Good morning people 
+Too funny, @pinefeather. I haven't thought about that in years but you're right...that's what we did on field trips too. Good times! 
+@AshleyLTMSYF. Good luck with the concert tonight dolls!! IFLY   finishin my art work
+@DavidArchie Good evening/afternoon/morning wherever you may be right now 
+@ellyhart Good morning/evening, Elly  I would love to see some of your writing sometime. I'm seeking to improve that in me.
+Good post by @kanter on how nps can work more like clouds. http://is.gd/Cky1 feel free to skip my rambling excited quote at the end 
+@INKDMOM ha ha, yeah! Good thing I didn't take the wrong blue pill 
+Good morning to possibilities  feels great outside!
+Good morning everyone, have a great day  gettin kids ready for school here. almost summerrrrrrrrrrr timeeeeeeee..
+@dani-lovely ill pull it out . .  Good ol ice on gums . And push in  haha jk im sorry. I seriously feel your pain i wish i could help
+Good morning everybody 
+@NayLov Good morning!!!!! Thanks so much I'll take it with a huge smile    What R U up to today?
+Good morning my tweets. It is friday! And a three day weekend! 
+Good morning everyone!  How is everyone today? I'm up, happy, less sore, and in love with so many things/ppl right now! 
+Good morning everyone and thanks 4 following to my new friends 
+Good morning tweeps, been real busy with work but I'm back. I have really missed all my tweople. 
+@empiremagazine Doing ok, i'm 25 in at the moment and still going ;) Good work it's a good challenge 
+Good morning sunshine. 
+Good morning everyone!!! 
+Good morning, everyone 
+Good morning   Another gorgeous day!!!  And great weather for the holiday weekend.
+More may come eventually but that is it for now. Good morning everyone. 
+Good morning everyone 
+@basantam Good morning! I will be more active soon! 
+@basantam Good morning! I will be more active soon! 
+Good morning everyone, you have to watch this! It is just ~that~ funny   http://bit.ly/2fzwGx
+Wow, I haven't had 8 hours of sleep in forever, and it's not raining!  Good morning! 
+Good thing about left overs? You don't have to make an effort with the dinner. *goes off to re-heat some pizza* 
+No exams for over a week and prom tonight  Good times.
+Good morning sad little indoor tree!  I can't wait to get outside on my break! ;) http://mypict.me/1nPX
+@seblefebvre Good morning  oh cool ;)
+In memoria of meetings: Not a one on my morning docket.  Good morning, Twitterversed.
+Good day mate  hahaha
+Good morning sunshine! 
+Good morning! So glad it's a long weekend 
+Good morning ppls 
+@sugarrae Good luck, break a leg, break the realtor's leg, etc!  
+@maiatee @andrew1913 sup my fellow ex coplanders hows exam season going? Good luck on the remaining exams look out 4 my tags on exm tabls 
+To all who follow me. . .Good morning sunshines! The earth says hello 
+Good night real good night! Now get up @Taleda! I'm tryna chill wit my baby b4 I go to steel city 2night 
+@Schreibz88 Good morning, it IS gonna be a great day 
+@onustees Good! I'm just planning the rest of my day 
+Good morning sunshine!!  http://myloc.me/1oef
+Good morning beautiful people. 
+Good morning! Where's my coffee? 
+@jgboghos Thanks a bunch! Good luck tomorrow 
+http://tinyurl.com/ry9wap Good day!  I am looking for long term relationship. I can send you my pics, tell me your email. Or write me  ...
+I am stopping this morning to enjoy a well deserved (I think) long weekend with my family. Issues? Good.. glad we are on the same page. 
+@geniewells Just twitter and tweet, keep it under 140. It's like &quot;real-time&quot; blogging.    Good to see you!
+@RadiosInHeaven not too much ... Just finished finals yesterday so I slept all day today... Good plan  I work all wkend so that sux... U?
+@TravelEditor Good news for my business - bad news if you get caught planning the trip  #travel
+Good night diggers.  Good night tweeters.  Have a great night! 
+@nickybyrneoffic Good to see you attending a great event.  Hope your teeth are great now.  Good night.
+@BitchenFries True...a mother's work is never done. Good thing I enjoy my &quot;role&quot; as a mother. I wouldn't trade it for anything else! 
+@iamdiddy Congrats on 1kk folowers &lt;3&lt;3 Good job !!! 
+@insearchofnkotb It's ok-just don't let it happen again    lol  Good night
+Being sleepy at work today. Good that it's only 3 hours and I can get to the serious sleeping after that 
+Going to bed now. Good night everyone!!! 
+Good night everyone 
+Good luck with the baby  sooo tired and so much todo tomorrow
+Just painted my nails and finished both of my projects, time for bed noww. Good night twits 
+Good no test today,  but i have one tomorrow and the next day 
+Something special about this day. Good morning everyone 
+@Bizzarrojo thats what I'm sayin!!  Good night, gotta get up early
+Bout to fall asleep... Good night 
+@BeachMomOf2 Good night kind lady, until we tweet again - tweet dreams 
+Good night, my friends &amp; #twitterfamily!  *hugs* &amp; much love to you all!
+Good night ocean of cars, good night train horn, good night stars, good night moon  sleep tight, don't let the bed bugs bite
+Good morning ppl!! I have had a great good night sleep! 
+Good morning everyone! It's time to shower and grab some coffee. 
+Good morning! It was my friend's bday last nite, and my head is paying for it today. Hers is probably worse!! 
+@uconntam Good call  The whole song is just gleeful and fun. The whole show is great actually. I highly recommend finding a copy.
+@picsiechick Good enough day for a free hug again? 
+Good morning all happy hump day 
+@thetristan Good luck! I hope work goes well and the coffee lasts as long as you need it too 
+It's 10 and I have 6 screaming kids downstairs and burger king on the way....not a typical thursday night LOL Good night all! 
+@RemiRockit haha ya. Good thinking! I think you have a solid plan to make money now!  haha You are to cute!
+Good night All  good luck with the vampire politics!
+Is Good @_mel_ good girl!!! haha  i have canned creamed corn for lunch booo: @_mel_ good girl!!! haha :.. http://tinyurl.com/lh6rzr
+This has been a very long day.  I am going to bed.  Good night.   ...and have a pleasant tomorrow 
+@taylorswift13 Good! Yay! Good night, Taylor 
+Good morning 'verse - if yr able to stay in bed a bit longer, I'd do so 
+@animallounge Good night and chillax it will all be alright on the night as we like to say 
+@thewhooligan hello sir... Good sangria and lovely ppl at the table 
+Listening to soft crackle of my pink floyd vinyls in my bean bag with a beer. Good times 
+Good morning!  -well, for those of you who live in Amerika: Good evening!-
+@zentaratea Hopefully the tea tastes nothing like valerian root! I'd rather stay up for a week then to taste that! Good luck! 
+Good morning  It`s friday! :-D
+Good morning !  'Neatza  http://bit.ly/SGDQi
+Good morning everybody! and never forget: tgif! 
+seesmic desktop keeps on acting weird on my laptop. Good thing twhirl is still superior 
+I miss @caitlinrawson. Good thing she is coming up tomorrow 
+Good night all, it's 1:45am and I'm wiped out....bye and thanks for listening 
+@chadfu Good night. I'll talk to you tomorrow 
+is up past her bedtime (I'm old....) and has such a long day tomorrow! Good night. 
+Good morning everyone back to work, after my few days off 
+Good morning in music to all my friend  http://bit.ly/ZZRtX
+I'm out. Good night people. 
+Good morning people 
+Good morning everybody! 
+Good morning sunny day 
+Good morning everyone, how are you all? 
+Good morning everybody. The sun is shining and i dont have to work. 1hat else doe a girl want 
+@lararatnaraja Good call on the Stations. Could do it @ Lent, we could have some guys doing flagellation though that might put people off 
+@piginthepoke Good morning, no I was tucked up in bed last night. A late night for you then. 
+Good morning everyone. Looks like a great day, it's warm and sunny and I'm looking at pics of the new apartment right now. 
+@AlexisMarie23 Good night!  sleep well, hope no one wake you up! 
+Good news! I can pick up the guitar tomorrow, it's fixed!  (H)
+Good morning twitter world 
+Good morning,world!  .. I'll have to study a lot today .. so, don't tweet too much, don't wanna miss a thing *gg*
+@mustntgrumble  What company do you order from? (Good morning btw   xx
+@ohsnapattack makin me giggle at 1 in the morning. Good job attacking my snap 
+Good morning! A busy, full, fun day planned today 
+Good morning twitter  time to get ready for grad practice!
+Good night everyone. 

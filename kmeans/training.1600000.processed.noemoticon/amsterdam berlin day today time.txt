@@ -1,0 +1,489 @@
+Most common words for this cluster:
+[('amsterdam', 89), ('berlin', 70), ('day', 46), ('today', 34), ('time', 30), ('holland', 27), ('http', 24), ('stockholm', 23), ('tomorrow', 19), ('com', 19), ('way', 18), ('vienna', 18)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Amsterdam', 0.9013664126396179), (u'Rotterdam', 0.7621015310287476), (u'Hamburg', 0.7285709381103516), (u'Dusseldorf', 0.7176112532615662), (u'Stockholm', 0.703306257724762), (u'Cologne', 0.6986658573150635), (u'Berlin', 0.6946635842323303), (u'Utrecht', 0.6936278939247131), (u'Netherlands', 0.6797778606414795), (u'Eindhoven', 0.669598400592804)]
+
+
+
+
+
+searching for a job in Berlin in summer time...don't speak german... 
+Today's plan: driving back to Vienna: spring cleaning in my flat 
+Frankfurt three times but I dont understand it 
+Looking at the rain fall in Rotterdam.. 
+yay, migraine to round of Berlin 
+preparing for work and leaving the balcony  But i'll give it tomorrow another try! ;-) ? #niceweather #Berlin #goodlife
+@tommcfly i feel sad, i couldn't travel to see you guys in Amsterdam!  can you come to Norway soon?
+@ljauss I will try to get a ticket, but I don't have much hope. Cologne is too far to just drive there and hope for the best. 
+@NikiScherzinger I love the pcdroutines, I practiced for bottle pop two months before you came to Holland, too bad I wasn't picked 
+Copenhagen spring just turned into winter again.. 
+Recovering from his two-week Spring break, and sad that he had to leave Paris after only three days. 
+@AshleyLTMSYF I wanna go to the BEACh too!  Much love from Vienna,xoxo?Alma
+@boondocksaint1 Berlin got food poisoning this time 
+@EileenMarshall  If you need a friend, I'll be in Vilnius... thank Kobe I'm getting out of Moscow soon!
+back from Berlin - no tweets because I left my phone at home 
+feeling the pain in my buns after biking 20 km around Warsaw yesterday 
+@ralphje I'd like to go jogging to, the weather's perfect! It's a shame though my shoes are in Maastricht 
+Kickin' off my very last week in Amsterdam, at least for this time. 
+@tommcfly Are you comming back to Amsterdam this year? I loved the gig soo much! Made awesome pics! Not from you, you were to far away!  X
+On my way to Frankfurt searching for the books... doesn't look good... 
+in work, nice day again. I'm not In Bruges 
+Munich: &quot;Sun ist shining the weather ist fine....&quot; *sing And I have to sit @ work 
+1pm. Finally in Amsterdam! Monday national Dutch traffic jam day, eek  Now @ work. Have a nice day!
+leaving in few hours. I'm gonna miss Amsterdam so much. 
+@wifone I hate when you tweet in Dutch because I always end up reading at least half of it before I realize.  
+Oh Amsterdam, so tempting, yet so fiscally out of reach 
+Another sunny day here in Holland, need to go to school soon 
+Tigard Dutch bros line is waaaaay too long. 
+It's a great morning here in Amsterdam, preparing myself for some homework in the weekend 
+No cupcake in the Netherlands yet.  #g1 #android #cupcake #tmobile
+@ladygaga your Amsterdam - Melkweg concert is sold out! Good for you, not good for me  Didn't manage to get tickets, real sad right now...
+@KrisAllenmusic Vienna has love for you and I would vote for you if I had access. As it is I can't watch it live.  love your voice. 
+@Porfix The Dutch Royal Family is doing well! Till now 7 death people at our Queensday. A very sad day in Dutch history 
+Vienna Vikings lose to Swarco Raiders in Innsbruck today 
+shall not be running the Oslo 10k tomorrow (still not 100% fit) 
+@jwgrenning For one day. Most of my time will be in Oulu and Berlin 
+@ecokitty Istanbul will be spectacular today.. Sadly   I have to go back to Amsterdam ... This is by far the most interesting city in EU
+Still in Dronten, Flint is still ill with 40+ degrees 
+Luggage time... heading back to Bucharest... 
+I just had the idea to go to the &quot;Naschmarkt&quot;. It's a very famous mart in Vienna... But it's closed on sunday 
+Getting ready for the road back to Warsaw   http://yfrog.com/72gzxj
+I don't want to go home.  I want to buy a house on de Witte Singel in Leiden.  The weather here is beautiful at the moment. 
+Just came back from Amsterdam it was da shit...this little european trip is almost over  !!
+H1N1 is now in Stockholm. 
+back from Copenhagen, without luggage 
+I don't want to go home.  I want to buy a house on de Witte Singel in Leiden.  The weather here is beautiful at the moment. 
+trying to buy tickets for the Killers in Oslo.  having no luck though 
+Sitting at Schipol en-route to Dubai, contemplating 1st drink of the day..... Fek, forgot my factor 40 lotion 
+Last meeting of the day. Tonights the concert of the Counting Crows in Rotterdam. I can't go 
+It's the hottest day ever in Vienna but the continuity girl said if I get any colour I'm dead.  It's a day under a tree for me then 
+waiting for bus to arrive at Breda station, taxi de leeuw is on strike today apparently.. 
+@hitmanharris will be in Munich for 3 days this week and 5 days in MK the week after - neither will be a holiday 
+it's raining in Amsterdam, no biking today  
+Working at the holding in Zaltbommel, I think it's gonna be a very long day 
+sends you all rainy greetings from Amsterdam! 
+why is Stockholm so quiet 
+I left my room and my learning event is done!!so now I have to say bye to Oslo  
+@eternaltango again  make a Gig in Cologne this year, pleeeease.
+Just finished the nicest dinner with my family, dad leaves to go back to Holland tomorrow 
+@Korovjov we're leaving for Budapest in an hour, so we'll have to postpone 
+@ Frankfurt....with friends relaxed after an extremely busy week.. but goin back today 
+temp isnt goin below 101 inspite of poppin pills! body aches,sore throat are killing.have to fly to Prague 
+last time personal training in Amsterdam 
+@dananananaykroy I love your band too! I took a photo with you in Lisbon, remember me? 
+And I missed my fave singer B. Adams in Hamburg this Thursday, tears. Read to late about the gala in Hamburg  hope for a new show soon 
+Hmm Dutch cup goes abroad to Friesland 
+sunny and hot in Zagreb... wish I could go to the seaside instead of sitting in an office. 
+from from Tallinn and back to business 
+back from Tallinn and back to business 
+@aha_com wish i could see you in Berlin, but i don`t know were you are 
+Working on bachelor thesis at Foam_Fotografiemuseum Amsterdam - not enjoying the sun! 
+Noshit party was great  working in a new track now .... and it's raining in Amsterdam 
+Sadly they're not ours.  We ship them to Holland for a third party, in our empty flower truck once it's dropped flowers at Flowers HQ.
+is in Obergartzem/Euskirchen. Yesterday in Maastricht -&gt; nice city with a many nice sneaker shops. But no money so far 
+sitting in the corridor by lifts, top floor of hotel in Bremen, DE. only place wifi works! waiting for soundcheck at 5pm local. rain poss 
+@theOlsens I live in Berlin &amp; it's 4:34 pm, friday is almost over 
+Flying back to Amsterdam with @frankschuil without Legos! 
+@wow2000 yeah I'm leaving tonight unfortunately I could totally live here  #Amsterdam
+$#@! My nose stud fell out and I can't find it  Looks like I'll have to head into Amsterdam today and get a new one 
+At work   leave for Berlin at 17:00 by car, will be a late arrival
+@rms70 ooh how is Milan? i could do with a holiday! Bfoyf is off to Geneva today visiting fam so ive got a weekend on my own 
+The trip to Stockholm got cancelled  To make it up I'm planning to do some shopping tomorrow, nothing makes a girl as happy like shopping
+I ran out of white and yellow oil paint   I may have to add &quot;Utrecht run&quot; to my list.
+Unfortunatley, AerLingus no longer fly to Copenhagen so we're have to fly Ryanair to Billund and drive up to Copenhagen one of the days! 
+Oh yeah.........off to Haarlem! (damn I'm burned  )
+@mollstam Bitch! I wantes to work at Stockholm marathon 
+woke up late, just had breakfast...walking around Stockholm...pptp still has fever 
+is  bummed, train Groningen - Goes takes 5:30 hours due to freight train accident near Zwolle AND constructions Roosendaal - Breda 
+Feeling vaguely sick. Not sure why exactly. I just hope this won't be a repeat performance of what happened in Vienna. 
+#marsiscoming #marsiscoming #marsiscoming #marsiscoming howeva. why Cologne? why not Berlin?! 
+@holgr  too bad you're not in Erlangen tomorrow 
+sun is shining, Copenhagen carnaval is going on, and I'm sitting in my room coding 
+might be over-nighting in Chicago.  SFO-ORD flight now delayed by more than the ORD-AMS (Amsterdam) connection time!!!  
+@paulocoelho I missed you in Prague  so sad....some next visit is planned? please...... 
+Que; I am the avalanche - Amsterdam 
+oh Town of Hamburg police...did you really have nothing better to do? 
+3 hour flight delay in Gothenburg...booo!! 
+Morning tweeps. I think Prague is teasing me. The sun was out this morning when I woke up and now it just looks like a pile of dull again 
+only 10 days in Berlin,  but only 13 before the Montreal Fringe Fest :-D humm that lucky 13 it's time to make a t-wish
+then... amother 15 hours flight waiting for me, then 4 hours stop in Frankfurt then finally home... tell me about a long trip it is, 32H 
+Where u goin today?  I miss DE  I wanna go back to Berlin and never leave!
+It's frustrating seeing all of the messages about how beautiful the day is, while here in Warsaw we are having rain, rain, rain! 
+@katyperry You're in Amsterdam now? Noooo, I was there yesterday. 
+@StormyDaniels damn my luck....i'm going to miss you in Brussels by a month.   waaaah!
+@gallowsofficial wish I could make it to the gig in the Netherlands 
+@mollydotcom how much hot? I miss Oslo 
+Rainy day in Berlin  it's soooo boring
+Really great concert of the #killers in Hamburg.Unfurtunately only one encore 
+@ihatekennybuggz why not? well maybe that's  a guud thing have it in nov so i can be able 2 be there live in Amsterdam 
+@DrElfy so a flight to Berlin, a week out there isn't a good idea then?  drews miserable and hurting.. 
+Today is last day of nice sunshine in Stockholm, supposed to pee it down for the rest of the week 
+Bring the horses to the pasture.. and going back home to Holland 
+Going to Ljubljana to do some debugging 
+Another warm day in Amsterdam and I'm on my way to work  its acually too warm to work...pffff
+: And again no immigration desk. This time from Zurich to Amsterdam! And I so wanted to get another stamp on my passport 
+Brother is going to Amsterdam, and I can't go with him  Must be beautiful there these days ...
+Coffe in Bratislava, missing Vienna  now leaving for Saltzburg
+is back in Bratislava.. and loads of stuff in front of her  And they gonna cancel our booooaaat trip Vltavaaaaaa! :````((((((
+Only 6 weeks left in Berlin 
+16 coffeeshops closed in Rotterdam  http://bit.ly/3DY6Q  (Dutch article)
+So, I am totally lovin @mortification7  but he's in Berlin currently... I MISS HIM 
+Going to Hamburg for a funeral 
+@mikedavis777 youre only a week late!  I was in town last week but now I'm back in Holland!!!!!  
+@clarasdiary i live in #Chemnitz  i know .... how about you #Dresden?
+For the first time in histoey I'm the only person on time!  last breakfast at Leipzig makes me sad! 
+We're about to embark on a literary + art tour of Prague today; big writer event happens here june 7-11  next year. next year.
+is a girl with such a tamperament! Shouldn't she be in Tampere tonight?  Bruuuuuuuuuuuuuuuuuuuuuuuuuuuce!!!!!!
+@Akaasia *shakes fist angrily* want to be in Helsinki too  LOL hope you have a lovely time
+@duff64 hi r u in Helsinki already? I thought u would come this plane that arrived 2pm local time, hm but seems I was wrong 
+Just came from Helsinki - haven't had any tea today 
+@eddievedder what about Lisbon? 
+Train delay of aprox 30 min from Utrecht to Almere  Arggg.
+Amsterdam gig cancelled  So we're free as birds for the 26th of june.
+@abihuynh yea  too much broken glass in Berlin. There were several visible holes in the tire...
+I wish I could be in Stockholm right now.. 
+I had my last semestial exam and look forward to getting the summer holiday. I shall go to Vienna but I'll miss you all a lot in a while  
+@timringel, mp_marco and all other metas: happy birthday to the 10th birthday of metapeople.com. Too bad that I can't party in Duisburg 
+unfortunatly @GramophoneMag I have to wait a couple of days here in the Netherlands for the new issue... 
+@jazzie17 Zoetermeer did the exact same thing. my vote didn't make any difference 
+@FrankieTheSats I'd love to but I live in Holland so nope no me tonight 
+@penarimungil - Actually, I'm not going to Istanbul right now. I'm just imagining. It's one of the cities I'm direly wanting to go though 
+Tired of working, dealing with people that can't comprehend the difference between being interested and being polite.  I miss Berlin. 
+Sitting behind my laptop, enjoying the very last moments at home. Still have to pack by suitcase. The bus to Tallinn leaves 15.20 
+@Witch_on_demand hach, I whish I could be in Berlin with you guys... I'm missing out on everything lately 
+going for a 2 HR ride , of to 'westdorpe Holland..race there tomorow , no internet connection there 
+So not looking forward to flying from Brisbane via Singapur and Abu Dhabi to Munich all by myself on Monday!! 
+Seems our gig in the Mannheim squares gets cancelled due to the bad weather conditions...  #foursidedcube
+In the car to Enschede, 'the kater comes later'  - http://mobypicture.com/?l7pobg
+@TheeRealFDHC hi felix, only learned today and too late you were in my hometown Rotterdam  trust you've had a blast...big bummer for me
+Our server is down  no more blog posts until someone can go to Equinex for us and reboot it. We would but we are in Holland.
+just booked my apartment for Prague, not at ETB since you don't have it listed  @WouterBlok
+is back from Stockholm and missing @anders_pj's birthday party 
+@GewoonLianne The stupid shop was out of stock of houses in Amsterdam and leccy guitars. 
+sooo tired  going to Tartu today . yayyyy ;D
+is going to #vote and then drive up to #Bonn ... and my throat hurts 
+last day in Berlin 
+This time three years ago I would have been leaving Poland for Amsterdam on the train... Oh how time has flown by 
+WiFi coverage in Prague is pretty gd - just not in the Hilton where were staying 
+best party ever. not wanting to leave Berlin tomorrow 
+The Turkish Grand Prix at Istanbul Park is less than 10 minutes from my home in Istanbul. And I'm in London 
+Off to my grandmother in Zeewolde later this afternoon, it's going pretty bad for her now 
+took a walk in the rain this afternoon. of course, alone. remembered the times in Riga. now feeling hurt and broken. 
+@vagelisv yea i've been to greece a bunch of times, but never to Athens. Amsterdam is fabulous as always but not very sunny right now... 
+An other rainy day in Amsterdam 
+Just back from Brussels, damn, I miss that city 
+@rjakesdub What exactly is Scottish money? BTW thanx for your rain from yesterday. It's raining cats and dogs in Amsterdam! Rrrrr...cold 
+@der_cisco I regretted me not going to vote when I saw how many votes the guys with nationalist ideas have got in the Netherlands 
+Due to thunderstorms in Munich, my flight from Cologne to MUC is delayed 1 hour. Will be getting home later than expected. 
+... on my way to Aachen 
+@markhillary great going except the fact that I had to work today  , hope u had fun in Berlin
+@PrincessSuperC, what about Riga? 
+@Dakit so am I! This is so much more fun! ;) Amsterdam is cold and rainy!  How are you?
+I had a wonderful weekend in Berlin with some equally wonderful people.It's just a shame it passed so quickly 
+@MissNickyHilton i wanna watch   takes aages for movies to get to Holland...Mayuhn!
+I don't like this idea that claudia joy's husband is going to Brussels without her  I like him leading the base
+on the way to Erfurt...but very tired in the moment 
+Montreal/Berlin trip coming to close. Boarding flight out of Berlin 
+does anyone know the average apartment rental cost in Stockholm Sweden...or in the surrounding cities??Having trouble finding information 
+Next train starts in Hannover instead in Hamburg - Deutsche Bahn sucks!!! That means a minimum of 40 minutes delay - nice 
+Awake, about to reheel boots, get essay, buy shampoo. Parents' flight ended up being cancelled, so they are not in Prague 
+@fairplaythings me me me!!  or else Daisy...I'm very excited about Stockholm, but I think the weather will be cold &amp; rainy.... 
+@alicetemple and I'm bummed out in Berlin. 
+That means I WILL miss my Frankfurt to Manheim train... 
+Last ever choir rehersal in 16 minutes. Leaving tomorrow for a 7day Berlin tour including four days on a bus. With no internet. For 7days 
+@Tyrese4Real When will you come back to Amsterdam? Missed you @ Jimmy's last night!  I'm from Amsterdam.
+[ATG] A thunderstorm closed Frankfurt Airport last night - so I had to land in Stuttgart  http://tinyurl.com/kllgx4
+Frankfurt is the most dangerous city in Germany. Statistics for 2008 claim that. Nice, that I have to go to Frankfurt tomorrow... 
+@beccanix I'm off to Amsterdam for 3 days sweetie to record with this Dutch producer. I want a break  How are you? xoxo
+@suryasnair what was reclaim the streets??? damn! this thesis has put me out of the loop, i have no idea wassup in Helsinki!  #fail
+Is home in sweden   i miss Amsterdam and the coffee shops ;)
+@jennaaa You go girl!  I am missing me some Subways, right about now.  Only in my dreams, none here in Lisbon. 
+@Wolfgang_ If it's a Singapore bus it's likely to jerk an awful lot....... 
+Couldn't eat my breakfast at Holland V simply b'coz the auntie didn't wanna give change for a 50 ... neither did any other store owner. 
+Trying 2 get my misplaced baggage @ Brussels airport 
+Beginners mistake - saw 0815 in my calendar, assumed it was take-off from Berlin... wasn't... now in Berlin airport till 1105 
+the weather is hot! Olso in my office... 
+@gretchenlourdes hm around the 27th-28th balik, still got Budapest, Venice, Milan. nyahh sayang bgt klo MEW ga jdi 
+Vienna is not that nice under the clouds... 
+morning all - What a weather her in Amsterdam - so much rain 
+Is @ home in Cologne, in my bed being ill... not so good walking in flipflops when it rains 
+@freddurst welcome to Berlin, dude!!  I leave Berlin tomorrow, so no LB show for me..   Rock it hard!
+today is as if I just arrived to Berlin - busy.. This blows that I have to leave tomorrow.. 
+Seems NS is having problems yet again  trains are slow, finished the meeting in Utrecht and now on my way to Amsterdam!
+@mannythedrummer sorry you must leave Paris  enjoy Amsterdam and Belgggg!
+Temperatures will go up during the rest of the week here in Lisbon. I can't sleep properly now.. How will I sleep in the next days?? 
+@vesterinen @mygdal I'll be in Copenhagen on the 25th, but only by evening  anything nice happening then?
+@RyanLaker Really? I guess if I ever visit Oslo I'll say I'm Canadian. 
+@erinfxs That scares me so much, I'd love more than anything to move to Amsterdam or somewhere like that, and it'd be so lonely 
+@cresh182 I just came to think about it - I wont be able to listen next week  I'll be at ACDC in Amsterdam then !
+Still in this fucking town!! Diamond City Antwerpen in Belgium!! I swear that's suck like ever!!  nthg to do!!
+Leaving Munich behind for 3 weeks. 
+it's a gorgeous day for exploring Berlin! Last day here..   can't wait to show everyone photos!
+@Jeejee99 I'm in Groningen again. I left at 7:00 am 
+NS slow again today  off to Amsterdam Arena via Rotterdam
+@esmeeworld So disappointed no gigs in your home-country The Netherlands?  
+i wish i could see Reamonn at Tollwood in Munich tomorrow, but i can't  ... but there will be a next time and i see them then!! have fun!
+couldn't go to Rotterdam today   &gt; migraine &gt; so crankyy
+@MrsDarkside Antwerp is bad for me! Sundays are crap. 
+Yes I maded the train to Rotterdam, it all went good, but very stressfull  keep ya'll posted!
+I messed up my review og Dutch  but I success my review of religion
+@werdnum &quot;It may not smell the best, but you can't fault the Paris Metro's frequency&quot; &lt; I so agree on the first part 
+dreamt that I walked from Krakow to Berlin and was excited to twitter my triumphant fete only to find out my phone didn't work there 
+@DunjavdBree I've tried really hard - my boyfriend is Dutch and all he does is laugh when i try to say anything i've learned 
+@uhshalala It's rainy in The Netherlands...  I hate rain.. x]
+@bramzo train trip's more like it! Now I just need a bed 2 magically appear 4 me in Amsterdam  the hostels R full &amp; I'm 2 poor 4 hotels
+Just got back from Stockholm...oh the pain from yesterday is everywhere! 
+@mkovash nah, impossible! unless the Netherlands got it first, maybe. =D I'm still downloading, not going fast here 
+... will have to move to Netherlands though  *sigh*
+come on mommy, I want to go to Holland too...... i think it wont be this time, Koen     life sucks. thats my dream. flying to far.
+@metrostation is going to play in Oslo on friday! BUT 1 of my best friends is having her b-day and i need 2 b there  so i cant c them 
+@tracecyrus you're in Zurich on Monday! And I'm not able to come!!! I'm so sad  but the way to Zurich is way too expensive! -.-
+Off to Utrecht to zendo duty for the last time of this season. I'll miss the groups coming two months...  even if there is summer sitting
+Demonstrations in Stockholm today, I can't participate 
+@justinbieber i wish i could call the number! but i live in Holland 
+@HeidiKris on their myspace it stands that they're in Copenhagen tomorrow ? 
+why do I feel ill now? I feel like all my energy got drained from my body  ... damn I gotta go to Berlin tomorrow
+@EnidanEkieh You're so lucky you can buy it! The only stores that sells TotP are in Amsterdam and Den Haag (both far away grom Veldhoven) 
+dreaming about Istanbul 
+In Bruges is super awesome. At least the first half of it was - Fucking corrupt  .mkv 
+After some technical problems with the airplane from Ibiza to Dusseldorf we just got back 1 day later, only still having a migraine 
+@chic_travel I wish I was going with you guys.  I take it back when I said in Amsterdam that I was &quot;Done with Europe for a while.&quot;
+getting the plane from Dubai to Munich. The holidays are over 
+@Silverlines If things are smooth, Vienna. But this trip has caused me some headaches 
+@stmcgill: At least you can play with one... I ordered mine today, and it's arrival can take up to six weeks in the Netherlands. 
+@DDB_Budapest has now a company subscription for monocle.  25 most livable cities - Budapest is not mentioned 
+@vickycornell http://twitpic.com/7q75p - ohh.. you're in Paris now? weren't u supposed 2 b in TLV until 2day?? 
+ @electrograffiti I know but I'll miss having someone to bitch about Brussels trams, metro, bad customer service, lack of quorn.. etc.
+@30SECONDSTOMARS The sky is cloudy here in Holland 
+I really want to travel to Oslo tonight! 
+@chriskeene Yes, working for me too again. Now there some issues with my links to the SemWeb stuff at Free university Berlin 
+Stockholm was breathtaking.  The Vasa museum was worth the trip alone.  Perfect weather today, don't want to leave here.  
+Checking houses in Dusseldorf: 2 gone one more to go, unfortunatelly can't say we liked any so far 
+I feel like I have Stockholm syndrome with CNN. I want it because its all I have 
+really enjoying Disco Exotika on IFMX, wish I could be there in Amsterdam instead of work 
+uprising tonight in hull forced to move venue last minute, had to cancel  Rotterdam tomorrow though!
+@DaxOCallaghan : I wanna be in Frankfurt 
+Why did I leave my keys in my checked bagagge? Why is it also the only bagagge on the whole plane that didn't make it o Geneva today?!? 
+Shit weather, not heading for Amsterdam today.. 
+@johncmayer what about Holland? 
+@jedmadela give me some sunshine here in Vienna please 
+United booked Ron on a TAP flight that ended in May. Had to fly Newark-Lisbon-Frankfurt-Budapest. No luggage came with him. 
+@sabizak so far its Vienna, Berlin, Munich, Geneva and Zurich. Very expensive countries 
+Lions lost 21-26  but they did well to come back from 7-26 in the last 10 minutes. I'm sure we can win in Pretoria and go on to win the
+finished my garden...now it`s raining in Cologne  Babe i miss you please give me a call....
+Laura Holland...Holland Law Group is chatting about property taxes...you have to pay them soon! 
+everything changed... and it's really boring back home... I miss Belgrade 
+If you want to go to the big city (Rotterdam) the catenary system of the train is out of order!  
+My lovely @rfigus is stuck in Amsterdam 
+Waiting for summer to finally come to Stuttgart; this weekend certainly not. 
+@cinemabizarre http://twitpic.com/7wa8a - Whyyy :'( I'm 16 and live in the Netherlands  But I am avalable ;) (actually i'm not, but wh ...
+@ladyteruki Too bad  *go to eat Brussels sprouts*
+My dad has Bern diagnosed with What may br Vertigo. 
+@rob_sheridan Why NIN choose for the Berlin this CRAP! location  ?? not this: http://www.velodrom.de/index.aspx OR O2 Arena Berlin ??
+Arctic Monkeys on Jools Holland. I was questioning their merit earlier. I feel bad about that now 
+Im missing out on @djscratch in Oslo...Damn Stockholm! The hiphop-scene is so much better in Oslo (and Norway)! 
+@KevBaz the Dutch managers don't do too badly either 
+@LilianeRausch haven't been since '05, but spent a fair amt of time there..friend lives in Rotterdam.. such a mission with the visa's tho 
+2 exams to go! English and Dutch 
+is gym.... Oslo.... Edinburgh all on a Sunday 
+Connecting in Amsterdam. I'll have a horrible seat 
+It's raining in Frankfurt 
+... and sooo much pissed off that I can't see NIN in Prague  But it's my fault, you know.
+so much for the start of summer in Holland... it started out promising but now the clouds and small showers have won from the sun 
+Geneva airport is the worst. 
+nothing beats speaking to him just before I go to bed - how I wish I was in Holland 
+@Stuttgart for a week... all alone 
+@ThatKevinSmith but you're still not coming to Amsterdam, so how can you say that you're coming to me?.. youtube perhaps? that's so 2008! 
+Last day in Munich, went shopping pretty much all day. Saw relatives for the last time  Very rainy Leaving for Berlin on 1130 train 2morow
+@iamlittleboots please give a show in Amsterdam  x
+NOT enjoying the good wheater in Holland because of schoolwork 
+Stuck in Munich after the airplane had technical difficulties 
+last night in Istanbul. 
+tomorrow is my last day in Paris  i catch the red-eye from Paris to NYC at 3am! they just slipped my itinerary under the door haha
+@justsukre nope... not great at all... they always plan working on the rails and electricity when I need to travel to Amsterdam... 
+@eef_c r u going to Rotterdam then?? Congrats if u r!!!! (i can't go  ) #bsb
+Early rise and shine and getting ready to go to Enschede... by train, not plane 
+On my way to Vienna. I prefer nice weather for flying 
+http://twitpic.com/8cwzd - the swimming pool of our hotel... that makes me dream of summer... in Vienna we have so far no summer 
+@miss_smidge Currently further north in Friesland but heading to Amsterdam today then home on Friday via Singapore 
+Any Berlin videographer available Jul 18? http://www.ncompassonline.com/ paying $500 but looks a bit boring 
+I want to go in Berlin! uff! 
+@trent_reznor ...for another great show and see you in Berlin! This will be my 'wave goodbye' to NIN-live unfortunately 
+It's raining. Berlin looks so grey. 
+@RePhlexxDesigns yh wz gna model but i missed casting goin to Amsterdam, she said i cud stil do it but quite glad i didnt now! shambles 
+I'm still so bored...wanna go to Braunschweig but no one's time 
+I'm so bored...wanna go to Braunschweig, but no one has time 
+Doing a stage check for a kid from Holland, made me miss grandmas cooking 
+2 hour video confrence with the sales in Holland. An International group of people whith a lot of cultural differences 
+In the train to Groningen, it's warm, unpleasant and rich in luggage 
+I should be in Berlin right now enjoying 4 days of wedding festivities with all my mates. Being broke is really depressing 
+@Vella61 hello papi! Stockholm is very nice... too bad everything is in Swedish 
+Not looking forward to my 11-4 shift this Saturday  Paris Paris Paris Paris Paris!
+ICE 72331 to Berlin - quite relaxed atmosphere on board. We're all waiting for the free inclusive service on this train 
+@vilpponen It sure was a sunny day in Stockholm 
+Just back from trip to Kyiv. A little freaked out 
+made my way to Amsterdam. the closer you get to this place the worse people drive... they need to make a scientific study of this... 
+photoboth is black and white. and wayyyyy old. we call him Herbert lol. I love him, he's like a living legend.  gotta love Berlin &lt;3
+@sotodance photoboth is black&amp;white. and wayyy old. we call him Herbert lol. I love him, he's like a living legend.  gotta love Berlin &lt;3
+just finished meeting with Vincent Everts in Moscow, coincidence -- we're on the same plane back to Holland tonight. 
+bei Ikea in Ludwigsburg.   http://twitpic.com/2ybei
+@VMDoug I have room for you near Maastricht. Only 3 hrs drive from Paris 
+@TheRemote Haha, you are from AMS, my hubby is Dutch 
+@BruceLaBruce lol i'm thinking of moving to Berlin 
+http://twitpic.com/3isct - Spring time (here in Budapest) is ahead of itself and the gardeners... 
+@Dannymcfly  You need a profile photo :p and good luck for the concert in Amsterdam 
+http://twitpic.com/3iwcr - 7pm @TAPE Club Berlin, cu 
+That's the song/video i needed now  http://bit.ly/2g1fk ...&quot;wicked n wild ... inna Berlin style&quot; 
+@tommcfly do you like Amsterdam? 
+@tommcfly Now if I'd have been there in Amsterdam tonight instead of next Thurs you could have borrowed mine! 
+@tommcfly hope you had a good show  what's Amsterdam like?
+It's raining in Shanghai, but sun shines in Vienna  - http://www.flickaday.com/p/129/93548
+It is amazing weather in L:Amsterdam: Spring is in the air 
+@mileycyrus Miley, dont you wanna stop by in Netherlands?  Amsterdam is one of the most beautiful city's in Europe!
+@tommcfly i just watched some video's of you guys in Amsterdam. you sang DGAO!  for that, i love you(-:
+@dylancoyle @bkzzang @honeysua I HOPE! If I had the time (and the money), I would love to invite you all to Paris or Brussels. 
+On route back to Helsinki. Was great fun at Turku 
+going out to enjoy the beautiful spring day in Oslo 
+@swissmissus Don't be too impressed. middag = afternoon in Dutch. t/d pretty much interchangeable between languages. 
+forgot to say that we started off the outdoors with a bit of Daubner most well-known ice-cream and cake shop in #Budapest 
+&lt;--- is moving to Norway - Oslo on Saturday 
+back home in Oslo, been at my girlfriends parents for a week now. 
+Alemannia Aachen 2 : 0 Fsv Frankfurt    ... Yeah 
+@Katne No, they didn't say anything about it in Amsterdam. But Tom wrote that they plan to come to Europe.. but the question is: WHEN?  xx
+@glothkom Getting closer to #1 in Hamburg - good work 
+Hoooooonnnneeeeyyyy i am hooooooome...!!!  back to my amazing Cergy....
+Just read there was a major online protest (200.000) to get these guys on the old Dutch half past 6 time.  http://twitpic.com/3n9j9
+@Helikon  great! Do you still like it in Utrecht?
+good morning everybody, back to work in Munich, it's a wonderful sunny day, ready for great doings 
+@jimkerr09 And wow, it was 20 years ago now!  Great to hear you still top of your game. Will try to make it to Berlin/Munich &amp; say hello.
+Trying to get all things together for my trip to Riga and all things needed for immigration purposes... 
+@tomeduarte well I'm working in Lisbon at the moment, and had a reunion with Erasmus friends in Berlin this weekend  You? Busy as usual?
+@shakeshake75 Thanks!  I haven't had a float tank for ages - not so many in Prague, where I live these days. 
+@marnielou22 I'll be going to both  Also Budapest to see the Labyrinth under the city!
+Sunny spring day in Amsterdam, and I bumped into some extra EASTER EGGS, mobile, and late   check them out at.. http://tinyurl.com/29s5rd
+@adammaanit *wonders too!* I loved Amsterdam's tram system / bike lanes / canals / frozen lakes / cakes / street art.. 
+A good night in Noordwijk saves the day 
+@adventuregirl And I'm in Lausanne today, only a short trip from Bern - so close! 
+@Eva_Logan wow, thats cool indeed... didnt have that in school either. Rotterdam is great today as well, less mountains here 
+@fafs I was thinking more a drive from Dublin to Berlin or something 
+@thorbirtley Pretty good ta! Just Skyping with Stockholm - drop me a line soon, would be good to catch up 
+is back in Belgrade 
+@Resolume I'll be holding a course on live media at SAE in Milan...let's swap 
+@larsauswsw Bin in Frankfurt gerade 
+@mraisa everywhere!!! but I'll be spending most of my time at the Hague. 
+Today; tennis in the sun, then to Antwerp; beer in the sun 
+Now at the castle in Stockholm about to watch some guards march around 
+The cold showers are back to Roskilde 2009 - we missed them last year. And they are good for the environment as well 
+Hoping to contact this exciting place to offer my help or my wok and leave my little mark in Berlin  http://tiny.cc/rcl05
+Is in the train to Prague to work a little bit, than maybe little frisbee on Letna and than bar with ex-band Mandrake 
+Chisinau jaunty party is over. It was cool... 
+every week there is a different happening in Delft  But it always involves music in the main square and, therefore, at home
+@KrisAllenmusic Vienna has love for you and I would vote for you if I had access. As it is I can't watch it live.  love your voice. 
+on way to Tattoo Convention in Oslo 
+Warm and sunny, off to Tulip festival in Holland 
+just relaxing in Eindhoven... building a new life  - just joined a new gym.... 
+is at home right now but are going to Copenhagen later 
+Getting ready to go to Antwerp and see @talltom14  Yay!
+@kayce_m you just woke up to confirm our skypesession today, Which will be late today since i'm spending the day in Antwerp? 
+@lilyroseallen Have fun in Berlin. 
+@michieldoetjes before that happens in Holland we'll need a year or two 
+Leaving for Cologne in a bit, my friend and neighbour is giving me a ride so I don't have to go by train 
+@ingridmusic Luv Europe! have a blast in Amsterdam. got to see the Reiks museum! 
+Just came back home from Vienna 
+Ugh, up at 7 am, getting ready to catch the train to Amsterdam &amp; then off to Antwerpen 
+One day to chillout and Munich tomorrow 
+@prayagn I think we have it pretty much figured out. @adawada added a box in the Helsinki group where you can see the tweets 
+Hanging out with @tomlazar and the Berlin Jarn guys.  http://yfrog.com/8c36ej
+@Pranajama I've never been to Prague, but if i had the money, it'll be in the 10 first cities I visit 
+If you are my other half - meet me in Groningen, please !!! 
+@mitsuhiko Np mate, was great meeting you in Prague 
+Heading to the office through a very quiet Stockholm, at least its not sunny 
+@SarahSaner Wanted to wish you a happy mother's day, but I bet that's only in Holland today  xx
+Yes   @BrianTracy_  Cu 9october Stockholm globe arena 
+Just relaxen at home! Perfect weather in Utrecht 
+off to see Silbermond in concert in Dortmund  
+@juanes About that Utrecht thing, you should better go to Amsterdam if you want a city full of energy! Amazing city! 
+@biaag oh sorry - already home! my layover was just about 2 hours in Schiphol... next time? 
+just landed in Berlin and will go downtown with Bibi! 
+Hamburg yesterday was great 
+and Trine is going to the Jonas Brothers' consert in Stockholm October 30th 
+@marcelekkel Then there is that weird language is Friesland... 
+tonight i'll go to Helsinki again  days of music for me now
+@U2TourFan  im going to see U2 july 21 in Amsterdam! 
+Off to Amsterdam for major presentation on Corizon at an Insurance company. It's going to be fun 
+Day 2 at LLB, Sthlm. Lots of RED and Blu-Ray workflow talk. Amsterdam, Kortrijk &amp; Brussels on deck in a few days. Who needs espresso? Me. 
+@fxn  see @mislav, Krakow is not that far away taking jumps into consideration
+@rrenzoo Still reading the article.. I just found it interesting as today is the IxD day at UX Intensive Berlin 
+Preparing for casting  and then off with the Giovanca tourbus to Nijmegen &quot; de gekste&quot;
+Looks like the sun finally located Trondheim ;-) hope summer's on it's way 
+I am going to visit my sister in Aachen  this is gonna be a girls night!  see you in a few, sis !
+@kirstiealley  Hi from Amsterdam the Netherlands 
+@sdwrage lets see how urgent my search terms become. I hear though it also works in Cologne or Essen, might be closer 
+@lunivore see you at #agile2009  Congrats on Kiev gig - heard about it... have a good one 
+http://twitpic.com/5cp1q - Oslo today... May 17th... Norway's national day. 
+@ijustine @KellySutton by the way: Oktoberfest is in Munich, not in Berlin ... 
+@mileycyrus  in concert in Berlin  she's amazing!!
+@HannaManna I noticed the same thing when I went to Turku last weekend. We were late, but the funny conductor made it ok 
+@tokafi: might be recording in Wuppertal, but unsure where. It won't be the Stadthalle, I am afraid... 
+@Mylonas have a nice day aswell. i hope you're not in Amsterdam, it's bad weather here 
+Gorgeous day in Munich 
+on the way back to Hamburg - awesome weekend 
+We are in Amsterdam 
+And I missed my fave singer B. Adams in Hamburg this Thursday, tears. Read to late about the gala in Hamburg  hope for a new show soon 
+What a great sunny day full of great rugby  and The Valkyries beat Cern (Geneva) jehhh
+@reetsjel Thanks. I intend on hitting Amsterdam and The Hague in the few days Im over there. Ive been to Amsterdam before and liked it 
+@mcflyharry Jeeeeez man, you guys are so awesome. come back to Amsterdam soon! 
+Odense bound 
+Berlin here I come  buhhbye to all yo little creeperss xDD &lt;3
+Never knew that the Mrs Robinson music video from the Lemonheads was filmed in Amsterdam - http://tr.im/lD95 (nostalgia warning) 
+@sfoskett @3parfarley steve, let me know how the Prague conference goes. I know the producers quite well 
+@tomlenk oh,keep us posted remember2girls came all the way from France2the M-bar?1=actually from Amsterdam&amp;might revisit for your show 
+Just got back from Prague  LOVED it!
+@AppSecEU09 my gf thinks i went to Krakow to drink beer and watch good looking girls, are there pictures available??? 
+@slippery_fish I haven't been back in Berlin since discovering the tea, but I have to check there! 
+@mikecj Really nice weather you have! The sky is blue here in Helsinki too. Makes you wish you were outside rather than in an office... 
+packing - will leave Krakow soon, going back home to Bucharest, flying through Warsaw. Need to get some Zubrowka 
+@carmends1 Zurich was awesome, were on our way to Muffathale in Munich! thanks  hope u enjoyed ur weekend.
+@LinkinPark__ Those big things better be in Amsterdam!  /peace
+was just in time to RSVP for #mobilemonday #11 in Amsterdam 
+@theatrenurse I'm trying to get the kids to learn German-my mother was from Berlin &amp; I regret she never really taught me-I'm learning 2 
+We leave for Berlin tomorrow night people!!!   
+A dead pair or headphones and a trip to Amsterdam later, life is rocking so let's tackle those final papers.  Field trip tomorrow yay! 
+@poetsofthefall I saw it when I was in Copenhagen... pretty good  but nowhere near the awesomeness of the book.. good luck with recording!
+@johnfbraun you should....If you're ever in Copenhagen, give me a tweet and I'll introduce you to the beer and or women 
+Noshit party was great  working in a new track now .... and it's raining in Amsterdam 
+@wine_scribbler sounds perfect. before, during and after Lisbon is always a wonderful city 
+on my way into Munich doing a bit of shopping then flying back 2 london 2nigtht 
+We'll make a post with links to other reports from Utrecht tonight 
+I'm up. Zagreb-day  I really hope the weather is better down there...
+Leaving Amsterdam for Uganda...full  flight and very warm 
+My favourite Dutch tweets  @pixum_nl @pixum_Vlaandere @hoof @mdbraber (verdient meer followers  #FollowFriday
+@MattCowlrick :: Last day at work today and 8 days until we leave the Netherlands. 
+I am so excited to go to #PHNeutral I find myself already on Berlin time 
+Just joined a twibe. Visit http://twibes.com/strategy to join #followfriday @MetaKong -Because I once got robbed in Amsterdam  ! #MetaKong
+Just joined a twibe. Visit http://twibes.com/Atheists to join #followfriday @MetaKong -Because I once got robbed in Amsterdam  ! #MetaKong
+Just joined a twibe. Visit http://twibes.com/newmedia to join #followfriday @MetaKong -Because I once got robbed in Amsterdam  ! #MetaKong
+In Poznan  I love holiday!
+@teri_sawers Right now living in Utrecht 
+new gig confirmed for the 19.06 at Audimax #Erlangen http://tr.im/m5i2 looks like it's gonna be a small &amp; cozy event 
+Leaving triburg. To Frankfurt 2day bye to car boo hoo. Saw massive cookoo clock got it on video  having good day
+@ingridmusic must tell:your voice is in my ears,head and heart -every single day and nearly all day long- since you played in Frankfurt. 
+Few hours until Metameets party in RL Amsterdam, join us   http://tinyurl.com/owrqcv
+@MariahCarey Yaaaay! MC is almost in the same timezone  16.53 in The Netherlands now
+@seekingxanadu I went to Prague years and years ago  I'd love to go again.
+Up early! It's a beautiful sunny morning in #Stockholm 
+god morning!  it's 7.26 am here in Budapest, and I'm just waiting to get ready for the exam today. my parents were incredibly cool
+chatted with bestie @degreenifyjessi for a few! It's tomorrow for her and she's on her way to Berlin..The time change amazes/ confuses me 
+on my way 2 work smile on my face sun is shining in Amsterdam ..finaly 
+http://twitpic.com/61g05 - me and my friend at work, paramedic at NATO meeting in Oslo yesterday 
+In the Privium lounge at #Schiphol. The free breakfasts are almost worth the annual fee 
+is off to Berlin for the weekend  
+@methodmissing 04:00? Looks like you're living the good life in Berlin. 
+Getting ready for work, then packing for a long weekend in Istanbul. Last-minute planning, as ever 
+I just called CalumetPhoto in Antwerp, they have Sunbounces in stock. Before noon, one of these will be mine 
+off to see more of Berlin after massage last night I think I have another 50 miles of walking in me 

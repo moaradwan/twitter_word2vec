@@ -1,0 +1,1074 @@
+Most common words for this cluster:
+[('message', 328), ('text', 298), ('messages', 239), ('emails', 86), ('texts', 70), ('phone', 48), ('send', 41), ('sms', 40), ('lol', 35), ('u', 33), ('com', 28), ('letters', 23)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'messages', 0.8047741055488586), (u'message', 0.7530404329299927), (u'emails', 0.7169485688209534), (u'text', 0.7132816910743713), (u'wnelson@gfherald.com', 0.6831021308898926), (u'Sincerely_La_Linea', 0.6806924939155579), (u'aingersoll@gfherald.com', 0.6735429763793945), (u'text_message', 0.6707749962806702), (u'e_mails', 0.6678527593612671), (u'srivera@th-record.com', 0.6649566888809204)]
+
+
+
+
+
+couple of mt texts didn't arrive here 
+@SaulWilliams third budget of the yr in ireland today. they want to tax text messages. pray for the poets 
+The drawback to this is that every picture I take with my phone is broadcast and is sent with the file name as text.  #AutomationAtaCost
+@richiejape We can expect more of that txt speak when the txt message levy comes in 
+back at work, haven't even managed to get through the new emails in my inbox yet 
+I just lost all my emails!  Not impressed 
+Sometimes my phone deletes all my messages before I can even read them. 
+Unreliable internet, potholes and a phone that doesn't dial properly.  - Text formatting is being stripped from some pages, any ideas?
+@destinyjoyful DEEsSSS I texted you and now I am about to go to bed  check your texts I tried to call too! I'll talk to you tom
+@ChubbyGayMan what message 
+@mizrik I've got a blackberry by t-mobile, when I click to verify my acct it gives me a error message 
+@cupati It took me waaay too long to get your message about being ashamed...right now I really am ashamed 
+ i never get direct messages.. must not be exciting, hm? xD
+@PushPlayCJ ooh alright. well, too bad we can't reply to your messages  you would need to follow us in order to do that.
+@ddlovato do u even get to know me messages? 
+My baby has to leave soon....  Wish he would never go. Text it I guess 978 996 7280.
+Someone just got disqualified for sending in multiple entries. 
+@jessaybz I tried to private message you, but it wouldn't let me 
+@DessaDESU I'll never be able to find your messages now 
+@uniquelymo I got the text, but the pic didn't go thru. 
+@pana82 If I send you a message you won't read it, anyway.  
+I wish I got @messages 
+@stanandollie I've had about forty or so messages, driving me nuts!  x
+@sockcreature What happened? And sorry I couldn't come..left right after you sent the first message and didn't see the other til got back 
+My parents are drunk... Fml  Text me, yeah?
+@BigChampTheBoss dude I was w/  emabarrassed me in from of my fam!  and said we done! And theu text
+@AnneKinLA  i'm sorry! send my prayers to her
+@amazingphoebe if what had been said in that text message didn't bother me, you'd think i didn't care, true? 
+@chrismoody No, I'm afraid not. I've been meaning to do a final episode, but can get folks to send in comments or voicemail 
+@triplesix_ You never send me huge messages! 
+is handling telemax! I hate being a message center 
+subway is on the cards at some point, actually scrap that last message, its not 24hr till 2moro, so shuts at 5  x
+@laurenbeth7293 ah stop direct messaging me it keeps texting me and i went over in texts 
+@greggarbo it wont let me message you back, and she hasnt gotten back to me yet 
+without text messages  thats the most awful thing in my life right now!
+I dont know how to send messages on here, can anyone help me  xx
+How sad i only woke up with one unread text message! 
+@sidepodcast @mrschristine for some reason i cant post any messages on dd, lclt, doohickey, even old comments... help? 
+only has ONE direct message 
+@jordanknight  don't know how send a pic  !!!!!!!!!!!!!!! lol
+@zorder i can send you a message, you are not following me 
+Trying to dispute a parking ticket (due to system just ignoring you) using the time of the sent SMS as the only evidence: not so great 
+@MikeArnaldo you should just respond to me! i didn't even see your messages till now.. twitter on iphone doesn't inform me of my msgs 
+@armandoalves thanks armando. could be an idea. but i don't see your message to adverblog published on his tweet 
+fatigue wins. @modernfuturist: I read your fb message but I closed the window and now you won't get a response for at least 8 hours. 
+@McKatrine cool  send me a message   well i g2g now xD leaving my mac now   we can text instead xD
+@markpolchleb Your message to luke failed. 
+at schoool  text and cheer me up 412-992-6991!!!!
+@mizdiva86 yea so i tried this direct message thing on my phone via text, dont know if it worked or not. im sick now, can u bring it 
+@DaccForce I sent you a direct message earlier, but TwitterFox ate it. I can't remember what it said, either. 
+@pkrumpz Awww, i wish I would have seen this message before i already sat down. 
+is disappointed that no celebs are writing back to me or sending me any direct messages!!! 
+why don't you reply to texts? 
+@jpiasentin  Did you get my retarded message? How has the tangerine been treating you?
+@shoface I wants to hear about your adventure! btw, did you get my message about senses fail? 
+Phone taken away  no text
+waiting for bree to message me. 
+..almost bedtime .. where is donnie??   can't go to sleep until i see a message from him.. nkotb ?  lol
+0 direct messages... hmm and i havent figured out how to send messages either, i always get a stupid error message or something 
+I'm now getting three 'Extend your penis' spam messages a minute 
+can't post a note on brightkite through text msg. always failed 
+@rickirose19 I called you twice, you had me worried. But you didn't call back or text 
+@RVPaul If i goto your profile i can see your messages tp me but they have not showeed up on here 
+@HDmclachlan I don't know  I've lost all messages in inbox, all photos, all privacy settings, all networks and a bunch of friends   
+@jaysonbarnden When you get this message can you please send me a text I have lost your details  I don't want to show up unannounced.
+Text me already kidd, I miss you~ 
+@jordanknight he must not have gotten our messages 
+@rebo11 actually no I don't know where it went.  send me another?
+Just listened to my greeting on my voicemail...i sound 13 
+it's almost evening and i haven't got your message, where are you? 
+idea for lossy text compression? convert to another language with shorter words and less unique characters before normal compression 
+gee this is so hard, when a recipient is not following you you cant even send a direct message 
+@zivklara I know it's not sending messages 
+I wasn't asleep for THAT long why do i have thirty texts? 
+@LizB18 I sent a message asking for the pswrd and never heard back.  
+I had something I really wanted to tweet, but then I got a text message and forgot what it was.  
+dropped phone behind bed lastnight, just found it ... no text messages, no missed calls  lol, I'm glad
+@jayde_nicole I have been tweeting to jaydenicole for days now...  this means you havent seen any of my messages!
+@outcastspice #$%^ I'm sorry I didn't get you a snowglobe. I saw your message to late 
+@ dhgymn I can't reply to your message because you don't follow me 
+i'm still unsure how i can twitter my text messages, so if this works, let it be known that my stomach feels like hell. 
+@WILDandFREEguy  what up with the random text?? it was mean 
+@twitter Typing tweets on ubuntu/firefox-3.0.10 is very slow  looks like you are firing too many js events. Text appears after a long time
+haven't received any text messages since the 25th. Pologies to anyone I haven't replied to... something's wrong with my phone. 
+@RajeshBlue but when it happens on the group- sends out a bad message.  lets see how it goes.
+Going to cry because nicole isnt replying to my message  @asleepylee: you will OWN.
+@gypsiepixie lol i knw but im still not getting direct messages  lol try d athaliaaa &amp; then ur message
+@xmarkmac TFTT. I'm making a backup first. I don't have anymore emails from 2009. 
+Heatherrrr It wont let me send messages to you 
+Is getting abuse over texts from nicola!  it's not fair, i'm only helping her with english!
+Catching up on emails.... I have 665 unread 
+Everyone i have texted in the last hour completely ignored me  im very bored going to attempt sleep. Text me anyways
+Yes she is. I can't see her messages. I have to go online to do it. 
+@IMTIRON  me. im shocked that wasn't a mass text.
+ text me.
+@melodysong too many letters, pain  i might just put 'dunlop'
+i can't send direct messages 
+@jadedmatt interesting..., ok lol drive safe good luck with your headlights  be careful. I'm going to bed. Text me so I know you're ok
+@MadisonMitchell tried to send you a direct message but couldnt 
+and not responding to my texts  have fun.
+@Kirstyface_88 you need to follow me back so i can respond to your direct message heh.  
+@apsalvatore how is that possible, i didnt get any msgs or calls?  milanos soon
+@davidlian  Text us!
+my blackberry crashed and i lost all my contacts!  message me your numbers! about 3 hours ago
+@ashleybella it wont let me direct message u 
+my blackberry crashed and i lost all my contacts!  message me your numbers!
+woke up to emails... 
+woke up to no emails... 
+@rbroller815 you are taking forever with responding to text messages 
+@KellyDivine it cut me off after your message 
+That's lame! Yours came as a dirrect message 
+Following up thousands of emails in inbox.... 
+@dollylolly can't seem to reply your direct message  how do i tell u ah w/o revealing it here?
+Parsing 53,000 text files into my database.  If something goes wrong, I'm going to have to do it all over again. 
+Auch! My eclipse installation is corrupt. all sorts of error messages. have to reinstall. 
+@aprilHANNAH did you get my text? 
+Never mind. I've got a load of emails to get to. 
+I never get any direct messages. 
+@browngt5 It fell and broke its face. It still chimes every time I get a message, but I can't see texts, emails, internet. 
+@weirdofits I miss when we used to talk via texts &amp; commenta 
+@tommcfly ok I give up! I always try to send messages to you, but you never answer me  you'll NEVER ansewr me right?
+teacher saw my message  She h8s me now
+Really do NOT feel like being at work... the man always be bringing me down  Text me if ya got it..
+Note to self: never read old messages from your ex while your cleaning out your inbox 
+@TickleMeJoey we called you. we left you a pretty long message. your voicemail hung up on us 
+i just realized that joseph called me back during me jessicas and julias message. i feel like i fail 
+@lhenzo you didn't reply to my text! 
+@xcaptainMARY Says I can't direct message you cause you're not following me 
+@alexthefob1991 no message 
+@BIGCHAMPTHEBOSS it only says reply and direct message 
+@prcssngrl  ... got your message. didn't sound too bad, huh?
+@freckle_freckle: i tried sending you a direct message back but its telling me your not following me so...yes 
+I can no longer get @replies by SMS since twe2 died 
+@Crizzoid I know.  I can't believe they actually listened to me.  Too bad the others I tweeted did see their messages 
+@Omgkatie I forget and text both anyway 
+@blueholly just switched to unlimited messaging for $10 more a month but that was a costly misstep  how does one accumulate 2600+ sms!!!
+so sad :[ had an epic text prepared and now they won't let me text in 
+@REGYATES start reading texts again  PLEEEEEEEEEEEEEEEEEEEASE!
+my crush isn't online on msn  I hate it, he's the only one who makes me forget the messages guy. even though he doesn't know that he does
+zomgitskrystal happpppppy birthday......apparently you dont get my text messages. 
+@zomgitskrystal happpppy birthdayyyy because apparently you dont get my text messages.  plz dont think i forgotttt. because i didnt  &lt;3
+@SUGARVampChick but they still charge for pic messages damn them 
+@kirstytbsmcr wow really  keep writing letters &amp; stalking her with it lmao. she'll give in !!
+has to wait till tomorrowwwwww..... these text messages are killing me 
+@davidarchie  aww.. couldnt direct message you.  add me up. Haha
+the sight of my unread emails makes me sad 
+mobile phone does not vibrate anymore! No more stimulation when getting a message. 
+didn't miss the message...it still hasnt arrived, I'd have worked harder to get that message....guess im just more into it 
+@MYIL1 I received a notification a couple of days ago from ecademy that you had sent me a message but it as never shown up in my inbox 
+@dorothysimmons hahah oh. i just sent kris jenner a message. doubt she'll reply 
+plzzzzz let me kno how I can read my direct messages plz plz plz  send it as an @ message for me plz
+clearing out my text messages, such tedious work 
+i've not received a letter in so long, someone write to me  i miss my letters from elvis
+@schindlerlist23  ugh. mutated viruses! im going to direct message you.
+No i didnt. It showed up in my text. 
+and right after my last tweet my phone decided to not work-weird error message and i apparently need to reinstall the software later 
+I'm getting your emails... you ain't getting mine 
+160+ unread emails to go 
+@talksquid  I just got your text. Text me when your awake
+Oops, IE misses the mark in text-indent for input elements 
+havent received one message  
+@manasgupta you got to reply to my messages or refer to me as @rajasen so I can get your message addressed to me.. and no, I don't. 
+hates waiting for emails! 
+@sims3addicts I get the message &quot;The requested topic does not exist.&quot; when clicking your link 
+I don't know how to check twitter via text messages. If anyone's awake, text me and tell me how 
+@tracytrollop no messaging service 
+i hate when my cell phone decides to be a jerk. not getting any of my text messages  help me fix it!
+@EnglishRoses and I checked my emails at 4, and it was too late 
+@MariKurisato I was trying to.  I have to admit that I did not truncate my messages well. Meaning was lost.
+@G1Neume wahh cant send you private messages at forum.warrock.net ...!!! just want to report a bug 
+wow, i can't believe i couldn't hold myself together hahaha wow i'm dumb. text me 
+/waits for text back... 
+63 stinken unread emails 
+@philo reply to my texts  you cant even read this but mehh
+@TheDannyNoriega danny!! I miss your messages 
+just signed up for twitter. tried a few times to add my cell number but still waiting for verification text message. 
+Getting mixed signals from him....idk what to do.... 
+@collin5022 lol o. due to some insignificant texts messages on my phone i was obnoxiously awakened.  fml now i cant go back to sleep.
+@stillhiro408  :] :| :[  i miss your texts lol.
+I keep getting weird text messages, and there's no name who sent them, and they all look like this. CUEJSJEOJ83837474. 
+Someone just sent a text message, but I can't see it. 
+reading old emails...missing my daddy 
+My texting isn't working very well lately!  I haven't been getting all my messages... 
+@bianca0789 message me ur number i cant send you a message. 
+@andyclemmensen you didnt send me the text 
+Worried about the reply after sending THE SMS to 78277. 
+I can't go to sleep until tech support emails me back 
+sometimes spam leaks in to the message board. 
+@GGSerena boo you didnt answer my text 
+@jwpage your SMS managed to crash my phone. 
+waiting for someone's SMS. it's been weeks and nearly a month  :?
+Could do with some messages to cheer me up  !!!!! @RobynLouise1993 @leahstakes @MissKeriBaby @jewlear @Celenko @sarahbeeny @Beverleyknight
+@chickgonebad I have no text plan on my phone.    I'll send the #, though, you're more than welcome to call!
+@_katieedwards I can't yet back, I've run out of texts!  I'll ring you laters xoxo
+i got a replacement phone and now all my text messages and call history are gone.  I am sad.
+I'm drawning in emails 
+ugh. trying to respond to all of the emails/voicemails/facebook messages that I missed while out of town. this could be a while 
+Goddamnit! If we live in an age of constant communication why can't anyone return a text 
+@nethra - one more funny msg on fb. this time with an actual link  today i have received 5 such messages
+@channilein It didn't start as a long message ... It just got longer when I wrote it 
+@calamitylill Can you send out letters/emails to clients to remind them you're there?  
+@caseywright ~acai emails~yes tons of them.. 
+@bellarina1983 i haven't got a text back!  sod her i looks fabulous!
+Is wondering why my messages aren't going anywhere ;( I am trying to learn how to tweet &amp; it isn't turning out so hot 
+@Annnnnaaaaa lol, I've just realised that i've been sending messages that were meant to be to you, to a page that doesn't exist 
+@Ponyless soz i neva saw this message till now...if u add then delete me i cant see any messages uve left on my page 
+@Bronques Oh THOSE messages. Probably not 
+@knightgirllinz baaad Linz, too... Rather... Sheesh... Text fingers are broked 
+@mitchelmusso my friend sent u call bck messages. i dunno if you could reply but she has no credit thts all. 
+These messages are teasing me! It isnt fair. 
+@ebonyeeee - No I didnt get your text.....  
+@lizridley did you get my text? 
+2 days &amp; 5 text messages this month 
+@Mszjai nvm i just got ur message that ur sick 
+I dont understand this secret code twitter sends messages in 
+@davidcrow insert sarcasm here? you know if you did have those emails, I'd have no choice but to grab that bourbon (do you really)? 
+Just woke up. No new text messages this morning. 
+@ballhard55 i misssss youuuuu sooo much baby  hey baby plz send me pics of u!!
+@bruisemeister emoticons  you can't boooo
+@SoulGlowActivtr aww, but YOU have to follow the person and vice versa in order for them to direct message u 
+Just accidently erased all of my text messages including important info needed for a client. 
+@Leavchip how do you get the glyphs to show in your text?? i have looked and can't find the right keys to make it work 
+my texts are not going through to you and i don't know why. i miss you 
+@yoshihirohatano noooo i didnt get ur text 
+Trawling through emails 
+does anyone know any applications i can download for my bberry? i don't have internet and can't receive any sms messages to it 
+@SuperFAFA sorry i missed your messages, updates aren't  making it to my phone...it better not be malfunctioning i just bought it 
+@iammykei i read your message. aww.  message me what happened.
+@AsteroanRed im sorry but i cant understand ur last message  
+@copymonkey i never got invited after i sent the message to them  i'm not exclusive
+Why am I not getting text alerts 
+i sent demi a message she didnt reply  nor did mile and leila sent a message to lily and she didnt reply  lol
+@16_mileycyrus i sent demi a message she didnt reply  nor did mile and leila sent a message to lily and she didnt reply  lol
+@Daswolven it fucked up my text messaging. 
+blah blah blah..!!!! my phone does not have SMS texting...  while im at my gparents house.. little or no tweeting 
+Sending text messages to the wrong person = #NotHot 
+@strangevictoria   I still haven't received any emails from you.    It makes me saaaad.
+is feeling a little freaked out by receiving mysterious text messages on her mobile that disappear after being read. 
+got in a text message fight with her mom 
+@hardtosayone if you ever wrote back to my last message i never got it. 
+@mishacollins man i wanna see the picture but i only get your tweets via text. 
+@twitter I want to receive SMS updates from people that im folllwing but when i click ''ON'' it doesnt work  can u help me please???
+@peacelovelisa i miss you too, girl.  i dunno if my last message to you went through. i'm so stupid when it comes to twitter.
+@aliiza252 PLEASE reply to the message I sent you 
+@gracefh I've sent her a message on facebook - I haven't heard from her since earlier  I'm worried 
+Driving back to costs mesa and I'm in horrible traffic  text me!
+damn it. where did my text tweet go? 
+My texts aren't getting to twitter 
+@sharifedak i just got a spam message from you via msn messenger 
+Right, I'm off to sleep Really shattered  Text me in the morning if I miss much!! I love you all, nightnight,kisskiss xxxxxxx
+I didn't know you could get the fail whale message while using. Twitterberry.  Lol   
+@stargazingmommy why'd u delete me? 
+@bradhawkins87 hey brad, is there any way to change your text message tone on the blackberry? 
+@twittldotcom using single or double quotes on the title screws up the text 
+/waits for text back 
+lost all my numbers  so text me, if you don't have it.....direct message
+@KathrynKinney I tried to send you a message from my phone, but I never got a response... 
+@ddlovato the very end of the movie needs to change! Reminds me of Message in a bottle. 
+@maffew933 I lost your text number  Can I's have it back ?
+I can't sleep, at all.  Text me and then I'll tell you stories. &lt;3
+Catching up on a multitude of notes and messages 
+@cammmmmi for sure. send me a message. I lost your number 
+has 5 texts left 
+@jackieare I'm really sad  delete it and post it again 
+there. every text deleted 
+really.. needs to start marking faxes... but its so dull!! 
+hates waking up to no emails  stupid boats.
+@RutgersTranscri did you ever receive the message I sent back about who designed our site? I can't DM you because you're not following me 
+@MileyDemSelena you can only direct message if you guys are both following eachother. 
+I am not getting michelle's messages on here and i turned them on! 
+no new emails 
+JiveTalk doesn't want to receive messages  too bad, I was about to purchase it
+is working on finally checking emails, so tired haven't gotten much sleep lately 
+@lucyrose29 hah direct messages have a limit too. i copied and pasted and it was -2000 something 
+@ScarlemNocturne just got your messages now  would have been sweet
+@VewDewLunchbox sorry cause the messages werent showing up 
+@drewseeley are you still taking calls? i can't get through.  but i left you a message.
+@veence like, I have it set on where I keep the msgs 4 six months, but all of a sudden, it started deleting all of my texts 
+@CeceBooBear  it says i don't have any messages and nothings showing up..
+why can't i view my direct message inbox?! 
+I spent the last 20 min.s cleaning up koko's facebook.. she has too many request and inbox messages 
+@kimmoney For some odd reason your tweets aren't coming through to my cell as a text. 
+@spam hey just wanted to report @philogngogng as a spammer, advertising a false giveaway tried to message you but it won't let me 
+@joeymcintyre Are all the emails out for the volunteers?? I didnt get one 
+@twincident I am on SMS. I got the whole process it just wont pick up pics 
+@2ndreality hey what did that last message say on live? i was deleting messages when you and rav sent me one so i deleted it 
+holy 349583098 unread emails 
+feeling lonely without her message 
+@arturferreira The threaded view of SMS doesnt look like chatting it looks like flooding  you have to scroll up to see the message. 
+is doing emails  boring
+I hardly ever get any texts anymore.  I feel unloved.
+How is it possible that I'm drowning in spam within hours of setting up my mousebreaker address without sending any emails? 
+ah... so many emails to go through.... 
+SMS works badly 
+tried sending a message to @gulpanag. she is not following me 
+How many emails to catch up on 
+@japanesepod101 I get an error opening file message when listening to newbie lesson S4 no 47 
+@PvtChurch Ahh okay. I've been texting you. I actually forgot I can send you twitter messages. Silly me 
+Ugh.  I need an extra 3hrs. Of sleep  ... Text me
+@darshley0311 why don't you get my texts? 
+Does anyone receive updates by phone? Is a flood of completely annoying messages non-stop 24/7? I fear I am too verbose for this format 
+Text from @snowhite197: couldn't find it  [redacted's] parents really, REALLY need to mow the lawn.  Lol!
+@squink horrrible.  so hurty.  send cupcakes 
+urgh - starting to get spymaster spam tweets now   it's a great argument for why #twitter needs a filter mechanism!
+Doesnt know how to send direct messages 
+@Ashbahbash what text pissed you off??? was it me??? i'm sorry 
+25 new emails! But they are all from me 
+i don't think my direct messaging is working 
+@izzybot i'm desperately searching for letters of rec too. 
+@a1o i JUST found out about it, thru a text.  and i called you when i found out lol
+nooo new emails .. 
+is laying down, feeling crappy  ugh instant message me :/
+@Chiggady ur bbm message hurts my feelings.  lol
+@Mzishi Yay well twitter it...since u never call/text me 
+home. Gotta type up the rest of my poetry portfolio    Text me?
+text isnt working!! 
+http://holdonanotherday.blogspot.com    these texts can make me cry 
+I seriously hate direct messages, I never really look at them, and I just realized that I have 659 of them. 
+@pillpushera I understand. So sorry you got that message. Not cool. 
+I keep getting messages from myspace and I can't read them on my phone 
+@pekkaklarck Only 6 direct messages so far. But the email inbox is overflowing with hundreds of unanswered messages 
+Hoping the baby bird doesnt die on me over night that would be sad.  Text me ill be up for a while.
+No messages,no calls  come on people!!
+I wish they had emoticons on twitted 
+my phones been dead for the last 2 days  but as soon as i turned it on. i checked my messages and melted. dsfafhjmhf :3
+@canberrajobs Before I unfollow you I am letting you know why, you use a spam tool that totally fills the timeline and I miss tweets 
+dear all, sorry about spam messages...i get paranoid that it didnt work and send msgs over and over 
+Hey, thanks for all the messages of support, really appreciate it. Really missing you guys 
+@Aveliis i will do the passport! Lol. Text me wen you land  wifey gone byebyes xxx
+@alimaybe check your private messages 
+@FUCKCITY ...did u read all my messages??  pls say something!...
+i keep getting twitter updates on my phone and thinking they're actual text messages.  no fun 
+@Jennatonic84 where have you been jenn!?!  and where the hale was my blank text??? lol
+@Saraahhhh lmao. I ran out of texts on my contract 
+@pauljacobson i think there was unfair delay on the relay of mine - timestamp on my mails should read 1:00.01s 
+@bngr sorry my internet's borked, only got that message now... I woulda been up for it and all 
+Now time to get to work.  200 emails to sort through 
+i hate to be grammatically incorrect.. but this stupid keyboard of mine isnt letting me type right so am missing out letters 
+@yahyan ignore you  when I read all of your late texts you said I was ignorin' your calls but when I checked my missed calls I didn't...
+I have low-grade angst because nobody sends me direct messages.  similar to facebook jealousy only less obtrusive.
+No new msgs. 
+@ChloePeaBrain it won't let me read your message 
+i really want to call him but what if he answers? D: i wouldnt know what to say  i just want to leave a message.  i hope he calls me.
+I have 4 text messages and I can't read them because my trackball won't click on anything. 
+@Yahzarah YAHZ did u get shanelles message U might B on a service that goes to ya twitter 
+My myspace text alerts aren't working  I feel lost without them, lol
+I hate it when I think I sent a text but never did. 
+@tinamarina wheres my sext message 
+@TlNAmarina  wheres my sext message 
+my blackberry scrolly ball thing isn't letting me scroll up. well this sux. I have new messages, and I can't get to them. 
+Waiting for a text is painful. 
+@XkissthecupidX im mad we hold a conversation better on here than through text 
+@tonightless  what happened?  don't be sad!! Text me!
+@elprupurple Aww, well so is mine  I can't check my 1 gmail message 
+@mikejjennings i know. i'm sorry but she does look freakily like me. lack of response to the aber message i sent round - not interested? 
+checking messages, so so tired 
+Holy molly, so many emails to go through 
+@rkref Trying to come up with a text-based representation for fistbump.   ==B E== doesn't quite cut it. 
+@bullyinguk I can view the homepage but my inbox doesn't seem to be working - I was in the middle of sending a message when it happened 
+woke up to a text of her ex....i cant handle this 
+@Emmieman i think bea has broken her thumbs, im bored and she didnt reply to my text 
+The internet at work, still isn't working...morning in the office without it?  Text me instead!
+@gassho if you don't follow me, then rather difficult to respond to messages just to me  congrats on ur son's accomplishments!
+@DerrenLitten give in I'm too slow at emails sob sob 
+That was a very sad text...... 
+I am having issues focusing.  I just blasted @goeschei with a ton of whiney emails. 
+@christidawg dont know if you got my text cause they shut off my international calling 
+oh no, just received first twitter porn direct messages. may have to turn off email notification of dm's 
+ so many david carradine messages.
+finishing up my emails then off to bed!!!........................I miss you btw 
+@markhoppus that message makes me sad 
+sooo many emails 
+Guys. I've gotten ten texts from twitter. Direct message each other 
+@imcudi i caann't direct messsage you bacck 
+-Has to get a physical today...Yikes! I hope they dont make me take my shirt off! :O ...  Text it.
+I'm eating lunch alone today  woes me.  Text me!
+Text me please 
+@WhitneyLaShee signals gone lol 
+@seekinspiration Aaaw, I never got this message! The one where you thanked me....  And you're welcome!
+@wweogsignguy U never call or text me anymore 
+@masukomi  - i hate voicemails too 
+@joegronlund No, its everytime I get a message on bbm 
+Deleting old emails... LOTS of old emails 
+I'm not getting any tweet messages on my phone..  
+downloaded twitterberry off my phone but cant seem to get it working  guess its back to SMS
+@DocMartins Please 'follow' us within the next 30 min so we can 'direct message' you abt your free tix or we'll have to pass them along! 
+@Meadbhis Text me your number ... i dont have it anymore 
+still can't easily pronounce #twestion ;) but anyways, I must reply to my emails asap as unfortunately I've been too swamped to recently 
+I wish I could figure out how to send a message to an individual.  
+@singhoutloud what text??? 
+@arhum  its not letting me just copy and paste the message:@
+@DezzyRoc why didn't you call me ! I just got your message dezzy 
+@luked_26 no no no send nowww plzzzzzz u can i know u can u just chose NOT to 
+ugh.... so many emails to respond to....  i hate emails....
+@cobrafangirl i can call you!!! just no text messages. 
+CORRECTION:  It seems like my messages aren't leaving my phone.  
+I am not liking the server isn't responding message. Constantly keeps popping up. 
+ im feeling sad...cheer me up..? Text me..
+I need to talk to desirey@dezz_mcr or maddie @xxmcr_ladyxx in private  and @luckytrinket text me!
+I need to talk to desirey@dezz_mcr or maddie @xxmcr_ladyxx in private  and @luckytrinket text me!
+Just cleared his inbox and didn't recieve his new texts.. What if it was you 
+I wish for a universal unsubscribe button of life. Junk mail, junk email and junk phone call sales people.  Next up, junk text messages! 
+He didn't reply my sms 
+Still 300 MySpace messages to answer  I'm doing the best I can.
+Laying in bed, freezing  text me hoz. I wub you..
+My emails are down... WTF**K 
+@gailrennie im not sure... there is a Direct Message thing... but im on mobile.twitter... so it doesn work  Lol
+@always_august I feel the same my dear  How have you been, I sent a message =S
+if you want me to follow you, just write me something. direct message or one tweet... that's all. gosh, i'm a human. can't you see it? 
+@katemthompson I can't direct message you back  xo
+damn I hate Danish error messages in visual studio  wonder if it's possible to get them in english....
+@dlynnn h8 appeal letters tooooo. 
+@McFlyAddict same  why send it!!
+i can't send/receive text messages! i will not be textually active until my phone starts behaving  i'll let you know when..
+This is taking forever. And i keep getting weird error messages 
+I was only dissapointed to see that it had not got one mention when looking down through the messages, just being honest 
+@catcatherino  why?? facebook message me? xx
+I don't feel good  text me I guess.
+wow i can't receive messages 
+@shayface you should've left me a voicemail message! 
+ok it works but i still can't figure out how to receive a text alert when i get a comment! 
+@REGYATES @Fearnecotton what has happened to emails? 
+@xt0rrent answer my text 
+Writin these letters is hard. 
+I am sad and i don't know what to do. Text me 2627581375 to get the full thing.  please help me if you can
+@Mandums A little bummed...ppl are saying they received emails about their logos...i got nuthin 
+@janalle06 I don't think I got a text from u? Not recently, anyway?  http://myloc.me/2Pvf
+@Ashtarte I was just about to reply to your text.  Not unexpected but it still really sucks. 
+Isn't it possible to have one week w/o another outrageous message from one german politician  ban killergames, ban the internet what next?
+@aledia29 haha it showed your message with all the other twitterees lol. it didn't show mine? 
+That's because i deleted the tweet and resent the text. 
+@grandsierra - I cannot direct message unless you are following me. 
+Oh man, I didn't win a #remdawg voicemail message.   I never win anything!
+@morganxx i think i'm going to have to not talk to her full stop, she's  resorting to malicious emails 
+Ughhhh I twittered a text again 
+@MilanQ why no more message to me???   I like direct msg!!!
+@txrocks75 these texts make me worry about you. 
+@JonathanRKnight you erased your direct message to me?? 
+@RayLevesque I sent two direct messages, they showed up on my sent page, then disappeared when i went to look again. I don't get it. 
+She is getting your texts, but cannot answer 
+@ms_montgomery I reckon. And landscape SMS! I still don't have visual voice mail 
+@gulpanag I'm at your service ma'am, if u want i can send direct messages but i think u r not following my twits 
+@colbyrne Text messages will only queue for 7 days, so you will lose some 
+@ms_montgomery well aparantly when u get SMS, u reset ur phone and it will work but I hvent got SMS yet. Sarah got an SMS last week 
+F.U.C.K!!! i've written a realy long text at svz and when i pushed send i was sundely outlooked! everthing for nothing! it was so much... 
+getting bored. What's the use of being online if he's not sending any messages. 
+Just checking all my emails, i have 107 
+@rachelaziani hey i got took off from your followed list, so now we cant direct message.  
+@havenward i cannot sees you on my direct message list 
+1200 unread messages...looks like I missed super-spam saturdays on twitter 
+@srsaunders94 shannon its been agesss since we last spoke, iv sent a few msgs your way, not sure if you've got to them  heheheh sun!
+@xiaoplz i got your text. what happened, brudooskie? 
+I can't stop thinking about ___. It sucks having to go this long without seeing him. I hope he calls or texts me 
+@cartoono eml sent.. sorry so late.. data issues  *pouts*
+ugg that last message was 4 stephhh 
+@LuckyGlider I wrote you a message on myspace because I need advice on a sick sugar glider 
+I think I just fell for a text message scam 
+Steeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeven. Text me back now. stephaaniex has said it all, i also miss smoking up everyday 
+Working  text
+I am freaking sick again!! Text me if you want to chat, I can't talk 
+knowing that i'm missing tons of texts is depressing me  i wonder if all of a sudden i'll be inundated with msgs... i have a problem...
+is studying   text!
+WTF? 120 unread emails after 5 days of not checking out all of my new emails? 
+@__androgyn you  never respond to messages 
+@trent_reznor: ...the emails being sent to these ????? are out of control! so harmful   Makes the fans look like lunatics   I'm sad.
+I wanna talk to someone  Text me?
+@selenagomez how do i know if im getting through? cuz it just tells me the past messages... 
+@selenagomez i called, but my message was lame! 
+@jasminemoses how many smileys?! 
+@TweepSearch isn't working... big FAIL message.  @dacort?
+@efleaa everytime I click on chat, then write a message and send, it takes me back to page to login, I don't know why 
+i've been trying to attach files to an gmail message and it won't send. why won't it work 
+@KaytayLeonatti Aw, sweetie.  If you need to talk or any support, message me. &lt;3 you.
+I like how u ignore my text message and hop on twitter.. u know who u is  whore!!(tear drop)
+direct messages disappeared 
+@saykendrawithme Text/email me if you need to.  ilu
+@ryohakkai @bluenix willow deleted all her posts derp;; she didn't reply to my message either 
+@TwilightCentral I still haven't recieved the info  send it to me here in twitter instead as a direct message
+At long last I've managed to clear my inbox down to 5 emails, but have 140 that need some sort of action 
+At long last I've managed to clear my inbox down to 5 emails, but have 140 that need some sort of action 
+TFLN.com didn't post my text.  I feel so rejected.  
+Over a years worth of text messages accidentally cleared.  The sadness.
+my phone is busted  i cant send any messages
+Oh my, too many emails  maybe I should get a smartphone...
+@tez89 no creds = no more unlimited messages 
+I just saw that i have a message  from my jenious:X GOSh..answering her right now..I so miss her 
+@ruyen Certainly broke your ability to instant message 
+@igorxa Just now got your text. 
+All the storm has managed so far is to cut off my emails 
+It seems like the spam in my direct messages has really grown lately... 
+gimme my text messaaaaage  meanie
+@nowcontests Your direct message doesn't seem to work 
+@nowcontests You have to follow me for direct messages to work apparently 
+Waiting for his message! 
+@velcroshoes ahaha i just got the stalkery message. LOL how was art? i haven't revised for my exam tomorrowww  xxx
+wow just checked my e-mail ;;; more than 3000 unread messages  -i thought i spamed youtube-  jk.jk
+spam mail - ok, got used..spam on social networking and others beginning to accept it...spam MMS and SMS come on give me a break... 
+and nobody is responding to my text messages. 
+i have no emails 
+@garrison007 don't deleted my emails 
+is about to leave and do a promotion a text would be nice but i guess its not gona happen 
+@dandelion101 Actually, it did flicker, so I've lost all my answerphone messages. I hope there was nothing important on there... 
+@w3ntw0rthmill3r I have emailed u - my direct messages aint working 
+Joswa Aquiler, I know you get my tweets on your phone. I don't have your number  Text me asaaaaap!
+Where did I go wrong? I'm barely holding on ever since you've been gone...   text it
+27 unread messages 
+#iremember When I used to get like 8 goodmorning text messages from girls...now I only get like 2 
+I need to start staying later at the office. I check my email at 8:00 and have way too many new messages 
+@Betheaeroplane aw  are you getting my texts on aim?
+I'm a little concerned about my excessive use of emoticons 
+@iDavey u no text me back 
+@dancenovanation Was wondering why she hasn't returned any calls or emails last 2 weeks 
+@BellaLelo WOOOOOOOW......!!!! I hope all the calls were to you and the texts too...I'm doubting that though... 
+ugh I hate mobile updates. I just checked my @ messages, and I didn't get half of them. no phone btw. 
+@drewseeley Saynow cut me off cause I got through all ur messages 
+finished the messages, notifications and secret admirers.. still have to do the rest.. 
+@zmorris why are you ignoring my texts?!?! boooo to you! 
+I'm beginning to think that @djdonq doesn't love me. No calls/texts  I miss him
+i dont understand how to send direct messages! 
+@stephaniepratt I can't sent u nuttin from my messages cause ur not following me! 
+@FatJuggs was, im so scared now. i have goose bumps still, and i cant sleep now.  no one is awake to talk on aim either or text eeekkk. 
+...received a SMS with a very spooky content... 
+omg none of my txt messages are going up 
+I'm bored at the airport  Text me anyone? Even though I'm pretty sure everyone is sleeping...
+@DrunkStreetHo better yet follow me . . i cant send you nothinq 
+@lennel how come I didn't get the SMS? 
+@Hanslc did u . A message ? I got the request says ur offline 
+Just heard my text read out on capital... now cant show friends! 
+@ktvb I can get every station since the conversion but yours. I keep getting a weak signal message. 
+working til 5. Then class til 7:30. Text or something. I'm bored and going insane 
+@bowwow614 i guess i'll find out when you do from the radio cause you cant see my little messages 
+@steve_berra I can't send u a message unless your following me 
+@pinkhairedgirl I usually get them as texts, but no tweets are texting to my phone so far today, and I don't know why 
+@ubertwiter I'm not getting @reply notifications  
+lost all those texts convos  FUUUUUU
+My sim is faulty =/ So i can't receive any calls or texts  Upsettinggg.
+watchin cartoons at home. real bored.  text me yall 2817953823
+noo think i deleted a message 
+I feel like an idiot...I can't figure out how to change the little message noise on my blackberry 
+ah so I'm not getting text updates to my phone from twitter at all right now. Sucks 
+i cant golfy!!! you arent in my little coolll direct message list 
+ reading my yearbook messages.  very depressing  im going to miss y'all soo much like you don't even knoow :,( :,(
+here. reading my emails. why? 
+I have gotten zero text messages today..it's kind of sad 
+*cries* I still cannot get my twitter messages on my phone  not a big deal right this second, but it still bugs me...
+@mkbkrthebkmkr you didn't get my text?! 
+@claudiavalentin How cum i can't direct message u? 
+sad  Text meee.
+So I don't get anymore text messages on twitter apparently.  it sucks. but I can still send them &gt;:|
+@VivaLaAden oh sweetie...  happy birthday! Text me if you need to talk/vent okay? ily! &lt;3
+texts recieved in may: 2097. texts sent in may: 293. I am a terrible friend dudes. my bad 
+Hates people that add you on skype sends you a weird message the dissapears happened to me 3 times  and I mean a weird message!!
+Hates people that add you on skype sends you a weird message then dissapears happened to me 3 times  and I mean a weird message!!
+I feel pathetic for waiting on your emails. I think I need to stop caring so much because it really makes me feel stupid. 
+@brandynMAMA why don't you reply to my texts! asshole! 
+I guess @ricksgrl didn't get our messages at all. 
+@ashlley ooh I can't  ur going to SMS grad right? I'm thinking about going just to like visit..
+@Kellydk2  i hope you will read my message before going to mall 
+@dragonflyeyes is it ringing when you call aaron? or giving you busy signal? for me it goes right to a msg saying his voicemail is full 
+@themakelounge I hate having to write those letters, but they are so necessary sometimes! 
+Japanese letters/characters, please be friendly. 
+My sidekick won't send/receive msgs or emails 
+little issue with blu when I scroll my messages, the windows is also moving 
+@amieewhitney It says the files are too big to send as a message - I need to work it out 
+I've been gyped by http://needfollowers.com/index.php please ignore previous message - I DON'T speak / tweet like that. my apologies 
+@markrais ooh, your profile font selection makes all text white - including white on white for your messages 
+hmm wondering where some of my e-mails go? says {example} 24 incoming....only 16 show up?   hope I'm not missing an important message?
+@susiebubble Your emails are not working it seems  x
+@Billy all i get is texts from 'S-A-T-A-N' 
+@Niens aaah poor you, for the site not letting you copy their text 
+@raekicksboys I can't get my phone to send you a text message! I tried replying to you like 7 times this morning and to wont go through 
+Phone rebooted, all SMS's are lost 
+@deltazap nooo  I still haven't even recieved my notification
+@WeaponX_PHIQ dang i wasn't on!!! just now seein this message... 
+@MadamSalami i missed your message! how rude of me  do not fear, you never know when you might get tagged :O
+@JillAPower can't send emails    when I can will email you the full story!
+@pausette i miss plane letters too!!  i remember we used to write them for each other and letters you sent us in london ;)
+@Joandrasi93 so  you read the direct message then.... 
+@JeannetteNL Wow! I wrote out this long message then I realized you only get like 150 characters to write with 
+@ManxStef @nancetron I don't want to hear anymore about postcards.... 
+@foole_of_hearts Are you able to change your device update settings?  I'm not.    Is there a text command I can send?
+@jgallant1990 it doesn't do longer messages or appear to have twitlonger on it that I've found 
+not getting my @ messages again 
+No.....got a message saying my phone disconnected and sync cancelled....no!!!! need to try again 
+Awwwwwww. I didn't get the message until it was too late! 
+@makauk not good.  costs 4 SMS's per MMS. :o :o
+dont like that pic for the messages tho 
+@lovely_kel we'll figure it out. still no text haha 
+Sometimes my text life becomes so boring, I have to forward a message to everyone in my contact list saying hello! 
+@philjeffs neither has the wife, i just wasted my first ever iPhone MMS and she didn't get it; got the old message about going to website 
+@velofille You managed to connect to the activation server? I'm still getting an error message 
+@mokiato i texted her. but she said she didnt understand my text 
+failed at sending a facebook video message to sunnie 
+@tamiicash follow me  so i can send you direct messages 
+@MaddieKol I honestly have no idea how to process that. It's almost like being dumped via a text message... 
+I feel icky. text and make me smile? 
+@JonKaplan  tell her to use aim text or msn text, or there is a website for texting too!
+@sknygrydg07 I hit reply instead of copying and only realised after I'd hit send. Then I got distracted. 
+@Neekatron sorry to hear  ...(damn direct messaging doesn't work)
+@MarcelaVisco didn't get your drunken message on the mob 
+i hate how u can't tweet more the 140 letters 
+Text meeeee  or come on aim
+Works great, figured out cut/paste and shake to undo text...I have a 1g.  
+@CadenceComicArt PS_ I tried replying to you with a Direct Message, but it won't allow me to, since you're not following me. 
+@ZackJohnson16 I cannot direct message you back and explain my reasoning because you arent following me 
+@mgenevievef you dont return messages do you ? 
+@jonaskevin You didn't read my message i guess    
+my internet is still dwn so still cant sent direct msgs 
+hurray for texting!!!!!  but youu can't hear cool accents through texts 
+@t4ckevint  I'm getting a stupid error message when I plugs my iPhone in     I'll see if I can screencap the error
+@stajans_girl I sent you a text and got no response. Now I am sad 
+Now i think every text is him 
+@lewisusher that message was wicked! like a staircase! my phone is a bitch and wont let me send any messages  im getting it fixed laterrro
+@_theresa check my texts?  I don't think I have any from you.... 
+@iMattR If only dude  Text me today if you want, ill be bored  lol
+I get regular emails and calls...but I just miss being held.  I miss the boyfriend.
+i hav a private message bt i cant read it  wtfudge!!!!
+ no text...
+#yourghettowhen you blame your grammar &amp; misspellings on being up late reading #yourghettowhen tweets 
+Still cant get to my direct messages 
+there goes the bell  Right I'm off for now, shall tweet y'all later after choir, no net in music block so text me if you need me
+@nskeeps where are you and why aren't you responding to meh texts? 
+@mmrubio same here! I still can't send pic msgs 
+@LaLi02 I was under mine too. You ain't respond to my direct message 
+It makes me sad that it's now acceptable that I get sent notice of a relatives death via txt message.  
+blown....i cant send text messages 
+As much as I love tweetdecks interface I dislike reading tweets from present to past, twitterific remembers where you last read 
+@milliemagsaysay WHAAAAAT.  Text me. &lt;3
+does anyone want to tell me how you send direct messages? 
+iPhone 3.0 doesn't searches your SMS   http://twitpic.com/7po5w
+@AIMRunningMan: 3rd bug since 1 year aimmail: when emails are sent to an invalid address they are not stored in sent folder, means lost! 
+why is it that every time I'm typing a e-mail or some other private message, dad wants the comp? please let me finish my message first. 
+@Porripompy sailormoon is me, but now my msn wont send messages to you 
+Text me with your name! I lost all my contacts 
+stupid predictive text 
+@fossiloflife this is what my SMS menu looks likes. No languages  http://yfrog.com/296l8j
+@kirstyelise you send me direct messages but i dont get them  why???
+oops - had a new voicemail and I accidentally deleted it 
+@fluxystar hey woman! did you get my facebook message?? I'm phoneless 
+@JustinBaney @ whittydittie i didn't get letters either 
+@emoprincemartin How come?  Message me on bebo? x
+@bowlby87 i didnt get any sort of confirmation email as i ordered it online...and the silly man didnt give me a reference so cant track 
+so i made here we go again my message alert and i got a text message but then here we go again was playing inthebackgroundsoididn'thearit 
+@franticplanet You can get the second episode if you press the text button. That's if your text button works 
+@divarabbit I see you left me a message, but AT&amp;T won't let me hear it. 
+@dubfire_scitec they had an international text plan where you would get 100 texts a month for $10 , but i think it has disappeared 
+has to many emails to write 
+*texts @ncis_abbysciuto* definitely. i just hate that i'm making you wait. 
+taylor lautner why can't i send u a direct message 
+taylour lautner......  i can't send u a direct message.
+@pinguprue Its weird coz I can receive the text but not the image. And I can send no problems 
+Ahh. Text me please! 
+@FifethAve for my phone i just picked some ppl i wanted their info to get to me, but sometimes i don't get all the messages 
+@mzlilipie you're having that problem too???  SMS isn't working well with twitter lately 
+Computer is out of commission right now. You mean they don't like water? Text if you need me, no email 
+can't send direct message.....    not good at all.....
+@LouDPhillips I've tried three times and I keep getting a message that says my info is invalid. 
+right now i am trying to figure out why i cant open up attachments frm emails on my blackberry  n e suggestions?
+@CynCity009 p.s. hopefully you've come to assume that I more often than not, I'm being sarcastic and/or joking.  tones are hard w/typing 
+@luxebeaute no  I don't have an letters !!!
+Seeking answers to unwritten double texts  ??? - it just couldn't get more complicated than this!!!!
+@aleeex i don't think you've been getting my emails 
+@maddieroth can i text you? 
+I hate T9 text 
+aarrgghh how do you send messages on this can do it 
+why did that double send 
+D@mn it - #mqtt remaining length isn't 2 bytes, can be up to 4 for large messages. Should have read the 'spec better 
+@HannieT I hate those letters  but I guess it's true, at least you got the letter!
+boo hoo no one answers my messages 
+@penguinusa we can't direct message so I never enter any of your contests.  I feel really sad about this!
+@aliasgrace  I'm gonna miss our emails and conference calls.
+@herbadmother all i see is your header &amp; the gray side columns, but no text or ads or anything. 
+@probigeorge11 keep getting error msg from new ubertwiter about IT policy conflict 
+A lady speaks her text message......so cool. But she has sprint 
+Thinking either MSamateurradio isn't getting my texts or is ignorming me 
+@bowwow614 Can u send me the new song some how i cant get zshare to work 
+hates it when you get a message that isnt just sent to u, so un personal 
+Why do I always get database errors, 404s and malware error messages on DesignFloat? 
+@jessdenk we told him when he finished it lol u dint text me back either 
+No I'm not interested in making 'automated million' on twitter, getting tonnes of direct message #spam after following more people 
+My phone finally works again after i erased my saved text messages from last summer 
+@agurlsaid hey it doesn't alertme when I get a message 
+@samariaproject Were they bad emails. 
+phones about to die no more texts or tweets noooooooooo 
+And it sucks cause I lost all my texts and saved voicemails.  Now that I'm thinking bout it, I may cry.  
+i cannot change the letter color on settings! 
+Taking a shower, getting ready &amp; to the Savoy I go. Awh man, I'm exhausted right now &amp; I don't know why.  Text?
+@GeorgeJonesJr i cant direct msg u...only public msgs!! hope u read this!!! 
+@andiiii_ be alive and text me back! 
+@maannueel don't forget about communication's hwk, she is going to give us a 0 
+@leperdusier I emailed you my cell number.  Text me if you decide to go, and we can meet up!  I am going by myself b/c K-jan is working. 
+You never know how much you say um until you hear yourself in a message. 
+@tommcfly hi toom! why do you say hi if you don't read your messages? 
+@tommcfly hi toom! why do you say hi if you don't read your messages?? 
+@tommcfly hi tom! why do you say hi if you don't read your messages?? 
+@tommcfly hi tom!! why do you say hi if you don't read your messages? 
+@tommcfly hi toom!! why do you say hi if you don't read your messages? 
+@tommcfly hi toom!! why do you say hi if you don't read your messages?? 
+@tommcfly hii toom! why do you say hi if you don't read your messages? 
+@tommcfly hiii tom!! why do you say hi if you don't read your messages?? 
+@tommcfly hi tooom! why do you say hi if you don't read your messages? 
+@tommcfly hii tooom! why do you say hi if you don't read your messages? 
+@tommcfly hiii tooom! why do you say hi if you don't read your messages? 
+@tommcfly hi toom! why do you say hi if you don't read your messages??? 
+@tommcfly helloo toom! why do you say hi if you don't read your messages?? 
+@tommcfly hi toooom! why do you say hi if you don't read your messages? 
+@tommcfly hiiii toom!!! why do you say hi if you don't read your messages? 
+10000 unread messages in my inbox 
+@physigory I don't know about on the new iPhone but I can't send MMSs on mine 
+Annnd I got bored of having my entries locked  They'll probably go back to being locked though, considering all the porn spam adding me :/
+@meriyoum you alright? What happened text me 
+Maybe that's why they stopped blocking SMS.   #iranelection
+can't seem to reply on twitter. the little arrow won't show up next to the messages. 
+she left me a message!!! i listened to it 4 times ....  
+@PandaMayhem i wanted to message u back but ur not following me back 
+@soupVERSUSsushi however I'm sad that now I'm such a loser that I don't need unlimited texts anymore. 
+@hannahherpesxx isn't responding to her texts 
+@cheer2 send me a message, i dont how 
+@bwpatton why upset? message me 
+I been missing messages I dnt like the new urber!!! 
+I really don't like my phone right now. I can't get get text messages. 
+@brittanitaylor you are very welcome! I would of replied to you in a message but it wouldn't 
+i'm sitting at my computer trying to get a text message to send its failing though 
+Looking for a nice alert tone for my UberTwitter.. can't find any though 
+turned off email notices in @beejiveim because it just reminds me push notification isn't real yet. 
+@zomgcupcakes my text messages aren't getting to you 
+finally a text 
+can't sleep  Message me if you're awake anyone
+@brennig now to figure out why installed themes show header text in wrong place. 
+@Pragnendra m already logged in http://useqwitter.com/ but it didnt send notification of the users who unfollowed me 
+@JusNcredible106 i cant send you dm's 
+@documenting  I'm also on 3.0, but the backup file was fucked and I lost 450 photos and 1,000+ txt messages 
+No messages yet!!!!!  xxxxxx
+has figured out to send group SMS wihout turn MMS setting off first, but somehow feel internet speed becomes very slow 
+just tryng hard to translate some texts about core stability!  gosh!!! so boring!
+Oh, true. Thats fun. &amp; i meant for this to be a text! I'm really upset you didn't get my message 
+I hate cover letters.....revision 12 and I still don't think it's perfect.   This message brought to you by the letter 3
+@CorrineShapiro I bet you're a pro driver! I forgot to reply to your text 
+@Eastsideprop I'm going too and got a text from ticketmastet saying she wasn't. 
+My life is boring, I need some famous send me a message  @mileycyrus @billyraycyrus @ashleytisdale @ladygaga @tracecyrus @emilyosment
+@robertherrera3 I lost your number  text me
+@Kyabean I got your twable and wanted to send you a message, but it appears you're not following me. 
+@britkoz u never responded to my texts....im growing unsure about this friendship  lol
+@jessjessbobess that's too mean.  and you didn't respond to my text.  
+How do i send twitter a text?  This is confusing!
+Juust woke up from a sweet text message, and an ant bit my toe 
+Going home  6 hours! Text me!
+What?? But I left a message 
+is getting ready for kalis going away party    text me &lt;3
+ignore all your messages 
+@OtherMacGuffin what is this world coming to?  Voicemail puts a frown on my face  lol
+Is sad that @lodaydoda won't reply to her texts! 
+@angelikitten Text lots of twitter updates then! I miss you too 
+@1096crazy awww... poor boy.  lol. ;) and to your text: yes, i did- check your direct messages for why. :p tehehee!! &lt;3
+@dougiemcfly know it is so impossible to get a message from you, I cry 
+http://twitpic.com/7ye7f - this is a pretty weird/creepy message haha. and i hate feet 
+@bubblegarm it won't let me comment, keeps giving me an error message 
+@druidDUDE i can't get ahold of you anymore! i've sent you a million messages 
+@PrincessLeah82 u dont answer messages on here either? 
+reallyy misssing friendss  text me 643*5136):
+i want to tweet a text longer than 140 caracters, what can i do? 
+can't sleep  this creepy was sending me messages so i blocked him ;D
+my phone has got to go. it just deleted every text in my inbox!! 
+Why does @hidanee never respond to my texts? 
+@theDebbyRyan 36 min and counting ..  I went threw all of your messages now it just hung up onme 
+@Skibeatz wow why did i just see that message just now 
+@mel_says there's only one person who can make me feel better...i'm hoping somehow she get's my telepathic messages to get online... 
+@jonaskevin I guess you will never look my profile to read the big message I sent.   (yeah, I know I seem desperate, but who cares?)
+Why aren't my texts going through?! 
+I fell asleep. ( and missed texts, replied, and invites!  never sleeping again
+So apparently i can update this through texts messages. I'm behind 
+@AmyFielden haha did get the text... i replied too!! i hope you got it  it was funny lol
+My mom is not answering my text messages  what is this world coming to?
+I love finally being able to copy and paste and forward! Apparently I still can't picture message though 
+@tylerdivine you didnt message me back on msn 
+The Smart Text Messages didn't work. The phone app did not deliver as promised. 
+So i dont think my text messages are workin...  im frustrated.
+bah direct messages are broken 
+Trying to outgrow putting smilies in my text messages and updates. It's harder than it looks...  D'OH!!!
+optus network down for anyone else? can't send texts 
+@KaylaMari  no bad days... If you start to have a bad day... Text me!
+@fallenstar_ I was just stalking your facebook... am I not cool enough for a message in the sand?  Haha.
+RAWR! I want mah letters to come in. 
+Sometimes the texts are not enough. I miss your arms around me 
+just woke up ...(no text messages  )
+@davewiner you have to adopt careful a combination of txt speak and selective omission 
+I don't know why I'm still waiting for a 'new message'. 
+@mjtarry I can't reply to your msn messages cos it says you're offline 
+jus read through some old emails, should not have done that 
+@MiDesfileNegro i miss you  and your smileys 
+TinyTweeter doesn't understand russian letters 
+TinyTwitter doesn't understand russian letters 
+is in the costume shop working all day again  Text me 2542475319!!
+no messages to riceisgoody  hah i am boredd...
+@GOGcom wtf, I just got this message it's gone already 
+@JimBarrows @Otir thanks. I am getting voice mails and no responses to my tweets. 
+And the mass text went out. 
+@scarlettlillian I totally agree! It makes it harder to keep track of old messages too. 
+@Holliie some things would make better text messages than tweets. 
+ Really bored. Who wants to come over and watch a movie or something? Text me
+not getting all my tweets via text anymore  only some wtffff i feel disconnected from @joshg85 and @jasonlomas
+@stuckonashelf Why you no text ME accidentally either? 
+I can't listen to these #eric msgs 
+@savecritters hey can't send private message back cause you're not following me 
+@heymeghan megggg  what's wrong? Text me when you get this!
+I didn't get any messages 
+@NFNiTM @DJNoreen didn't read out my bloody text! She officially hates me 
+Anybdoy anybody plz direct message me i want to talk i`m bored !!!!!!!!! 
+Oops the cat just walked across  my keyboard and sent the last message  before I had finished editing it! 
+getting sad at me ans sending me messages that aren't nice, isn't going to make them answer you! 
+ every number, bbm pin, and text message is gone from my phone...its empty. I'm about to cry...smh http://myloc.me/5dMB
+@babygirlparis hey I can't direct message you 
+i've tried to send an message from my phone, when i was at school, but i think twitter hasnt update 
+@misslauz it won't allow me to direct message you 
+@rlw6 Don't you dare!  Text me.
+@bethie61 I delete as I go mostly but when they get too like 300 they have to go  empty text inbox makes me sad
+//myspace message- you must be logged into comment this picture 
+message to self: think ask then act, and never assume 
+my messenger is fucked up 
+I really wish hed send a twitpic 
+On my way home from six flags and gurnee mills...soo tired, headache, blah. Text me pleaaasssee. @Audr3yyy i miss youuu 
+just cleared my phone of hundreds of messages. i always find it quite sad but i had to do it cos it kept telling me it was full! 
+http://twitpic.com/88cdv - ok my stupid phone didn't leave a message with pic  just some canvases that i keep collecting and haven't p ...
+Her* god predictive text on this can be annoying! 
+@needlefood I couldn't get ad words to work    and haven't found an email or phone number to ask them about it!
+@invisiblesparks No  processed some emails.
+@Steenybean your message got but off 
+@Mayysian well both Ateh and i called &amp; text u. U got us worried. 
+I cant sleep at all! This has been happening alot lately  dont know what to do- any ideas? Text them to me!
+@spencerrr I keep trying to text back, but getting an 'invalid number' message. 
+@lauraaa_xoxo what? what's wronggg ?  text me.
+where is direct messages to me 
+text me your number! i lost all of my numbers and pins 
+waiting for a little message from kim hyun joong... 
+Why I only see direct messages on my public timeline and NOT in Direct Messages window??? 
+@graffekta push is updated for beejive (my messaging client) but it crashes every 10 seconds on 3.0 
+@JelenaP thanks! Text me when you leave! I'll be so sad 
+My sms is broken 
+@ashleynicholem its weird reading all of old messages i miss what we used to have 
+@leeZAP i can't  thats why i told you to direct message me it.
+@missy_jade wheres my messages?? i thought we were bff's??!! 
+woke up early  helluh tiredd. text it(:
+I have NO signal @ this place! I have to go outside to send a message. 
+@emmacourtney85 woah...my contract only has 500 texts and ive never gone over that. I must be really unpopular then 
+@nokiamessaging i cant send you a direct message as u aren't following me 
+has received a text message from kailun 2 seconds ago. imisshim  http://plurk.com/p/13x9ct
+several emails and tel calls later and the in box looks less full....aah but then we have paperwork 
+I hate re-reading tweets that I post from my b-berry with mis-spellings and I can't delete and repost from my phone 
+@CoastalLiving There's a bunch of new spam on the message boards now. 
+grrrrrrr I can't open my emails 
+@peterfacinelli everytime I try to enter the contest I get a site offline message! 
+@33percent I just got the most depressing text message, im actually buying a pair of shoes b/c of it.   WooooooooW!
+200+ denyhosts emails in the mailbox this morning, perhaps I should put up a message saying the root user has ! in /etc/shadow ? 
+@sammijo66 if it's only a paper I'd suggest: a) a pigeon b) a message in a bottle c) other/don't know 
+You must live in or near Leeds and be willing to help out if required but it's not expected. Message me with why I should choose you 
+says bye  text text nalang ;) http://plurk.com/p/n1jyd
+@aerobic247 I'm on ulimited texts, I'm a serial texter! 
+@duskyblueskies That was supposed to come to you in text message form in 2 hours. 
+I'm Relaxing reading messages and finishing a project today. 
+@nevershoutamy here is your text 
+Checking email and reading birthday messages 
+@stablehost ah I have just about everyone I follow going to my cell phone via SMS.. and keep it up while at work 
+at the fitness center. Text me!! 
+Cleaning my room/myspace/facebook/music/texting/you  Text me bby 513-766-ask 
+@Daisyforyou I'm a text fiend. 267-243-2606 
+Message me\talk to me\follow me 
+@studioix added you as a contact @onthecity and left you a message on your profile man 
+this is my virgin message 
+Srry but ;) and  are the only smileys I know
+is getting some shut eyee  text me
+Changed the message length to 200 in the Cbox. 
+checking emails and stuffs. mabilisan lng. 
+pardon the tortured syntax of the second to previous message- 4am, just got home 
+@itsikalfon it's a low level message system think sms over internet. like voip. it's smsoip  with more functionality for public smsing..
+@harish_iitg nice status message! 
+@gabrielurianiii keep on sending her messages (don't spam hehe) she might send back one 
+Getting ready. Meghans picking me up soon. Then heading to church, and going up to big lake for the day. Text me? 
+@sweatypepper I turn three tarot cards, then reduce the message to a tweet. consider yourself on line. 
+Off to church pretty soon.. Text thee cell! 9516916483.. 
+I love goodmorning texts 
+And just when I'm abut to go to bed, I get a text message. 
+Tremendous. It works. I'm so glad i have unlimited text package 
+- is going out to watford, text me if you need me 
+I never run out of iluc messages to send you coz you're soooo great!  - http://ilikeucoz.com/m/1014 #youregreat
+@shaundiviney you're awesome! message back 
+@jonswerens No, just clicked send instead of paste! 
+Is stuck in limbo sans laptop. Calls and texts to keep me sane gratefully received 
+@McKatrine cool  send me a message   well i g2g now xD leaving my mac now   we can text instead xD
+ahah i just got a message from van ville 
+Hey  you wanna talk ? Text me ! 6619179074 dont call i wont answer cause thats creepy
+@bamboo101 do you read them? the emails they send you? me kasi i don't 
+I'm trying to write an english message on Twizz.. I can read, but I'm not so skillend in writing... I must improve my skillz 
+@igorajdisek I did it manually... actually, I retweeted from you and deleted the via... since it was too long  sorry bout that 
+@mashable did you get my fb message? 
+Movies with taiiii. text 
+I'm looking of messages p!nk receive 
+@googleqsb How to do actions on selected items or text?? 
+Hey guys! Text 'Davidcarias1' from your phones to stalk me all theee time 
+I learned if you put a smiley face at the end of a rude message that people don't take the message as offensive  lol
+@Artkele as u know tweet messages r like radio addertisement momentarily life  unless some one interested to follow u really 
+@dlanham check your emails 
+got the hiptop back. i missed youuuuu  about fifty unread msgs lol
+@marionryan what a funny message... I will watch out 
+@phxazlaura Thanks for the advertising! But you know that message only went to us, right?! 
+@ellisTHEmennis, in reply to your text earlier, I don't mind either  just ring me or something when you get back from theatre train 
+@morethanthat your so cool  text me anytime &lt;3
+@skinnylatte I know, just that a roomful of women gesticulating isn't particularly adding to the text. 
+@judez_xo OOooooooOOo text messages now ;) hahah yeah he is a great guy i love him 
+@murielara ah,i see. anyways, you already know what happened. but i'm wonderin how did you know that that tweet is about his text message 
+94% of all text messages are &quot;seen&quot; by subscribers....we can see where I am going with this 
+@motionocean So I kinda just dropped a message saying that, and he read it out 
+Why not e-faxes? 
+@KevinPorter i left u a memo on freenode, read it n respond plz 
+@mahdi  Don't u love all these stupid Error Messages?!
+out with mommy then to deannas  text
+@chrisrbailey if I didn't have unlimited texts, I'd send you a bill for $0.10. 
+SMS wasn't so bad either 
+@simplymallory direct message me and ill send it to the address 
+Finally got her new sim card. I can receive/send texts now 
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/cjvbc2
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/cjvbc2
+if i haven't followed you back, please send me a @reply  
+landscape view in email and messages is great too 
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/d94jwa
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/d94jwa
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/c889zx
+He answered my message !! Yaah 
+TTYL twitties...been up since 3am i'm soo tired..i'll be on later..feel free to still leave tweets 
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/d5qgxr
+cathing up on emails 
+@sbleby blebster! greetings from this side of the twitterverse 
+Just trying out twitter sms 
+I got that from www.tourcrush.com on their message boards...  They were talking about no on prop 8 and marriag.. http://tinyurl.com/dkgjro
+is back  not being on messengers 
+@SARGE_PAULNE is the text big enough ??? lol going to make a new banner now 
+@swaypastor follow me so we can direct message 
+@DDubLover i typed you a message over at the comm too! 
+@beauche I got a letter wrong, and retweeted. The issue is in a previous tweet 
+thankss hannah ? emails make me happy 
+@spoonerzd4 Text me if they have string cheese at the market today, k? haha 
+On my way back to philadelphia...texts or sexts will be appreciated 
+driving down the freeway! text it. bye! 
+@becjee - it only eats my direct messages. I was going to ask how you were, but you've just told me 
+replying to some hub messages 
+@btx91 i know! only cos i was sending you telepathic messages to 
+I'm moving from this chair to that bed. Text message me love. 
+@emmsrose *Texts* I'm with him right now actually 
+Laying down in bed  text me before i go to sleep 16304394062 
+hmmmmmmm sent the message  can be checked
+backk. danika and regan check ur text messages 
+@DianaWyatt   Twitterberry  message never turned up lol 
+Bad signal remove script in full power finished  no more bad signals and pings 
+I meant looking like a tiger - stupid predictive text 
+@LiesX xD send it! 
+@xkilljoyx dude. letters are the new currency. i think we're rich! 
+pretty fun way to write a resignation  http://www.farbs.org/Message.html
+back to my interesting emails... 
+@khad strange, that is exactly the chapter god laid on my heart to read in The Message yeaterday morning...He works in mysterious ways 
+I love cute texy messages. Especially when he calls me mandy 
+@justlikethem I would lime them. Or lemon?  And deal, sounds fabulous to me!  Text me up when you're back 
+@hellosunlight I want to know when the auditions are Mander! Text or...reply please! 
+I can only message those who message me, if we're fwends...so those that want replies..follow me.  hmm..that sounds funny..
+Babysitting. Text me and keep me company 
+Sinse i had dis thing..not 1 reply not 1 message. Nuffin! pshh who cares..i know im special  X
+I know my sunshine did wonderful today  I had an alright day! Text me twitterers.
+@hismuse I sent you a message. 
+Message me to book your piercing appointment now ! 
+new phone + zero contacts = poo. send me a message with your name so i can save your numbers thanks 
+@MichelleZen you need to follow me so I could send you a direct message. 
+@RemyBanks Did you see my message mandingo jr.!!..lol. I hope its music i'll like. 
+@milestorres #sometimes also emoticons sometimes 
+@BrianMcnugget are you getting my messages or do you have to add me to recieve them, soz I'm new to this 
+just typing this message 
+text-indent  - ???? ?? ?????????. ?????? 
+@ScooterDiva I sent her a SMS &amp; email. It's a long story 
+baking some cookies with my sister  text me?!*
+is on SMS mode. *just &lt;ding&gt; if you feel like plurking with me*  http://plurk.com/p/sxvfb
+how many replys can i get off this message  lets see
+@petercoffin oddly my memory can be horrible too, i have some crackin' direct messages though i can look back on if i forget. 
+@jackiehollywood we are soooo down!! send me a direct message with your e-mail or screen name 
+@dividedsequence @katienaas Hayyyyy those messages look familiar...hahahaha 
+@MsLaudanum thank feck - i was wondering how to retrieve all those messages 
+hey guys,if you send me messages here i'll make sure,i'll reply soon.P.S send me one now 
+@xJenZombiee  so YOU better text me when it's working. because I'm not going to. 
+@MysteryOnward miscommunication based on shortened messages, how about it ? 
+@pandaaMONIA going to 'direct message' you the lyrics!! they are amazing 
+@DingDong2112 btw, why r u sending direct messages? 
+@stubarker No no, you redirect your Voicemails to SpinVox and we'll convert them and send them back - http://icanhaz.com/getspinvox 
+@chasing_thomas hehe, wow. i just read that it didn't twig until i read your message to chezzy. lucky you, hehe 
+i feel accomplished  muhhahahaha text me!
+When my dad is drunk he tends to leave letters out of his txt messages. This is a rare event, by the way 
+@crazicoolgirl You should feel special!  I know he would reply to every one of you guys if he could. He is getting thousands of messages.
+@MissMillions did you get my last note? sent you a request on my other fb.. 
+Text me if you have my number 
+@JoshMalina I usually delete unreplied messages. lol. just said lego was the best toy ever 
+@joellllllll no can u send me yours ?  I wont copy it . I promise .
+I think its time for bed. I hope I wake up to some happy text messages from my frans.  &lt;3
+@pedrocs #tweetdeck Just turn notifications off in the settings (show notification window &amp; play notification sound) 
+if your reading this send me a message back im bored 
+@roleykrazy13 i dont see a message but ill check when i get home  how much is fluidline?
+About to go get myyy hair did &amp; go shopping! Text me bitches 
+is exhaustedddd.. out with familyyy.. text 
+@kiannabanks lol ... ill send you a pic if you want 
+@firienbarn you can reply buy either typing in @emilysmum or by clicking on the reply arrow when you put your mouse over the message 
+@jordancrockett1 just the verse I was reading when you asked for a text.  
+I have to work. You will stay on current, message me 
+Direct messages are good too 
+Last night wa probably the est night of my life! I love my hubby.  watching desperate housewives. Haha. Text me. &lt;3
+yay! I got calls AND texts but the most important part is that they were from ppl I actually want to hear from. haha. 
+@jikam awesome  I got an SMS last week saying someone was interested in sponsoring our mirror hardware - but no response since.
+notifications on though, so just reply to me here and I'll get em. 
+i like unread emails. 
+Urgg I'm tired beyond beliefe but text mehh; 7047182092 
+@etheya Haha, reteeeting your own messages now I see! 
+@jenxPOdMa a dm is a direct message.u can send them on here or receive them.look to ur right &amp; click on it.try sendin me one. 
+@ayumi_rollan message me your ym address 
+E-mails checked, tweet responses, done... forum checked &amp; now to get a document completed. 
+I like the message. 
+Text me 
+is enjoying his last day of school!!! Then with his favorites!  Text it!!!
+I'm about to leave for schooool, text meee. 
+@systest welcome to the twitterverse! (I just want to be the first message on your profile  ).
+@just_dy: he, finally you know how to make a direct message, huh? 
+@judez_xo I sent you that message. 
+@1critic Type? That I haven't tried. I click the letters with my mouse 
+so... keep it short, then direct message it nalang to me. THANKS  
+@thisisrice http://twitpic.com/5oedx - I like graffitti with a strong message 
+@vikkipedia fancy  Wish I couldve gone with you. I got the message too late. :C
+@ShoujoPunk check you livejournal- I left you a message I think you'll like. 
+@radio_schizo pointed out yesterday that my posts are a signal for my American friends to go to bed      So... http://tinyurl.com/px4qmb
+@British_Lions you bloody coward !!!!  have texted him your comment and sent your address
+@xoxDATRAxox i am bored!!!!!! and leaving you a pointless message with no relevant content except today sholud be funny!! 
+@roundeee We are now following you, so you should be able to message us. 
+@dannywhitehouse That last message wasn't a dig 
+This is boringg... Text me pleasee!!!  
+@dhruvasagar i know about it, i want to *download* them in a text file 
+we want your cracking demo's! direct message us to find out more 
+@sidrajalil1132  Shukria.... Forwarded SMS
+You what makes me laugh  these debouchment message's, rudebw'oy with NO SIGNATURE, @pcdmelodyt @christinamilian, nearly career crumblers..
+@camcol94 YES mine too   such a good message! It was my favourite song when i was little, it was like all i listened to 
+@TwibesHelp bug-no icon for follow, reply, direct message when u place cursor under my profile pix. only twitter icon appears 
+So, DotSauce regulars may want to check their emails right now 
+In some weird mood. But like so happy.    just want to listen to weird music. Text me.
+@ToddLay - Depends on the messages you are communicating  I have three. One for my alter ego, one for my company (BSETC) and my own.
+@mcclorybrin catch up already! I sent u a message 
+Ah work till 4. Then the whole weekend off. Text me i guess. 
+@SicknastyLaura i will later  check your texts hahahaha.
+@MARbobo7 @_fontBurger please check your direct messages in response to your questions, hope you're having a nice summer  ~hrbs
+More stores on the way.....  - If you have a store / work for a store and you want it SMS enabled - let us konw
+More stores on the way.....  - If you have a store / work for a store and you want it SMS enabled - let us know
+@Colbydomino sorry i cant send you a direct message since your not following me but yep i was 
+Text text texies!! 
+finally done with Archuniversary greetings. 
+@annielovee  texty text. Haha
+Just had a texty-text conversation w/ the Hannicle...loved it! 
+trying to get tired. text me 
+It's the message in the song that make u rock so much. 
+NIGHT! Text it 
+my inbox holds about 250 messages or so 
+I just got a random message from punit ! I haven't talked to that nig gurrrr in foreverrrr !  lol

@@ -1,0 +1,24 @@
+Most common words for this cluster:
+[('thanks', 21), ('paulrhanna', 1), ('comment', 1), ('people', 1), ('xd', 1), ('melissabutton', 1), ('dear', 1), ('hehe', 1), ('album', 1), ('bathroom', 1), ('na', 1), ('wow', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'thanks', 0.9999723434448242), (u'Thanks', 0.7247014045715332), (u'THANKS', 0.48482704162597656), (u'courtesy', 0.47712254524230957), (u'thank', 0.472782701253891), (u'benefitted', 0.4632111191749573), (u'kudos', 0.453908234834671), (u'despite', 0.4531424939632416), (u'congrats', 0.4485168159008026), (u'benefited', 0.44781461358070374)]
+
+
+
+
+
+@MelissaButton thanks. Wow musical hehe. I am good thanks. Unfortunately i cannot rhyme like you 
+@itchynox thanks man! thanks heaps...glad you dig it 
+@webteam30stm thanks for the link, and thanks for following too 
+@stephmcintosh Thanks but no thanks  I only follow a few people I actually know. She seems lovely though, thanks for thinking of me.
+@markhobber thanks, but no thanks! Don't do strange 
+@paulrhanna thanks bruv! glad you dig the album...and thanks for chiming in! 
+@jordanknight thank you my dear! thanks! thanks! I love you!! 
+@spicycauldron thanks for the commendation, rarely am I described as 'fetching' 
+@saintlaralie I think I read that as 'sore from the bathroom'. I was gonna be all, thanks but no thanks! xD I'm super fantastical thanks! 
+@coooties thanks sooo much  and thanks for the comment :]]

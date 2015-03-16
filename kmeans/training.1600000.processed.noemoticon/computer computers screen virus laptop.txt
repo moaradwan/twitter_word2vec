@@ -1,0 +1,50 @@
+Most common words for this cluster:
+[('computer', 30), ('computers', 14), ('screen', 4), ('virus', 4), ('laptop', 3), ('bordem', 1), ('hackers', 1), ('psychotom', 1), ('arghh', 1), ('twin', 1), ('viruses', 1), ('sounds', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'computer', 0.9995353817939758), (u'computers', 0.8117793798446655), (u'laptop', 0.6784079074859619), (u'laptop_computer', 0.6636253595352173), (u'Computer', 0.646842360496521), (u'com_puter', 0.6096240878105164), (u'laptop_computers', 0.5738371014595032), (u'laptops', 0.5713527202606201), (u'mainframes_minicomputers', 0.5691938996315002), (u'technician_Leonard_Luchko', 0.5680795907974243)]
+
+
+
+
+
+the computers might be operational but there still isn't much to do 
+Staring at my computer screen 
+@digitalclover Did you see that @brettnoe said that one of the computers crapped out? 
+@PsychoToM to be fixed  .. I use my sisters computer , whice is the stupidest computer ever ..
+ computer overheatedd. I think i smell burning laptop...
+My computer has a virus and that is not fun 
+arghh nooooo!  my computers about to go dead 
+really bored computers not satisfying my bordem 
+My computer is very sick.    Where can I buy computer medicine?
+The computers hate me. 
+Is in computers 
+I really hate computers.  why do they have to be difficult?!
+My computer just gave me the blue screen 
+These computers are being toooooo slow 
+yay!!! my computer is fixed!!those mean hackers 
+my computer sounds like it's hungry... i can't have another computer die! i will have no computer!! 
+going to give JellyBean (my twin) the computer..  i need a computer....
+@Lozzie101 shopping. I am trying to put LVATT on my computer but I am &quot;freaking out&quot; cause the computer is being silly 
+My laptop is down so I don't have a computer right now 
+I am going to punch this goddamned computer screen soon . . . 
+I think my computer has a virus 
+Computer is busted going to use parents computer . . . Not too happy about it 
+dealing with a computer's virus! 
+ahh i need to plug my laptop in, this computer keeps fuzzing at me 
+Waiting on computers 
+My computers broken.  
+#inaperfectworld computer would not get viruses 
+my computer is being slow today  stupidd computer =/
+packing my computer = bakal jarang online 
+My computers fucked 
+ugh selling computers is hard 
+i hate when i'm on a different computer and i can't remember my passwords b/c they're always saved. 
+Anoyed my computers broke 
+No more big computer screen, 
+@fieza46 you love computers..... 
+virus hunting on computer - always wondering what it will destroy 

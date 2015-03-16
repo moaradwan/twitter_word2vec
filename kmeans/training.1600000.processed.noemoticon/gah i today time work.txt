@@ -1,0 +1,294 @@
+Most common words for this cluster:
+[('gah', 282), ('i', 15), ('today', 14), ('time', 14), ('work', 12), ('sick', 10), ('day', 9), ('tomorrow', 9), ('my', 8), ('quot', 8), ('na', 8), ('days', 7)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Gah', 0.9810537695884705), (u'frnd', 0.561589777469635), (u'ho_gaya_hai', 0.556532621383667), (u'kot', 0.554236650466919), (u'kharab', 0.5526081919670105), (u'dekhi', 0.5512712001800537), (u'theek', 0.55062335729599), (u'Habba_Khatoon', 0.550466001033783), (u'kab', 0.5489809513092041), (u'zaman', 0.5465670824050903)]
+
+
+
+
+
+@plastikgyrl Gah, of course. HUGE mess. 
+I'm obssesing about my weight! Gah! I can't stop thinking about the lbs. I've gained!!! It's making me upset 
+Gah! The wait is killing me! 
+Gah.  But I don't WANT to be at work by 9. There is work to do for #Heroes for Autism!  And @housepetrelli.
+Started working on the Argent Tourney with my Pally. Gah, two character's worth of rep grind a day now.  #wow
+Gah! Perfect sunglasses weather and mine are nowhere to be found. I need them to complete my look! 
+@iamthejessness Gah, I wish.  
+Gah! Why does he have to go away for a week 
+Hooked to fanfiction again  Gah wrong time wrong time..
+Gah the feed and weed has fed the weeds 
+@cindypon Gah! I hate those. 
+Gah...there are two patients with the same last name, and I sent for the wrong one. Now people are cranky with me 
+@vinny_vegas yeah, that something is a nice eight letter word: DISTANCE. Gah. 
+Gah. Apple in ear expensive headphones annoying. I get zaps like electric shocks intermittently. Returned them at weekend, new ones same 
+Feel like throwing up. I think I'm getting sick  And my eyes are all ichy and teary, and my nose is all sniffy. Gah!
+Gah! I dnt want ta go ta school. I wanna hang out in london 
+Gah - we've now crammed so much into Clover we're getting OutOfMemory exceptions 
+@1027KIISFM Gah, I would love to do that. Lame living in Australia! 
+Gah so tired from work, now I have to go out tonight, don't feel like it, but its the last time until after exams 
+Gah! I wish it were raining 
+Gah! Chavs left chip wrappers in my garden yesterday. Today they're making the place look untidy 
+@Sewwychristine Ugh, that sucks! Couldn't he play WoW on the laptop, or play it later? Gah 
+I think I'm dead, really dead. Gah  x
+Gah, I can feel pass out times coming on  best lie down x
+@paigetheshiz I do believe my dearest Paige, I just rebroke my back. Gah pain  x
+@portugueseninja Gah!  I have to go and do lunch but I wish you healing! Heal..age?... Scabbyrific.
+Gah! I'm gonna be the only single one there! I'll be all alone. 
+Gah I've hurt my back 
+Gah my body is so weak 
+Awake  I can't sleep properly anymore!! Gah
+Darn! I seriously think there's no session tday. I went and d room was dark. Gah, must emaik d person  wasted trip.
+Gah - my contacts are blurry. I have to order more.  I need more money.
+Gah. Can't find a ball with big enoiugh holes. Sad fase. 
+@nsuttner  You could save it and give it to me. Gah. I miss 1UP FM.
+Gah. Everybody has gone to bed already and there's nobody to talk to 
+My todo list is long. Framework, new app/community (gettin' paid though), school-stuff and some random stuff. Gah. I might die 
+Gah! Cannot pass a member function pointer to a signal handler in C++   http://tinyurl.com/ytb5vo
+Gah, if only I were sure about the written portion, then I would be studying for chem instead of bio 
+Gah really sick. I thinkim getting the flu 
+@SilentMandie They were interesting, but definitely not s important as a do or die playoff game. Gah. 
+Gah! Sick kid and I was supposed to be in a performance today  No fair!
+@weiserman, wait, make that THREE papers  Gah.
+Gah!!! I want to go to pamona tomorrow why do I have to like 200 miles away! 
+@paigetheshiz Hey, why is she pissed? Does she think I like being sick!?! Gah I hate sport teachers  x
+@UluvUY We all want a reunion.  Problem`s always at time&amp;date. Gah. @-)
+Gah! I went to sleep too late to have to be up this early...  
+I feel like being stuck in my house for the last 2 weeks is quite intoxicating. I'm getting so flabby, and yet unwell to go out. Gah 
+Gah... I can't believe I so woefully and inadvertantly spoiled lost.  http://myloc.me/RsF
+Gah, holiday nearly over... Sigh. 
+Gah! Why the hell am I feeling down? 
+Gah, I am ALWAYS late to the party! I wish I had more free time to tweet 
+Go back to sleep, go back to sleep, go back to sleep. Gah, I'm awake 
+Gah, 6hrs back to KC 
+Gah! Fucking card won't work on ebay for some reason! 
+Gah ijust had to help my mom pull weeds 
+Gah. Fell on my arm 
+Gah why is everythingso complicated  makes me sadums
+Gah... I'm so sick of being sick. I just want to cry 
+Gah. Started making some major headway on my crashreporter app, and then I hit Symphony's subsection field limitations again 
+Gah. The light in my room is still out. Really need it to be fixed 
+Gah im freezin.  hate wakin up cold in the morning
+Gah, 2 hours until I can fart about with new iPhone freely 
+Gah! I'm almost 20  I feel old when i see little kids walking and talking. I remember a time before they were born!
+Gah; set off early this morning to avoid the M25 traffic. Arrived in plenty of time for pre-meeting, and discovered it's all cancelled 
+Garden needs rabbit proofing. Gah! first time they've nibbled my garden up 
+@algonquirnt i just wept like a fucking baby at ur update... Gah bloody lv it. I wish i'd read it b4 i wrote my recc for the PPSS pick!  
+So freakn tired! Gah, I want sleep not work! 
+Gah so over being at home! I want to go on holiday again 
+Everything is broken - and people are annoyed that I broke it. Gah! 
+@Zackules Gah sorry I've just been trying to finish crap up and I'm going to be out of town this week 
+Gah my moms bedroom door is open and they wond stop fucking talking omg as if the heat wasnt already making it hard enought to sleep 
+Gah the sunlight is so bright today it's giving me a headache  Resorted to wearing new sunglasses
+@lilyginny27 @tomfelton no freakin way!  Gah LG... I'm sad for you.  No love for the feltbeats admin... 
+Gah, I'm jittery and upset for absolutely NO reason... 
+Gah, I sprained my LEFT ankle... Just after I got over the torn ligament for my right foot. Looks like it's back to walking with a cane 
+Gah! I left my glasses at work and reading is giving me a headache.  I can't believe how much I need them these days.  Old age.
+@x_crazyangel Gah   But Gregg should have got the hot and talented vote, dammit!
+Gah! Mtn Dew website says &quot;pending verification&quot; for the big prizes!  I want to know that I didn't win plzkthx.
+Gah, I am going to die of boredom today 
+Gah, bunch of loud drunk douches across the train from me. 
+going to sleep. Gah, I'm really dreading this weekend 
+Why do I always get stuck in queues where the guy way out front is taking AGES holding everything up? Gah. Heathrow 
+I hate my family, life sucks, the end. Did I mention I hate my family. Gah.... I am so pissed and now can't sleep woo adrenaline. 
+Gah! Need a new phone but Vodafone's being annoying saying I have to be 18  I'm too tired to be getting stressed! Bah humbug.
+Gah. For the 7 millionth time, misremembered plans and checked about 2 hrs after I should have left. Meat &amp; alcohol bought, train late. 
+@captainblubear Gah I love mangoes! I want! Too bad they don't suit me 
+GBT - Gah, I can't bear to see the kids cry.  Stop it dammit, your're making me put my sad face on.  
+Gah house cleaning time 
+@MiraclesGoddess Thanks for the link, but it's full! Gah! 
+@ninjaavie89 Aye I'm glad I don't have 4 of them ;) Gah, he's been going awol for a while now but tonight it all blew up 
+Gah just remembered a friend's 21st party is tomorrow evening. Oh how sense is pleading with the rest of me not to go... 
+Gah, the weekend is half over.  After two long weekends, I'm not ready for just two days!!!
+Gah, I'll never get any of these trivia questions. I'm on sloooow dial-up, so takes forever to load webpages.  Boohoo. 
+Off to bed, I am extremely tired. Gah school 2morrow. 
+Gah ! Why do pubs in pune shut down so early? 
+Gah,,,it's too hot! AGAIN!! 
+@azzyheartsw Gah! I am too late! 
+@ohhaimegan Well it should be there by then!  Gah, I wish I would have known earlier. I would have sent more stuff. 
+I want to move out, NOW. Gah. I can't stand these people 
+Gah. I just uploaded 96 pictures... WRONG. D: I have to start over completely. 
+Gah! Noticed I keep transposing &quot;there&quot; for &quot;their&quot;. How embarrassing 
+Gah!  http://tweetstats.com isn't supposed to be down! 
+Gah! The M40 has turned into a 4 mile long, 3 mph conga. 
+@otaliasocial oh no! Gah! all I wanted for forever was for Rafe to get out of prison...but now i'm a little worried! 
+Gah why am I so mad about never seeing fallon again?! 
+@jesusdiaz Gah, but then I might be tempted by newer, prettier, more expensive models!  (OK, I'll wait anyway.)
+Gah... Left wallet at home and bank closed so couldn't deposit ...  guess wont be buying online tonight
+I feel like it gets pretty hard sometimes. I get this feeling that I just want to leave. Can you move out at 16? Gah  I hate this.
+Gah!! &quot;Orange Days&quot; is making me cry! Why wasn't I warned?! 
+Is sick. Gah.  I hate throwing up. Hopefully I'll be better by tomorrow. I'm going to try to get some sleep, goodnight tweeters.
+Gah. Why is it lately whenever I take a plane I get sick in the next couple of days? I can feel a cold coming on 
+Gah, I feel absolutely wretched  I think, early to bed tonight, but I guess I should see a doctor first.
+Gah...I`m sick. And I feel like I was ran over by a truck. My throat`s basically on fire. 
+Gah! I hate classes when the weather is so amazing  I want summer holidays...but I won't have them ;( stupid uni...
+Gah in knee support not good  gutted times
+Just ran for the bus! Gah I hate physical exersize 
+@whedonesque Gah!  I finally broke down and got it from ebay yesterday, as I had despaired of ever getting it in a store.  
+Just brought credit.  Gah my shoes gave me sores on my heels, they're bleeding and hurt  Fck you shoes!
+is going to need to go into Bristol tomorrow I think, I need a sodding cable for my headphones   Gah, it's bent and one side don't work
+Gah. this weekend of plans changing every 9 min is getting olllld. im missing some major MOH stuff tonight 
+Gah... so stupid last night. Got drunk and played insecure jealous guy  I hate him and want to kick him out. How do I repair this now?
+Gah! I left my makeup pouch in the office! I so CMI with liq foundation 
+Gah, now it seems that gpg doesn't work correctly if you've sshed into the box.  /dev/tty doesn't exist.  
+@johnhood Gah haven't bid yet and its more than I can do  I'm a last minute bidder. Ah well, if its ok I'll miss.
+Definitely sick now. Gah! This truly sucks. 
+Gah gave vodaphone wrong PAC code from 3. Means I have to wait till monday for touch pro 2 3d 
+I just got done Packing for my twip. Gah?! I have to get up at 4:30 am for my plane ride.  i will miss you guys  lol
+Gah! Squished my hat! 
+Gah, trying to hunt down scripts I wrote 5 years ago and can't find them anywhere they're supposed to be 
+Gah - major screwup seems I set the alarms off after I left the house tonight.  Seems to have spoilt a few of the neighbours' night. D'oh.
+Gah i sliced my finger! 
+Gah, I hate it when you do stupid shit that will fuck up your life because then I have to convince you that's exactly what it is... 
+Gah im hungry someone bring me food!! 
+Gah! I love my family! I hate that they live so far away  it breaks my heart when they cry to stay
+@lee_kd I forgot to tell you but I rememberd that some bitch has hacked our myspace... Again... Gah 
+Gah!  Not being able to sleep sucks...there is no one to share the night with 
+Gah. My motivation has run away. I miss it  I could do with it right now, really.
+@Narcotic_Nights Gah, sounds frustrating. I get like that sometimes with writing. I hope you can pick it up soon cos that really sucks 
+I don't wanna work. I don't I don't I don't. Gah, no surprise here, I will work. 
+Gah work 2moro 
+@jamesrbuk Wouldn't give him time of day, but you know what I mean lol. Gah, exam in the morning, probs shouldn't stay up much longer. 
+Gah. This exam stuff is exhausting. Gah 
+Gah forgot about this! @_@'''  announcement on TFA: it is over.  *sniffle*
+@EnchantedElla Gah Im so nervous  dont like this feeling.
+Gah who the hell does laundy at this hour...looks like I won't be sleeping for an hour or two. This sucks hardcore 
+@tabloislove D: sorry! Gah. My brain isn't functioning, it's too late! LOL sorry 
+Gah, this kinship diagram is even making Visio #fail 
+@JoBenhamu Gah!  Khaaaaan.ytmnd.com has been changed (just got home, couldn't verify it was the right site earlier). 
+will close plurk tab first. Gah.  http://plurk.com/p/112pzd
+Gah! @bitchinmona called in sick. I'm gonna drown in all the work today. 
+Gah, why does she want me to go in for four hours? 
+Gah twitteriffic won't work!  So I'm stuck looking at updates on regular twitter 
+Gah  i want to be better again! Being sick is ewwy and feels ewwwy
+Gah, spent all morning trying to get this WAP in Crozier to work, still being an asshole though.  
+Gah! I needz a hug 
+@erob1 Gah! I forgot today was your first day! I didn't even wish you luck! I'm so sorry!  I hope it's going well!!
+has had the hoover out again - child dropped biscuit barrel  Gah. Now waiting to see what kind of tide mark she can produce on the bath
+Gah still sat waiting . On the ward now .  hungry bored ill and frustrated
+Gah. Think I am having a muffin disaster. They are not turning out as I hoped at all     at least the sencha I'm drinking is good!
+Gah. My tummy hurts, no cleaning for me.. 
+Gah. I have to go and buy a bathing suit. I don't do two-pieces, so hopefully there will be shorts with my name on them. I can't swim. 
+@SymanthaFox Gah!!! I can't see it till tomorrow 
+ouch! My scalp burns  and my shoulders hurt. Gah.
+Gah. Have stuff to write about, need pictures, flickr not loading for me. So annoying. 
+@anniemal Agreed, tired &amp; what does it do for people already smoking? Gah, I need to quit 
+@AlexSFLTV broke @sfltv .com  Dang mouse.. PREVIEW theme not activate! Gah Alex is gonna be in trouble....
+Gah my dog shed all over my bed now i can't breathe 
+Gah new CD keeps skipping  liking the sound of it though!
+Gah I am out of french vanilla cream am stuck with hazelnut  how could I let that happen?
+Gah starving. Bad pizza and a side salad today. But not for another hour 
+Gah! My eyes are puffy. 
+Just briefly chatted with @chrisbrogan and my blood sugar is so low. Must have sounded incoherant. Gah! 
+Gah, work makes me tired 
+wants the #ipod touch #3.0 software. Its released on the 17th. It IS the 17th. But its not available to download. Gah. BOOOOO 
+Gah, realised I left my headphones at Vapiano earlier.    Really hoping somone handed them in, will be going by to check tomorrow.
+Would give anything for my car to be six inches shorter so the Meter Maids won't ticket me.   Gah, parking in the city is such a bitch.
+Home now.. Gah so bored!! 
+Gah I'm still upset about the game being PPD 
+Going to bed. Gah my parents are so annoying 
+Gah, I really hate it when my posts get Stumbled - I always end up having to close comments because of the assholes 
+Gah,  I suddenly feel like eating sushi... Too bad my favorite restaurants are a bit too far from the office 
+Gah this wrist hurts too much, time to head out, get lunch early and buy me a new support for it 
+Gah! Coffee breath!! 
+My damn nerves are all worked up over the stupid car. Gah. My whole day will probably be ruined 
+Even though I got up on time and everything, somehow I'm still running late. Gah! How did this happen? Also, my socks kinda don't match. 
+Gah. Now to walk home. In the rain. 
+Gah idk what i want to be when i get bigger   *L!nd@*&lt;3*Cr@!g*
+Gah! Apple! Apparently &quot;pause&quot; doesn't really mean pause! Starting over on download. 
+Saw the nice doc today - he thinks I may have asthma so has prescribed me an inhaler. Gah sucks! But I guess if it helps 
+Gah! Missed @WhedonTrivia question again! And for once, I saw it, I just said &quot;Meh, I'll answer later.&quot; *hits self on head* 
+@dunwan2 man, i know. sucks bigtime.  and im trying it thru the mobile web, but it isn't working. Gah.
+Gah, I ran out of my v the other day and now My levels are all out of wack. I can really feel it now. A total depressive mess.  Le sigh...
+Why is nothing working today???  Gah!!!
+Gah!! I spent a buck on using the stupid wap on my phone  I want wifi on it!!! ;(
+@RyanSeacrest   Gah !!!  I know what you mean 
+Meeting at work in a couple of hours. Gah, can't be bothered. Need a life, been sat here doing nothing all day. 
+@Jimmy_Poodle Gah, poo, bum, rubbish, drat, w@nk, arse! 
+Yay! 3 hours to gym. Need a rest. Aarrghh... I need my teacher 2 explain this equation.  Gah!  Whoever invented math must be really bored 
+Gah. Too good to be true. A technical delay 
+Gah! I just dropped my phone and now theres a huge ass scrape where it scratched the plastic off. 
+Whew, pages of SQL database queries today, Gah, ok, back to good old form validation work, wait what?  wish I had more sql to work on
+@davegarnar Dammit. It was an unpaid position so that means I owe *him* money! Gah, just because I forgot to remind him that FOTC was on 
+@EdCrowza Gah see that's what I got, but I meant to buy Amp. What I got tastes like butthole.  When are you and Jen gonna come visit!?
+@formidablephoto @p3dro Gah, my moneysaving 'suggest it as a purchase to the local library' backfired. They declined 
+@lauracfin Gah, my dad is flying in from Florida to renew his passport then, and we are both going to Ottawa that weekend. Sorry. 
+Gah! Headache! Gah!....also wayyy to many meetings 
+Gah!! I forgot to take a photo of me and my companero  Oh well - guess I'll have to dig out an old one to embarrass her with!
+Gah! I can't hook my Xbox up to the internet... probably due to the access codes we need to insert before going on for the first time. 
+Gah so tierd! and i still have to get up at 5am 2morro 
+Gah I dont feel like going for lecture but I have to submit my LAST assignment 
+I guess bed. Sometimes i wish my boyfriend wasn't forty five. Gah. 
+Gah.  I always cry when Oz leaves.   
+Gah wat is it with summer that makes me sad/depressed?! 
+Gah.. Finding nice cars anywhere near you is almost impossible, I need a miracle 
+Gah, I've 2 massive spots/bites which have appeared on my cheek yesterday. Very painful and rather unsightly 
+Gah stuck at a counter and 15 minutes to VGL 
+Gah my sisters flight is being delayed even more  now we only get to hang out a few days!
+Gah, last days suck. :/ bye first year teachers 
+Gah what a stupid dream.. It makes me want it more. 
+Gah!!! #openvideo starts referencing rapid prototyping, and the video stream conks out. My worlds collide, and I can't follow along? 
+It's WE, I'm tired and still work to do. Gah  #fb
+direct them 2 yr profile &amp; follow who U follow or else! @lizwoolly: Gah! my #ff'll B freakin #fsat by the time I get a min 2 myself 
+Gah! I'm tired and my eye's hurt 
+Gah! I can't get into chat 
+Gah,  been awake for ages - giving up trying to sleep 
+Gah, i can't sleeep. And i have to work at 9. 
+Gah! Ran the same distance as last week. Still stuck at the 1km mark  I think I need to do 3 runs a week if I'm going to improve.
+Gah! my blister freakin hurts 
+Gah, spoke too soon. She's awake 
+Gah... so much work to do... so little time... i bet i'm gonna get sick soon, it's like a tradition to get sick during iMovies... 
+Gah  just filled up on gas, full tank, two days ago. Now I'm at half tank!
+I'm gonna sound really sick/stupid now O.o  But.. I miss having anorexia   Gah, I know that is stupid but I hate being fat.
+Why am I not sleepy in the slightest? Gah, supposed to be up early tomorrow. 
+Gah. I can't put songs in my iPhone. Why is that? 
+Gah tired and he didnt text back OR ring 
+Gah, I wish I could go to Grudge Match tonight! But must study instead. Also am sick. 
+Onto poa now. Gah, i need sweets 
+Gah!! Holiday is ending 
+Gah the twitter widget for blogger is so ugly. I guess i gotta get the flash one.  - http://tweet.sg
+Gah, I just can't get my mind set on my text for standup comedy 
+Gah, I wish I was attending the MMVAs. 
+Gah, I screwed it up the first time  All sorted now, OS X is installing fine XD Just got to make sure everythings running correctly.
+@bex_1210 hmmm well I've watched BTS but that is as far as I'm going!! Gah, I'll prolly cave eventually  I can't wait 5 months D:
+I don't think payday is today  it would have come through at midnight right? Gah!
+@HeyyJessicaa oh dear!  and omfg, you've changed your twitter name too?! Gah! Cannot keep up with this. haha
+Gah got banned again on habbo 
+Gah coming to school today... still feel like crap 
+I need alcohol. Gah, maybe weed. 
+ Today has kinda been a stinky day. Gah.. Jsdeuioslkdjfh
+Gah. All I see outside my window are traffic cones. 
+it should not be getting soooooo hot  I suppose I'd better get used to it. Damn, 100 tomorrow!!! Gah...
+I hate enter keys!  Gah,  Damn things are forever in the way when I type.  And I sent an update from my phone and it still isn't showing. 
+@storycorey Gah! Why are you such a hit with the pedo's 
+Gah! Rush hour traffic 
+The bus just went off! Gah!  - http://tweet.sg
+Finally got student finance but I am ill off work  Gah.
+Guess I'd best head back into work. Gah 
+Gah... feeling dizzy and nauseous  I think I'll go sleep the rest of the day X_x
+Gah! Of course someone finds a Romancing foil when I'm out of credits  #packrat http://tinyurl.com/jo-efu-story
+Gah!  Nightmare last night that @modwheelmood broke up 
+Gah. I can't see 
+Gah I think my doctor just laughed at me. She's usually so nice 
+@lazyage wow, thats two awesome degrees mixed into one! Gah, im sure you'll do fine  just take it easy, dont overwork urself too much! 
+@eksentrik Are you sure? Gah I'm really embarrassed now &gt;.&lt; If so, big thanks! Um.. it's Watashi ni xx Shinasai and Arisa? Again, thanks! 
+@vilcsak Gah I don't know how!! What's the number? aaand I'll go shoppin 
+Gah I'm so tired.  21 choices interview tomorrow!  Pray that I get the job please!   free yogurt from me to you if I get it 
+mm-mmm ... Hawaiian and italian.  why is it that ive only just heard about it now? ... Working on creative arts paper ... Gah!
+Gah I love TMH so much!!! It's one of my favesss ahhh!! Never get tired of it lol. Try to reach out to you, touch my hand!! 
+Is anxious for this week. It feels like the end if an era. Gah. 
+Gah! I can't wait for the 29th 
+Gah! The photographers look so professional! 
+@webaddict Gah! Some folks have all the luck.. 
+@randomblonde i know! Damn McFlu! Gah! Lol 
+@ninetyyy: Gah, so early for work! have fun lol, be positive 
+Gah, earthquake. First thing I grabbed was my cat 
+Marnin all,,,on me wayyy to traaaining! Gah. . . What a looong day i've got ahead of meeeh!  Xxx
+@MelRyan Gah! Onto msn you must come soon!  xo
+@explosivityy ...are ya home?! I did something stupid: accidentally deleted your contact info from my cell! Gah! So, are we on for tom? 
+Gah, i need my TSCC dose today!!!! At least I read a really good new Janeron fic 
+Gah, mean shizz. Yay friday tomorrow , should be fun hopefully.  Then prommmmm 

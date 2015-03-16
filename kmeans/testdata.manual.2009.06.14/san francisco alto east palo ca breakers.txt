@@ -1,0 +1,26 @@
+Most common words for this cluster:
+[('san', 9), ('francisco', 8), ('alto', 3), ('east', 3), ('palo', 3), ('ca', 2), ('breakers', 2), ('bay', 2), ('blech', 1), ('yeahhhhhhhhh', 1), ('help', 1), ('bw', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'San', 0.8202582597732544), (u'Francisco', 0.6776430606842041), (u'Almaden_Expressway_San', 0.666466474533081), (u'Son_Mun', 0.665131151676178), (u'Alfonso_del_Mar', 0.6651195883750916), (u'Manuel_Yamaha_rider', 0.661652147769928), (u'Chez_Bistro', 0.6601170301437378), (u'Soccoro', 0.652218222618103), (u'Vicente_del', 0.6439110040664673), (u'Laborin', 0.6402280926704407)]
+
+
+
+
+
+glad i didnt do Bay to Breakers today, it's 1000 freaking degrees in San Francisco wtf
+is in San Francisco at Bay to Breakers.
+just landed at San Francisco
+San Francisco today.  Any suggestions?
+@legalgeekery Yeahhhhhhhhh, I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.
+Boarding plane for San Francisco in 1 hour; 6 hr flight. Blech.
+bonjour San Francisco. My back hurts from last night..
+breakers. in San Francisco, CA http://loopt.us/4v88Bw.t
+Heading to San Francisco
+With my best girl for a few more hours in San francisco. Mmmmmfamily is wonderful!
+#jobs #sittercity Help with taking care of sick child (East Palo Alto, CA) http://tinyurl.com/qwrr2m
+I'm moving to East Palo Alto!

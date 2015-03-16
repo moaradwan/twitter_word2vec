@@ -1,0 +1,394 @@
+Most common words for this cluster:
+[('happy', 393), ('day', 270), ('mothers', 140), ('birthday', 77), ('mother', 62), ('mom', 30), ('moms', 27), ('today', 25), ('everyone', 22), ('bday', 18), ('fathers', 17), ('lt', 15)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Happy', 0.9998923540115356), (u'Tail_Ale', 0.6031915545463562), (u'Actor_Jeremy_Northam', 0.5812783241271973), (u'Merry_Christmas_Happy', 0.5559324622154236), (u'Happy_Belated', 0.5472368001937866), (u'Happy_belated', 0.5356507301330566), (u'Gung_Hay_Fat_Choy', 0.531147837638855), (u'Blog_Hoggers', 0.5305662751197815), (u'Happy_Valentines_Day', 0.529018759727478), (u'Valentine_Daze', 0.5264331102371216)]
+
+
+
+
+
+Happy and sad, I don't have to go into work until 3:25 today, but I miss out on my 12 Asian kids on a bus route. 
+Happy birthday to one of my dear friends AICYD!!! sorry I couldn't make it tonight   Hope you had fun!!
+Right... getting set for back to work 2moro.... ugh!  so that basically means ironing for england   Happy sunday!
+Happy bicycle day! so devo'd didnt get on it 
+Happy from go karting yesterday but normal school routine starts tomorrow. 
+Happy sumdal twitt-friends. Its very windy and cold down here so no golf today 
+Happy to be off today, I would love to be able to stay home in my jammies all day and do nothing, however that won't happen! 
+Today's storm has taken some of the heat out of the air. Happy for now, but mildly fearful of the coming summer. I may die... 
+I am eating my last piece of carrot-birthday cake  Happy 30th to me.
+...don't you hate getting woken up! Happy mothers day everyone! I am sooooo tired 
+Happy mothers day to all you mothers out there! How's the weather looking at your place...its cold and rainy in sydney 
+Happy mother's day .. I miss my mum.. 
+Happy mommys day, wish my mami was here 
+I miss and love you mommie!! Happy mothers day you all, don't forget to call your mums. It's hard when your unable too. 
+I feel bad for the people who don't have mothers in their life today  Happy mothers day though.
+Going to visit with my mom! Happy mothers day! And then doing CATS one last time....my last musical at south columbus ever 
+Happy mothers day to me. I get to go grocery shopping. 
+Happy mothers day mommy! I miss you big spoon 
+Happy mothers day to all the mothers. I am spending mine at work instead of with my beautiful girls! 
+So mad it's going to storm. Now I can't buy my new furniture  oh well... Happy mothers day one and all
+Happy mother's day! I wish my mama was back already. 
+Happy Mothersdayyy..I miss my mommyyyy..too bad I can't b with her on this special day cuz she's more than 4000 miles awayy 
+sitting around...prbly gonnna have to clean our garage for mothers day...  Happy mothers day to every mother out tthere!!
+Happy mothers day... exept my mother isn't too happy... 
+Happy birthday me!  Happy birthday evil identical twin! We're old 
+@emaxio still @ the courthouse!     Happy to have a job... sad its this one!
+Happy as hell to finally be home. Bummed I'm missing a poetry event  but gotta pay bills till side biz come$ out on top, right?
+To the little bastards that scrawled stuff on my windows last night: you are little bastards. Happy Luilack 
+@heart_3boys Happy 4 month birthday! I'm right there with you, I can't believe mine is rapidly approaching 6 months. 
+Happy birthday brittany! I remembered when I turned 18! Now I'm old 
+Happy late birthday! @dubbausa  You old man! I went and celebrated our birthdays last night, and am hungover on my bday  How r u feeling?
+@WeTheTRAVIS aww - i'll probably be asleep at midnight  so i'll just say it now lol - Happy 5th band birthday!!  yous are amazing!!
+Happy 100th tweet! 15 hour work day  http://bit.ly/voteforsusie
+Happy memorial day!I want to go shopping 
+Waking up to my son pooping his pants and then blasting chester french in his room. Happy monday! I have to go to the dentist today 
+just got finished having a very productive morning...had to walk into work an hour and a half late though  Happy first everyone!
+@raykeenanqueen kok bisa ibund??  hiks hiks... Happy bday andung!!!
+Happy birthday daddy, life sure is a bit gloomy without you here. I miss you so much. 
+Happy doughnuts day! dangit, I didn't to get any free doughnuts! 
+can feel a cold comming on  but is going to enjoy today despite feeling not great..Happy one year to my baby, heres 2 the first of many!xx
+@luvara Happy birthday hun  Is there not any vegan cake?  xxx
+Happy anniversary to myself and my hair. Its been exactly one year since I hacked it all off. A year later and its still the same length 
+Happy 6th birthday, Mattycakes... *sighs* 
+Happy that my husband is so helpful to my family, but bummed that he is spending our only mutual day off in forever not here.  
+Happy schools gonna be ova in 3 days sad that i probably wont see most of you guys after that! 
+@BethRosen Happy birthday to them! And congrats to you for surviving 16 years! ;) Driving is scary - not looking forward to mine driving. 
+Happy birthday mom....I miss you 
+Happy birthday @robmademedothis and I hope everyone is having a better day then me. 
+Studying all day, everyday!  Lol. Yay! Happy birthday, janice!
+Goddangit! Happy #420! #MMOT sorry I'm late, I missed da #GANJABUS  smoked early 4got 2 luk at time......
+Happy to see my lettuce plants are growing in leaves and bounds, fertilized I think by cat poop that mysteriously appears in dirt heaps. 
+Just finished my last music exam.. Happy that I wont do another one ever again, but sad that it's the last day that I get to play the sax 
+Getting up this early every morning is no fun. I already miss college  Happy to be a working girl though!
+Happy hump day, off to work....  http://twitpic.com/7m0oy
+On my way to work! I can't believe its my brothers graduation today ! Happy and sad 
+wow, 2 months after my first &quot;tweet&quot;, haha. Now here's my 2nd one. Happy it's summer, no school for 2 months! next: college applications 
+Up way too early but need to go to work. So sad  Happy living my life in an air conditioned stupor.
+Happy friday everyone despite all the rules...can we still laugh or do we have a maximum laugh per day? 
+Happy 18th birthday to my little sis!! The older she gets the older I get 
+@tomguilmette Happy birthday you old bahstard...I turn 35 this year 
+sun started to shine after I got home from the golf course  Happy midsummer for everyone anyway!
+Happy birthday john taylor!i'd have made you happier than that de cadenet bint 
+Happy Caturday furrends.  C U Laterz cuz Meowmy's got to beat feet to the grocery store B 4 the big rain hits. grrrhisss, no patio 2 day 
+Just had some crazy ass party at my house. So many people. It was my moms 30th birthday! Happy birthday mom(you don't have twitter  ).
+Just had some crazy ass party at my house. So many people. It was my moms 40th birthday! Happy birthday mom(you don't have twitter  ).
+Happy fathers day 
+Happy fathers day  i couldn't buy anything for my daddy (
+@MzPurrfection Happy birthday!!! I wanna talk to you a bit my friend 
+Happy father day dad! Even thou your in panama 
+Happy fathers day shame i dont feel to well hayfever really getting to me this year 
+@andy457 Happy birthday! Also, I hate falling alseep when I'm trying to stay up 
+Happy father's day    
+Happy father's day! too bad my daddy is on vacation now 
+Happy father's day... I miss my dad 
+Happy fathers day i gotta study exams tomorrow 
+Happy father's day! I miss my dad. 
+Studyng marketing  Happy day dad!! 
+Hhhh flu  now is dinner, and then we'll go back to jkt. yay the food is coming nowww. Happy eating everybody hihi
+Happy fathers day! Missing my dad today 
+@mattlogelin welcome to mpls! Happy fathers day! We've been having some nice weather this weekend but I think it's going to rain today. 
+Happy fathers day all you dads out there. I get to work. 
+You never kno what you have until its gone... Happy father's day papi 
+Happy fathers day to all the dad's there, I'm getting ready for work 
+Happy farthers day! I only got 6 hours of sleep 
+Happy daddy's day to all. to bad the hubby's missing is 1st. 
+Happy fathers day! Leaving the track but I don't want to drive home without my baby 
+Missing my grandpa. Happy father's day. 
+I feel bad 4 all the daddy's in iran fighting  that cant have their kids come up to them with a card and say, &quot;Happy father's day daddy!&quot; 
+Happy B-day to me, my dad's a dick and I've never met him  so congrats to u loser suck it nerd, I'm still here.
+Happy father's day. I wish I could enjoy it with my son, though sadly I cannot. 
+Happy day of the fathers , (: buhhyeah im bored &amp; i miss daniela. lol 
+Happy fathers day daddy, wish I was home with my family  ....Only love can break your heart
+Happy fathers day to all the daddys that actually spend time wit their seeds  :'(
+Happy fathers day! 
+Happy daddys day ppl! lof ya papi!... in other maters all the hoping didnt pay off 
+Happy fathers day! It's still too hot to shoot some hoops 
+Happy fathers day daddy...wish you were here to tell you.  I miss you and think about you every day.
+Goodmorning! Happy fathers day daddy!! I wish you weren't on a plane and that you could come back for wednesday  i miss you already
+Happy father's day! Spending it with some great dad's buy sadly not mine  love you daddy!
+Happy father's day dad rest in peace. 
+Happy father's day to my hubby - great daddy to his three little &quot;birds&quot; (as he calls them). Too bad you have to work today! 
+Happy fathers day to all the dads out there..just called my dad right now..im not a dad so i get to go to work for 9 hours today 
+Happy father's day!! Lunch with dad then heading back for my last 3 days in sc 
+@Sunshineliron Happy bday, sorry i couldnt attend your bday chat but im workin 
+At the movies for my bday, but no one wants to sit next to me  everyone's fighting to sit next to my mom. Happy bday to me
+Is both happy and sad at the increase in bit rate of spotify. Happy because it sounds good sad because he cant browse the web at work 
+At work macbook connected to the company network then back in to the home network. Happy man 
+9:55am i will offically be older. Happy bday to me 
+@mattilde33 Happy birthday to you! happy birthday to you! happy birthday to Matilde!!! Happy birthday to you 
+@PhotosbyLee Happy birthday from all the boys 
+@ChrisMDP http://twitpic.com/3ithu - Wow, that is incredible! Happy birthday to your daughter! 
+Happy birthday to my good mate bobby rhine!!! 
+Happy birthday wonderful maryana!! And congratulations to victoria and alex 
+It's a perfect snow day for in-home yoga and meditation  Then movie and table games with kids! Happy weekend my friends
+Still busy writing, but after 14 hours or so, I'm still getting nowhere fast. Happy days 
+@martheezy Happy B-day!    so how old are you now?
+@danieltheo Not fair! I want some lemon and egg soup! Happy greek easter! 
+@Gillywillykins Happy birthday 2u, happy birthday 2u happy birthday gillywillykins happy birthday 2u! lol 
+@RoxxiNikki Happy birthday, fellow bitch 
+Happy-Sunshiine but tomorrow school but today barbeceu 
+@dancebabydance ohh btw i saw on my myspace that its ur birthday! Happy birthday girl and have a wonderful day!  xoxoxo
+Another beautiful day outside!!!! Happy spring 
+@StaciJShelton Happy day to you, my Twitfriend. 
+Happy with my new boldy berry from my father 
+Happy #420 everybody! Here's an awesome video to help us celebrate this glorious day: http://tiny.cc/QHSYM  #marijuana #pot #weed
+Happy- bday mommy 
+good morning everyone. Happy start of the new week 
+@ashleebradford Happy birthday! I hope you get a chance to have some fun today! 
+at school...massively bored. Happy 420!! i hope everyone has a very good day! &lt;3 
+@16Stars Happy thoughts to you and your son. 
+@SufiBEE Happy holidays !!!!!! ok it's only one day 
+Happy prom day 
+It's the most beautiful day of the year. Happy birthday to me. 
+Happy birthday to my mummy @zatzie!  
+Happy 1 year wedding anniversary/7 year anniversary as a couple to my sissy &amp;&amp; brother-in-law! 
+@MissFarrah It's your bday east coast time ;)....Happy birthday babes ! get it poppin tonite 
+@michellecorona HHHAAAPPPPPPYYY BBBDDDAAAYYY MMMIIICCCHHHEEELLLLLLEEE!!!! Happy bday girl! have a great day!  &lt;3
+Happy birthday lil sis 
+Finally made it to the outside sunny world and the coffee girl has under charged my mocha. Happy days 
+Today my sister sent out e-invites for my nephews 1st bday. When you open it you hear @jonathanrknight singing Happy BDay...how perfect 
+Oh, Happy birthday to my girl! She turns 17 today xoxo tell her happy birthday 
+@sarahmarkley @dg4G and got a hug.  Happy days.   I could wax lyrical abt the impact @charliepeacock had on my creativity for ages 
+@joehoax Before I run out of time...Happy birthday! I hope you had a wonderful day and perhaps we'll get to talk 
+@allthatglitrs21 - 21 days to go  Happy birthday for then 
+Happy star wars day everyone 
+Calling it a &quot;night&quot; abt an hour early.  All brain activity will be prorogued until further notice.  Happy journeying, everyone!  x
+alright, back from my twitter decompression  Happy monday folks, what's the good word?
+I completely forgot it was mothersday today.. Lol  Happy mothersday to all of you beautiful mums out there!
+Happy mothers day to all the mothers out there! 
+@sarahdope http://twitpic.com/4w22u - Its so pretty! The girls must love you a whole lot  Happy bday again!
+Happy mother's day nfty!!!!!!!!!!!!!!!!!!!!!! 
+@meghan7x Happy birthday in 2 hours and 54 minuets  Haha
+Happy mothrs day 2 ; all thaa moms outt thr  *
+Happy mother's day!!! oh, I love my mom.. hehehe... happy mom's day!! 
+Happy mother's day, mama. You're the most amazing person I've ever known and I'm so proud to be born as your daughter 
+Happy mothers day to all the mums! 
+Happy mothers day in 25 minutes everyone 
+Happy mothers dayyy all mothers especially mine 
+The hair looks sicckkkk.  Happy mothers day to all the mothers!
+Happy mother`s day to your moms ! 
+Happy mama's day to all the mamas. 
+migraine and leg pain and woe ): should go to bed but it is 2 flights of stairs away. Happy mother's day 
+Happy mothers day! 
+Happy mothers day! 
+Going to bed! Happy mother's day for every mom here! 
+Happy mothers day mom!!!  i love you.
+Happy mother's day to all mothers here! 
+Happy mothers day!   
+Happy mothers day mumm  xoxo
+Happy mothers day  just tried on what I'm gonna wear for breakfast and I curled my hair it took forever http://yfrog.com/0gmunj
+@JonathanRKnight Happy mother's day to ur mom!!! i hope she has a wonderful day!!!!!   
+@MsDamn Happy mothers day to you beautiful! 
+Happy mother's day to all the moms 
+I love my Maitu. N she loves me. Happy mothers day mama! 
+Happy mothers day to all the mommies 
+@peaches5068 Happy mom's day to you too 
+Happy mothers day everybody 
+So tired and I have to work till 10:30 tonight!    Happy mothers day to everyone too  http://tinyurl.com/qu62bl
+@mrskutcher Happy mothers day 
+Happy mothers day mom.. i love yew... 
+@iamoph Happy mothers day sharon 
+Happy mother's day and to the god mother's and step mother's too.... 
+Happy muthath's day to all moms!!! I salute you! 
+Happy mother's day everyone! 
+made breakfast today......Happy mother's day .. 
+Happy mother's day to my sweet mum 
+Today I wrote two songs (one for temple which I will probably never perform ever) and one for mothers day. Happy vesak everyone  rena xoxo
+at @JonasBrothers   Happy mother's dayyy Deniseee &lt;3     
+Happy mothers day! 
+Happy moms day 
+Happy mothers day to all the mothers out there and to me also 
+@_PurpleRose_ Happy m0ther's day ms. Rhix 
+Happy robbie drank a good bit, as long as he doesn't wake up sick 
+Just got finished cleaning and putting out my mom's presents.  Happy mother's day. I'm going to sleeeeep.
+Just got home. So glad I decided to go out. Yay for new friends. Yay for a hug from my crush. Happy 
+wishes Happy mother's day to all mothers!!! 
+@rushtoaugust @wonderchae @elyfont Happy mother's day to your moms. 
+Happy mother's day !!!! 
+Happy mother's day @mrskutcher 
+Happy mothers day to all u milfs out there. 
+Happy mothers day mom  ?
+Happy mother's day to all moms! 
+To all moms out there, Happy mothers day!! 
+@craving4sweets Happy hot mamas day! 
+Goodmorning twitter, oh my gosh, i woke up soooo nice, lol ... oh hai thar twitterverse. Happy #mothersday everybody  (especially mine) 
+Happy mother's day to all moms out there!  i just played tong-its a while ago.
+Happy mother's day all you moms! 
+Happy mother's day everyone! still playing pet society!  
+Happy mothers day! Be good to your momma's! 
+Happy mothers day to those of u that are mothers, and happy mothers day to all of your mothers      I miss my mom....
+Happy mother's day to all the mums out there 
+Happy moms day to all 
+Happy mother's day to your mothers 
+Just having a nice cup of coffee before taking a nice mother's day walk.  Happy mother's day to all the mothers out there 
+Happy moms day! 
+Happy mothers day to the most amazing woman I know- my mom!!! I love you! 
+Happy 18th to me!! oh! tell your mum I said Happy Mothers day... 
+Happy mothers day 
+At logan flying to london. Happy mothers day to all you mothers out there 
+@krisbedient I was about to wish you a Happy one. I'm sure your son appreciates and loves you very much  it's nice out, enjoy the day
+Just got done cooking breakfast for my mommy  Happy mother's day!!!
+Happy mothers day!!! 
+Happy mother's day to all the mother's out there... even if you are the mother of a pet. 
+Happy mothers day to all u mommas out there 
+@LamarLee Happy mother's day to ur mom. 
+Happy mothers day  the greatest mothers day gift is too see our kids serving god
+Gmorning  off to work. Happy mothers day 
+Happy mothers day to all. And happy anniversry to T and I  &lt;3
+Happy mother's day to all of you out there 
+Happy mother's day to all that apply. 
+Happy mother's day to all moms out there, to those with human-type offspring as well as those who parent furbabies. 
+Happy mothers day to all mom... 
+Happy mothers daay  love yah mom &lt;3
+Happy mothers day, do somethin nice for your mom 
+Happy mother's day!! 
+Happy mothers day to all mothers! And a happy expectant mothers day to my wife 
+Happy mother's day to all the moms out there and to all the puppy moms like me 
+Driving to griffith. Happy mothers day 
+Happy mothers day to all the cute moms out there 
+Happy mothers day everyone 
+@sn00py74 Happy mothers day 
+Happy mothers day to all those amazing mommies out there 
+Happy mothers day mommy ily 
+Happy mother's day to all the mommyes taking care and raising the future 
+Happy mother's day! 
+Happy mothers dayyy  I need to go to best buy and get my computer fixed, ughhx2
+Is so thankful for my amazing mommy... Happy mothers day to all the amazing momma out there 
+Tweetle-de! Happy bday dadda! Happy mami's day 
+Happy mother's day! 
+Happy days for mothers!!!! She's deserve all good 
+Happy mother's day to all the beautiful moms in the world 
+Happy day mom  i love u
+Happy mothers day everyone 
+Happy mother's day mothers around the world!  I love you mommy!
+Happy mothers day!!!! Shoutout to all my baby mamas 
+Happy mothers day  breakfast with mum and then shopping 
+On my way to church  Happy mothers day to all the mommies out in twitter world! Hugs!
+Happy mother's day!!!  mines allready the best ever!  lyric slept till 10:30!!  
+Happy mother's day @reneeoshields and welcome to twitter@minister4848 you are handsome 
+Happy mothers day  . I love you mum &lt;3
+Happy mothers day! 
+Happy mother's day. 
+Happy mommy's day! 
+Happy mothers day to all the moms out there! 
+Happy mothers day! Going to pick up niki in a little bit, then we might visit my grandma, then we're coming to my house 
+Happy mothers day 
+Making cookies and brownies for dessert tonight. Happy mothers day to all you mums 
+Happy mothers day !!!!!!!!!!!!!!!!!!!1 
+Happy mothers day @fyre55 &lt;333 love you mommy 
+Happy mothers day to the mothers, grandmothers, great grandmothers, great great grandmothers, and everyone aspiring to one  #cliche #annoy
+@kellyprovence Happy mothers day Kelly...hope you're having a great time 
+Happy mommys day 
+Happy mommys day. 
+Happy mothers day all the moms 
+Happy mothers day 
+Happy mother's day anyone who's a mom! 
+Happy mother's day to all you mums out there! 
+Happy mothers day  lol -killahbell(:
+Happy mothers day 
+@DebbieFletcher @samjmoody Happy mother's day 
+Happy mothers day to all of you mothers out there 
+Happy mothers day.. Currently going to church with the parentals.. 
+Happy mothers day 
+Happy mommy's day to all the wonderful beautiful mothers 
+Happy moms day to everyone. 
+Happy mothers day to my madre!  now delicious family breakfast!
+Happy mother's day! 9 days! 
+Happy mother's day!  going to legally blonde with my mama today 
+Happy mothers day mom! I love you way more than 140 characters!!! @rltgutow &lt;3 &lt;3 &lt;3 &lt;3         &lt;3 &lt;3 &lt;3 &lt;3
+Happy mother's day! 
+Happy mothers day mommm! i love youuu! 
+Happy mother's day to all mothers out there, your the best 
+Happy mothers day 
+Goodmorning loves! Happy mothers day to all your mothers and mine! 
+I luv how the sun shines through my bedroom window!! Happy mothers day mommy 
+Happy mother's day. I would pickup the phone and call but, I&quot;m being a bit lazy today. 
+Happy mother's day to all!    -V.
+Happy mother's day to all the mamas! 
+Happy mothers day...i love you mommy. 
+Happy mothers day mothers..hehe 
+Happy mothers day tu all moms out there  !!
+Happy mommy day 
+Happy mothers day 
+Happy mothers day! 
+Happy mothers day to all the moms out there. 
+Happy mothers day! Be kind &amp; polite to your mom, bring her breakfast in bed for one, not that you shouldn't do that always. 
+Happy mothers day... esp to my mom 
+Happy mothers day! I love my momma 
+Looks like a day of soul searching for me. Happy mothers day. 
+Happy mothers day to all the mothers out there 
+Happy mothers day to all mothers 
+Happy mothers day! 
+Happy mothers day to all you wonderful moms out there!  I love you momma!
+Happy mothers day to all the mommas out there!! 
+Happy mothers' day for all those lovely mamas out there 
+@AYS110 Happy mothers day! 
+Happy mothers day to everyone whose a mom  and don't forget to tell your loved ones happy mothers day
+Happy mothers day! I love surprising my mom 
+Happy mothers day all my moms  yall deserve a month not jus a day..
+@caitlinplus1 thank you and you too! Happy first mommy's day. 
+Happy moms day to all the moms in the world  ?
+My mom is awesome! Happy mothers day 
+Happy mothers dayyy  I love my mom . She is prettyy amazinng !
+Happy mothers day everyone 
+Happy go jump in water and fly day r.i.p dave your always in my &lt;3 with out you i'm just erika with the hair 
+@MarniStar lol. I was down there working. Happy you're having a great day 
+On my way back home ! Getting some well deserved rest! Happy mothers day to all the mommies out there! What a weeekend 
+Happy mother's day to all my mama friends. I hope yours was a great one. I'm lucky to know so many amazing new mommies. 
+I got a free cheeseburger, shake, and parfait today. Happy day 
+@mikeyway TODAY MAY 14th!!!  please. Just wish me Happy B-day. 
+@paigeiam Happy birthday in 20 minutes! We should celebrate! 
+@singletrackmark Happy birthday! Not a day over 39 
+your still my sister even though i wasted time. Now im wasting space in lou of a rhyme! Happy bday jill 
+@TranquilMammoth Happy B-day 
+@CaddyDaddy5150 Happy B-day, douchebag. 
+@PreppyDude Happy birthday my drunk friend 
+@jordanknight Happy birthday!  hope it's an awesome day!  soak up some sun for me 
+It's 11:43 my time and I haven't eat breakfest yet. I should, 'cause my bro is going home and he'll eat it all before me  Happy FRing!
+Happy 1,000th tweet to me!!!  I just wanna say thanks to me for making this happen LOL
+@breakyboy If you're firing out of both ends it could be ecoli, hope not mate. Happy bday 
+at wendy's 21st Bdae party.. Happy Bdae pal! 
+Celebrating little brother's birthday today! Happy birthday kid 
+@trent_reznor  Happy Happy Birthday ! 
+@jordanknight *** Happy birthday to you. This is your day.  xoxo
+Happy birthday, mom!!! 
+I dedicate this twitter to @bananaface, my bestfrand. Happy birthday.  i love you, and feel better!&lt;33
+Happy 25th birthday to my sexy debab! 
+@petewentz Happy wedding day I love you two, then repeat it several times 
+@ashsimpsonwentz Happy wedding day I love you two, then repeat it several times 
+@Carebear30 Happy early birthday! I'd like to tell you 30 isn't bad, but as soon as I turned 30 my body started falling apart!!! 
+@petewentz @ashsimpsonwentz Happy anniversary  well you two are great together. hi to bx too. im sure he's happy also.
+Happy birthday to me. All I hope for is to get at least 19 points (or more) above the avg on my phys final 
+I made this link for you.    Happy early/late birthday!  http://tinyurl.com/ReTweetRussianEp1  #fb
+Happy bday @anela83  have teh biggest blast evah! we love you!
+@OneCraftyMumma Happy reading! And btw, bathroom walls are freshly painted 
+@muzzzza is it your birthday today???  YAY!!!  Happy birthday 
+Happy 4 month birthday to my baby!! 
+Happy birthday brother  (L)
+@BAvante Happy birthday!! I'll see you tonight for some very legal drinking. 
+Happy Birthday to my baby brother, I love you and thank you for the pretty tattoos  Happy 23rd!
+Happy monday! Yay gossip girl finale tonight 
+Happy theres no school and just relaxing and enjoying the free day! 
+Going to bed..say your prayers! &amp; Happy birthday to @mama_gedlu , have a great one boo ! &amp; go hard 
+Whoho, Happy friday everyone. I just finished munching turkish sweets now im relaxing and drinking my cup of tea YUMM! 
+@Jimpossible7 Happy birthday man 
+Happy birthday, sister! 
+@jennywaltman hey girl! Happy graduation day! 
+Happy birthday to my sis! n bbq tonight 
+Happy holiday! Schools are out for half term and it's hotting up for bank holiday weekend - enjoy   http://bit.ly/U9AXl
+Happy bday mama 
+Happy 25th anniversary to my parents.lol! I so love my parents! &amp;&amp; they love me too! 
+Happy birthday @CleverClogs, thank you for being you! I hope you will enjoy the day a lot 
+@Adamfyre I've been an activist my entire life. Happy day when I can be inactive 
+@peacelovetylr Happy birthday poo poo face i love you  you know this weekend is gonna be fun!
+@peacelovetylr Happy birthday poo poo face i love you  you know this weekend is gonna be fun!
+Thinking about selling my house &amp; moving. It's time for a new journey. Happy agrees. 
+Happy birthday Nicoke!  love youuuu
+@AmandaSevasti Happy happy hope its a great day 
+Happy day 
+Off to home in about 20minutes.. Happy weekends. 

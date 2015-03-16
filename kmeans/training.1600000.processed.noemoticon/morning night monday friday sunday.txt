@@ -1,0 +1,788 @@
+Most common words for this cluster:
+[('morning', 341), ('night', 264), ('monday', 175), ('friday', 152), ('sunday', 133), ('saturday', 132), ('day', 96), ('afternoon', 63), ('tomorrow', 49), ('weekend', 46), ('week', 41), ('today', 40)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'morning', 0.7964668273925781), (u'monday', 0.7869359254837036), (u'friday', 0.7711169719696045), (u'thursday', 0.7508391737937927), (u'saturday', 0.7496583461761475), (u'sunday', 0.7413504719734192), (u'afternoon', 0.7341101765632629), (u'night', 0.7245155572891235), (u'tuesday', 0.7017897367477417), (u'evening', 0.6951241493225098)]
+
+
+
+
+
+wednesday my b-day! don't know what 2 do!! 
+wednesday my b-day n don't know what 2 do!  
+I'm off too bed. I gotta wake up hella early tomorrow morning. 
+@leelowe aww thanks hun! but am just picking this up now! I was in scotland until yesterday evening  how'd it go?
+@rochellesheree I missed you...  is wednesday your day off? or is that thursday?
+@McBesty monday is usually a working day? 
+@pgh_1980 awe.... sorry to hear   What are you up to this weekend?  We need to catch up, I'll be home from friday to sunday!
+is ready to go to bed.. last night in a bed until sunday night..  but I am ready for tomorrow's activities.. watch for updates!!! :p
+is it saturday yet? friday for most , but one more day for me 
+is all alone on a saturday morning 
+@heyimash ugh i wish!  zach has a speech to do monday morning 
+is so exhausted from mercer... not particularly excited about working tomorrow morning 
+it's saturday night. i dyed my hair today and i feel good about the way i look. and what am i doing? i'm on the computer. 
+sunday morning... 
+Is studying... yes, on a sunday morning at college 
+we won't be home until about 6 am monday morning if we have to go thru this tomorrow too... we might sell our tickets 
+@charlottejvale morning bruce, hope all is well? i overlayed  ring me when you're up... love you xxx
+recovering from saturday night out....... I wish I could go back to bed.... 
+study notes on a sunday afternoon!! 
+why am i awake at 8:30 in the morning on a sunday  (i know why, i don't want to be.)
+@smeyen cu on tuesday #jax09, unfortunelately I cannot attend the monday evening speaker event  ekke
+@bloggal til tuesday afternoon 
+monday morning blues 
+I hate monday mornings ... Its too difficult to wake up 
+has that monday morning feeling 
+its quite a lovely day, waiting on the bus  it always stinks and is faar to noisy for a monday morning :@
+what a lovley morning...just a shame its a monday 
+morose monday morning. 
+@JessLovesButts at least you got sleep!!! i've been up since sunday morning 
+ew monday morning 
+working    monday morning,  but it feels like it will be a good day
+@macmaxbh My router freaked out again   It was working till 1 or so last night, and when I woke up this morning it didn't work...
+an aweful monday morning...rainy outside 
+So bored. I have slept from 7.30 last night to 8.45 this morning. im so lazy!  
+Sometimes when I don't get proper sleep @ nite, I sleep in the afternoon. But when I do sleep in the afternoon I cant sleep @ nite ! 
+i don't feel good  so much to do between now and thursday. mom's coming wednesday morning (:
+ugh on  a friday night. i totally forgot today was friday. i am so freaking lame. i want to be in atx 
+Home alone and bored... what a wonderful friday night 
+is going to bed at 11'oclock on a friday night! 
+@rockydoom thus the friday night cleaning that is happening right now 
+senior saturday in the morning 
+exhausted, can't sleep, listening to radio, waiting for advil to kick in. what a depressing friday night 
+working on a saturday afternoon 
+I'm up at 8.30 on a saturday morning! What the..? I'm ill, it sucks 
+my friday night ended early 
+saturday should be a day of rest . i shouldnt have to work this afternoon 
+@janelletrain Mehhh I'm not too keen, ew i just said keen, for that cus I woke up early this morning and I'm tiiiired 
+@jen004 This my last night to stay up I start my job monday   
+how i was hyper at 5 in the morning idk but not n e more 
+what a saturday night  #awaresg
+@scynn Indeed sir, got in town late last night, wedding today, and out sunday morning 
+last journalism event foe is = saturday morning science and it's about bugs. yay my favorite 
+being up early on a saturday morning sucks. i never get to sleep in 
+Aghhh its a cold saturday morning 
+its such a beautiful saturday afternoon but so boring (because i've got nothing to do) 
+is home on a saturday night 
+says good bright sunday morning everyone! although i had a bad dream last nite  http://plurk.com/p/rhk9h
+is not out on a saturday night 
+I shouldnt be up this early on a sunday morning 
+last saturday night at lmu 
+good morning on this sunday, it will be a rainy day 
+good morning people. I'm always up early on sundays 
+More revision on a beautiful  sunday morning 
+up at 6:15 on a sunday morning and feeling miserable... my allergies are getting the best of me. 
+is enjoying another day off... but unfortunately its already sunday 
+Reinstalling windows on 2 laptops .. This will keep me busy for a few minutes  on a rainy sunday afternoon 
+it's sunday.. last day of WE 
+the only bad thing abt sunday evenings is it dawns as monday morning 
+@amandaseyfried aww you have to work on this lovely sunday morning?  that sucks!
+After a night of the most terrible sleep ever, I is back to work! Gaaaah, it feels more like a monday instead of sunday 
+working on a sunday afternoon 
+abraco will be closed tmrw morning 
+@jashyard hahaha, of course lol, u better not ask wat happened last night lol  but it all comes to an end with monday 
+@teddyrised atleast your monday is half over! i got a whole long one to worry about in the morning 
+its monday again...time really flies....heading to gamla stan....cloudy outside 
+Not ready to start a new week  I don't like monday morning.
+Feeling sorry for myself - unwell since friday - maybe it was a bug from my science experement I inhaled last thursday morning 
+monday morning 
+waiting for good news week to begin. i feel like chocolate. trying to work out what is going to happen on friday 
+Morning twittz....what a wonderful monday morning 
+good morning every1! i wish it wasnt raining  i hope we all have a great day! xoxo &lt;3 ily ash tisdale!
+had a great weekend and did not want it to end! hello monday 
+We had such a beautiful day on saturday but now it is about to rain... I want the sun back 
+not loving this rainy monday morning 
+unfortunately, i did not get my wish last night. it's monday, and i am sooo not ready for today 
+back to work on a rainy monday morning 
+It's a monday, and i realized on the drive to school this morning that i got a stain on the new fedora 
+got to work early  its monday. going to be a long day
+monday mornings=   planning at 8
+@j__mack awww I can't gym tomorrow  sorry. it's family day haha I'm willing to gym w you in the morning tho before you work. monday 8am?
+Wanting this tomorrow and monday to pass fast!  then try to enjoy an interval of tues-thurs before the big scary day 
+i want the weekend back  friday night was amazing, and yesterday was just (L), danny jones = love.
+@madeleineannie is she joking haha. p.s. sleepover thurs till fri? or sat till sun? keep in mind i have to work friday morning 
+is heading to the gym on a glorious sunday afternoon 
+had a very good night but im definitely suffering this morning, feeling rather fragile 
+AHH i have to get off  ill be back in the morning ahh everyones gunna be tweeting with out me  haha night xx
+I hate long sunday afternoon bookings!!!!  Why can folk not just stick to fri and sat nights? 
+morning aftr always suxkksss 
+I hate monday  ...... Why cudnt the work week begin on a tuesday? Why????
+monday comes just too damn soon...  i miss last weekend already.. 
+is completely restless... sunday nights are good for nothing, except the impending doom of monday morning 
+@lauraimus I have finals this week  But I like the idea of having one next tuesday or this friday!
+is having the longest week ever. going so slow! &amp; to top it off i'm working on saturday as well 
+is at home on a saturday night!  ..gotta brace myself up for a long day tomorrow partyin/celebratin' day and night!
+my car is ruined  ... what a lovely saturday night ...
+@heidimontag well my party is over and I'm suffering with a sore head this morning  lovely sunny morning in belfast, n.ireland 
+Its sunday and i'm goin to work all day - not good 
+Horrible sunday morning. Just when I was about to get ready for the car boot sale it started raining 
+:/ I'm still awake  it's a saturday/sunday night/morning!!! lol, have a safe night everyone!
+its 630 on a sunday morning. i'm up. and punt. 
+sleepy, sunday lunch before we go away! leave for cyprus on wednesday morning, why is my schedule always jampacked? 
+@sany what time? might not be able to  my flight is in the morning on 6 june
+busy sunday evening 
+cant believe back to work in the morning 
+Is chilling out on a sunday evening before going back to work tomoz 
+@michelle_j70 no its tuesday morning at 9.30  
+iss tired from the whoole day D: and it's monday again tomorrow  what to doo ???
+How did it get so late so soon its night before its afternoon..... its already monday last I checked it was friday night 
+This monday morning sucks. I want to go back to bed with my lover and my puppy 
+the summer seems to have started...humid night and a sticky morning. unfortunately,  NO air-conditioning at school &amp; a french test today 
+monday morning  not even sunshine
+is not impressed about having to get up on a monday morning 
+@KurtTracy not so good. just found out an amazing friend died thursday morning. 
+the bruises you couldn't feel whilst drunk at the weekend are ouchy on monday morning 
+@rsmck car woes seem to be a feature of this monday morning - i woke up to a flat tyre 
+the other day i heard hey monday playing in 77th street. made me sad 
+@carajscherer morning batch! Mondays are so hard...  already thinking about the weekend!*this one* http://twitpic.com/5f6vx
+monday already ? and starting off the week with a cold 
+tiny..cold morning monday ~,~ / beans had roughly sleep.. 
+tiny..cold morning monday ~,~ / beans had a roughly sleep.. 
+Just one hour 2 go.... what a week Only saturday of 
+morning twitters, happy monday 
+good weekend... now back to the monday routine 
+ugh...monday morning...back to class 
+wishes wednesday didn't seem so far away!  ...... or better still wishes it was wednesday every day.... except saturday &amp; sunday!! lol
+@samdelves ah no man its near the bus station! thats where I work, coincidentially on wednesday which is my next day 
+what am i supposed to do on a rainy friday night?? 
+good night all sad.... my lakers made me sad today 
+hey worst news for this afternoon : I cannot join you to go to dufan. There will be some tryout on monday, so sorry then 
+incomplete. at home on friday night 
+where is he? hmmmm he didnt even reply to me this morning  oh well stayed up til 12 speaking to him last night
+i always thought it was thursday todayy.. blahh its friday! which means in 2 days school starts again. 
+@alexxyy cause i go every friday morning  i have to
+last day of my week off (not counting monday) and i gotta do some tidying and cleaning  bah
+Not feeling great this morn. 
+morning everyone! what a beautiful friday and i have to work!! 
+@anthonyjohnston of the day  as i`m working saturday and sunday  but off on monday shame people can`t put mental health on hold
+ready for the weekend, what am I talking about, only off sunday 
+@pierskarsenbarg exam on the thursday morning 
+it doesnt feel like friday 2day like, roll on sunday, all day sesh haha work 10-6 on monday not gud lol 
+need to stay back a bit late in the office on friday evening!! that's suck. 
+@jojuber i don't understand  sorry i missed monday night, hope you girls had fun?
+just joined twitter.. THANKS JAIMSTER!!! lol and has class tomorrow morning 
+@helloXbonjour I would love to but I have to work on saturday and if I go I might get stuck there fri night. 
+@ShantiSaha man i miss monday night!!! in a month we wont have a fun group like that for a yr  we gtta have one more party! lol
+Why am I completing facebook quizzes at this time of the morning... especially a friday morning 
+its friday!  well, technically anyway...but its really thursday for me.  dang having to work saturday mornings 
+friday night is my fav night of the week but now I have to go to stupid dog training classes 
+oh i hate friday evening. 
+@Selly06 that is never good especially on a friday night 
+so glad it is friday  two classes, then lazy afternoon. too bad it isnt nice and warm out today 
+@hihihammy yeah. because i'll have to go tomorrow morning and get picked up early sunday, so i see no reason to go the whole weekend 
+@KellyOlexa my monday starts on friday  but @ least I only work 4 days a week (long days)
+super bored on a friday night 
+homework on a friday night...lame 
+damn...plans were canceled.....another friday night at home 
+Off to school on a friday night 
+home on a friday night 
+good morning everyone, its saturday but i gotta work, 
+at home on a friday night it sucks 
+friday night. 9:50. contemplating sleep. NOT ASHAMED. it's been a hard week. 
+is babysitting on a friday night 
+saturday school in the morning 
+not feeling too well.  my friday night is horrible.
+ughh.. tomorrow is saturday and we have school. not cool. no weekend for me 
+we have another driving session tomorrow morning at 8. but it's not with derek  it's w/ a lady.. we tried convincing him to take us.
+Just interrupted sleeping for some strange reason  it's 5.10 am over here and I just woke up ... on a saturday morning  *grrr*
+is packing on a friday night. 
+Bout to get my gamble on, somthing about winning $ is soothing after an awful evening. 
+@missbender yea the same thing happened last night tho. my fever broke &amp;was gone this morning, but it hit me suddenly mid-day 
+at homee on a friday night!    @lolagewerc xq no saliste gordi?
+Nothing in a friday night 
+@nickgo - 'til sunday afternoon, and i'm busy tomorrow 
+Its a perfect saturday morning. The sun is shinning, the birds are singing.... and I am catching up on admin 
+Of all nights!  boo for friday.
+i hate saturday morning tv, not like the old days 
+hello saturday morning. hello about to go to work 
+@squaim I was looking at the lineup on wednesday i think. It'd be bloody impossible to get a hotel now though 
+twitterin' blues...on a friday night. 
+It sucks that we have an oral presentation on monday, 'cause that means I have to study the whole weekend! 
+feeling sentimental and missing 1 saturday morning  since when am i so old?!
+doesn't like his house becoming  'kids depot' on a friday night  
+good morning saturday, you're being boring, i need something to do ! 
+its a saturday morning &amp; baby hannys not here 
+so mayb working sat afternoon is not so bad i got to sleep late n wake up late. i just dont want to spend my saturday afternoon at work 
+just can't wait for monday, why do I have to work all day 
+@willgoodwin i got really sick thursday night (like hospital sick) and won't be there this weekend 
+@fontenot619 shaq, i got the fastest one is thursday BUT they're not sure cause the time difference it gotta be friday morning 
+going to da sprint store to see if they can fix my phone  drunken nights are not always fun da nxt morning
+on my own till i pick up the roomie on wednesday night 
+something mellow for my saturday night - i gots ta work in the morning...  ? http://blip.fm/~7c9ax
+right busy week sort of  i leave school on thursday . but there on friday i think
+sunday mornings generally seem to consist of essay writing these days 
+It's 2:30 in tha morning omg what an evenful night not in a good way either 
+@FrasSpaz yay! weekends rock! too bad I have to work  only on my wednesday.. /sigh
+doesn't want it to rain on saturday next week... 
+would love to wake up 2morrow at monday morning 
+gettin to bed soon..up pretty early tomorrow morning! 
+i feel sick on saturday night 
+tomorrow is monday  1st june. new day new month.
+I better not work monday, so far behind on sleep, probably get sick if I don't get to sleep monday morning, seriously could get pick! 
+weekend is already over  speanding sunday night sipping smirnoff ice!
+sitting down to the week's overspill of beeb work on a beautiful sunny afternoon. bah humbug 
+By far the weakest saturday night ever 
+what is there to do on a sunday afternoon 
+school tomorrow  but tuesday day off! and next monday to! all thanks to the queen!
+working all day...then to gloucester tonight. i wish it was next saturday 
+funn last night ;) sunday 
+On a metro north train heading to westchester for @jennacolman 's dance show. It's been an early sunday morning for me 
+Also niq is gunna spend all afternoon noon dumping his brains out because of last night!!! 
+PE first thing on a monday morning.  that is just evil..
+@drts but of course you exist! sorry we missed you on thursday night 
+monday morning blues 
+monday mornings 
+@aliiiyeah Dammit! my flight is at 3pm  will it be on youtube tomorrow morning??
+intensity of monday morning feeling directly proportional to fun of weekend 
+hate that its sunday night...that means waking up early tomorrow 
+working on a late sunday night.... 
+hungry and monday morning meetings does not go together 
+A lovely afternoon with @el_stepho and @bellahm visiting Mamachen and rugged coastlines. Now having the lovely arvo come down.  
+my eye hurts this morning. It's monday and I'm behind already  @mspillman 2 for the whine box right there
+again a monday... the worst day fr all office goers 
+morning all, loving the sunshine on this monday morning.. but not work 
+@kenny5311 you and me both  except i'll be awake all night and morning! incoming: nervous breakdown.
+morning peeps x not happy at all today - my dog is not well and has to go for xrays wednesday 
+laid @ pool all day monday came too fast! 
+10 oclock meeting 4 1/2 hours away = one long monday 
+good monday morning to everyone!  I didn't wanto to get up this morning 
+not happy it is monday morning 
+monday morning=back to work...megan's last week=i'm sad 
+first official day with my @tylerhwilliams all gone! it'll be a sad monday indeed  k
+surprisingly awake for only 4 hours of sleep....rain and a monday morning what a yucky combo 
+@frjamieson fiona let me stay off as i was sick last night and this morning D! she thinks it too much sun  &lt;3
+ugh this monday sucks already...short staffed this whoooole week 
+monday morning blues 
+good morning. couldn't really sleep good last night rest in peace matthew davis  we miss you ! i love you jamal R. thompson.
+is annoyed that gmail chat seems to have died for the evening. 
+had a killer weekend enjoying the beach with fam... too bad its dull monday today 
+no food, for the whole of this week until thursday night, good one. 
+ is now home alone till i myself leave for the airport friday morning
+@KhloeKardashian welcome to summer in south florida haha its sunny in the morning and rainy after 1pm suckksss 
+@kempette i forgot about okcity - it sounds like so much fun! i have a work party in boston on thurs night so i can't make frg 
+wishing I didn't have a job that requires me to work on a monday evening 
+really, really, really upset that my dvr didn't record dateline's @taylorswift13 special last night... today did not start out good... 
+@brittanitaylor yesterday at your live chat i almost got to talk to you but i got disconnected  maybe next sunday i cant wait
+just got home from tanning. waiting around for the new jon and kate plus 8 to come on at 9:00 tonight. back to work in the morning 
+@alitzalilly my last day is saturday 
+we always hurt the the ones we never loved. early night. bio&amp;french in the morning. 
+no basketball till thursday. sat studying now 
+concerned about weather for wednesday at pinnacle... I won't be there until noon30 
+home for the night. texting steve &amp; going to bed. obgyn in the morning 
+so tired...why can't I sleep at night?! It's so frustrating.. haven't slept more then 10 hours since friday morning 
+bored   sleeping all day 2marro going to ymca wen thurs fri leaveing friday at midnight to florida
+doing gentle physio today - as couldn't get out of bed meself easily this morning  doh on the plus side I get to denijohn the wine 2nite!
+just ate a big breakfast...now im ready to lay back down...too bad its only tuesday 
+@JoshFittell i only have 96  but thats 20 more than i had this morning
+when my grandma said she was leaving on tuesday i didnt think she meant at 6:30 in the morning 
+@material_elle unfortunately not my dear  in work early thursday morning, so it'll be an early night for me
+waited as long as i could. off to uni in morn, bed = now 
+Finding it hard to concentrate this afternoon  #fb
+@sassydamn doesn't sound like ur evening went any better 
+@AlysheeaPM naww, thats what i was like on sunday night/monday morning. its horrible, i know what your going through  haha
+is revising for her french gcse this afternoon  x
+@DoraJarr start monday finish thursday, 4 in 4 days 
+Oh sorry...i'm doing race for life on sunday afternoon with my 11yr old. We've found it hard jogging in the glorious sunshine   x
+is very very windswept...dats how the morning has been 
+Its wednesday. why does it feel like friday?  and why is there only two busy weekends left for homework?????????? 
+gah 3 hours sleep is not good .. i actually fell asleep @ 7:30 this morning and now theres alot of banging next door 
+@shoelover79 this saturday night.... NOoooooooo!! 
+eating breakfast and getting ready for last wednesday of joffrey! 
+Leaving tonight at 7:30 pm, arriving in buffalo friday morning... our trip is over 
+wants it to be friday night ! 
+good moring!! So i woke up feeling better than last night!!! But 'm still fighting this sickness!!!! 
+where has my morning gone? yes...its wednesday and no there is no lost tonight 
+im worried about myself tweeting less and less each day  not much goin on this unpredictable friday night
+@laurenmae4 cleaning for a sunday open house.  what are you doing this evening or this weekend?!
+@xolorimxo you're so lucky! *night at m.2!* ...i'm stuck in my house until next friday. i can't leave...i'm pretty much glued to my notes 
+Working late tonight.  Not looking forward to it on a friday night.  
+friday evening and i am tweeting 
+hectic day at work. i wish this friday was like last friday! 
+Really happy that there is only 1 exam left, although a little disapointed that i'm this bored on a friday night.. 
+@twistednurse76 pretty much the same as you sweetie  i always feel drained on a friday night... typical xx
+been sick again. not going out now  ruined a perfectly good friday night.
+At home on a friday night....revising 
+bye arizona i will return later this evening 
+I'm being dragged to the gym on a freakin friday evening 
+had to scrap her friday night plans 
+is at work on a friday night 
+does not like having to spend her friday night learning about guns 
+@tristanwilds are you missing me? i'm missing my tuesday nights of 90210 
+Its friday night!!  Too bad I can't party   gotta work tomorrow!
+its a friday night and i am not feeling well.  
+is bored and broke on a friday night, how lame. 
+trying to understand why i'm here a friday in the night! 
+Its friday night what's going on? I'm bored 
+listening to the friday night boys new album!! yes! dad's tomorrow 
+does not feel like friday night 
+@doyodance what link is that? I wont have internet until sunday night 
+i want to be happy its friday, but I'm on-call. i'll be working randomly all weekend. 
+I'm home on a friday night.  
+@pbennett66 work is pretty much dead now. had no night shift yesterday or today. q&amp;a were told to come back on tuesday instead of monday 
+No call tonight  hopefully in the morning. i cant wait till monday
+is pissed she had to cut her night short cuz she has to work in the morning!! 
+Nothing to do on a friday night 
+About to dye my hair.. what a friday night! haha Sucks i can't go out cuz i got school tmr morning 
+@tish_tish btw my day started thursday night at 12:00 I normally don't get off till 1130 - 1pm on the average  so early friday was a bonus
+7am saturday morning and I'm off to the gym !!!  Its peeing it down outside 
+do NOT want to go to work on a saturday afternoon 
+saturday morning headaces 
+going out for a short cyling session.. bloody peeing down here in newcastle this morning 
+Bad friday evening....bad saturday morning with a bad headache 
+So bored friday on this night! 
+gym on a saturday morning isn't big or clever 
+is very very very tired [n] i have no reason to get up at this ridiculous time of 11 o'clock of my last saturday music centre morning off 
+I hate my alarm clock, it does this thing where it wakes me up really early on a saturday morning to go to work 
+Its to early for me to be up on a saturday morning! 
+@smileyklutz i wish i could have come  ill make up for it on sunday night habooobbbbb (6)
+is home alone on a saturday night 
+working late night on a saturday sucks 
+Is awestruck  by the horizon to the east this morning. i guess 5 am isnt too bad...  #fb
+spending my saturday afternoon organizing my inbox... how did it come to this? 
+this is the first sunny saturday in a while and I'm working 
+charley and his horse visited me in my sleep last nite and my calf still hurts today...so not cool when I have a wedding this afternoon.  
+GMT!! This morning did not turn out 2 good for me.  dont really wanna talk about it but what happend made me much stronger!
+ashamed to say that im going to bed before 10pm on a saturday night. naw 
+And it rains and rains. What a saturday evening 
+another saturday, working ALL day again... i've come to loathe saturdays 
+omg!! thank you to everyone who put me in they follows I forgot yesterday was friday  I even forgot my berfday tomorrow but I will do
+another day.another dollar...but on a saturday 
+already home on saturday night 
+I don't like saturday mornings 
+is staying in on a saturday night   gutted lol
+is home alone on a saturday night 
+wait over now got to wait for 8pm sunday night!! went too quickly 
+@MouseGoesSqueak sad, but i didn't have a wild friday night 
+i'm sure i still feel hungover from thursday night 
+Is writing reports on a saturday night... how sad! 
+Its saturday its nice outside and I can't go no where cause I have to work in the morning this was a short weekend 
+in c-ville studying for the rest of the night... 2 quizzes and a test on monday ugh 
+I'm sick...  But I did sleep in to 11:30 this morning bc of it.
+Why couldnt all of today be like lastnight n this morning? 
+had a good bbq today, now in for a boring saturday night 
+@evieruin on a saturday night?  lame.
+@KeliDee83 I'm not coming til late in the evening but I might stay overnight, I'll txt u 
+so, taking the train into the city on a saturday afternoon, just to hang out for the day: never again. not worth it. 
+ok up and out to work and back home and now I'm going to sleep. that's pretty much my day !   hehe tomorrow will be the samt !  night
+@teamDdemiLovato nah its 12:20 in the afternoon i could never fall asleep now 
+I'm having sunday morning class. The room is cold and I'm starving 
+is at work on a saturday night. 
+hating my saturday night and myself 
+@sacca working on saturday night 
+sunday ....is cleaning day 
+babysitting on a saturday night 
+@yumnayousry: just got over saturday night silliness...going throughsunday morning withdrawal syndrome 
+ive got to go to karate on a sunday morning noooo!!!!!! sunday is meant to be the day of rest 
+http://twitpic.com/6tciy - i miss mowing down every tuesday night with this bitch 
+sunday...gloomy morning 
+ugh you wake up at 4 am ok its sunday morning church is not for 4 more hours . now what you cant sleep so . . . you twitt 
+faaark most boring sunday night of a public holiday ever 
+working today but i really wanna be at the middle east this afternoon to see uata and tge. 
+@jmmunoz the french open is ruining my normal sunday morning routine 
+Playing some guitar cuz starting tomorrow, I can only spend time w/ it early in the morning, late afternoon, and night. 
+monday's coming the day i hate 
+did not sleep well last night and does not feel well today  #fb
+miss having sunday morning comics 
+i've been unable to sleep for very long these past few days &amp; i don't know why. it's 8 on a sunday morning  &amp; i'm up! 
+clouds on my pedestrian sunday  1st day of what will be a very intense week!
+At the office on a sunday afternoon... Sucks 
+i didn't get to play wow last night.  maybe today? idk
+good night. i must get up early..! i hate monday 
+Hot weather and a slight fever on a sunday afternoon in houston make me feel awesome. 
+hey tweets, last day before monday 
+is missing her first-sunday-of-the-month evening plans 
+sunday evening now! the weekend is over  ... so fast!  school again tomorrow 
+I'm getting monday morning blues on sunday night 
+I am never ready for a monday morning.  @deannoothai
+sunday = studying all day 
+sunday evening 
+wonderful weekend is over like all good things in the world  i am in my sunday night mood right now, but i guess my monday mood is worse.
+@jesscarreiro i love you too and i know almost, i'll be okay by wednesday afternoon  but just right now i'm ready to breakdown.
+1.15 hrs until my weekend is over...  and it's monday all over again...
+@corymorton haha i have a friend coming into town this coming weekend, then i leave the next saturday morning! 
+work at 7 monday to friday  not a gOod week!! i need my sleeep..!!
+is in bed as usual on a sunday night, cant drop off to sleep, college tomorrow 
+definitely i hate sunday night. it just means in a few hours have classes and i have to study 
+hangover sunday=not a very productive day 
+so tired. slept for less than 2 hrs last night &amp; only napped for about 45 min today 
+had an awesome weekend...hello monday morning 
+@CeuroK haha my night's going great too bad I've got work in the morning..  gotta massive headache tho.. too much excitement on this side
+@troykids Just got called into an 8am mtg tomorrow &amp; my drive is 2hrs. Just ruined my night. 
+I hate monday mornings 
+monday morning 
+@sushmeet totally buddy.. that match made monday morning blues worse  #t20
+morning! wow monday again 
+not another monday....  barely noticed the weekend 
+I hate monday morning... 
+monday morning 
+monday morning blue's 
+has only just surfaced from the ravages of monday morning meetings. 
+monday morning: didn't make the list 
+The day sucks... got the monday morning blues which have extended to the afternoon 
+monday morning blues 
+@festivalannual will doo! although i lost my disposable and my phone ran out of battery saturday morning 
+how did it get to be monday already!? the weekends go by way to fast 
+There is nothing less ridiculous than monday morning! 
+woke up a few hours ago wif a sore throat, not exactly da gr8st starts to a monday morning. 
+@adapaavi just that im leaving for delhi on wednesday morning so no break for me  @divvi @thenewbnb @aravindkumar @nadhiyamali @just_reva
+another monday morning...my favorite 
+I'm so not ready to start the week. I have soooo much to do  I want it to be saturday again.
+mondays aren't that bad....compared to the sunday night anticipation that the weekend has come to a close and work returns tomorrow 
+excited to c the girls on thursday, not lookin forward to goin back to work tonight tho afer a week off  
+@maeghanmurphy wish saturday night could have lasted all summer! miss you already love 
+i woke up with the same headache all day yesterday  and one of my ferrets died last night and he was my favorite one  this monday sucks.
+Its just monday and i am already ready for it to be over....it was a long morning!   
+@minkus anberlin and taking back sunday. i wish i could do it but i've got plans already for that night 
+@yourfriendlaura aghh, we'll miss each other by a day! i'm leaving mpls on saturday morning 
+bah back to hospital on thursday  and court on wednesday ( bad week
+no kyle and jackieo this morning 
+@NinaDutchess im drinking early, interview tomorrow morning at 11 
+tony just left  had a great day. it always is with him. going up there either friday or monday.   have that fuzzy feeling, i'm gay lol.
+@krazyyleggs my flight doesn't get get in until night  BUT i don't work thursday until 5! so i think we should hang out before!
+goin to bed now...........have skul in de morning 
+Couldn't sleep last night, couldn't drag myself outta bed this morning, really need to tidy up before I leave but don't wanna move 
+i don't want to work monday - thursday, for weeks. &gt;.&lt; i want my lvatt cd NOW, but i have to wait until morning 
+ok went to sleep last night at 4:00 and had too get up at 8:00 this morning and I am absolutely nackered 
+ugh i have a cold  today was fun tho! hung out with @lovemocannon till 3:30 in the morning! lol wat a night!
+had to un-jailbreak my ipod  it died last night and magically came back to life this morning
+It can haz be wednesday afternoon plz? 
+ugh idk why but accifentally woke up soooo early this morning 
+today really feels like a thursday or a friday 
+@olivia_clark i can't do tuesday or wednesday next week  i can do any other day, when are you free? xx
+@stephjonesmusic I swear I never remember to come until like 1pm every saturday. lol - my brain is mush on saturday mornings... LOL 
+Opening night is thursday and i know who isn't going to be there 
+@clarknyss haha, same here...i have a boat party to go to on friday night...saturday morning will be rough  hungover+tired=bad combo
+@Kelly_Jelly im working saturday night and sunday too.  gay @ work!! what kinda meeting?
+@jspatton that would be the one, though it was fs2 this afternoon 
+good morning  wow i've never tweeted in the morning before... today im going to skool a bit late ;p im still sick  
+@MeganCamp @cheapcigars omg i can't go because i have to pack tomorrow night omg 
+can't wait til' next friday!! it's going to be so much fuuunn &amp; a sad day 
+lyndons sleep, no night of till friday  we can go then though
+has bloody beetroots at family next thursday night... then a root canal on friday morning 
+I will not be off work at night until next saturday 
+morning all! june isnt meant to have rain 
+has bloody beetroots at family next thursday night... followed by a root canal on friday morning 
+right foot hurts since tuesday morning 
+two monday week 
+awake at 12:49am tuesday night.  
+morning twitter peeeps, i finally got to sleep last night, feeling a little ill today, thats no gooooooood !! 
+@headphoneparty apparently it's not going to be until this evening for us in the uk 
+@miamendez awww man.  well I think I may go out bowling sunday night.   I'll hit u up about that.
+@craigyboy15 good afternoon !? How's ur day so far ? I can't sleep  and its 3:40 am in melbourne !
+I never tweet n e more.  whatz got into me?? bout to make this drive to dallas tonite... maybe in the morning actually.
+@guyoseary wish i could have gone that night  but going the sunday instead!!! CANNOT WAIT 
+Having a non impressive wednesday evening.. 
+@babygirlparis good night paris! love you so much! i really hope one day i will be such beautiful as you  xoxo viktoria (vienna)
+I love mid-week drinking... I'm just a bit upset that I won't be able to do it to such so much when I start working monday 2 friday 
+@ColleenLindsay no. i was on monday and tues. morning, came home tuesday afternoon. short trip. not enough time 
+Last wednesday night of my yoga professional program. So sad 
+@amyralph1 and he has my car today so i feel naked!  you coming soda on saturday? what doing friday night?
+@Dezocrasy i think BIGREDDOG74 forgot we exist.  maybe he will remember us friday night.
+manged to book the friday night, struggled for the sat  will try agan tomorrow...back to sleep
+Driving to poleg and back this morning too  #fb
+tried to renew license online, failed.  I'll try to do so next weekend or on monday in person
+good nite ... i need to wake up early for school!! today my alarm wasnt workin n i slept til noon 
+I feel sick  this  morning, ,ay have eaten wrong 
+going to bed. tomorrow is abby day, she's leaving for orlando friday 
+@JonasAustralia I have to wait till next week.. I get paid on monday. 
+@SavvyOutenMusic hii! yess...still in school  my summer start the wednesday.. but monday is holiday(tomorrow and tuesday)2 days haha xoxo
+@KimJarrett yes mam.. i try to at least once a week because if i go out sat night church usually doesn't see me on sunday 
+@oxLauraJanexo i have to get my stupid arts award done before london this weekend  probably going to be another 3am night...
+says had a great day being souted at by all the teachers    camping on saturday
+long day....wishing it was friday.......   
+isn't looking forward to waking up at 7 tomorow morning 
+bbq tomorrow night, very excited! then back to newcastle saturday to collect the rest of my belongings  sad!
+@LesbianCafe haha, yes but then technically my monday monring is your sunday night 
+is so glad shes free from exams  .... but is sad shes stuck in on yet another thursday night 
+same morning  finally friday though! i miss reading my flist!
+ahhh im feeling last nights netball training this morning ... pretty sore 
+Why do the bombshells always have to drop on thursday nights? 
+@aravindkumar morning to u ! i am not looking 4wd to the weekend so much becuz im working tomo 
+@GeraldBarroga monday ahahahahha is the day I got hired 
+leaving wexford 2day .....mayo on monday  
+Its not even 8pm on a friday night &amp; I'm considering going to bed. I hate being sick 
+@tricky1987 nah, non stop working.. gota hand my work in on monday morning.. then we get 2 new projects on monday afternoon 
+i'm sooo over study- last final 2moz morning....so will be up all night &amp; probably only get like 4 hrs sleep 
+why am i working on a friday night 
+It's impossible to get on a train in town on a friday evening 
+@KunalSheth @ajaylulia i m in mumbai only on tuesday, returning same night.. so not possible 
+@johncmayer and a music theatre you played at in athens burned down this morning  
+@iamkiara__ she ruined my friday night as well 
+feeling worse than i did on monday morning... who gets a cold in the summer? me apparently... 
+I might go to foxwoods tonight and boston tomorrow  but sake bombing next week or saturday if i dont end up going
+ feeling very down this friday morning... i hate when i have time to think... i just get myself down /sigh
+Woot! Going out tonight. I so need it after last night and this morning. Not a gr8 start to my weekend. 
+@x__rachh92 no im not, working in the afternoon  i definatly wont see her then  may have to stay all day friday are you going in then?
+Its friday and is going to work at the bank this evening   http://mypict.me/4u5M
+eeek. i hope my friday night plans don't fall thru  *wishes* pleasepleaseplease!
+hasn't slept since tuesday night, and that was on a sofa 
+Nothing to do on the friday night. It's sad 
+friday nights shouldn't be so boring 
+Even though it's friday night, it feels like a sunday night to me    On the plus side, we're supposed to get some bad storms tonight 
+Totally not excited about working til 10 tonight and then again at 6:45 tommorow morning 
+hmmm, friday night in an i gotta go to bed soon as i got work in the morning  x
+Just leaving now to go to the vets. This is gona be a long night... and I have to work in the morning. 
+In bedddd, mcfly tomorrow ...well today &lt;3 17th sunday  night xxx
+@waterchicklet  ahhh was on top of it for 1 day...I haven't eaten that great today   And going to a bbq 2nite...2morrow will be different!
+workin on a friday night is so not cool... 
+#dontyouhate when you're stuck working friday night.... 
+I want to go to walmart or somewhere but I'm pretty sure that its not safe for me goin at this hour on a friday night alone 
+omg ! a friday night at home 
+is bored on a friday night 
+have to go back office to work at this very beautiful saturday morning...really mood spoiling 
+spending my friday night typing up a paper 
+not enough wrapping paper to complete my project...  must wait till morning- monday morning that is 
+I slept in this morning (til 8!), and I'm staying up late tonight (til 10!). I'm such an old lady now that I work for the forest service 
+Guess I'm going jogging on the beach tomorrow morning. 6AM???  #fb
+@NewNicci up and bored   how is your friday night so far?
+What a slow hot lazy saturday afternoon 
+It's 7:57am on a saturday &amp; I'm already awake. Last night was great, I went out yet again, but my stomach isn't better by now. I hate it 
+so pissed i don't have my purse  tomorrow morning im getting it as early as possible
+I can't believe I'm this bored on a friday night.. booooooooo me! 
+going to bedddddd, i'll figure this video shit out in the morning  night &lt;3
+Early saturday morning  Not good!
+I just got home and am getting ready to crash, such a sad friday night 
+now i must go to sleep soon b/c i have to work on a saturday morning 
+i hate you  this saturday turned out to be the worst day i've ever had :/
+alone on a saturday night 
+can't wait till monday afternoon 
+saturday morning and feeling refreshed . science modules on monday so have to revise 
+im very sick on a saturday morning 
+I can't sleep. What to do at 4:37 in the morning? All I can do is watch tv 
+@Kalediscope when I checked on thursday, they only showed opening night availability 
+Waking up at 6 am on a saturday morning is not crackin! 
+working on a saturday morning 
+I miss saturday morning cartoons  work = gayyyyy friggin customer service lol
+Last day of opening!!......until monday 
+wow, so glad i stayed up late last night  my day home till friday  stupid camp.
+Praying for a saturday night it! Its not today and it won't be next week either but god I need one 
+isss in topeka, kansas and leaving back for texass tomorrow morning 
+working on a saturday afternoon 
+had the most amazing friday night...but i think i might be clinically depressed now thats its over  
+stuck at home on a saturday night...again  roll on next saturday!
+ah this isnt normal. Who is awake @ 8 on a sunday morning. 
+Its 7:41pm on a saturday night &amp; I wanna go to bed... 
+good morning! it's sunday!!! back to the grind tmr 
+Another saturday night and we have to work 
+@allisonbushhh monday morning  whatare you up to tonight?
+bored on a saturday night.... 
+@shuliee noo  its sunday morning n I have school tomorrow!
+My saturday night it's over, yep, so early 
+hmmm...what's wrong with me...bad headache in sunday morning...its not a good sign... 
+man, these saturday night closing shifts are gonna kill me. I have to leave here by 9:15 in the morning.. 
+Is awake far too early for a sunday morning 
+What a tiring sunday morning.. 
+dreampt that michael woke me up this morning, i was saddend when i awoke to find no michael 
+finishing my physics report... on a sunday afternoon 
+@athenalatina cheer up, at least your weather must be better, its cold and raining and sunday night here an not looking forward to monday 
+@tomlambe because I was so drunk last night and I have to go to work today, tomorrow and tuesday!  haaa
+but he is then leaving us in the morning &amp; not returning until friday 
+hoo... i'm home. and i don't wanna go back to manila yet.. my class will start on tuesday, so i'll be leaving on monday morning. 
+awake already  too early for a sunday morning!
+Spending a lazy sunday with my husband... who has to leave for the week this evening 
+watched waynes world 1 and 2 back to back last night. Then woke up crap this morning. I hope theres no connection 
+Why am i awake at 7am on a sunday morning when i don't have work? because i fell asleep at 8 last night and my new vid game is over joys 
+@lauraaaaah monday mornings 
+Headed to the city this sunday morning and its still raining   when does it end!!
+Decided to stay one more night at home to enjoy the cool air &amp; peaceful morning! But has to rush 2hanoi2morrow for its monday  workin!
+Going to bed, this weekend was great, can't wait for the next one, although i am working for 4 hours on saturday 
+i really wish i had gone down the coast instead of the valley on saturday night  
+@riptide1922: I knoww  let's plan for this or next week! What are your plans friday afternoon? Or lemme know if another day is good fo ...
+@tommcfly i'm going on holiday wednesday morning, it'll be weird not watching your tweets for two weeks 
+No one wants to go to transformers at midnight so i'm stuck going thursday 
+@HoaAloha im working all day friday  and all night ... are you gonna come out for my birthday?! i texted you!
+@offwhitemke I am!! saturday night!! but i can't get free tickets from there since i live in madison 
+Long monday at work, even longer night makes john a tired boy 
+My day over back to work tomorrow  have a good evening/night folks gute nacht alle
+@bflogirl66 I work saturday morning too!  I usually leave early on friday night though so I may be home around 9
+wednesday morning already?! i dont want to go home yet.. 
+aah, wednesday night. 2 more days to go... 
+woke up thinking today was saturday....gutted 
+@JaneFoth no more good morning brighton 
+@ameliasargent I can't do friday, I won't be in town until late afternoon evening. I hope you're not working saturday. 
+Totally burnt out after an entire day of meetings. And I still have to prepare for this sunday's song leading by tonight..  #fb
+i've been up for over an hour. wahhh! i couldn't sleep last night for some reason. too bad today isnt friday 
+day already sucks... gotta ticket this morning 
+@kianann91 i cant make it this saturday !!  But can go together again other day. 
+counting the minutes to the weekend ..... funny friday, and really heavy saturday!!! too much work to do!!!! 
+@iammatteblack I would love to but I have a wedding i am going to plus work in the morn, 
+good morning! goodbye thursday 
+http://twitpic.com/8duyu - packed and ready to go... leaving monday morning 
+Morning  in the caravan at the mo and its freezing, but last night was classs  today should be awesomee
+@jaright and good morning btw 
+had a good night last night;cant wait til wednesday... 
+Doing laundry on a friday night 
+pinkberry and southpark...perfect friday night 
+Waking up late on a saturday morning feels great 
+@MissNonSense morning luv...or evenin in your case 
+@missannajane Why its you in my head  I love a sunday morning if I say so myself what are you reading!
+fabulous saturday night!!! how lucky am i...incredible weekend 
+just did some homework at 1:10 in the morning lmao. going to sleep. most amazing night everrr &lt;3 goodnight 
+well good nite, well good morning lol going to sleep now 
+@rebeccamezzino hello sweet  sunday afternoon at my place is quiet today...how's yours?
+hey its 12:40 a.m. in L.A. - time to say good morning and good nite 
+@twittopher that's better! good to hear you two are having a nice relaxing sunday evening 
+is relaxing in bed on a sunday morning! I need to get up now and do some breakfast 
+is on a sunday afternoon frenzy 
+@freitasm that could only but bring a smile to your face. even on a monday morning 
+@wtcc 4 am its 11 in the morning in england  i have just awoken, so goodmorning and gooodnight haha x
+Enjoying my lazy sunday afternoon in the sun 
+sunday morning time to do payroll so all my people get paid. they appreciate that 
+key biscayne for the day... then headed to a night out in orlando. what an amazing weekend.  
+morning twitter ? . . what a pretty sunday  . loooking forward to shop !
+we are excited to have our first follower     .. it is sunday morning and the weather is awesome...
+has had a completely unproductive morning, but its cool- thats what Sundays are for 
+good morning and happy sunday 
+@mongooseson good morning and a happy monday 
+monday blues  back to work 2nite after having a lovely week off!!
+starting the week writing a creative brief in the sunshine with a bit of lady ga ga. its a good monday morning 
+@DominiqueGoh - hey good evening! so far so good  it's been a good monday 
+is enjoying his monday morning off from school  
+morning all. this is the earliest i've been up in a week. going to be hard when i have to go back to work. at least thts not til friday 
+playing with leeches on monday morning.. now that's something i'd like to do 
+good morning  #fb
+Nothing like a rainy monday morning after the beautiful weekend to get you right back to work 
+good morning! happy monday! 
+@blozano77 hey girl good morning happy monday 
+@pennymoore5  good morning  live monday like its friday 
+@sassyback hehe on the weekend, or after work generally thursday or friday nights are better 
+had a great friday night 
+good morning my dears.  have a nice day and a wonderful weekend. &lt;333
+@gypsystokes... it's late, a friday night, and your working...? 
+morning all  how is every1? saturday, yay! huh?
+i love my saturday mornings!! 
+7:00 am on saturday morning &amp; i'm about to cook breakfast &amp; head to the gym. oh goodness. tonight will be fantastic though!! 
+@laribra morning lariii  i guess i'll pick up some dvds in the afternoon. ok see you later  xoxo
+To make up for it I am taking him to watch the movie sunday morning as its only rated 12A 
+@chrisdahlilama is the 2mile on thursday? 
+@ahfeckit... and so it goes... but still, hope ur enjoying the day... (evening)  
+http://twitpic.com/4f308 - The friday night boys! Bambooozle! 
+slow saturday night... 
+the husband and i are enjoying our saturday night afer a long days work 
+@aldakila morning alex. have a blessed day 
+oh no hangover kicking in now like. how is everyon this sunny sunday afternoon ? 
+says good evening...again  http://plurk.com/p/rj43s
+@poyntey it's sunday, so it's fun day! 
+sunday morning service with the family 
+...like sunday morning 
+in the sun, on msn, twittering, and listening to chart show radio oneeee. ideal sunday afternoon me thinks 
+yayy britt's up. sunday morning lounging 
+good morning, sunday! 
+@animevice you'll be here for fanime, duh! so we can do it on memorial day sunday or monday, schedules permitting. 
+@joejonaslove haha. thankss.  oh, wen we were on the fone last night, (this morning actually) i didnt even go to sleep til like, 4am. lol.
+@nsane8 no prob!  have a great evening 
+time to enjoy sunday evening with my daughter  
+@4ut good evening! 
+sure its 11pm on a sunday night but i could really go for a double coogan boy date with emily 
+screamworld this friday night 
+@trekkerguy what's with the sigh?  sounds like an enjoyable sunday evening 
+professional development is my favorite way to spend a beautiful monday afternoon....NOT! 
+houstatlantavegas, sooner than later, nov. 18th, a night off, successful . over and over for the last 2837 hours - heavennn 
+@nezua that blip is NOT to be misconstrued as qs on last night's convo... it's just a song i really love &amp; that rocks my morning 
+Watching good morning america 
+@Rawrrgasmic it's a dreary monday morning and I slept like crap...give me a break... 
+I am loving this beautiful monday morning! 
+monday morning . lets whip out some code today 
+I must have viewed that picture of me and @alicecsws from saturday morning about a milling times  x
+excited about this week! trying to have a productive monday. trying. hard. 
+allo! twitterville! how is everyone doing this morning...hope everyone had a great weekend mine was pretty good! its monday (blah) !!!! 
+monday morning. what to do. ...puzzles! 
+@heidimontag my saturday was good  i cannot wait until this monday night 
+@tncc24 - so sweet  why aren't you out livin' it up this saturday night?
+yep, good morning to you all  or night or evening or whatever xD
+Really tired this sunday morning  xxx
+i think i shall go and print off pictures from friday night 
+Just talked to andrew from friday night boys 
+nothing to do on a monday morning and loving it 
+enjoying the sunday night line up on fox 
+-sick, but . i had a good friday night! 
+AND all my favorite people are goin to the fair friday night  
+oh wait...i totally just realized tomorrow (well today) is thursday not friday...i don't have to go anywhere in the morning 
+partaaaaaaaay tomorrow night  birthday on tuesday 
+@dep yawn good morning  i lol'd when you told me i @dep'd you last night
+bubble bath &amp; strawberries on a miserable thursday afternoon? i think so! 
+@sarahkennett coolio  i'll drop you a line on saturday afternoon, will know more then 
+looking forward to not working tomorrow or monday.  love long weekends!
+vegas this afternoon... 
+let the saturday night begin. 
+feels wrong to be awake now...i feel like i have to go to work tomorrow, but it's saturday night, not sunday  ah, real weekends. love it.
+@joek949 good morning, it,s fantastic sunny day in newcastle 
+@lukeando up early for sunday morning mate 
+morning fellow twitters, happy sunday  think i might go walking today, possibly with a detour to the sweet shop!
+another fabulous saturday night 
+morning all  off to morrisons when i've dried my hair...what an exciting sunday!
+sittin' at home on a sunday night after eating danbaofan is where its at 
+says good evening  http://plurk.com/p/uc11x
+uploading some pictures from thursday night 
+Enjoying sunday morning hanging with the family 
+is watching wednesday night's waterloo road again. 
+early sunday morning with my issys, watching degrassi 
+@tn_femme gud morning? i hope u have a pleasant day 
+@bovinebubbles - hey, bubbles! you're up early for a sunday morning. shoulda slept in.  
+Having some sunday afternoon tea 
+@ClaireBoyles So what are you doing at home on a great sunday evening? 
+Is planning a bbq monday afternoon (memorial day) if that works (I assume people are off). I'm excited 
+aaand my real weekend starts now.  today is my saturday!
+last nite and this morning were awesome with a fantastic guy.  he made my day 
+@mungotwyford sounds like a fabby day to me, glad all went well for you, relaxed night for me as well, it is sunday after all  x
+mmmmmm  naps on a sunday afternoon are always awesomeness &lt;3
+I thought i had an exam tomorrow then the next day, Turns out it is thursday and friday. 3 Days off 
+@MissBrklynBorn Aww... i might have to babysit my niece tuesday night but I think i can be there at 11 
+So excited she finally gets to sleep in, its gunna be an amazing monday morning 
+good morning monday 
+loved this weekend  almost monday -.-
+this will be just a 3 day work week, followed by 5 days off  yeahhh thats a sweet monday morning
+@reneemytar yes me too! lets hang out this week? broke is over! tuesday or wednesday night, lemme know 
+a long to do list on this monday morning! but will be flying to sunny puglia (italy) tomorrow 
+@iseelyla yeaps yeaps coming back on thursday night  got work on friday still hahahs
+@SherryFrancis have a good nite/morning!  
+hello monday! had a lovely weekend 
+@gosamanthago happy monday   have a good day!
+good morning  I hope you're all having a great monday
+says good evening!  http://plurk.com/p/uj5zr
+@svhennig: good morning new york. Just only one day... 
+@mel0d Lol, I neede that on a monday morning 
+Out the door before 7am on a monday morning- hope its a sign of a very productive week 
+oooh, it definately feels like a monday morning...but its a beautiful day  {working till 5 }
+Having a good morning  last monday of high school !
+drinking with friends on a monday night is always good. 
+lived thru another monday morning meeting...INTACT! 
+goodmorning twitterville; what nice shining morning in nyc!! 
+good morning ppl 
+@unoxymoronic hahaha i meant this morning 
+BuffaLOVE for the weekend  excited to see my lovies on the island bright and early saturday morning....its all so bittersweet...
+says good morning!!  http://plurk.com/p/vf0cz
+good morning  from russia 
+just had an epic midnight stroll, which involved finding a cane and timmie hoes, my friday is off to a great start so far 
+@gfalcone601 morning gio.  it's shining here aswell. awesome!
+good morning! tis a beautiful day in sunny london  hmm, what should i do today?...
+relaxing on a rainy friday night 
+@forcegtx2 morning larry 
+@Teelou  hehe thats me..and good morning to you metallichick!
+goin out for the morning, think ill be bk in the afternoon. 
+On the bus back from a night shift. tired. @dsd_cbs sad about Q i'm sure she'll come around soon. i will call you today if That's cool 
+TGIF. 3 day weekend! pig roast on sunday! yay 
+@CalFreeman in theory you could have muffin thursday in the morning and champagne thursday in the afternoon 
+Reallyreallyreally glad it's friday and I have a three day weekend 
+work at ten. excited to have a friday night off 
+@royboi Sounds like a good friday morning 
+@SirDrake007 morning  what u got goin this weekend?
+@gavreilly I think they are still plain old @morning_ireland for now gav 
+So happy it's friday! 3 day weekend soon 
+@chrishasboobs  good morning chris 
+Mornings w/o music totally suckass! At least its another beautiful day and its friday! 
+@maizey12 i'll be here tonight and tomorrow, then bethlehem sunday and monday... then back here (but off from work) all next week. 
+has game night wednesday!!! be there 
+im probably going to be tired tomorrow- but its wednesday, so it means my week is almost over  lovei t!
+@aspo1 Up early hun  ... had an early night last nite, too knackered...so how's u today?! x
+says good afternoon  happy friday! http://plurk.com/p/wwmp6
+@misselle it is this sunday night 
+thought friday would never arrive this week... phew 
+morning ppl 
+Home on a thursday! I missed lazy nights 
+@ddlovatofans101 in the morning really why arnt you sleeping? 
+schoool.. it's friday though, so it's not that bad  looking forward to the weekend ^^,

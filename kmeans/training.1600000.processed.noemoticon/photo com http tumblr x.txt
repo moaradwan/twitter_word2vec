@@ -1,0 +1,357 @@
+Most common words for this cluster:
+[('photo', 252), ('com', 222), ('http', 176), ('tumblr', 166), ('x', 40), ('by', 39), ('bkite', 29), ('t', 21), ('z', 19), ('pic', 17), ('picture', 14), ('m', 13)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Photo', 0.9591803550720215), (u'Photograph', 0.8056809902191162), (u'GREENWICH_CITIZEN_photo', 0.7772623300552368), (u'PHOTO', 0.738021731376648), (u'Photos', 0.7164176106452942), (u'Picture', 0.7132930755615234), (u'via_Newscom', 0.7121667861938477), (u'Courtesy', 0.7013929486274719), (u'PHoto', 0.6980720162391663), (u'davaotoday.com_photo', 0.6943838596343994)]
+
+
+
+
+
+Photo field trip today. (: I just wish it wasn't so cold. 
+Photo: Taking names and kicking arse - gouache on second hand canvas I struggle with painting  http://tumblr.com/xki1m214j
+The gulf of Biscaje. Where I tasted luxury for the first time... I think it fucked me up...  - Photo: http://bkite.com/06BJn
+Photo: I want one  http://tumblr.com/xbb1m3npk
+@SE3Photo actually no idea, jst curious why ur profile so minimum lol mine has pics info, m8s etc, urs so bare  lol
+is bored  i feel like dancing but cant baby sitting  *~B@By B3Cc@~*
+Photo: Empty office today  http://tumblr.com/xmm1mes35
+almost got Treck 7000 but did not like gear shift on it.  I know I'm picky LOL - Photo: http://bkite.com/06Fse
+@vfclovexoxo haven't talked in a while??where you lost??By VFC??lol and you never reply to me on youtube 
+This is wario, I wish there is wario land game in PSP  , I miss this game, last time I played it was wi... - Photo: http://bkite.com/06H8T
+.. He just woke me up... By headbutting me in the face  http://yfrog.com/az15sj
+Photo work is suspended. Too much raining 
+Photo: Yay, first copy of Edge has arrived. Slightly bent though  http://bit.ly/1apkV1
+snowbound Sestriere all runs complete &amp; no lifts open  - Photo: http://bkite.com/076oz
+Photo: Sad ice cream cake is sad  http://tumblr.com/xot1pgmrp
+Photo: Dangit Wenzell  One more page response http://tumblr.com/xoj1ph4gl
+Photo: hyam: omg, i want a kitty.  http://tumblr.com/xan1qyzqy
+@NotoriousREV By the way, you wouldn't want to see my arse in leathers. They don't make cows that big! 
+Photo: This is true  http://tumblr.com/xmc1r00vz
+Ap test today  im so nervous!
+Ap world history  bye phone!
+Photo: It was just this one time. Try were empty promises too. No way we do Del Taco  pablosan: http://tumblr.com/xkx1su5ag
+Photo: he practices with maknae? lol i made myself sad  http://tumblr.com/x181su7q1
+@minteva Circus = awesome! As always. And I wasn't as tired and sore this week. Photo shoot didn't end up happening 
+@Poage_Photo that game was pretty fun to watch. The Swingers are kind of bitter rivals for us 
+Photo: dearmary: yes. I sooo miss RSHS.  http://tumblr.com/xcj1t5fdv
+@Saberware File! File now! And yes, if only I could get my own 
+@GrooveDiggerz File download doesnt work mate  404 - not found...
+@jonathanchong By the way dude, having to work from home again as machine still not setup 
+Photo: tiresome: merricat: johanna wallin Riiiight.  http://tumblr.com/xyl1ubfuk
+Photo: Going to work again. This is my sad face.  http://tumblr.com/xtv1udlor
+@almiebear go to settings..Picture and Browse id didnt ler me change mine look what it put me 
+Courtesy of @msdiazz  god it looks so bad  LOL  http://twitpic.com/65xib
+Photo: martwo: OMG i love you!!!! i accadentally deleted this photo  yay hes SO beautiful http://tumblr.com/xvd1wankt
+Was about to head downtown...now there's a flash flood!  - Photo: http://bkite.com/07XFs
+Photo: novusnovendo: EYECANDY + LIVE = like a STRIPCLUB! only he keeps his clothes on  BUT he can take them... http://tumblr.com/x2k1wga72
+Not making good time, fucking Chicago traffic  - Photo: http://bkite.com/07XOh
+Not making good time, fucking Chicago traffic  - Photo: http://bkite.com/07XOi
+My daughter pushing me down in the bounce house.  Photo http://bkite.com/07YLk
+Nvr went swimming. By the time I got out there it was 2 cold. 
+Studying for the File structures lab.... hating this subject alot! 
+Pic fixed somehow overnight (strange) It's such a lovely day but I feel a bit poorly 
+Photo: I want to be out there so bad, but I have yet to sleep  Via (Outside my window) http://tumblr.com/x2b1wn42i
+I wanna join in a Photo Walk but the one nearest me is already full 
+Tried to get a pic of myself up here...I went to my Walgreen's Photo Studio app and it won't open up to allow me to do that!! 
+I want to show you all my new shades! Photos up soon, hold on. 
+@natbubba it doesn't? Oh sorry  And me and you have? By who? ;L
+It's 55 dollars but this bag looked so nice we bought 2.  We're also almost to our seats  - Photo: http://bkite.com/080Qe
+Photo: jessicaclaire: QT CAKKKKEEEE! we dun have dq in london  http://tumblr.com/xhd1wrdxr
+@ThisStarChild By whom? To whom? By what implication? Tell meeeeeeeeeeeeeee - sorry lost plot, try me again 
+Taken yesterday... a little better but still broken  Doc said to stay off it for 4 more weeks and then ... - Photo: http://bkite.com/080ZU
+Photo: aquabooks: i want to be there.  http://tumblr.com/x1v1wtn4a
+Photo: endofmarch: Makes me want for long hair again  http://tumblr.com/x6s1wuy05
+Photo: I wanna play Mario on a family computer.  http://tumblr.com/xll1wvc98
+Photo: i miss my class and the MATH book  http://tumblr.com/xsv1wxqkf
+Photo: resunsaysdope: They cancelled the Miami leg  that sucks.. i wonder if i can find out exactly what... http://tumblr.com/xtl1x1vix
+Photo: MISS  http://tumblr.com/xz01x21ss
+@capriciousK Photo is 404 
+Photo: heidi montag is sad  and I, on the other hand, am THRILLED. http://tumblr.com/x7k1x5drb
+@PokerRoadJonV Just one update today, in the middle of the night. It looks like it might become a first-thing-in-the-morning Photo Blog. 
+Photo: BMTH. Aww, Curtis  http://tumblr.com/xmq1x5is2
+Photo: Kiter-kiter meetup was awesome cept for the unglam candid shots &amp; hatred-bitch.  http://tumblr.com/xtg1x68p0
+@jamie_oliver Photo not there 
+Photo: I hope I can remember this  http://tumblr.com/xdf1x6s62
+Photo: iattackfood: I want this jacket. Seriously. Kahit yung fake sa Greenhills.  http://tumblr.com/xlr1x6vyv
+@macbella2 oh sorry I was making a video  It might work that way I will try it in a little bit and see  Editing right now lol
+Submitted project propsal... the waiting game starts... 
+http://twitpic.com/6ej3n - Pic of me a yr before I got married. I was 42 in the pic.. now add 20 yrs in 4 
+Photo: Ruthie injured this poor butter fly!  http://tumblr.com/xav1x948b
+Photo: jake and heath, rip  http://tumblr.com/xcm1xapsy
+Photo: symphonysoldier:  Ian will go far, no matter what he decides to do; he is extremely talented. I... http://tumblr.com/xjv1xbcr7
+Photo: i hate not having money  http://tumblr.com/x0g1xbn6x
+Photo: ffinderskeepers: :[ omg  im actually going to cry :/ http://tumblr.com/xjv1xbv9k
+Photo: Lines already forming for the Pre, wish I could get it at launch!!  (via PreCentral) http://tumblr.com/xuw1xcc10
+Photo: The 90s. I miss it terribly.  http://tumblr.com/xq91xcxwl
+Photo: symphonysoldier: OMG! this is sad  we will miss you Ian http://tumblr.com/xgs1xdaw5
+Photo: And soon my iPhone charger will be no longer  [he just wants replacement for the MacBook also ] http://tumblr.com/xa91xf5e5
+Photo: jerceeee: i want one!!!  http://tumblr.com/xgs1xff4p
+Why do I have so many problems changing a profile pic on twitter? File type and size are correct. 
+@rangeronline sorry boo im on By phone cant listen 2 anything  but youtube....n  cnt sleep 
+Photo: artpixie: Ah, rain. Why are you making me feel depressed?  http://tumblr.com/x9t1xgr5z
+Photo: liveincolor: I miss them.  http://tumblr.com/xdw1xgxhq
+Photo: No more fish  http://tumblr.com/x0u1xinvj
+Photo: tylerknott: Awww. Such a dirty puppy, I want a golden  http://tumblr.com/xxa1xits1
+Photo: I want the old Twitter back.  http://tumblr.com/xev1xl9bg
+Photo: missing  http://tumblr.com/x6z1xqgqp
+Photo: Hey, baby-belle. I miss you so  http://tumblr.com/xwh1xuqxq
+Photo: serialkiller: I miss you, Kurt.  http://tumblr.com/xws1xuxr4
+@hotforwords http://twitpic.com/6mep4 - Picture won't load... 
+Photo: theres a typo  its beautiful not beautyful. sorry. http://tumblr.com/x9h1ykppq
+@PatchouliW By the by I can't DM you 
+Photo: exhibit a of oops that just happened. ha.  52heartsvia fuckyeahshoes) http://tumblr.com/xp31ylp9a
+@treobenny I've been injured!!  - Photo: http://bkite.com/08cIj
+@Deejaywilliams Pic for me didn't work. 
+Graduation. Those lucky buggers... I've still got 2 yrs. left.  - Photo: http://bkite.com/08cYK
+I think you can talk to the sit admins re: your e3 pics, no? @kappachan that sux. Pic stealing 
+Photo: Dedicated to babe  http://tumblr.com/xxh1ynt6d
+I feel like I work at Picture People.  
+Looks like we're sleeping on the floor again  - Photo: http://bkite.com/08dt2
+Photo: Flu  (Explored) on Flickr - Photo Sharing! http://tumblr.com/xab1ypjma
+The show is going excellently, however @stefanrun and @madelinegrieve are stuck behind a farter.  - Photo: http://bkite.com/08dFQ
+Finally going to royal Clayton, except I just had tacos  so just have appetizers - Photo: http://bkite.com/08dIo
+Somewhere out there, the photographers who won the Nikon International Photo Contest found out who they were the past few days. 
+Photo: I miss the good ole days.  http://tumblr.com/xif1ys6da
+Picture uploading not going tooo well 
+Photo: chittybang: rachel zoe: D.I.E my heart stopped. i want want want this. pleaseeeee  http://tumblr.com/xjf1ysgup
+Photo: And so did Anthony! Others had it too, but they were taken out already so no pictures.  http://tumblr.com/xro1yt31f
+On my way to buy a blackberry now! By y do friends always let me down? 
+I don't have any money in my account so I can't use my debit card for it. I'm bummed. By the time i have money the trial will be over. 
+Photo: thedailywhat: So very true  http://tumblr.com/xo31yugiz
+@DharmaNurse Picture worked the second time I tried. 
+Shared: Flu  (Explored) on Flickr - Photo Sharing! http://tinyurl.com/q6jqgv
+Photo: I miss my b7 loves  http://tumblr.com/xtb1yx0uv
+Photo: unjazmynlike: i want to go oh my god. julieee.  yay! very excited (: http://tumblr.com/xjv1yx0vb
+Photo: macro lens. i miss my 50mm so much, i need to get it fixed  http://tumblr.com/xig1yy5n1
+Photo: Cutest dogs ever. I want them both.  http://tumblr.com/xkq1yy6od
+Photo: it didnt grow  http://tumblr.com/xjs1yym4b
+Photo: out-of-touch: ian is not elvis!  i miss him http://tumblr.com/xiq1yz59o
+@KellyLavin Photo didn't come through  but as long as it isn't raining, Fenway is a good place to sleep. Better than the MBTA! Luvya, EK
+my boyfwends last day in boulder  count down to moraga reunion with @kaitlin_henning @sassamo @HO_viatt BEGINS
+Photo: Failed dunk  http://tumblr.com/xdi1z1evv
+Photo: kari-shma: I really miss your kisses  http://tumblr.com/xwa1z44eb
+Photo: this may not look too sore but i swear its agony  http://tumblr.com/x2o1z44i1
+Photo: My lip  http://tumblr.com/xgd1z4lfn
+Photo: I miss him  http://tumblr.com/xfz1z5gw7
+Photo: louiise-x:  but true. http://tumblr.com/x0m1z5zge
+Photo: first blood drawn! i got bloody making bloody marys.  http://tumblr.com/xhg1z6ysj
+Photo: thedailywhat: Upcycle??? Blerg  http://tumblr.com/xvo1z787z
+Photo: iwontsayathing: how awsome is this? i wish i could draw  I agree! This is amazing! Urgh Jealoussss!... http://tumblr.com/xsg1z7d8s
+Photo: My stomach hurts  via Street Anatomy http://tumblr.com/xdk1z9z40
+Watching Grand Designs. By myself. At 3:44am. 
+Photo: i really want a dog  http://tumblr.com/xgs21p6l9
+Photo: vinylsunday: This broke my heart a little.  50 cents?! pfft. http://tumblr.com/xll21ps9m
+@SD_Photographer we still need to work together again at some point. sorry i'm always so busy 
+Is freaking tired  grrr cant sleep in pain *~B@By B3Cc@~*
+Photo:  I love her. People are haters. http://tumblr.com/xtt21rrcg
+Photo: Poor mommy horse  OUCH YAN. http://tumblr.com/xjc21s36c
+hehehe lagi nulis posting buat di blog deh nih ya. tentang 101-DALMATION haha be patient you guys  By the way, I feel sooooo sleepy  hem
+@longzheng When starting WLM, it just crashes, no error. &amp; I have only the option to uninstall Photo Gallery &amp; Movie Maker, no WLM. 
+Photo: i miss them  http://tumblr.com/xby21t817
+Photo: the economy has even hurt the hells angels  http://tumblr.com/xlz21z2lr
+None of us are! By the way still nothing 
+@sasuraiger Same here. By the time I can get there, I'm sure it'll be gone. 
+Photo: If only I could ever be this skinny. Or white. Or have the money to finish my tattoos.  http://tumblr.com/xdu220oh0
+Hard day for me  http://myloc.me/40By
+Photo: Yeah.  High school was the best. http://tumblr.com/xec224f56
+I love my song Picture Perrfect (based on a girl who got everythin she wanted and was hell pretty!) and she was mean to me 
+@ the DMV because I lost my driver's license. This is the line to get a number to get in line  #fb - Photo: http://bkite.com/08zlK
+@BradHart sure, tease me... By the time the kid leaves I won't be able to nap. It'll be 5 already and then I have things to do 
+Need a bandaid after vaccinations  - Photo: http://bkite.com/08zPv
+2 of my images were selected for this year's montage for the Shutterbug Photo Comp (didn't make the finals though  )
+Photo: I wish i had one of these Octopus Flash Drives  @markhoppus http://tumblr.com/xly22d7b3
+Photo: I love calvin and hobbes  via BILL WATERSON. http://tumblr.com/xfj22da4b
+I wish Jamze could get Picture Mail 
+Photo: wordsnowheard: Only thing stoping my is the 5.25 shipping  http://tumblr.com/xqy22dj7w
+5555 I am upgrading my Photo Stock WebPage since yesterday http://www.bookingmemory.com/Stock until now it is still crash 
+Pouring rain, tornadoes, &amp; golfball sized hail. That is what my night has consisted of. By the way I don't have power until 5 tomorrow! 
+Photo Of five  student cemetery, recently died !  http://i39.tinypic.com/sc4yf4.jpg
+Photo: fuckyeahaustin: I want to do this. BADLY  http://tumblr.com/xak22oxx8
+http://twitpic.com/7o1i3 - Pic of note i wrote to crush girl. I threw it at her, she just threw it back without reading it. 
+started a new section. nothing done at all, still!  http://i53.photobucket.com/albums/g76/veethebee/Photo17-1.jpg cool butt bump.
+@kegill Pic isn't working.  Blogger meet-up and I'm not there? How is this possible?
+Photo shoot RAINED OUT    . . . . http://www.jabberwocky-design.com
+@Lamequeen3 hahaha  wow some friend you are! By bf do you mean boyfriend? I dont have juan, you whoree! Freaaaak you! What are you doingg
+Photo: This week, my planner was EMPTY.  I hate being Sick. http://tumblr.com/xqm22rzuj
+Photo: danceontheedge:  http://tumblr.com/xca22t59z
+Photo: danceontheedge:  http://tumblr.com/xca22t7cu
+Photo: danceontheedge:  http://tumblr.com/xca22t7sz
+They say I'm contagious, thus they gave me this mask..  (Photo courtesy of Chantika) http://mypict.me/4faZ
+Photo: nikkaykay: ..i miss my island home  http://tumblr.com/xiu22ta6g
+Photo: I want!  http://tumblr.com/xv722w8wo
+Photo: I am feeling just like this after a real heavy dinner  via picfor.me http://tumblr.com/xaj22x5cf
+just got the dreadest file cut ever..no not a paper cut..a FILE cut 
+Photo: Looking all tired and sick  http://tumblr.com/xqu22yba6
+Heavily regretting having to leave the symposium early, just as I started networking  Photos!
+Photo: Barrel Monster! The kid got arrested for it though  http://tumblr.com/xnl22zsnc
+A transient just yelled at me: &quot;every mon/tues/wed/thurs/fri you will not have sex for 11 days.&quot; By all indications, she is right. 
+http://twitpic.com/7qj1u - This Pic Would'nt Upload 
+Getting my drink on..... By myself how lonely  lol!
+Photo: kari-shma: I wish i was this goood  http://tumblr.com/x0m2333u7
+Photo: sd-ensmeetup: me encantaria iiiiiir  http://tumblr.com/xec234ank
+@Prod_By_BLACKK uh..i thought you was starting up a team for me!! 
+Photo: fallforyou: you can always talk to me  http://tumblr.com/xl6236cy1
+Photo: This is our dog Tilt. He was hit by a car tonight  We called a vet and had her come in after hours... http://tumblr.com/xp3236kre
+@yat4ever i'm probably half and half.  By network: Nbc: chuck; heroes; the office; life 
+Photo: want  http://tumblr.com/x4q238h8x
+It's raining  @paoyen hailed us a cab though. Stylish with an umbrella.  - Photo: http://bkite.com/08Fjb
+Photo: 9gag:  My boyfriend in 20 years. *le sigh* http://tumblr.com/xte23e3o5
+@hivebrain Editing an existing takes a new slot. Deleting does not free a slot. Only solution seems to be pony up $99 for a 2nd account. 
+@bouska I want a #Noh8 Photo! #jealous! 
+Photo: artpixie: oh no! LOLL, this sucks man, film is awesome  http://tumblr.com/xuc23gctw
+At dinner with @nickrp! I've got an excellent view of the tv here. And of the Rays losing.  - Photo: http://bkite.com/08GOH
+mad bunny   wuz goin for fun - Photo: http://bkite.com/08GPA
+Photo: artpixie: oh no! LOLL, this sucks man, film is awesome  http://tumblr.com/xcr23h4r8
+http://twitpic.com/7v3gf - Pic of me slipping off the rope swing 
+No prince... Just a frog.  - Photo: http://bkite.com/08H0v
+Photo: and flights canceled  road trip http://tumblr.com/xvn23hixd
+Photo: i miss bri so much  http://tumblr.com/xrv23k84z
+Being Yelled at By Poony 
+Photo: MAKE MY DAY (OUTTAKE  ) on Flickr - Photo Sharing! http://tumblr.com/xpi23lmep
+Photo: bedscenes: I want.  http://tumblr.com/xec23m7dh
+Photo: lifesagamble: I want.  http://tumblr.com/xqp23m7pb
+Photo: jackofalltwists: have just re-read the story.  Ayyyyy. this means Im watching the film again. http://tumblr.com/x7023my96
+Spam of the day isn't very inspired  &quot;Enlarge your pecker and women will stand in line.&quot;
+http://twitpic.com/7wovs - I miss the SEC walk. I miss Ateneo. I miss everything about college.  (Photo taken after batch pic taking)
+Photo shoot in 30 I'm  sooo dead  where's starbucks? Do they deliver..
+Just tried to instill n-gage as the mobile site still says it's compatable with the N97. File corrupted 
+Photo: heeaathheer: i want so badly the stay positive shirt  http://tumblr.com/xgs23ou3r
+@MitchyD Photo doesn't exist anymore. 
+Photo: Yogurt without cypee  LOL at my dad http://tumblr.com/xhw23qdpc
+Photo: wish i was in sao paulo yesterday, so i would see you guys  http://tumblr.com/x8023qs1l
+Photo: friends with you I WANT + EXPENSIVE =  http://tumblr.com/xw423r53d
+Photo: i want to go to there  http://tumblr.com/x0323rgjj
+I'm studying. By default. Because my internet isn't working 
+Photo: Ouch  I no longer want to go and see Year One. http://tumblr.com/xo923xgcs
+Why this Windows Photo Gallery Crashes ??? 
+Photo: thisiswhyyourefat: Someone, bring me to try ravioli  http://tumblr.com/xvm23xwil
+Photo: Time for a nap since no one is around  http://tumblr.com/xdr24gy01
+Photo: Screw that, this is animal torture. That poor puppy.  via 1000lolz: http://tumblr.com/xo724nlvw
+Photo: i miss summer beach bonfires!! Beach tomorrow and thurs. but no bonfires  http://tumblr.com/xfs24w6zu
+Photo: luxurious: fuck city island wheres my bud  http://tumblr.com/xoy259otw
+Photo: hanage: i miss you.  http://tumblr.com/xly25axws
+@VivatRegina By the time I read your tweet, he was home na. Booglyboo! 
+Pic of the damage to the car  I hate people who speed. http://yfrog.com/2bzbxj
+Photo: do you see that? I WANT ONE TOO!  http://tumblr.com/xtb25dakg
+@RickFromGermany The Pic doesn't work! 
+Photo: God damn i feel like aids today  have to clean muh house soo bad too for pre- partay at the crib http://tumblr.com/xra25exp2
+Photo: miss germany  http://tumblr.com/xf825f012
+Photo: kml: You finally got a Tumblr  I bet I know who this is about. Does he still hate me? FOR JAS. Aw  http://tumblr.com/xdr1jtklx
+@HO_viatt twitter wouldn't be whole without your inappropriate self (although it might be a lot cleaner 
+Photo: My lady  http://tumblr.com/xxi1jug1e
+Photo: Beer  http://tumblr.com/x9b1lzxe5
+wooohooo, i sure had my share of fun at Brewerkz and PHOTO talk! 
+OK... I'm so new to this... I dont think its that big over here... or as big as it is in the States..By hey i'm going to give this a try 
+@LittleSussy I know!  By the way, you need to put @ next to the name or else I don't see the replies on my phone. ;)
+love your photo caption  @williger Bald man enjoys giant burrito after chasing down his towed car. - Photo: http://bkite.com/06CXZ
+Picture to burn - @taylorswift13  mg I LOVE that song!
+oh man! what a week...tmr i finally get to start work at a camera shop: John 3:16 Photo  yeay!
+Photo: handa: I wonder where it leads to.  http://tumblr.com/xyu1m60xa
+Photo: ashleymarieboyle: They do kind of look alike! Lol. i see it!  http://tumblr.com/xr21m62pk
+Photo Tip: There are colors to black and white. oddly satisfying when u look closer. 
+Photo: car chess  http://tumblr.com/xyj1m70ri
+has http://tinyurl.com/c239f4 http://tinyurl.com/c239f4 (uploaded Ibav's Kryptonight Photo on dA!)  http://plurk.com/p/oydfu
+Check out myspace.com/afstexas &lt;---Sexyness coming at ya! &lt;3 Photo shoot, and practice today! 
+Photo: Currently reading this graphic novel. Really interesting so far.  http://tumblr.com/x7z1m7fap
+@Ladydchaos Photos of his ARSE pls!!! 
+Photo: Design meeting at 9 am over eggs benedict on broadway  http://tumblr.com/xjg1m81bl
+Photo fest in LDN, Tudor feast last night, don't think I'm able for more 
+@havidaemmarkl Photo is mandatory, then... 
+Photo: Christian got owned!  http://tumblr.com/xro1me5cn
+Photo: thursday night.  http://tumblr.com/xyt1me8y6
+@SuperKaylo www.yamahapkowner.com if you are curious   I am a gaming Freelance Journalist as well... www.jameswoodcock.co.uk
+@youknowriad   , the test was awesome  . By the way,you're Algerian right ?
+Seems like it is Photo day !!  .... my turn ... hehe
+@DoctorKarl Photos look great. You look remarkably fresh amongst all the Gaudi in your loud shirt 
+Photo: Me &amp;&amp; pedro  hmm what can I say about him, besides him being the badass in fam. he does alot of... http://tumblr.com/xlz1p0tcb
+Photo scavenger hunt with my favorite people!  &lt;333
+Photo: http://bkite.com/073DW - Even though Kogi was a PHAIL, I came home to two good things. #1: my special order shoes arrived. 
+@gfalcone601 http://twitpic.com/41r7m - I love this Picture its so cute   xx
+Finally a Display Pic of my own 
+The new view from our deck  Beautiful! - Photo: http://bkite.com/0743U
+@Ash_Faye_Photo how about a five month old? 
+2day is feeling like a good day - im looking forward to these errands i run and tomorrow is my Photo Shoot 
+@AionDuo It's okay, &lt;Source&gt; isn't moving servers and we're having a lot of fun (level 25+). Thanks for the offer, though! 
+Post Edited: Kampfhund  (#url#) http://cli.gs/4JZX8g
+even deadpool plays street fighter!  - Photo: http://bkite.com/0766G
+Ramen&amp;Dumplings for dinner at a family-run restaurant.I like their food and service.  - Photo: http://bkite.com/076iM
+-Courtesy of my 3 yr old daughter. 
+@robinmatthewfry @FSDS Courtesy of  http://tr.im/klSE 
+Ooops! Lost @jaffejuice for a second. But he's back now! Editing for me 2nite. 
+@delb0y RAW Photo mecanic lightroom 
+Just completed 10 money bag pillows!  Photo shoot tomorrow...Mia permitting 
+I am just plum tired but can't sleep...... By the way in the south we said Twitterpaited, anyone know what that means  ????  It's bad!
+@amankevin Yaaay you have this awesome Pic here, too !  It's soo damn cute. But you already know it.haha
+You won't believe how long this took to achieve... Still all done and my car is happy again  - Photo: http://bkite.com/0783l
+Photo: Great night.  http://tumblr.com/xmo1pgymj
+@richa_august84 - requoting the gyaan - the more you live life, the more you fail to notice how you live it - quote By muthu... 
+@louis_educator Thanks. Photos look great - I'll comment them asap 
+Photo: Got my prints a few days ago, ready for the NorskArt exhibition  http://tumblr.com/xht1phgl3
+@robwaumans Foto! 
+@boardopboy Picture or it never happened. 
+Photo: I like da cooolooorss and the composition is great  scribkin: http://tumblr.com/xyb1qw8cb
+@acrocks congrats! Photo of dre? 
+Photo: hannahisdead: omg i wanna read Pride and prejudice and zombies fuckyeah zombies  http://tumblr.com/xol1qyw8v
+@MSNEWYORKER26 wow cute Pic 
+At our friends weeding. Picture from the restaurant, we are waiting for Newly weds to come  http://twitpic.com/4wxje
+Photo: loove it  http://tumblr.com/xka1qzxgf
+Photo: Sunlight reference for pug film I reckon  http://tumblr.com/xjg1r02se
+Photo: oh google maps, you always know what day it is  http://tumblr.com/xig1r02sh
+They're giving out roses for Mother's day  - Photo: http://bkite.com/07l2g
+Photo: Also from a couple weeks ago, but near my house. It reminded me of my sister.  Photoshop: crop. http://tumblr.com/xln1r5uge
+@i_Reporter I believe that, sure! That's why they're re-launching the franchise, so they can get you into the loop this time around. 
+Photo: thatsmyword: xoxo gossip girl  http://tumblr.com/x2a1rglwi
+ Just got all my packages from Adorama, B&amp;H Photo, and Paul C. Buff.
+ aww great song &quot;Picture to burn&quot;
+Song Of A Dream ~ tis my birthday  on Flickr - Photo Sharing! http://bit.ly/sOlXV
+Photo: littlemissdorkette: Gotta love this moviie.  http://tumblr.com/x7u1s34n2
+@eropp157 Don't you just love the Pic I use?  I think it is why I don't get many Random Followers. Here this is the other Pic I use too.
+Photo: nailedpromise: yah we do have a lot! people are people.  http://tumblr.com/xwj1s4b7w
+http://twitpic.com/5cmef - I love this new picture from the Photo Shoot! But the wind caught my dress and I kinda look fat!  Ohh well  ...
+Photo: i went to bayview today.  http://tumblr.com/xou1svhy3
+Photo: look at the cutie  http://tumblr.com/x9y1svirf
+Photo: Working ReALLY hard  http://tumblr.com/xjg1swm6x
+Photo: I love lazy mornings.  http://tumblr.com/xmb1sys36
+Photo: Something I like to do,  (the tee was an attempt..) tehehe. http://tumblr.com/xjh1syvhb
+Having dinner, starting with garlic bread  - Photo: http://bkite.com/07zjT
+@BrittanyCurran Haha I didnt know you had a twitterr  I miss Photo with you!
+@compressionla thank youuuuuuuuu. Photos soon. By 000'o'clock monday morning. Check nightmoves 
+Photo: omgeeeee giant marshmallows  http://tumblr.com/xkh1t45po
+Photo: let me introduce you my favorite bar, sushi bar  (via nom-sushi) http://tumblr.com/xlb1t4c7q
+Photo: getitgurl: This picture is gorgeous. This is what my summer will consist of  :/ http://tumblr.com/xz01t4k4w
+Listening to ''Twisted'' By our sexy grown men...lol  ''A little bit twisted can feel your heart you want me to twist it for ya.....&quot;
+Photo: chiam: photography _ Leekanghee a.k.a ahopsi  http://tumblr.com/xxl1t4n0x
+Photo: Only two more weeks and their ears open!  http://tumblr.com/xvg1t4sqd
+@iantalbot Sorry to tell you that you have been replaced on the &quot;Photo of the week&quot;.   http://digg.com/u13XvW
+Photo: 40 high quality icon  http://tumblr.com/x7a1t50qk
+whee. supervisor left us with nothing to do. hmmm.. i'm gonna draw my dream house with CRAYONS  Photos later. 
+Photo: More huge trees!!!  http://tumblr.com/xxg1t5hcq
+Photo: acheron: Federer!!! I just love him.  http://tumblr.com/xvb1t5j3o
+Photo: This is such a cool Place! WOW!  http://tumblr.com/xxg1t5kl3
+Photo: The path along the Villas, so nice!  http://tumblr.com/xxg1t5l7p
+Photo: And tadah! Winnie got a bath!!!  lol.. this was 2 days ago, and sis had to talk winnie, our dog.  http://tumblr.com/xxg1t5mz8
+Sleep. Late lunch. Photo group. Tennis!  enjoy your day friends!
+Photo: my 2 favorite things.  http://tumblr.com/xsn1t650d
+@BethHarte By the way, if you need any help with the stuff we talked about last week, lemme know  
+Re: Photographer job opening at Getty  http://tinyurl.com/pn2nyu
+Photo: I love you Wallace and Gromit, you are the best!  http://tumblr.com/xlr1t7a3k
+@anaggh YaY! Whatta Photo! 
+Photo: deathbydebauchery: I really, really need a camera now since I soiled the one I have.  Hmm. http://tumblr.com/x9t1uazqh
+@kerrywashington  Nice Photo 
+Photo: hanna beth and my favoritepair of shoes.  from (hannabeth) http://tumblr.com/xgp1ublfv
+Photo: Thirsty, much?  http://tumblr.com/xyl1uc0q3
+Photo: My soon to be bedroom  http://tumblr.com/xmm1uc7fy
+Fantastic mood.  Photo booth in independent study. Johahha. )
+Gettin my hair did... Photo shoot for Gsus clothes today 
+Photo: fvp: thank you both for coming to visit me in that very hot, very crowded store! it was awesome!  i... http://tumblr.com/xz51uddzj
+@gigglesmile By the end of next week if possible 
+@the_nikster    I wasnt sure if anyone was gonna get it!! By far the best part of that movie!!
+Photo: I found this on some Russian designers weblog. Wicked  http://tumblr.com/xpw1w9hdw
+Photo: iwantchocolate: jajajajajajaj  lo maximo. I just want to say chill the fuck out! Ya seguire... http://tumblr.com/xql1w9m8z
+Photo: And with this, I will go to sleep, lol. Night  http://tumblr.com/x7f1wa2jf
+Photo: heartsonsleeve: I know that exact part     ? ? ? yay new moon! ..and all the books! http://tumblr.com/xgy1wah0r
+http://twitpic.com/6668e - Photo for Girlfriend Magazine that i sent in 

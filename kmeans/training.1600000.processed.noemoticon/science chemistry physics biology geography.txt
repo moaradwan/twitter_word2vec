@@ -1,0 +1,551 @@
+Most common words for this cluster:
+[('science', 165), ('chemistry', 143), ('physics', 110), ('biology', 97), ('geography', 43), ('exam', 39), ('tomorrow', 27), ('revision', 27), ('maths', 22), ('today', 21), ('day', 13), ('exams', 12)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'science', 0.7957548499107361), (u'biology', 0.7674298286437988), (u'Biology', 0.7617272734642029), (u'Physics', 0.7552335858345032), (u'Chemistry', 0.723795473575592), (u'physics', 0.7148059606552124), (u'Science', 0.7106987237930298), (u'biochemistry', 0.7000448703765869), (u'biological_sciences', 0.6965011954307556), (u'mathematics', 0.6893090605735779)]
+
+
+
+
+
+Is about to start studying for her next course Biology 
+Off to Geology class  super tired.
+drooling thru physical science 
+off to geometry &amp; earth science 
+@ssbohio I failed chemistry... 
+Physics. Again. And again 
+biology...i have to stdy it.. 
+I've started to learn for my examinations. Biology is so~ time consuming 
+at home doing science essay 
+I feel sickkkkk  Chemistry is killing me  I can't do it anymoreee 
+@Cherye101 I feel sickkkkk  Chemistry is killing me  I can't do it anymoreee 
+Yawn. Geography 
+Science killed my unicorns  http://abstrusegoose.com/120 klikkentgess!
+finished the chemistry paper! now onto maths.... 
+@mayawesome Hmm. Sometimes. Depends what subject in Chem. But Chemistry comes under Science. I hate Science. Im awful at it 
+I don't want to go to school!  Chemistry.i hate that woman -.- Its devil inside her!
+Chemistry. Yawn. 
+@littlecharva Thought I noticed some chemistry. 
+sat in science, i hate it  not fair
+trying to do my geography but i am failing 
+Pharmacology + Psychology exams + same day = brutal + no sleep for me tonight 
+studying mathematics restlessly  hoping the best for tmrw after the unexpected biology!
+In geography 
+Seriusly cant pay attention in science! 
+I could have got 100% in analytical Chemistry! But Hypersomia killed it! 
+wasn't happy about Physics test but hope everything's gonna be alright. 
+I have to say goodbye to twitterland for now. Pharmacology's waiting !! 
+I need to do science homework   i like graphing though : I
+poly life so far so good. difficulty understanding 2 of the modules, science and maths since...forever. 
+poly life so far so good. difficulty understanding 2 of the modules, science and maths since...forever 
+Is 4am, and im officially done studying Biology....well for now 
+learning math and physics 
+Biology is stupid  Exams are either.
+Biology past papers on a sunday afternoon are making me depressed... 
+i really dislike science... actually just really dislike studying here 
+I am not ready to study Microbiology for 13 hrs.......but I have to 
+attempting to teach myself physics before the final 
+sitting at home on a BEAUTIFUL Sunday, studying for Limnology and Freshwater Biology ... oh, the life of a bio sci student 
+woke up, had breakfast and now studying biology again 
+chemistry 
+chemistry killing meeeeeeee 
+@kylakoid but zoology is love! 
+FINALS.....Zoology today. 
+I wish i could make beads today but my son wouldn't like that and must study for biology midterm.  
+Sitting in chem, going over chemical equations 
+Revising French and Biology 
+damn you biology, please just find another organism to annoy 
+just revising, got my first exam tomorrow which is Chemistry which im not the best at 
+Studying for Chemistry. FECKIN HELL! 
+hates sciences 
+Chemistry exam tomorow woo 
+Chemistry exam tomorrow. 
+being defeated by the environmental science final 
+I have two more exams tomorrow. Bleh. Physics is not fun right now 
+Studying for CST tests grr... Science and history  how am I supposed to remember stuff from 6th grade haha :p
+I don't get chemistry. 
+should be doing biology 
+I have just failed misable a physics practical paper 
+offf to finish physics and so spnaish , 
+making physics hw &amp;studying math 
+7 in geography 
+@mossyrants @lucypaw I'd like some sexy dreams too, but all I'm having is nightmares about the Science center 
+will be having a Biology test tmr.. *sigh* 
+must work out how to do simultaneous equations! 
+i think i have physics hw and eco hws  but i dont think i should do it LOL, i think i should!! argh
+studying geography and its too hard for me 
+I need to study. GP Articles/Math/Chemistry. GG 
+Geography coursework 
+Even at notre dame, I guess there is no escaping stupid.  Science vs mysticism, at any ivy league university. 
+@GentleSinner Just science - really? 
+trying to understand a biology prac i have to teach tomo 
+science kills.  SATs in 2 weeks. 
+science essay, english debate, humanities poster, bi scrapbook 
+Revising for Geography, looked at the revision guide today.. I don't know any of it 
+Biology revision SUCKS, also have a english exam the day before but need a lot more revision done on biology 
+is back home and doing my Geography poster. 
+doing science homework in the com lab 
+chemistry! 
+@_alyssaa I got a 58 on my biology project and a 67 on my biology test, I started crying in geography class the next period 
+Biology is going to kill me. I think I'll fail this level in the exam quest... 
+@SteveUSC how sad  i'm a computer science major i can relate, us science ppl are such in a huge brain drain, do you agree?
+@LariiTran :S for science I got like 68%. 
+In science  not looking forward to maths exam! 
+has a Physics exam in an hour 
+Watching Gilmore Girls, still in Pjs=D Suppose I should start doing Biology revision soon.... 
+physics almost made me cry! TOUGHHHH 
+i hated geography, was well boring lol. then again pharmaceutical science is too hard  lol. any plans for the night or just chill out? x
+biology lab report is super killing me! i don't even want to do labs!! 
+Physics right around the corner 
+The microbiology lab smells like spoiled chicken broth. 
+wtf? i don't like differential equations anymore 
+i have to go soooooooon. science science science. 
+@Makorani oooo lucky you !!! ... i think i will fail chemistry  .. but ill try not to .
+Has got a boring day of Geography revision today 
+In physics . . . . really bored 
+feel so upset of the recent Biology test 
+Chemistry quiz... 
+Rounders was awesome! One more eam! But it is physics! 
+Science. Got to do a lab. 
+screw science paper 2 whei 
+So apparently I got an award for philosophy and chemistry. I wanted maths. 
+57 in chemistry 
+This Physics project is consuming my day. 
+@Montelimart63 only if you help me with biology.  i'll get on ichat.
+Chemistry in biology is not fun. Not looking forward to next year 
+@jcwentz Maths and Science were the strongest for me i think..dunno bout geography, only did like 1 day of study for 1/2 a year of work! 
+Last Chemistry lesson for this school year!  On a brighter note, my birthday will be sandwiched between two days in chemistry lab! 
+Going to revise for physics. 
+Geography papers are so boring!  I hate revision!
+i really need to go and start some more revision,biology or chemistry today me thinks 
+Science, History And maths.. its so nice outside 
+50 is sooo much better than 65  my biology score's so bad.
+Chemistry is not fun.. 
+@BonesCrazy24 I've had the week off too...but I have Biology  exams to revise for so my Bones time is limited 
+i really really hate biology , u______________________u 
+Okay, so decided to not go out!! Biology of Ageing class, is calling my name 
+Doing my Geography coursework and pe coursework 
+science so difficult !! 
+Chemistry time. 
+@kalylapermata arghhh kal I'm sick with these freakin numbersss! you're welcome kalyl and so sorry  I've studied physics and chemistry. U?
+Currently studying for geography. 
+@torijanes mmm wow, white magnum, i want one! i'm so far from being physics-savvy it's untrue  and we are pigless...still no inspection! x
+really really should be working her Geography presentation...its due monday and i have less then half complete 
+Chemistry is killing me. 
+Geography gcse on tuesday and i couldn't be more scaredddd, i seriously know i'm gunna fail and i really don't want to. 
+excersize time! then going to finish my science essay 
+@taylorluce I can imagine them dancing round the barn too..I LOVE BGT...another year to wait...  maybe we should audition? Science song?
+Working on my Chemistry study guide 
+I hate my Science faci!  He gave me a C instead of the usual B!!!
+I have an Italian, Sose, Science and math test tomorrow  I really should study now...but I dont want too :p
+geography assignment 
+Good morning everyone. I am so tired person. Today it's all about studying -- Maths, Latin, Biology and Chemistry. 
+GAHH! stupid science. its so hard attempting to make up dates. 
+Oh yeah, and I have a Biology exam tomorrow which makes me want to just bury myself here. 
+Biology exam 2morow   I better start revising
+@lilyroseallen Sounds better than my day - Biology Revision whilst everyone else is outside in the sun 
+Goshhh, chemistry paper 3, honestly I know nothing about chemistry  http://myloc.me/2aXS
+Hating science so so so much 
+maths. history. science. business. media. textiles. very annoyed 
+is studying for a Behavoural Science Exam 
+learning at geography 
+going to do some science revison 
+studying biology is make me so weak  i hate it.
+biology: the reason why i hate science 
+i'm getting my revision on for this biology physiology and transport resit exam 2moro. 
+@ComeStalkNic :\ i have 1 maths, 2 geogrpaghy, 1 french, 1 R.E and 2 Science's  you?
+@liamsp Bastarding physics, ruining my tea 
+is pretty damn bored.  Chemistry revision sucks.
+Biology homework  5 pages to do :O
+just wants Chemistry, Maths and Physics to go awaaaayerr. But I need the marks 
+studying chemistry     its so not fun
+Going back to studying for geography. 
+@AustinHinton i can't study physics 
+Is starting his physics exam soon 
+so cba with chemistry. 
+I have A Exam tommorow.. its Chemistry  its going to suck
+doing science experiments 
+well life just sucks at the moment. i NEED to get an A in unit 2 Biology tomorrow, and i most definitely won't. 
+Sighhhh.......Chemistry test tomorrow.. and info tech..I hope i do well 
+Chemistry test soon... 
+Studying for Biology exzam tomorrow..   I shall be a BioMaster by the 1:30 tomorrow!!
+http://tinyurl.com/lss2ch And I thought this question was about existentialism and not physics and biology 
+@torriRAWR science, trim didn't set it either 
+Is cramming for biology 
+not looking forward to the two biology exams i have this afternoon. i just know im going to do awful! why is biology so hard?! 
+I've just wandered about outside for a walk. It was short-lived as the heat is too much for me  Chemistry time (N)
+I am going to fail chemistry honors!!! 
+Writing a Science cheat sheet that i'm going to try and memorize by tomorrow because I can't take it into the exam 
+i have nothing to do! (Even though the weather's great!) Tomorrow German and Biology exams 
+Haatee chemistry 
+Why must Chemistry revision be so boring?! 
+in science   16more dayys (L)
+In chemistry 
+is studying for chemistry quiz. 
+Chemistry class 
+@mileycyrus same here i nervous about my biology final   ahh
+@tabitharose93 Geography 
+Chemistry Revision 
+Just did Chemistry.. not fun 
+At the engineering lab and things are not going as planned 
+physics exam soon 
+Biology went fine, to damn long though. Oh and thanks Holly, cant remember how to do the @ thing   Only Chemistry Left then summer hols!!
+the chemistry is still there 
+Studying for the Chemistry exam 
+@oscarpower It transpires I am not goddess of the Microbiology lab. 
+I should learn history now. and chemistry. and maths. and I just really really don't wanna do it. 
+is making cue cards to remember all the chemistry equations... 
+@gillybeanx chemistry is just not the same without you.  &lt;/3
+I failed my science taks... 
+continuing science experiment.. coming to school late, at around 9 i guess. soooooo lazyyyy 
+Working on my science project.. no fun 
+Working on my science projecto 
+I wanna go 2 bed, but I have 2 finish my stupid science lab 
+Physics sac was ugly this morning... its amazing the difference between unit 1&amp;2 and unit 3&amp;4 for physics... 
+@TiffyLaw no geography with you   
+I can't believe I'm actually saying this but.... I miss physics 
+@LilGrasshopper its in biology  its my lab practical. it tests me on my knowledge of the labs we did in the class.
+argh more chemistry 
+It's the final countdown (8) lol chemistry I'd driving me nutso 
+Geography exam today 
+Geography today  and just my luck...beautiful day, stuck inside a boiling hot exam room! Cannot wait! (N)
+It's not so sunny today. Chemistry revision all day anyway 
+Just did my english exam. Geography in a hour 
+going to revise biology 
+@jave92 i hate you. i still have chemistry  awch well, only 23hrs 25mins left of highers for me 
+only has one exam left. The problem is it's Physics 
+Off to science 
+Sitting in science 
+Geography exam was sooooo hard!!! 
+but im about to do really bad on my genetics exam    im really pissed!
+@misschoo I have maths, Biology and Home Ec tomorrow 
+Biology was easy geometry not so much. 
+I don't like biology. I would rather just to math and physics allllddaayy. 
+is studying for chemistry...not fun. 
+I'm currently bumming in the bio lab 
+science and maths exam tomorrow! 
+Up at silly o'clock. Biochemistry exam in an hour  At least it will be over in two (Y)
+Chemistry exam today  I reeeeally want to pass this but I doubt I will....
+I hate chemistry! 
+Chemistry exam in 30 minutes.. Not good 
+needs energy to do this biology! 
+i SOOOO cannot fail my science 1.1 
+@Marshmelowsquid Christaaaaaa!! Science is hurting my heads!!! 
+is in chemistry 
+Gahhh three tests tomorrow, my three worst subjects too, science, geo and religion, 
+should be doing science assignment  ewww
+Has some serious Chemistry revision to do, but feels rather ill atm 
+Chemistry - C at best. Shite. 
+Over English...full steam ahead for science. Reprodution and genetics here I come 
+Arrrrrrrgh. Biology.    someone please cheer me up? Preferaby a hottie... With some diet coke, and a twirl. You'd make my life.
+got double science n double tech 
+Revising chemistry. 
+is revising chemistry. 
+Just come back from a lovely walk from the shops but now i have to start Chemistry revision 
+has decided watching paint dry is more interesting than Chemistry 
+@filce I have English P3 and Chemistry tomorrow 
+is not liking the fact she has a Biology A-Level tomorrow 
+watchin weird science that girls got a hot bod depressing 
+Waiting to get labs drawn... 
+bored in science now that katie's graduated 
+I need to do some Biology and Physics revision 
+learning chemistry  
+Failed Chemistry 
+In env. science .. my breathing is bad again  oh myy
+there is a giant spider in my living room  Chemistry revision then poemmms later! FUN.
+is trying to do this science past paper. argh! 
+@annie925 i know  but to my surprise i actually did really well in science! haha
+is working on earth science. 
+Ugh , I'm sleepy, I want to sleep.. but still learning  physics 
+physics is so boring 
+Studying for SATII in Chemistry 
+I spray-painted my planets for my science proj today! ;) got it everywhere and the blue paint is still in my hands and feet! 
+i really dislike biochemistry. 
+learning chemistry   soo boring..
+Really need to start revising soon :l Science soon  lol
+will to give up... f*ing chemistry and germany... I'm such tired, I don't know how can I take two about them. I hate myself... 
+soooooooooooooooooooooooo bored of physics 
+i hate chemistry.its official now. 
+working on my science final vocab 
+officially failin physics 
+Geography revision is soooooooooo boring 
+Biology practise exam: 42%. Barely passed. I have never failed anything in my life but I guess there's a first time for everything 
+omg. worst news ever in the paper. university of western sydney is cutting out all there science degrees  far out...
+chemistry is &amp; always will be the bane of my existenceeeee 
+Revising for Maths, then Science...fun. Sadly, I'm not allowed to watch DVDs or go on computer till it's done. Bye bye world of mine 
+revising for science. i hate revising. 
+is revising for science  BORING!
+Very very sick and tired of Physics and more Physics .... 
+Chemistry is long 
+having a break from that advancing physics 
+Sooo... finished preperations for my Dutch oral tomorrow. Now have to study Geography  I hate Geography.
+@catrionax I can't be bothered with Chemistry, Physics, Biology, M2/M3/M4/S2 
+@Mnemosime but i like biology  and chemistry.
+finding revising for Biology really hard  come on the summer!!! x
+i am actually going to revise tonight, i'm not going to fail biology and chemistry again 
+Geography revision! oh fun 
+Biology homework now. I really hate Mondays. 
+Studying physics  Not fun at all. I'm really tired.
+@milkshakex3 Haha i cant either yano, an not much just revising for Geography  u?
+Bengamin butten is soo sad! Science project time. 
+is doing a Science ISU.   
+humanities homework. 
+summer is fun, but my life ends tomorrow.  Physics at 8 am  
+i'm going to fail science!!! I'm going to just drop out 
+mathematics, icas, business, biology, physics, music, music composition, music prac- examine your mum 
+doesnt want to do Science essay 
+Going to bed enviromental science final tommarow ugh 
+is working on Astronomy homework 
+Studying PHYSICS... I understand the Mechanics, now I have to get down &amp; dirty with Chemistry! 
+Maths is sooo boooring... I hate it!  It's too difficult! I can count isn't that enough for a biologist?
+@AnastasiaLoxley Chemistry Physics and Welsh but mine lasts longer than yours  xx
+In science researching transplants 
+Grr. &gt; french exam then math right after. Science exam friday  then summer!!
+i failed science 
+sprained my thoracic vertebrate 
+eugh, physics now 
+K so convocation today, Engineering took 9 hours the other day, I don't wanna be there for 9 hours 
+i'm so tired but i have to learn for politic and biology 
+Ms Jackson got me mcdonalds with my final. SCORE ( : ! .... Physics next  smh
+#opera seems to be running behind on reinventing the #web... it's quite a few hours past 9am CEDT and still nothing... 
+doing science hwk! 
+revisin for science 
+Revising chemistry! 
+If I feel like this tomorrow I can kiss buh bie to doing well in Chemistry 
+i just signed up for chemistry, and i paid. there's no turning back now 
+Doing boring homework  I have Science and Math. Atleast theres only 2 questions in Math&amp;Oh great I forgot what page I'm doing in Science
+I'm still here and I need to sleep  so tired! I really hate chemistry!
+@michelebele I'm taking college astronomy...like, wtf?! I got blocked out of marine bio 
+Studying for chemistry. This is soo brutal. 
+I need a basic calculator for science but I don't think I have one, I only have 2 scientific calculators 
+Biology can suck my left nut 
+Wishes organic chemistry didn't effin exist ! 
+i'm sick. i feel so tired i want to rest but i need to memorize the branches of biology 
+tomorrow are science and civic! Science : Chemistry, Physics and Biology..  I have to study harder and harder...
+Studying for my science final and i cant find one piece of paper on energy  wtf.
+Geography and German exams today  Im going to fail Geography xxx
+@jfrd I'm so jealous that you get to go drayton manor and I have what's apparently the hardest physics exam ever 
+reading chemistry.. 
+Toootoootooo much homework. Physics SHOULD be forced to go die. Not allowed to drop it though 
+Chemistry exam tomorrow 
+Just finished studying Science! I feel so tired. 
+3 days! Finals  Physics and luuunch, Whoa I get to sit there for two hours!
+getting ready to study geography..how boring is that? 
+physics tuition in half an hour  physics phyreallysucks.
+science soon  ,   double ,  it bores me to to much !
+Chemistry tomorrow  bad times, dammit football manager - you screwed me over
+i'm worried about Algebra, Biology &amp; Statistics. i miss the old days when we called those Math &amp; Science. oh! i wish i were 5 again! 
+@yingquah ying did not do well for her physics 6. this is baaaaaad... 
+@anyapena92 NOO I'm in DLSU na!  I ended up enrolling in Human Biology 
+geology shit now. do not waaaant 
+ohh no of to science 
+seriously not liking the music industry at the moment  maybe i should have worked harder at science and maths instead
+had biology exam,. it was pips (Y) x lol chemistry and phis to go  not so good at those coz quite frankly i aint interested in them XD
+; I want my Science marks! 
+Nearly fainted in science, lovely...going Doctors 
+is depressed after getting the worst mark ever in science 
+I just failed my biology final 
+has finished exams! Physics went dreadfully though 
+ldjeofjvnkkdjvhnsjwjfp, =/   how did i manage to lose my science textbook...
+learning some physics... 
+Revision sucksss! I need someone good at Chemistry to help 
+revising for chemistry 
+@JCullenx i needed to be at least a 6c in science to change to humanities and im one fucking sublevel below 
+Just washed the cars. So tired now! Chemistry GCSE tomorrow so I am going to pile on the revision 
+Ow. I bruised my bum in Chemistry today and it really hurts. It hurts to sit 
+To my physics professor... you're boring and slow!  yay for day 1.
+Boredddd! and no chemistry learnt 
+is not looking forward to his Chemistry and Physics exams this week 
+revising 4 chemistry gcse!!! 
+@DanaXDanger lmao i dont like science  i dont want to fail! how many do u have left?
+chemistry science gcse tomorrow i hope i do well !! ah i no i wont tho 
+biology, history, maths, geography, some else huh? 
+failed physics... two more to bomb 
+LMFAO omg i love you Science exam tomorrow 
+Chemistry is the most boring subject to study for in the universe 
+chemistry is kgjkghjfhgj 
+just came back from mcat physics lec. i think i prefer last year's instructor more. 
+@RyanSeacrest go for it! dogs are the best and labs are so cute! i want one, i'm jealous 
+Almost at school  Then it's time for Physics!
+allow chemistry 
+have to leave you now, going for school bus. Biology test today  I think i'm going to fail  anyway bye !
+Chemistry again 
+Geography, cba with Biology test 
+in media doing coursework which i really cannot be asked to do but i need to do  plus i just had my chemistry gcse which was hard 
+@ah__na Biology was one of my favourite subjects last year but now I hate it so much, I can't remeber it well 
+@scientist_no_1 i'm in clinical research now......so work in multiple fields. i do miss the science though 
+This exam is ridiculously difficult. Why is that Biology always seems the easiest up until the exam? I can't get less than an A 
+   missing Jake!! Failing Chemistry  crap day. Such a very crap day.
+@LariiTran  I hate science.
+geography assignment 
+Ugh I have English and Chemistry regents today 
+Morning.!!! i have an earth science regent to take... yuck 
+examn biology wasn't that good i think 
+AHH, my fucking Physics exam is in an hour and I'm freaking out! 
+Just finished my physics exam! Going home! No more physics, awwww 
+Physics exam  not cool!
+earth science regents today 
+i have to learn for biology...and i hate it 
+wahhhhh!! i have to learn physics but i don't know what i have to learn 
+Going to revise for chemistry  i dont like it 
+studying for french and chemistry...yay 
+I have to go do some stupid physics now  i hate science!!!!!!!!
+Chemistry? 
+working on science 
+Power's back up! But not before it took out one of my student's physiology experiments. 
+about to attempt to write my biology paper 
+in science reall bored  making a skull.
+exams tmw  science and religion so worried
+eww physics exam 
+I'm doing more organizing than studying for the science final and provincial 
+I was not aware that pretty looks were this big in #science 
+aahhhhhhhh human phys exam going to fail 
+my algebra final was the easiest thing ever. science is soon though and i'm gonna do so bad on that 
+UGH. Science  (N)
+is dreading Physics gcse exam tomorrow 
+Chemistry and Biology Revision 
+in the classs science jimena alcazar 
+@LeahLooClifford I've given up on physics 
+Physics homework. 
+Should be doing history homework, cba.. Might do it on the weekend, HAVE to do Geography now tho 
+Science is a miserable subject....there are to many terms and equations to remeber 
+Studying for chemistry 
+@JenLin90 don't know it too  i just don't get it... i hate biology ((
+Ahh!!! I need to take an insect i.d. class!!! But I'm a Botany major.... 
+One exam down, one to go. Geography is a bitch. Science is it's close cousin. I really don't like exams. Not one bit. 
+@samr7 at least you took some econ all I took was physics, nutrition, and astronomy as my cross over class. I'm not informed 
+#inaperfectworld, I'd be studying Astrophysics. 
+Hopefully sleep will plant some physics in my brain. 
+Why did I choose Ecology? I just wanted to catch bugs 
+@i_DOMINATE my science final i got a 72 
+Ugghh, studying for science and french exam! I might fail science... 
+working on chemistry 
+passed chemistry!!!! no more mind numbing lectures! dreading the other results tho 
+studyingg 4 scienceee... Ecology makes no senseee 
+ugh. Phys. Science and Honors English finals 2moro... 
+Physics final=retarded 
+I'm urp! Urrr Physics and Maths...three hours dreaded wait inbetween them too  xx
+Going to Chemistry Class in 'bout an hour ! 
+physics exam this mornin. so clueeeelesssss 
+Oww.... Physics starts in 30 mins 
+#inaperfectworld Chemistry would have gone really well yesterday... or exams wouldn't exist 
+Science now... 
+Still in maths. Biology next. It's raining.  got dancing tonight! Should be fun! :p xxx
+Physics exam 
+Biology Exam today  At least its my last one ever
+@ceskakendama i suck at geography 
+has never felt so unprepared for a Science exam 
+I hate physics. Just got back and started trying to do physics and i don't get it. 
+wow i failed the science regents and i most definitely failed the math  can life get any worse?
+He dosent know im there at least i dont think he does :/ Science and Maths revision 
+C - The Scientist. 
+@natalieox Physics  I couldnt do it so I started crying and almost slit my wrists  xx
+Checking out post-examinations activities, so many Economics and Geography supplementary classes 
+@brinabarin I don`t know what to do for the Science blah. 
+Reading my high school books. Chemistry, math, physics. How I miss high school 
+Chemistry hardly provides us a concrete answer for even such a simple question 
+I hate physics !!!  
+has to learn physics 
+Spanish and Biology final on monday  plus i feel like shit...ehh
+Exaaaaaaaams  .. i have Physics Exam 2morrow :'(
+@darya_dee I can't right now, i am trying to write chemistry notes  ew
+It is a science *FACT* that I can not true wheels 
+Welcoming a new week; the last week of school. It's hard to welcome it when you know that the first day of it you'll have Physics exam 
+Trying to learn chemistry 
+i should probably start practicing physics over the summer so i don't get rusty.  after all 96% of the universe is still missing 
+science experiment 
+procrastinating...science 
+currently trying to do science fair project, not fun. 
+physics report 
+my timetable sucks - I have two humanities  my only good subject is photography.. and physics will be fun with everyone 
+Finshed English, revising Biology. 
+Im back To Studying Chemistry and Algebra for tonight 
+@jezzy14 aha you say that everytime + then get an A* ! I WILL FAIL! I cant do science 
+learning science.... 
+I'll have to do some Physics revision today... such an anti-climax to prom... 
+Revising science  So boring
+Completed the yearbook page , Chemistry and Physics up next . FML 
+Physics again?,..whoa!! i hate it..amp. 
+Still confused about Engineering stream 
+i can only stand so much science at once. my brain eventually turns into smoosh, and i'm not able to even comprehend the easiest problems 
+Not doing what i'm supposed to be doing, which is studying biology 
+this is it. differential equations quiz no. 1. 
+i'm a little worried about my physics regents  stupid
+revising 4 science exam!!  no fun.
+@Brhymez my last one is today.  Krambles Science.
+I want to do something really awesomely fun tonight, but instead I have to research for Chemistry coursework. 
+in physics review 
+Revisin science 
+Tripos dinner tonight - I'm no longer a graduand, so can't attend 
+I do not understand Chemistry..... 
+@alanadanielle womp, its physiology.. I can't sleep! I'll fail 
+got to go to doble science 
+science coursework again, done two days and bored of it already 
+chemistry lesson... it is so boring 
+I really hate Biology ! 
+our assignment in science is so hard its killing me 
+Making myself learn Radiographic Physics 
+@NickWilson have you seen this list of Science places? http://bit.ly/slscience link there to SLHealthy wiki as well 
+Working on my Science powerpoint 
+@GoTravel24 which explains why i did so (cough) well at Geography..!  
+@azthumper - I study Science 
+@maryisamonster its at the pacific science center 
+That's right! Science just proved that a hit from a football can do more damage to someone than a hit from an American football. 
+Hey twitter, who wants to help me study for: APUSH, AP Physics C, AP Eng, AP Comp Sci, IB Comp Sci, or IB Physics? 
+successfully memorized all the formulas for physics, i think 
+physics day at six flags = awesome.  and i don't even like physics. totally rode goliath six times. 
+@itsashleycakes glowing ceiling  do u sleep in science musuim ?? Lol
+physics lab over, got Halls effect....had a decent viva.....lets hope for the best now....but hey...no more physics lab ever again!!!!!! 
+@Sabatea learning biology is veeeeery successful 
+Running experiments and hanging out with young scientists 
+except that I'd contend that WarGames, not Weird Science, is the movie that made generations of nerds grow up to be programmers 
+Wow, massively overslept, will start revision at 1... Particle Physics. Move my revision timetable and everything stays time-neutral 
+chemistry lab notebook completed: check.  4 chemistry quizzes completed: ......yeah not so much. 
+I'm a bit happier now. Found a bit of motivation in Physics. I know I won't do well for the paper but at least I've started revising 
+Biology final today. Then home to prepare for psychology. 
+) no more Chemistry!!! I'm gonna choose English. I find it (Chem.) kinda boring in the end! gonna help people &lt; who choose Chem&gt; 
+@GothixHalo I wish you and ste could've met him when you came over, you'd love him  I'm hoping I can learn physics via him lol
+should be doing her Science presentation ... sod it 
+#SanctuarySunday hehe, tesla &amp; magnus.....very interesting chemistry  lol
+@mayaxlovee haha, last minute; that's what my earth science is going to be like.  how many captions do you have done?
+@aef6259 thanks for sharing - it made me smile  finished studying Microbiology (might just take the final tomorrow night). i love you!
+hey. so right now, im procratinating studying for science and vocab 
+@spbloom Again, beware or I will bring science into my argument.... 
+To my dear followers: You are very, very lucky I'm not spamming with Chemistry. 
+is well bored in Science, meant to be revising 
+One of the funniest chemistry periods ever 
+Doing merch for quiet science 
+chilling with the markus. never did physics. woo! 
+@kden I'm taking both Sociology and Geography 
+almost done with science project 
+Science center with @jackalltimelow 
+http://twitpic.com/5di1f - this is what i got up to while every1 else was doing a biology practical 
+HOMEWORKING :| Now lets see what i've got... Chem, Bio, Physics, Debating.. ohhhhh F*ck; I think i'll just go and read some more HP 
+@_McLucy_ its a sign. god is telling you not to study for science 
+Is in science 
+The King of Chemistry! 
+In science, munching away at my popcorn 
+We did good on maths and biology!Yay for us! 
+@dhogden now that is an impressive topic!  Calamity Physics, Vogue, Elle, more physics... sounds like a reading list   miss you
+B and  C in Science, grades may go up though 
+school, kill me. Chemistry SOL :/ YUCK. but on the bright side,  NO french 
+schooool; last full weekkk!  and then amandas to study for physics...ugh
+is in chemistry and has found her text book  thanks witworth haa, science crew haha
+@laurieplanet when I 1st looked at that I thought you meant age &amp; I was like eh..but then I guessed yeah we do! what about after biology? 
+I alive... I made it through the biology lesson 
+in science watchoing evolution 
+Chemistry revision. 
+Physics class can blow me. So can devan. 
+in chemistry bored ..... cant believe dublin might be sold out!! 
+is revising Biology with Han 
+at noodles houseeeee  revising for biology ;) ..x..
+yess! my solnischko is coming over to learn biology with me 
+@StevenTainsh applied science, then i want to do biomedical science next year 
+@TeamDraven  lol I knew those biology classes would come in useful for something 
+Physiology sub, yesssss 
+Last Chemistry lesson for this school year!  On a brighter note, my birthday will be sandwiched between two days in chemistry lab! 
+@sjdvda I did Physics-Math-Design &amp; Tech for HSC. Hardcore engineering. 

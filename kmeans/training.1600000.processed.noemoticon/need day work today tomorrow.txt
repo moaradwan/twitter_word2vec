@@ -1,0 +1,742 @@
+Most common words for this cluster:
+[('need', 686), ('day', 57), ('work', 47), ('today', 46), ('tomorrow', 43), ('time', 38), ('know', 37), ('night', 30), ('sleep', 29), ('home', 29), ('amp', 28), ('coffee', 26)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Need', 0.9348253607749939), (u'Want', 0.7424948215484619), (u'Needs', 0.694118857383728), (u'Needed', 0.6872563362121582), (u'Got', 0.6757127046585083), (u'Needs_Fixing', 0.6720235347747803), (u'Harder_Than', 0.6705368161201477), (u'Cooler_Than', 0.6661849021911621), (u'Hate_Them', 0.6633586883544922), (u'Divorce_Diaries', 0.6629561185836792)]
+
+
+
+
+
+tweetdeck seems to have died on me  Need to find a reliable twitter platform. Any ideas?
+Went to see my doc today. Told me that things are worse than expected. Need some meds from the drugstore - some heavy stuff. 
+@Sophiamar  espero que estejas bem. Need anything. lady? Kiss
+Need my Claudia 
+Really feeling broken SVN integration with IDEA.  Need new plugin that supports 1.6 now now now.
+Another gorgeous day! Dry here. Need the four rain days coming up. Ct. wildfire. 
+@Bicko hehe. Maybe. a load of it will certainly be going towards driving. Need to get a new driving license, I've lost mine 
+Ok battery almost dead. Need to stop twittering and watching scores. 
+Yea!! Time to go to Holt Renfrew!!  shopping!! Need to haul so badly. Havnt shopped for 15 days!! 
+Need another hit of NKOTB..I'm starting to get depressed 
+Rode so much today, I got blisters on my palms.  Need better gloves.
+is going to take Mucinex NOW. Need to get over this cold pronto. 
+@Lilylauren Been meaning to start up my website with recipes I've trialled and experimented with pics. Amongst other stuff. Need hosting. 
+Do I have time for a pot of sencha before going to Mamas and Papas? Need to do the hoovering first 
+@Kazzy1978 I didnt think I drank that much too. Need to stop drinking on an empty stomach 
+Need some help Tweetdeck-wise. Does it delete all the tweets I've seen or even more so there are tweets I may never see? 
+Awake. Needs more ammo to fight the zombies in my dreams! Everytime i get down to the last round i always miss the huge gnarly zombie!! 
+Writing up stuff for hospital visit tomorrow. Need to finish some programming too. Feeling exhausted 
+Need to go to bed now. Weekend is over 
+@Future_Echoes No idea why, but I'd love a Drobo!  Need to sort out a proper backup solution for home. Business is covered, home is flaky 
+Need to sleep, school tomorrow &gt;.&lt;&quot; Goodnight world.. even though most people mustn't see this. How sad of me to ramble on like so  &lt;3!x
+Up early against my will  direct tv guy is here ugh. Need Coffee stat!!!!!
+Good morning! We are all fighting colds here.  Need to get more oj fast!
+Tennis Elbow operation = Ouuch.. Need Some sympathy please 
+In my room. Bored. Need to go to sleep.. 
+@SusieB123 no Susie unfortunately. Pretty much all work and no play for me  Need to find some balance I think!
+Need to lose water weight? Watch &quot;The Locator&quot; and &quot;Extreme Home Makeover&quot; back to back. 
+Help! Need to switch to cheery Neal! Shoulder aches, back at work, GORGEOUS day outside, I'm in office untill 5.30. 
+@gcn1 No, I haven't. Running v.1.1.7, which was last stable version; hope they'll improve it further. Know v.1.1.12 still crashes  #nambu
+Gutted! 1 Firefly Angling Diablo carbon rod blank just exploded in my hands! Need a new end build 
+Going to give the twitter client Blu ( http://tr.im/jeay) a try as soon as I get home. Need .net3.5 and work PC doesn't have it. 
+Have my German exam this weekend... Need to study 
+Radio has shushed slowly into a whisper over the last week. Need batteries...yes, batteries, it's an old, old radio. Now just server-hum. 
+Just created my first valid bit of JSON. Hurrah! Need tea now, but no milk 
+Need to watch Heroes from last night. Never watched last weeks so I'm prob gonna be confused 
+I've been working  all day longgggggg!  Need to take a break!Went to see fireworks but they canceled them   Time for ice cream, then work.
+Need to start on Cel Lab Report today! 
+@Sephikun Know the feeling, off to work too 
+bloody chest infections...now I'm going to miss the biggest game of the season  Need some TLC 
+@MistyMichelle  won't go see CRANK with me. Need a movie buddy 
+It's 12:48 PM. Just woke up  Way behind in my work! Need caffeine now! :|
+@valeriekhoo Agreed. But at the moment, I'd prefer to be out than in.  Need to widen circle of friends. Syd last week was good fun tho.
+@hascake oh that's just evil. Need I remind you that I just bought a computer? Me = broke  Maybe next year...
+Guitar's pickups stopped working. Opened it up to see what's up.. screwed it all up while putting it back together  Need an Ibanez Iceman!
+Need to take some Tylenol  
+Pouring rain. Need to run long this a.m. &amp; waiting for it to let up. Jen hosting a bridal shower today, now moved indoors   This sucks.
+Wisdom tooth cutting again.. Need bonjela. 
+I dont wanna go to work. I just want sleep. Early to bed today. Need to get back in routine of going to bed early on work nights. 
+Tired. Need to learn script. Do this vid. And I have school tomoz 
+It's sunday and the sun is shining.  Need to do some work today around other things  It was a good day yesterday. Bank Hol tomorrow too.
+@joelmchale the Soup is never long enough   Need more!
+I thought I had this bad habit of staying up late under control.  Upset that I am still up at 4:02 am. Need to put myself on a time out.  
+Need to format my computer  I can handle the bugginess, but when it fucks with my games? Nah.
+Need to to some serious ironing today if I'm going to get to Paris tomorrow with anything to wear. 
+Three &amp; a half blissful hours of Maths. Feeling strangely empty now... and it's all returning.  Need to find more work to do. 
+Might go to see that new X-Men film again.....Need to have a thesis in for Tuesday. Plus studying... 
+No bagel ride today, too much going on.  Need a 3rd day in the weekend, one to run, one to bike and one to do chores   Solo ride later
+Need more ideas, still 50% shy of the rent.     Might have to use nudie pix for incentive &quot;buy yarn or I'll make you look!&quot;  hahaha
+Need to be more energetic and do something, but just want to hang out with my dog Sadie cuz I know I don't have much more time with her 
+Been a long day already   On the train headed home. Need coffee now!
+Okay, i gotta go now. Need to get some sleep. &amp; there's school later in the morning 
+Been too long since I had an ab song. Need to start again, esp. since I have regained what I lost.  ? http://blip.fm/~5ijpx
+Not sure if I like TweetDeck or not. I can't access all of my followees, for some reason.  Need to look up support...
+@zachcaruso I'm up at 4:30 too tomorrow if it's any consolation   Need to get in extra time on Rowan days...I agree it sucks
+Need to stop doodling lyrics all over my notes. Michele's ended her exams! I have no more study buddy 
+Needs to soil and pots... But no $$. 
+Needs to go shopping 
+Going to bed finally. Long day. Good day tho. Need to get back on my BCP's so I can be more mellow. 
+Need help with the swing UI............ Several look and feels dont work  guess have to create my own
+@elDamo Thanks, mate. Need all the help I can get. Only had two successful volunteers so far! Seems to crash on 1/2 of machines. 
+@diviani belay that !! Pandora is no longer available to users outside the US.  I hate. Need to get to the land of the plenty ASAP.
+Wow,  this week is starting out super sucky. Need to shake it off. Calling on the powers of blackberry sage tea right now. 
+&quot;You walk out that door, don't you EVER come back&quot; -- Dean. Sam walks out. What a cliffhanger! Need to watch the last episode pronto. 
+Can't sleep. Mind racing! Need to get up at 6am. Not good.  
+Ouch that hurts, iPod Touch decided to restore itself so I lost my progress in Need for Speed  Had completed 28/29 races
+Posted an ad today for an Interior Decorator in Maryland. Need some help with the business...too many people....only One of me 
+Need to hurry and get to the gym so I can get back in time for #SNL...something tells me it's not gonna happen 
+Have had an epic day, nay! Eric weeks! Sniffling like crazy. Need to be let on plane and into various countries! 
+What kind of company has a store meeting at 7am on a sunday morning?! Oh yea the one I work for. Blah! Need to be up in 4.5 hours 
+Need a new battery for my MacBook pro  gonna go swimming to feel better 
+Need to take a bath  hmm, school will start again tomorrow. My long holidays was done....
+Woke up to a fire alarm... At 6am!!!  Need to get back to sleep!!! 
+@WulanTheDragon now playing : Harder Than You Know - @EscapeTheFate 
+Need to go to Saturn tomorrow to get my car fixed     Hopefully I won't have to pay anything as it wasn't even my fault....
+Mother's day delayed my submission.   Need to update the database before I can submit to Apple.  Will try again tomorrow.
+Urgh.. Need to sit in for a meeting since colleague has to go for a diff meeting. 
+Ball of anxiety. Want some heart. Need someone available. Work comes soon 
+@Livvy_Sivvy Really that's too bad because i'm allergic to maths!  Need to go do mathletics though! 
+Need to improve my OSS contributions. Been sucking at that for like a month now 
+Am soo sleepy this morning  Need to wake up!!
+Crap. The cable to my Sennheisers finally stopped working completely.  Need to find a new one that fits the recessed jack they have.
+@Laeryken Paying too much attention to my paper; the YT's just background noise at this point.  Need to listen to it for srs some time!
+night all, bed early. Feeling sick  Need sleep.
+Need Coffee 
+okay Tweeple! Thats it! im off now.. Serious! Need to work! Don wana Thurday Work = #Fail !!  Miss moi!
+@dannywood That's really sad  Know that those who have lost to cancer support what clearly is still a daily struggle for you! xo
+My walls are naked  Need to take a break to buy garbage bags. And a 1/2 way report of 'In the Shadows': Very, very creepy.
+@Sunshinepie143 I could absolutely see that happening, too.  Need to google to see if it's rumored TR Knight is leaving. He's sweet, too..
+Need Food   
+Need motivation to packing up my girls stuff!! I need help  Where are you honey when I need you? eh..Love you so much 4this! LOL
+is doing Partnership &amp; Accounting project since 1pm just now. Need to search articles for Law later. Groupmates, you're not helping me. 
+Argh 3hrs sleep again, feel physically sick with it today work tomorrow... Need to sleep tonight  http://bit.ly/vykXE
+up. Not even remotely at 'em. Need coffee. Oh &amp; I'm singing this morning so I need to figure out how to get rid of this headache.  #fb
+my MD is a butcher  I still can't wear high heels N no way I can go running, boohooo. Need some healing powers...
+Exam week soon  Need to study :/
+Just woke up. Need dt Pepsi and a cigarette.  And still need a coffee maker          #3hotwords - VENTI CARAMEL* FRAP
+Other adults have returned from their NOLA breakfast excursion. Suddenly feeling like I didn't sleep last night. Tired. Need food. 
+I'm feeling SUPER cranky!  Need some cheering up 
+@shandrab Haha. Forgot about that =D Yeah, I know, only got myself to blame  Need longer days
+@William_25 Need me to make you feel better? 
+Need to start packing food for school. Looking for my Mr. Bento containers; missing 2 of 4!   #bentobox
+Day off, resting after the race. Legs are battered. Need to go out though 
+Argh. Need a shower, but woke up too late.  boooo
+@jaybranch @onion2k Repair install worked after a fashion.  I can log on and save all my stuff.Need to do a full format and clean install 
+@stevewhitaker I can't   Just moved to c-ville last week from a 700sf condo in Arlington to 1700sf here.  Need to fill up an empty house!
+Need to change my Bio. To bad I cant do it via mobile  unless in full mode.
+It's quiet in the house now that Simon's gone    Oh we have leaving drinks at 3 Weeds, 29th May. Need to send emails!
+Been working on the site all day. glad it's almost 4:30 now. Need to get some medicine 
+So sick it's ridiculous. Got little to no sleep last night. Need Sudafed. 
+@sabret00the That sucks man  I just finished my last year of uni so I haven't been doing much work. Need a break :p
+Need to get $250ihs USD raised quickly for a new MP3 Player 
+@dN_redNests @SweatyBurd  @shell_beach @penguinista Have a nice day off you lot. I'm only in part of the day (Need the dosh  ) Enjoy!
+@vgunvalson When are you headed to Australia? I'm in Insurance and would love to steal some of your wisdom and knowledge. Need a mentor 
+Crappy start to the day. Need some cheering up music but the iPod isn't delivering 
+Venesection completed at last.  Soon off home 2 relax 4 the rest of afternoon. Need a proper coffee - hospital wet stuff is NOT coffee 
+Need to crawl home from office. Back hurts and feel like vomitting. 
+Need to get a tan! Seriously too fair d.  I need timeeeee
+Looks like another late day for Max ----      Need to send someone over there to pull off the covers and yank him outta bed!!!
+@Motoko_K I soooo would. But I'm having a LAN in Leicester this weekend. Need to drive down and shop for b33r. 
+Need idea for stopmotion/claymation/flash animation project. Will probably fail. 
+@paulalbinson Kinda. After the poster/presentation is done with, yeah. Need to sort out somewhere to move in F'bro though. No money atm 
+Replaced my @MelodyEhsani earrings &amp; bought a new pair... Need to get a flipcam... Also need to cure this hangover cuz I feel like cRaP 
+Ugh. Need more sleep. Woke up during REM, dreaming of boats and my cousin. Ugh. Work. Kill me now please. 
+is not going to the gym today  My shoulder hurts from getting banged up at the u/w hockey tournament last night. Need to rest it.
+Trying to be okay. All I want to do is sleep tho. Goin crazy in my head missing her. Need to find a second job to fill the time 
+Tsk. Need to download an anti virus software. 
+Signed up for a @webfaction acct to be @TCWC's new host. Super excited but delay of welcome email is frustrating. Need to go to bed soon 
+Need a temp car.  Anyone selling one? Cheap 
+@Smile_ Need Heroes ones 
+Just woke up. So much for the 6am start. Need to get sortedand get to uni ASAP. Exam starts 9:30. 
+Know what would be great? For my shoulder to stop hurting so I can sleep normal again.  I just want/need a few solid hours of good sleep.
+@gemmak500 Know exactly what you mean  I've lost too many friends. I do feel for you all
+@benjamin_cook you make me sad. Why do I like in canada? I can never watch these things. I should move. Know anyone who needs a roommate? 
+Loved the sun today. Did not love a black suit and black top plus 6 trains/tubes to get to my meeting and back  Need to shop for summer
+Need something to do... AH! I'm gonna go have ice cream... then water the plants  then get ready for softball!!! I HAVE A PLAN!!!!!
+Just home from work!!!!! Need to continue packing. Raerae is gone for the weekend.   Mya and I are hanging out
+@Need4Sheed_com Ohhh got it. It's the 8830 I think  I miss the Pistons  I really hope Joe D cooks up something big!
+I don't wanna be a fatass when I go to Europe. Need to eat right but it's so difficult 
+Need some coffee... Getting serious withdrawal symptoms 
+@SimpleMia Yes. Need to listen to sad SP-Songs 
+Got home and found my Battery Backup (UPS) had failed. No battery power for me  Time for a new one. Need a new iPod too... 
+getting lectured by my homegirls. I love em to death. Know they love me just the same but damn I HATE getting lectured... 
+Feck don't think i'm able for golf at all. Need stronger pain-killers. 
+Thinking about reviewing the cracking drupal book. Need to get a copy first but my CC is over its limit 
+Still awake and with a puffy face. Need to find a different dentist today to get this toothache fixed. Vicodin (sp?) isn't even helping 
+@gplama no chance  Need to cut it loose, with the dremel tomorrow. HR, Speed and RPE for me tomorrow.
+Update to #Magento 1.3.2 crashed my whole installation! Need to do a complete new install - including database! 
+Oh wow! Need some prayers big time for the back. Got the car back and it is still messed up , paid 300 bucks to still have no ride 
+Laying down.. Need to sleep for a bit. Ouch my head is pounding  #jetlag
+Need the air con unit as I've had to fire my Fan Girls. Bloody recession 
+. Need to revise for chemisty, That will be fun. I feel like shit stirred thoroughly in a bucket. And Ive even let vamp. wars slip 
+Came to Atlanta for the weekend. Heading out on the town tonight.  Need a good drunk for a change!  Missing the French Open. No cable 
+@momof3crazykids I Know but it won't be the same 
+Im about to go out with the fam and do what we do ! Need some new shit running out of the cool shit 
+Sadly back in Facebook  Need to get in contact with someone and its the only way, makes me feel sick
+Bugger, got rejected for Sainsburys  Need to go job hunting again...
+Need to BBQ more often. Not only for the food, but it also looks like I'm starting to become a little rusty at it 
+On the way back to the hotel. Boating and snorkeling was a blast. Sooo tired. Need a nap. Back to H-town tomorrow morning. Vacay over. 
+Need a new lamp for my bedroom. Old one broke 
+Off to the Apple. Need a drink. Getting fed up with revision. 
+Came home: Dog out? Torn screen? Missing cat?! Check basement? Leaking antifreeze from furnace! Yep. Need new one. And still missing cat. 
+Got a push mower from a yard sale as a helper for our cordless electric. Need to take it to http://reborntools.com for $45(!)  sharpening.
+My wee break is over  Need 2 make icing, straighten my girls locks,help w make up &amp; get party stuff ready.A Mum's job never done,LUV IT!
+@aj_wood say hey to my hubby @Spamboy. Know when the next psd photo retouch webinar is? I had to miss the last one 
+Crash. Half the field landed on top of me. Need new front wheel 
+Need to watch Game 6, live in the next half hour,  somewhere in London ... Don't know where to start 
+Wild hair! Need to go out! but sadly no one to go out with  cousins gone, friend's w/ BF, ugh... need to get a life (like someone told me)
+Need some help. How do you add a pix to a post using a BB with Twitterberry? For that matter how do you add a link? Cant figure at all. 
+Need to rest my eyes!!  Seeing double 
+Goodnite peeps. Need rest. Still in pain 
+In Need of an Uncharted 2 beta code 
+@ZackRabbit donuts was the only sweet stuff we had in the house  Preferred the cookies of course.Need that recipe.Your cookshow is big fun
+Need some Oompa-Loompa's to clean the house &amp; sort out his paperwork if its going to be done in a day &amp; it's a sunny day too 
+So it's useless to do that. At some point I need to get my passport renewed. Need photo probably. Got a zit at the tip of my nose. 
+Need thera-flu  ..... Zzzz....need more sleep http://twitpic.com/6bwye
+@iPhoneDocked I used it all the time just to manage apps. Don't need, delete. Need again, re-download. I'd never need multiple accounts 
+@PiercedPanda_x Know how you feel, am stuck in doing work and all I want to do is go for a drive and enjoy the sun 
+Mmmm tummy hurts  big day tomorrow! Need to get a good nights rest!
+Need help with a cat that will no longer use her litterbox. Any suggestions welcome. Getting very frustrated... 
+Need to go get some potting soil &amp; more flowers! Nice day to plant. Still have a sore throat tho 
+Is oh fuck! Need twice as much as I thought in my medical physics exam!!! Woops!!!! 
+Laundry day and such.    Need to find the boyfriend's phone charger...
+Pink  Need to buy suncream.
+Need to deal with this shoulder soon.  Timing's not great.  Guess I'll tough it out for...a few years. 
+Sick in bed.       Need OJ.
+Need to do revision but cba... oh well ill just do awfully. Damn no primeval so I have nothing to watch 
+Need a job in London sharpish!! Bored of this job huntin now  x
+Okaaay I think I'll go to bed now. Need early night for maths exam tomorrow  x
+Need to homework ! Sckol 2moz  Urrgggg!!!!! Bike??? Cry (
+Spent all day in the zoo with my gran, then went to see the carnival parade and my camera died  SO tired now! Need the speedy sleep.
+Back 2work tomorrow  So much to do. Need to finalise list of specialist speakers (casting, producers, wardrobe etc)....
+Turckle. Turckle! TUUUURCKLE!!!!!!!!!!!!!! I want to be back in bed. Need to leave in 15 minutes, haven't gotten dressed yet. Early shift 
+Sitting in the sun on our first afternoon in our new house in Oakland's Crocker Highlands neighborhood.  Need to go unpack. 
+I have 40gig of music. Most is utter shite.  Need a big clear up.
+@FlyingPhotog I've been looking for dispatch jobs until then, but it's tough...  Know of anyone hiring?
+Just sang in karaoke. My hands are still shaking. Need a lot more practice. 
+Have to go to work in a few hours.   Need more sleep.
+So...Hot...Need...at least an opened window  did i mention that i felt a bit hot? british weather needs to make up it's mind x
+Need to write an Essay!!!  #Battleground
+Need to work on my fake laughter. Boss made crappy joke about my new haircut and I responded by saying &quot;LOL.&quot; 
+@kravmascara It is hayfever!  I can't believe it!  Didn't think it was bc only effected one eye.  Need to rethink park sessions tonight 
+Stupid laptop has started randomly crashing again  Need a new one!
+Okay now I'm off to bed! Need sleeep b/c I have work at 10am 
+Sitting the Airport lounge and realized I forgot my power adapter! Doh!! Need to buy another powerbook adapter again 
+Something is on my mind &amp; now I can't sleep...actually several somethings. So much for 7:30am teleconf call w/ NYC team. Need off switch 
+@gobansaor It's all the same SMTP - smtp.o2.ie  Need to use it via outlook as all my templates etc on it. Going to take some time out now 
+@felicityfuller Sorry it wasn't ~ my machine is freezing and my tweets are getting mixed up.  Need to reboot 
+cure for common cold: stay home, watch Food Network all day. Need Tivo - all of my fav shows are on while I'm usually at work 
+@Leenygma hmmmmm not really got in to much this year. Bought orange box and enjoyed a bit of tf2 for a while. Need to get back into it 
+Going crazy  Oldest daughter broke her arm last night, went to bone Dr. this morning not good news. Need to go to Childrens tomorrow morn.
+It just hit me. Need TLC asap 
+How the eff do you find library books- D: it was like 375.41359 CAR?!? I. Need. Help.  
+Think I'm gonna have an early night. Need to shift this migraine 
+Forgot my lunch at home.  Need to head down to Rookies to buy a Caesar Salad.
+UGH! Curse social networking, text messaging, and boys!!  I just want to go to bed... Need to think of a way to use this negative energy..
+Omg must place order for this stock on NYSE easy money!! Darn Credential is closed  Need password for my usd account  
+The one thing I hate about Indian eats is that my nails turn yellow ! Need a mani 
+Mass Effect 2, SW:TOR trailers look amazing, can't wait to play them.  Need to finish ME1 first  #e3 #masseffect #starwars #bioware
+Hate my phone. + Need money for tattoos! Need to finish back piece 
+Need to re-apply chapstick!! Lips getting dry 
+@restey11 no problemo! Know how to fix my picture??? 
+Layin in bed sore as fuck!!  Need a back rub!     if wanna talk send me a message!
+Need to get to bed. As soon as my three year old does  She just woke up from a nap. WTF. That wasn't suppose to happen.
+@mitchelmusso I can't buy the album. I'm sad.  Reason: Australia. Need I say more? Congrats tho and all the best of luck!! &lt;3
+Ugh.  Three more pages to crank out before the deadline.  Need more coffee.  Drawing is hard. 
+Need my eye drops!  eye is all sticky and hurty. Toothache seems ok now. This is so annoying! #getbettersoonkat
+I hate wordpress  Lost my password and it's password reset feature is broken. Need to hack the database??
+@paulie Me neither  Need a spot o'sea breeze. Plans for Paulie's day?
+Today's horoscope (Aquarius) -- I am too tired from work today  Need some R&amp;R for a while. http://viigo.im/LfU
+@ Work Want smoothie, too 'spensive  all I can think of is food *tummy rumble* oh lost 4lbs over the past 2 1/2 weeks. Need to keep it up!
+Need to find a good home for 11 wk old black Doberman puppy  http://bit.ly/onGAs (othr dog broke his leg, and we can't take care of both 
+I'm awake  But I love my best friend to no end so I won't complain... But I am SO not a morning person! Need... Coffee...
+It's raining outside...  Brrrr...  Need to go out, but.. I don't want to... 
+@changibedsheets I'm sorry. Know what you mean with the lashes 
+@ianj46 I quite liked the aftershave...it just lingered!  At home with concussion after headbutt in TeamTeach hold. Ouch. Need chocolate 
+@courtpassant I actually bought a Slingbox last week but don't think I'm going to keep it. Need too many other connectors, not worth it. 
+Need a wireless card or USB hook up for my computer.... There's no cable jack in my room &amp; nor can they put one in. 
+Another hot day in SC, my car said 95 outside! Just got home, fed dogs and gave them ice water, let them out to play.  Need to do chores 
+Learning about pension accounting... Need some coffee 
+I need dinner but I'm still waiting for a fax from work.  Also I have no food. Attn! Need partner who cooks. I am inept. lol
+Gr, I got no outfit for my &quot;interview&quot; presentation. Need one 
+@elsiitha_94 i Know!! if only we could buy it!!  damn! 
+Need to sleep... gotta get up in 5hrs...  Good night everybody!!!
+Okay...1 more smoke &amp; then off to bed...2morrow is going to be busy. Need to do some shopping (what a nightmare) !! 
+Proud of Ethier for hitting a home run tonight! Need to win tho 
+My toothbrush batteries died right when I turned it on. Ughhhh! I hate regular toothbrushes! I don't feel cleannnn.  Need 2 AA's.
+Must quit working 4 2night. Need rest. Going 2 watch The Bachelorette &amp; eat peanut butter &amp; honey toast. Ps. I'm not a fan of healthy PB. 
+CEO is on the floor today. Need to be careful while surfing today. It's all work and no play day. 
+ oh no oh no oh no. Not ready for this. Need some foods or INQ will collapse, oh, That's a good excuse!
+Drinking Vanilla Tea (as I do) and looking at rentals! Why is everything sooo expensive?  Need a room mate but woah-what a risk!
+@Gel_6  Naww! Need a buck?
+@Tori_Da Cruel - having said that I am stuck in an office anyway! Need to brave the chill to go get lunch though 
+@djeglin I need more spymasters   Know anyone who can add me?
+I'm so bored, hard hurts. Need to revise for french. Oh how I hate french atm !! 
+Late night .. Early morning .. Need to sleep at wk 
+In work!! Soo tired today honestly! Need my bed  x
+Feeling rushed this morning...soooo sadi couldn't make the braid hair do work this morning  ah well! Commuting time. Need some good tunes
+Need more moniez. Games are expensive 
+Need to get to SF to watch friend baby being born. Injury accident on bridge. NOOO! I hope I don't miss it.  
+I'm going to be super productive if the Reflective message board stays down all day  Need moar boards to lurk!
+@Parquette1 Know what you mean.have been at work nearly an hr, aftr rolling out of bed &amp; drive the 40 minutes. &amp; I am not a coffee person 
+Finally reached my 20 in Lone Wolves... damn I'm such a noob  Need more time to play videogames!!!!
+Very  today. Need nap and real meal with actual veggies and stuff. #fb
+Need to update my website &amp; blog. Must find the time. Off to beach. Too bad I don't have a laptop. Work n' play - found it but no luck 
+Attempting to organize PC work area... Need a DESK. 
+Need a new router  Fed up of having to reset it every time I want to go online.
+is hoping my bb visits  Rob soon!!!  Need more pics!!
+Playing Metallica Guitar Hero...Need Practice 
+Mehn. Need someone to carry me on their Chariot. Damzel in distress in here on time. Sprained my leg badddd 
+nobody to talk to except twitter. Fed up and lonely. Need a hug 
+Need 2 find a gd rave 2 go...missed out bank holiday monday on Penthouse in ldn....pissed- herd it was live aswell 
+Cash flow getting tight. Need to budget. May have to additional SEO tutoring classes  Need to find some free online tutorials and tips.
+Cash flow getting tight. Need 2 budget. May have to cut additional SEO tutoring classes  Need to find some free online tutorials and tips
+Got home from English class. Tons of homework to do this weekend. Need to study as well  poor me.
+@mysterious_skin Yes had a really good day today...phew!!! Although I feel like i ain't seen anyone in AGES  Need to do something soon
+Sprained left hamstring. Need to dial down the strenuous exercise 
+Just got home, ready 2 crash, been to see my papaw, just found out he has cancer and lots of it   Need prayers!!  Ltr.
+Need to go to sleep. It's going to be a LONG day tomorrow. 
+Going to bed---long day...dead hamster &amp; more  Blame myself. Need to read and crash!!
+Friend of mine in car accident... in ICU.  Need some prayers 
+Just home from work (7pm) - long day - tired! Need to eat, then early night, not in twittering mood  Hassle the wife for a cuddle &amp; beer.
+Installing a new mac for my friend Sabine and my graphic card is broken. Need a new mac aswell. 
+Feel really fed up today  Need to shake myself out of it!
+Right. Time to get up and moving. Serves me right for computeribg till 3  Need to get front tyre changed - been dodgy for a few weeks!!
+I really want the Sims 3 but I don't think I have enough memory in my pooter.  Lame! Need to delete stuff~~~
+Need. Earplugs. 
+Ughhhh Its Raining AGAIN  I Need A Holiday!!
+Needs a starbucks 
+Need something 2 drink  http://myloc.me/2MLN
+Need to shower and get ready to go to liverpool... Sooo tired 
+Need new BNever Cocktail perfume. Only few drops left  #fb
+Have not slept...Body too busy expelling everything I ever ate in my life. Need sleep! Feeling like death. 
+Crap on a stick.  My friend bailed on me to go to the Toronto FC game.  Need to find a replacement.  
+Stuck at the car dealership while they hopefully install the part. Please let it have been the problem. Need some special key todo brakes 
+Laundry done, working on tan now. Cubs game at 6, game 2 after that. Might go run if I find time. Need to pay some bills too 
+My leg hurts so bad I might cry... Need ibprofen... Mindy doesn't have any 
+Afraid, very afraid. Need to know what is happening between you 
+Need something to do. Burn Notice reruns are exciting the first time, not so much the fifth. I need a life. 
+Need to stay away from the ice cream -i am bored and watching TV -bad combo   no extra snacking!!! Have to count everything!!
+&quot;Baby go toilet all day.&quot; LMFAO! My baby cousin, I miss her.  Need to take a trip to SJ fast!
+@Ambervisions Sorry to hear you're sad.  Need a chat? We can DM if necessary.
+Need at least one story written, uh, now-ish. Have no ideas. 
+Need to work today  Got a speech to write and material to prepare for an event we're having in a couple of weeks.
+I'm at a party with one of my professors. Massive jones for him.  and none of my friends are here! Need. Company.
+Need to do something with my hair . Its really dry ! Hair mask,treatment etc . But no cutting it short 
+Needs Some lovin' 
+Just took one of my mock ct registry exam. Don't feel good about it  but well see. Need to study harder.... Good night for now
+I'm really tired and have a headache. Know what else? I'm dumb, because I should have went to bed over 2 hours ago. 
+@Gailporter Know the feeling, been woke up by the rain  x
+Started smoking again with all the moving crap! I'm so weak ;( Need to give em a miss! wont be able to run round the block at this rate 
+Argh, had to bus it in and now have to wait 40 minutes for doors to open. Need to find cover, it's raining 
+Need to go do dishes. Uh... I hate this job week! I perfer doing wood! 
+Need iPhone help, connecting to new pc wont copy apps over will I have to pay for apps again if I wipe and re download them!? Please help 
+@IlanBr  Not yet.  Need more traffic on the old blog methinks. How about u? #fotomoto
+Need to help son revise something called Graphic Products 
+I lost my Add. Math book  Need to rummage the house for it now that my room's upside down. :S
+Need to go buy new Green Flash - right foot taking on water through hole in sole! 
+@mcherrywv Groceries.   then work. Need that coffee IV. Lol
+Didn't get the internship that I really wanted  Need. A. Job.
+ @MaryVance is on her 2nd ZPack; I'm going to the Dr tommorow. Need to be well by moving weekend. Good news is the girls are doing well.
+Need me a guitar with a skinnier neck, man. Got me kinda small hands. Can't reach the bass 
+Okay folks .. Need to sleep ! Soo addict in everything  Peace
+Want nap. Need nap. Can't have nap. No time for nap. Sad napless Drew. 
+Bored! Argh i cant use mums phone to text @Pjaaaaay And she wasn't online  Need to get over my crush too - its easier than i thought x
+ wishing it was 5!! Bored to death! Need a nap and some ice cream!!
+Just finished prayer service wit the fam.  Praise the Lord. Need 2 get some work in and my laptop is freezing.  Big ups 2 Twitter Berry!
+Getting ready for Fuze ... Need a nap though 
+@singlegirlie  DITTO!!! Just what I'm fixin to start doin. Need a maid for this stuff 
+Watching Big brother. Been proper bored today-nothing to do now finished schl  Need a job (Y)
+We found two!! Need to decide which one since I can't have the one I LOVE. 
+@Kelsie_love   Need me to come and kick some ass for ya?
+Spilled coffee on myself. Waiting for sawa and going to elm. Need a lighter 
+Going shopping! Bye Need to buy a box of mi-goreng yummy. Bad pancake day today 
+Hokay. Now watching 30 Days of Night. Need someone to hold my hand, though.. 
+Need Some Memory on my mac now 
+@egorstandish Same here, unfortunately.  Read many more than several times.   Need more Ezra stories.  I wish I could help on Psych!
+Need... soda. But no money.  Also, noodles plus butter and garlic salt = yum! Add a hot dog and it's fan-tab-oulous.
+Bah. Need to work on note-taking methodologies... I can read what I'm writing. 
+NKOTB concerts have been cancelled. Am quite disappointed  Need a new happiness goal now (how to top that?) Have to act my age again.
+just got home. Need to think. My cramps hurt 
+In School Feel Shit Need 2 Fucking Cry 
+Tried &amp; working late shift until 8 at SLQ. Need real coffee but shop is closed. 
+2 weeks, 2 weeks, 2 weeks!!! Webcam seems to be down though  Need to see the beautiful beach!
+Have to go to school today  Need extra help in french. then exam tomorrow!
+Need to make breakfast.  Cris works split shifts 2nt.  I go to work at 12pm to 9pm tonight   I'll check in later guys.  Have a great day.
+No more diet cokes for me. Need to wean off coffee more too. Heartburn has been BAD lately. 
+All of a sudden my #ubuntu partition stopped working. Need to fix it. Oh joy, another 3-4 hours well spent this week on fixing computer. 
+Watching the last two episodes of season 4 of house. Need to pick up a new lizard soon. Yoshi will be lonely until then. 
+Need a girlfriend, wife or housekeeper. No food in house. Can't be arsed to get any. Supper = toast + 2 half bowls of different cereal. 
+Need more yarn... Ran out of my sweater yarn and probably won't get to the yarn store till tomorrow. 
+Pokello was right... U cant put all ur eggs in one basket... Im bored now... Need someone to keep me company... 
+About to play some WOW. Need to build my Alliance characters up on Gnomeregan.  I can't believe I have Alliance characters  LMAO  #BSB
+is off work sick  Argh. Need the money.
+Have fun with your nephew, KAT. And Goodnight to you all. Dentist in a few hours!!! Need to brace myself for the worst 
+It's not just a bruised rib... pain across the chest now... can barely move w/o pain.  Need to fly back immediately to HK for hospital... 
+We're going to CRASH!!! This is the last time I take my bike on the bus. Need more expendable bike. 
+Back to the work week now.  Need to leave the house by 3:00 am so I guess I should go to bed. It's gonna be a 16 hour work day. 
+@jenthegingerkid  I sawy. Know how you feel.
+@DDubsTweetheart You can try that.  Just post it on the &quot;Need tickets?...&quot; section.
+G'night!!  Back from the beach and feel whipped by the sun!!! Need rest before work tomorrow!!! 
+@msmaisha I thought you were avoiding me today lol!!  Know twitter love until 8:30pm? 
+Walk to weis, get ready, go see the riot at York galleria. Need tonight. Wish I was still going thursday. Leave it to a friend to ruin it 
+Need too Shit so bad. 
+Well im hella tired but im going out to watch a race I think!! Need2 hit d gym  before I crash  den wrk tomorrow mrning!!
+Back from new Orleans  headed to work in a few hours. Need to get some sleep. Who all is from the Springfield area?
+Breakfast w/ the CEO in the morning, then lunch w/ @cherrycolamaus &amp; @suffianr at Wendy's. I'm officially a glutton. Need to eat less 
+@mandahoofs yeh but i need to drive from Parra to Airport everyday! Need car! 
+Tired. Sleepy. Exhausted. Need my beauty sleep! 
+Stayed up too late last night. Need to be on the road until at least 10pm tonight.  Flying from PVD to RDU today.
+Need to go and find another pen seeing as though the one I used this morning has disappeared  Media fail, here I come.
+Really feeling sick but if I call in after a 4 day weekend it'll  look like I'm faking. Hate feeling like this. Need crackers &amp; sleep. 
+Work is Over Rated... Damn the Bills that Need to be Paid.. 
+Still working on the assignment! Need to find a diagram of CPU with all sections labeled. 
+Don't deserve any lah, sigh. Need someone t talk t now and i don't know how t reply you. No rights t. 
+Need to go to the BMW but I have to wait for the dryer to finish...I have no clothes!  Maybe I'd get a discount like this though?
+Im so tireddd of Workingggg I sooo Need vacations 
+Finishing doing all this advertising for the @ashlynn_Brooke feature in southington. Need to finish my coffee 
+Need orders faxed in from ATL. Fax is out of toner. Run to office depot. Ahhhhh. I dunno if we will make it to philosophy class today. 
+I feel like an 80 year old woman. WTF is wrong with my body  Need a MASSIVE massage, then a hot tub..too bad I will get neither.
+Premarital counseling was great yesterday!  I love my fiance!  Need to do homework now.  Reading assignments are not fun this week.  
+@karleemay Too late.  Need to do something to calm down. Just pacing and waiting for my ride ain't helping...
+looking forward to leaving work at 5:30pm.  Need a vacation! Tired of being sick! 
+Need to get sleep, first test tomorrow  But still need to finish these English summaries! Bah.... well the night is stil young lol
+Need to get sleep, first test tomorrow  But still need to finish these English summaries! Bah.... well the night is still young lol
+@gerrymoth I bought it at that price, only to find out it does not support editing on 5th Edition yet. Need to wait now for release 
+@EqualityAmerica Wow, I have seen that commercial several times, never noticed the polo until now.  thanx 4 tweeting about it. Now I Know!
+@Need2Liv ....I actually had stalker guilt for having more that I was following than that was following me   
+Dinner tonight is baked chicken with italian seasoning and light mayo. Not sure about this recipe.  Need more salad  frozen veggies it is
+At Repo! rehearsal- sucking @ Chromaggia. Need to work on arms + movements + memorizing words. So, basically, everything. 
+Need someone to talk too..Feeling kinda Lonely. 
+@iandrea  nooooooooo! Know anyone who else is selling?
+Relax day in Shanghai, Tians studying for TOFEL. Need to exchange more money  Mom says she misses me!
+Need to get home before 12 haven't smoked all day! Oh no! 
+Weird day.  Need cuddles and a shower.
+Haha. I Know It! 
+Out on home visits all day  looks like it goin 2 rain too. Need to crack on, taxi. Picking us up 4 airport @ 6pm
+Woke up to stomach cramps. Need a hot water bottle. 
+Need my brain to shut off.  Also, I miss TWoP of 2006.  
+Having a very slow start to today. Need to speed things up. How do I go abt that? No Idea. Need help??? I think not... Hmm may be I do. 
+Close to crying!! Being pulled in too many directions. Completely unappreciated. Need to get off my arse &amp; find something better. 
+Traffic! Boring! Zzz.  Need to stretch my legs! And there's no one to talk to  i hate being alone in the car.
+Whos good at translating Japanese? Need someone to translate a sentence for me, Google is doing fuck all for me 
+Need colorful pumps for the Armani outfit show. HUFF! 
+Up and getting ready to take my babies to a movie. Love a thunder storm! Need a kiss though 
+Need massive vibes from you lovely people for a friend who is in intensive care after rotational fall XC yesterday 
+Need someone to help me set up my pool. Supposed to be easy, but I am not talented that way... 
+Its raining &amp; dull outside  So what to do? I know ill brew some beer! Need to clean everything and get some sugar.
+Canceled my dear little colo of 2 years. *sniff*  Didn't notice the exchange rate started to suck so hard. Need job soon 
+freezing colllldd  Should have ipod tomoz. woo! Need some skullcandy phones now.
+My life is just plain boring right now. Ha, ha. Just kiddin'! Need make my homeworks 
+Need help !!! My sisters birthday and I haven't got anything except for a card !!! 
+Need to drag my lazy ass to the launderette... Got loooooads to wash! 
+Sadly the thumbnail exif data in the RAW files doesn't have what I need. Need to try and delve deeper  No python module seems available
+I feel like dumps and there are no updates today. Sorry  Need more submissions!!
+Stuck on following 2000! Can you do me a favour and recommend me to a friend? Need 100+ followers before I can add any more friends 
+Just got in at work. Need caffeine. Robot vs Monster -  http://twitpic.com/7mr66 - innocent wombat caught in the middle. 
+Need A Job Badly 
+Need Mister Linky help for a wordpress.com blog.    It's times like this I feel completely incompetent.
+Need for Speed Underground is mean! They took my 'Cuda. 
+@FireflyVodka We are having a blast on our staycation! Everywhere we go we ask @ FFV though and they don't carry it YET!   Need a rep here
+Need to change my jeans. Dropped Salsa all over them 
+Need To Start Revising Physics 
+Need to go to Walmart.  
+Going to have a clearout and stick a load of stuff on eBay. Need tuition money  I discovered 2 more DVDs I bought and haven't watched :/
+Sick  sore throat. Need to rest up for the bachelor party on saturday though!
+Need to sing along to things to keep from getting sleepy, but my voice has been shot since Austin and my throat hurts. 
+I want to go to the gym.  Need to feel that muscle burn!!! Stuck behind a desk 
+@devonmonique i am hitting you up!  call me, Im in sister mode! Need!
+Need a book to get lost in my thoughts. I wish i hadn't read that. Damn Kevin. 
+@CieraWilson  I am so so Ci.  Still sore  But at least not as queezy. Need a break already though and I JUST went back! lol
+Dinner tonight was teriyaki pork tenderloin sliced onto an asian salad.. YUMMY!!! Need lunch options... lately not eating... not good 
+Think it was 2 hot out today 2 bike ride. Really run down, going to bed early... I know I'm a bum  Need 2 make it 2 work tho!
+Finished carving. Need to re-pour a little of the center with an eyedropper tomorrow. Used a cooler melting point and got holes up top 
+Just upgraded to 3.0. Well, except for copy and paste, not much exciting stuff for 3G. Need 3.0S 
+Sad now. Need comfort music. 
+x_x So tired. Need me some caffeine, please? Why are there so many things to do?!  Also, I'll only get my MBP next week. D':
+@EsmaaSelf Why thank.  Sadly the blog has not gotten the TLC it needs over the past week.    Need to get on that.
+Off Everybody. Need to Prepare something for .... bye all 
+@HurricaneSonia  Nooo!  Our usual guy is nowhere to be found.  Need to find a new teller!! 
+I hate that I'm really bad at reading ppl over the net. My mind panics any time there is a pause or silence. Need more real interactions 
+@klbeasley u mean they are only giving scholarships for last 2 yrs of school? Long way away! Need to win lotto for son's education fund! 
+Watched first ep of #Leverage last night, seeing as @wilw is in 2nd series. Thought script and plot was weak to say least  Need new shows!
+@joe_oliver No idea when i'll be back next  Prob busy/working most weekends this summer. Need to go to Dentist though so poss in July
+Need a bigger battery for my JVC mini-DV camcorder, but it's 109 euro! That is almost half the price of the cam itself! Jeez.... 
+My life is just a big misconception. Need some serious XSL to translate this one. Picked up a @lilblip apparently still sick. 
+says Loong week at work and not over yet. Need to knit!!!  http://plurk.com/p/11vet6
+Uuuugh. according to my host, my Wordpress broke.  Need to backup and reinstall today.
+Ugh!! Too early for my wake up call and can barely keep my eyes open. Need caffeine asap 
+Need to start packing. Gay 
+Need a new job badly  ! Recession :L !
+Lying in bed, in Hospital and watching a movie! Need a smoke but my neighbour's sleeping... 
+argh - 1 phone call with all the right people or 32+/- emails with addional clarity and addional recipients each time.  Know my choice
+@lllittlefield I know! I've been MIA  Need to fix this. What's going on?
+@janl I've got a pair of Beyer DT 250 as well as the sonys, and they're pretty sweet too. Need a new cable though. 
+@rose2784 Know that feeling, cept I still have a lot of work todo 
+@suckerdiyev i think the Video function Need the autofocus...this only the new 3 GS has 
+@otterale Not sure why I'm low. Nothing to complain about really. Just down. Looking to next challenge, don't have one  Need a mentor
+@Wighty11 Not brilliant.  Need to speak with my super tomorrow.  
+Need To Reevaluate My Friends  http://bit.ly/gnZDX
+@kirkmartin looks like i missed the reading entries - only for bestival now  Need to see FNM somehow!!!
+@Joespopsicle OK. I'll check there later. Need to go now...  Kisses and good luck and have much fun for all of us!
+Am slacking at work.  Need to get motivated to get something constructive done around the office.
+@andysowards cheers dude! Need to wait for the exam results though  ...just glad to get them out the way. 2 more weeks then it's SUMMER!
+Tomorrow I'll update my iPhone 3G to 3.0. iPod already done. Need Jailbreak 
+Naptime over... Punk a*s kids outside my window  grrrr. Need to cook dinner.
+Lost all my Facebook data yesterday   Need to start rebuilding today.
+Know any great sore throat remedies? I am dying 
+@lostdogs10 I will do that right before I go to bed.  Need to be cool while I sleep! Don't want to toss and turn all night again 
+Need some nice words  Feeling like a fatty
+Need to get baby shower stuff for sat! Closing all weekend, gay 
+Feeling too tired. Guess its lack of sleep. Need to study for exam next week. I really don't have an idea what should I do with the exam 
+my 7 year old nephew is teaching me to play Need 4 Speed and I'm not doing well at it 
+Loaded with heavy work. Need to complete by EOD/COB 
+bad day. Need to study more. Taking a break. Eating stress food. Joy. 
+@Aymes same here! Need the sleep, just can't seem to get it! 
+Omg why I cannot sleep ?? I need some beauty sleep like asap ! I got a very busy day 2mrw and an early one too !! Need to be up by 6am 
+Mornin' all. Lovely day here but a bit breezy. Had to bring a tomato plant back in coz it blew over.  Need to do some housework today 
+@kavilan Aiya no la! Need to do something i've been putting off for way to long. Not really looking forward to it 
+Just up. Should really get a shower. Need to get a 1320 bus to Edinburgh for work today 
+wonders if she would get a Wedding dress before our presentation on monday!!! Need 1!!! (tears)  (unsure)... http://plurk.com/p/125gds
+Need some Link Building done 
+@CashVerde I know! I'm doing mad stuff that I was supposed to do last night . Need Starbucks but I'm in the hood 
+Storms bad this morning. Hope I can make it to the post office. Don't have a car. Need to walk. 
+@kplawver Know exactly what you mean.. 
+@sianers I'm withvirgin media,they don't do cable in the part of the Ormeau road I'm moving to. Need to set up a phone line. I miss cable 
+Really getting up. Need some serious caffeine today. Bewley's Tea not going to cut it  Have a wonderful day everyone!
+@mikachu84 Ew, I hate eating antibiotics... Need to see my doctor on monday, my neck is killing me. I'm afraid that I have infection 
+I DOnt Know what i am doing 
+Need to talk Mariana immediate 
+@burpcola it actually does translate! should be as sporty As you though  my Love handles Need to Hit the road, too!!!
+Need to find Tums and/or Pepcid immediately.  
+I'm now on day 3 of being home sick. Know what really sucks? I have to go to work tomorrow, no matter how I feel 
+Ready to go home! Need to relax!! Have to work all weekend.. 
+Stuck in trffic on rt 222 north of Reading Pa. Need hovercraft 
+I've been spending way too much money on food, food and oh, food. There goes my allowance.  Need. To. Save. For. Urbanscapes! *determined
+Need wakeup and start running. Too little time left. 
+Need window screens. 530am now. Went to bed at 11pm. No sleep, itchy bug bite swelling allergy! Have to go to work in 4 hours! 
+@toryjane Sorry! I thought I did...We got a little bit of water from the sewer again, but nothing catastrophic. Need to have it looked at 
+anyone know of a local pizzeria besides Costco that sells HUGE pizzas?  Need to find some, pronto.  All the old shops are closed 
+Need to work on my homework. Matthew will be in bed in an hour and a half, then its crunch time. I am home alone all weekend!!! 
+Had a wonderful dinner with his cuz. Explored a little more of London. Need to pack for the trip back home tomorrow!!  Boohoo! 
+The new iPhone is in my hands. FYI the  'Mophie juice pack air' has no iPod port for external connections. Need to return it. 
+@katarinasmama fun!!!  ENT says DD prob has allergies. Need to get proper bedding and she'll prob need tubes for 3rd time too 
+Polyvore.com is not working. I am not happy!  Need to cheer myself up.
+Damn i swear these hatas be trippin.! Need ta get my music out now but aint got no one ta help this mescan out.! 
+@C00L_BEANS training 3 hours. The chance 2 sleep is gone.I can hardly open my eyes I'm so tired I'm crying.dizzy. Need 2 wake up 
+I'm feelin an inter-web overdose. Need to get up &amp; stretch those...what are they called? Oh yeah, muscles. Must prep for mowing tomorrow  
+   No Sat off...Need to work 6 days a week 
+Need your opinion. Iphone or crackberry?  i cant decide.
+@deizu Yeah I know what you mean  Need more open-minded people in this world.
+Got me some real nice hickory and pecan wood. Costs a fortune over here  Need to make something special to cook with it.
+Sick and tired of working hard! Need a break!!! 
+Sick ... Again. Need to stay in bed. How I hate such weekends 
+Sager 5760 artifacting. Need to clean it out. Tempted to install a 500gb HD, as well. Not looking forward to the resulting XP reinstall 
+Eurgh. Don't want to get up  Need to do the part of my OU assignment on 'wildness'.
+Listening to the pouring rain. Need to start on my assignment like NOW. 
+@milahtatgirl me 2 I jus got home My Head Is Pounding SMH I Need 2 Take Suttin 
+Need's to go buy a PSP soon even though I don't want one. 
+@Charonqc thought I was getting tooth as well, no! Only threaded titanium rod. Need to wait 3 months. fuckity 
+Know anyone who could hook me up with a lick-n-stick inspection sticker? I'm desperate. 
+@rneedel Yeah... no.  Need to figure out how to teach him to sleep in.   And, would love to go, but have errands that need doing. 
+Need to practice phonetics for tomorrow's class... Don't feel like practicing it alone... 
+Starting to pack for Mazatlan!!!-Need to clean too 
+On my break. Bloody knackered. Need Jase hugs. 3 1/2 hours left 
+Need to go downtown but don't wanna walk down there in the rain...   Will wait a bit and hope it lets up.
+Sooo freakin tired cant believe it. Need to get a better sleeping pattern goin 
+Hungry. Need to get groceries. AGAIN. Watching Barefoot Contessa doesn't help. 
+Need to find a new job/volunteer opportunity now that the Tech no longer needs me.  826 Valencia? Jamba Juice?
+Needs Her bed... And her pillow 
+Need Matrix night. And also, a miracle? I miss him already. 
+@Natbat No I'm afraid not! Need to keep adding flour and water for about the next week!  See recipe at http://icanhaz.com/sourdough
+@Shannonbabeee Need to go into e.k to get a dress  I better go fetch the Flymo to shave my legs :L
+Need to order my Wonder Year's ticket soon 
+Need to buy clothing, a gift for my dad, and starbucks via ut first I need to eat! Soo hungry 
+My girl's temp is up to 102 and staying.    Need to go to store for more Motrin and Tylenol.  Hate when she's sick!!
+I'm so tried! Don't want to sleep though. Need a girlfriend 
+Show tonight with @fidelcampbell debating on going. Need recovery but I won't see him again for a long time 
+Jaja broke my effin pen.. I s-till dont feel good. Need sleep. 
+My pedicure is chipped! Need to get another one this week before my party. Won't match Mom now. 
+Need a Dr. Pepper 
+@DrTread Dude i know  Need a secretary/house cleaner/pool lass?
+Just had an awesome BBQ... Need to have fun this evening after an unsuccessful iPhone 3GS purchase 
+Bedtime. So tired. Need someone to cuddle with. 
+Is Discouraged. Thanks @Scottycurf . I'm gonna work at @Rue21 for the rest of my life. Dreams.. Crushhed. I Need 2 Stop sucking @ Life 
+Need coffee.. @_@  Too many agenda.. student conference, small reunion of junior high, case reports.. I want an extended weekend 
+Hanging out at the office with good friends. Do not what to work tomorrow. Ready for my day off on Monday! Need to clean and do dishes 
+Do not dance on the balls of your feet in fishnets and platforms. Feet. Hurt. Need. Rest. 
+Need to actually get stuff done.  Don't know if sleep is going to be one of them 
+Need to re-start my com. Crap. 
+Need to find a present for my Daddy!!! I dont know what he might want  Maybe I could color him a picture like old days...
+I want my xbox back  #codwaw #mp1 #MP2 #xbox #WTF #Need
+Ok off to the gym to burn off so cals before start work on this 500 sq ft deck. Need to get it stained for the summer months ahead.  **
+Bored  Need talk with someone please  xD
+Crunch time. 1 week till move time. Need to get boxes and such. Also, im sick. Boooooo 
+Well the big flat TV fund is slowly growing.. Need more pennies though 
+@stickerset it's a negativity spiral downwards once you're in it  Need 2 remind myself why Otalia=endgame, but it's hard with this sprack
+Okay I'm not going ryhl this year.. Need to save 
+Need to take a long vacation (Thailand) but can't afford that now as I would need a &quot;stimulus package&quot; first.  
+how do you do the @ stuff?? Am I tweeting wrong. No more tweeting. Need to enter 430 charges 
+Power cut at the office last night killed my simulations &amp; SVN. Need to go in tomorrow to get it working again &amp; attend a meeting. *sigh* 
+Having an Off day today....  ...... Need Hugs ...... Lots of them .....   
+Dang too hot in my room today. Need to petition for a/c in halls 
+Yikes! MacBook Pro (core duo) battery just sort of popped and came apart! No leakage of any kind, but not cool! Need to replace that. 
+@zumiprime LOL. I was way up on the 2nd floor lifiting weights. Need to lose ... dog &amp; me had goal to lose 20 by Jul. He did it, not me 
+Need my wimbledon fix, but living in the West Coast means I have to wake up early 
+Need to contemplate my graduate studies.  Got some bad news about reimbursement today.    Perhaps the beach retreat will shed some light.
+Just off work and I am falling asleep. Need a lil nap so I can survive my LSAT class that starts tonight. 
+I've been eating SO unhealthy lately! Need my motivation back 
+Need a vacay tho...*someone* offered Vegas, but I don't think it'll be the same without my girls 
+Heavy rain this mourning  Need some Metal raise my spirits... http://bit.ly/NkrrG
+Starving, but no food here and I think Lee and I are gonna get chinese later. Need dinnerrrrrrrrr. 
+Workkkk. Need to make that $$$. Lauren needs a car!!!!! 
+Damnit, got my new AMD 6000+ processor in after the last one failed.  After 2 hours of troubleshooting, it is DOA.   Need it NOW! 
+Morning guys-Good nite...Didnt sleep last night,just kept turning and tossing in bed.2day 2 sleepy to really work  Need coffee!!
+Need sleeeeep  This whole week has me soooo frazzled and kerbobbled and kerplexed. Damn Dr. Seuss
+Up bright and early- getting ready to leave for DC.  Traffic is always crazy   Have a great day!  Need coffee now...
+Woke by @barbaravey 's birds at 4am   Bright note, going to see Jersey Boys t'nite.  Need a nap!
+Exam results are up....failed 2 modules and passed 4! Need to some how pass one of the failed ones before next sept!!! 
+Woke up with a headache today. Need more sleep 
+Need to get out and catch the bus to go to Starbuck, then work crap. 
+feeeeeeeling a bit bleh. Need my rest. Lovely sunshine to relax in... unfortunatley not with the fiance today 
+Need to get outside today. Atmosphere's a bit rarified in the house... 
+Need to go jobhunting tomorrow, which means I need to write a CV... boring 
+My adapter won't fit on for my laptop. So now I am without computer. I fail  Need a Best Buy pronto!
+I miss my phone sooo bad!! Need a job STAT!! Hmm... I hate babysitting 
+Homeworkkkk. Ugh! Need to wake up early tmr to collect form from school. I wanna watch drag me to hell and transformers 2!! 
+Ughh todays beach weather... But I have work. Need...midol 
+Need to walk Blue, but i am so damn tired 
+Goodmorning tweets. Sorta tired. Need my charger  prob gonna go back to sleep
+Oh the job hunting is not going well!!!!!  Need to find something soon to help out with this mandatory Furlough!   Thanks Govenor!!!  
+Need to be outside, but I am inside    So the UK has twitter pegged as a primary SN not an enabling technology. Cool?
+@lapcat Need to send 'em to my accountant tomorrow. Oddly, I wasn't even referring to my taxes. Those are supporting evidence, though. 
+I'm up. quite... err, early. My colleague &amp; i are off for outfit hunting. Need some new gowns. Gonna leave my 2 big babies sleeping. 
+@yod9 Thanks tons man! Seems to b working  Now I must try it on my internet PC in the studio. Need to get u 2 work on my recording pc! ha!
+@knitster totally need to be! Everything breaks or aches too much. Need a new body! 
+It's a perfect day ... Need to find a nice bottle of champagne.  Going to let myself be enlightened by the caviste 
+Needs starbucks 
+@Destrin, Yep. Need to brush up on my formal normalisation theory for this interview 
+Silent Witness tonight: ORSUM  but depressing. D: Need to cheer self up now. D:
+First day out and about wore me out. Need some mango sorbet and a nap now. Got some beautiful beach glass beads and a sunburned nose. 
+@KyleStyxx Bitchy is fun, too.  Need an excuse once in awhile to act crazy.
+Ready to head to vegas! Need a new tat! 
+Need me some sleep...Have some pretty bad handwriting cuz i'm so tired. Night all 
+@SwayShay Think its GREAT... Need to get out more tho!! Trapped inside on this damn addicting twitter LOL 
+Need coffee! Starbucks.  then I'll go home. Big day tomorrow. Fun in the sun then international festival. 
+Threw an awesome half bday party! Was a success!  Need to sleep now 
+Nap time! Need to wake up in an hour! Keys here we come 
+Exhausted after long, fun day with SIFF and family. Need to sleep. Tomorrow brings laundry and grocery shopping. It's all very exciting. 
+The mpx blizzard is a slippery beast, takes me a full field length to land! Need to counteract the Axi 2820/10 with some chutes 
+@summer_glau     &quot;I Need A Reply&quot; or should it be &quot;We Need A Reply&quot; for we are few...  
+@jeff_barnett Know that you are not alone.  Signed, fellow teeth gritter. lol...
+Gotta clean house and three dogs today before our guests arrive. Need some good cleaning music on iPod and COFFEE 
+@Nieves_Herrero Haha, theres no Need to Apoligise, 
+@KGBWastelander if you don't compare it to #COD4 its a really well put together game! Need a Hand just holla 
+Need a custom twitter background? I can help. Starts at $30. Tweet me for details 
+META! working @locationscoutny playing w. @twitter, listening to @rejectstv. Need film/tv/music vid locations? http://bit.ly/debbieregan 
+Need a custom twitter background? I can help. Starts at $30. Tweet me for details 
+Need to talk to Soap suds. Let me know when you're online please?  xx
+Ok, tweeps. Need to rest my eyes (away fm the computer screen) before studying. Back later! 
+Vacation is over. Back at work. Need to get used to all this stuff again 
+@goodonpaper looking forward to coming down! what time does David start at? Need to allow time to get home for dinner and back 
+@alisejohnson Awesome! Mine was good, but way tired now  Need moar rest! 
+Need prayers 4 my disfunctonal family. Ya'll have a good day 
+@sparkles17 I'm about 1/2 way thru... Need to finish by 4/26...gonna see the DVD after 
+And, save their clearcoat, they are done.  Will be in the mail Wed and off to Kids Need to Read to auctioned off to raise money. Woot!
+Thanks to all for your nice thoughts. It was a lot of work and even more fun! Come diving with me sometime! Need lessons? 
+Hey, are any of my twitter friends from Australia? Pls give me a shout out.. Need to ask something! 
+Had a great presentation with @kahenya at the KTB. Good stuff. Need to get on my grind now and work smart. 
+Crocheting with Noro yarn....I love it!  Need to spin some more chunky yarns tonight.  
+Load her up on the antioxidants to maybe help with the cancer, couldn't hurt right. Need some shut eye now, have a great night twitterers 
+Fccck the policee ruining the partying cus were to loud! Booo, Need some d kids I would be happpy as fck 
+I'm still procrastinating from revising. Done a bit of Food Tech and RE. Need to do maths now. Gah. Cinema tonight with my girlies! 
+Need to edit today, didn't get any done yesterday as Pat and Cameron showed up and stayed til 11  ah well.
+Good morning. Need coffee. 
+...really have to get myself moving. Need coffee! Helping a friend first and then I'll be heading to the store to work. 
+Morning!  Nice rainy day in DC. Need to break out the umbrella...ella ella ...oops was I singing??? ;)
+Seattle is sunny atm.   Need to go take advantage of it before it rains again.   I'm outta here for a bit..   
+http://twitpic.com/4ixe0 - Just because it's already 11pm here and I'm still on PST. 8 Mile while grubbin'. Need to meet friends 
+is heading out to the Santa Monica pier.  Need to breathe in some fresh air, or as mom say's &quot;maqoor oht&quot;.  Prescription for good health 
+@Scath Need Australian host  I have business protection here, gov depts, etc. If Dryline screwed me there'd be nothing I could do.
+People are really silly out here but it doesnt matter cuz you are really wasting ur time and energy trying to piss me off..  Know ur role
+Aforementioned posts (x2) = metaphor for life right now? hmm. Need to get out of here, need that dirty water, oh Boston, you're my home 
+Going to the gym early trying to get back in shape again. My husb got me a gift cert to swim w/ Dolphins for my BD.  Need muscles!
+Anyone of you Indie heads know what Donie from The Hassle Merchants' surname is? @unarocks @nialler9 @karlusss Help. Need for copy. 
+It's only 10:30 and I am going to BED! Brain can't focus at all.. Need a fresh new start. I pray that God grants me a fresh tomorrow. 
+@Madinafire Buying my copy today, so excited! Need to learn it for friday  Good luck in sheffield
+Want: Trip to Boston next month. Need: Addit'l motivation to save the $ to do so.  Beloved daughter wants to go with, which = 2x the $. 
+Just Saw Confessions Of A Shopoholic...Totally fell in love with Hugh Dancy's accent!! :3 Need $20.00 for tomorrow, new top i want!! 
+Sleep is not coming easy. Sleeping pills. Need them. Maybe this is why my mind is soo wild lately. No sleep=craziness. Proven fact! 
+@MystaKool Haha  I'm also looking for a good E-series phone these days. Know any?
+@alaricthegoth lots of room, but still never enough! Need to get beans in this week and plant up toms in ghouse. Good luck tomorrow 
+Off to Ralphs. Need some chocolate milk. 
+@TheAitch I KNOW!  Seriously, the toe polish was chipped since like forever ago. Ugh. Need to tweeze, and dye my hair, but progress!! 
+My new RX-8 in Need for Speed: Underground for iPhone.  http://twitpic.com/4yquj
+@DawnRichard jus downloaded trainwreck online. Need it on my iPod!!! Trust I would've paid 4 it if I could 
+@MelissaMAGICx3 bored. Hungry. Gave up on printing. You? &amp; LOL at ur sistas text 
+@acton Liked your bid over on smarta.com  We're having a tweetup tomorrow post somesso conf.  Fancy joining us? Need to find a venue 
+Steff needs to calm down. Haha  AHH Need to do steff and tim show - going to do tomorroww.. 
+Need some new music on my iPhone.. Got any? 
+Wanna be featured on TV?  Need namin ng girl na may insomia  tell me kung interested kayo, this is for a s... http://plurk.com/p/tsdpw
+@forestk I obviously Need. Moar. Coffee! Do you have any other nifty tools for me to URL-hack to? 
+@MsKnitSox omg! Need to see that! Maybe he'd sing for my b-day- it's only 11 days away 
+@gibberworld awful ride wasn't it, terrible race though! McCoy let me down with a terrible ride in the first! Need a winner! 
+@ana2008 &quot;TOS&quot; sounds gr8!! Need to meet @travessia sometime!! Have fun!! 
+I had so much fun last night! Need to go to Ray's more often...a lot more often lol. and I think Megatron agrees 
+Arg! Need coffee. Someone &quot;please&quot; bring me a cup; I promise to be your best friend ever...or until someone brings me something better. 
+Need a children's large Donald Brashear shirt. C'mon America, he's a FINE role model for the kids. 
+@lov3lyd0rk one week left and Ty's gone. Need the monies. 
+Enuff of working for now  Need to hit the bed. Good night folks!
+Need a glass of wine now or I'll never get to sleep! Night all. Sleep tight 
+@kalena Whats the prob? Know a thing or two about em 
+Painting pretty much done. Insane. Straight 11 hours of working. Need posters. My body hurts. Bed soon. Mac and cheese first! 
+ Need to be next to you Tucking u in and saying goodnight Smiles xxooxox
+I just woke up and I feel like shit. Need Coffee. 
+there) and also Need for Speed: Shift, probably. 
+Using Mac Again  Need a new router tho :/
+I felt this incredible need to play some music. So I did. Took my poor keyboard off its hiding place. Need to start playing again. 
+Okay.. finally going to bed! Need to dream up lovely scenarios.  Later tweeters!
+Back at the office! Need me?? Come see me or call me cause I fo sho can't leave  Wait how am I getting home?
+PLEAAASE Could someone help me to send message with my mobile phone to twitter?!?!?!?!?! Need help. I'm to stupid. Fuck. 
+Need web design? Then just do it... like in the Nike ad  Stop the ads please ;)
+@disil429 Nothing much. Just watched a movie. Need to nip to docs later. Then chill out tonight i think 
+Office is done and application made. Rest. Need to decide what book to read next 
+@topdan Can't wait! Luv the workstation demand! Go Neville!!  Need some jamming happy Friday music. 
+@mumbrella Premier's knew about it when it first launched, just took them ages to go onto it! Need I say anymore? 
+Ugh! Need to go into one of the big towns today .,2 hour drive . Oh well soon weekend . wooohoo! 
+@Snookss Can I be the treasurer instead?  Need to pay for this cheap wine somehow!  
+Need to sort a few things this morning and clear emails - then bring on the Bank Holiday weekend 
+Going to bed. Need to be at work in 6 hours. Hopefully I get some good sleep. Having awesome visitors visiting, so will need the energy! 
+@threnn i'm grand thanks. Need a coffee or three and I'll be mega! If in town for Dublin Soul Festival, give me a shout 
+Just became fan of #Razorlight, after hearing Wire to Wire song. Need to get my hands on their latest album. Hey, one's never too old... 
+Need to go home!  My ride is already waiting!  Lots of writing to do when I get home! 
+My hubby and son come back tomorrow after a week away. Yippee!!!!!! Need to get the place in order   Usually the other way around...
+@BillHarper Green or maybe blue or maybe red. The red ones look like they want to be balloons  Need to get the UWA job to afford 1 tho :/
+http://bit.ly/equal-pay So you think you're a victim of gender discrimination at work?  Know your rights 
+Phew, finally Anjal is free of Evolution/EDS patches. Pushed all to 2.27.x. Need to push webkit patches upstream. I need a helping hand 
+@GirlsWithWings Staying for as long as we can stand it  Good sugg. on bikes. Need to get a hitch for the car for the carrying rack.
+#livechat now on! Need tips on PR or using twitter for your business? Hosted by @robshepherd http://tinyurl.com/qjwtzc 
+@Jimena22 re:kristenstewart, got link  or mag that confirmed stewart doesn't twitter? Need it, thanks. 
+ so b truly glad. There is wonderful joy ahead, even tho u have 2 endure many trials 4 a lttle while. Know god is molding &amp;refining u. ...
+Loving working with buyers! Need some listing...do you know anyone that needs to sell their home? Send them my way 
+@wyldkyss TY! I had an awesome time meeting everybody!! Good times!  Need to do it again soon. 
+Anybody have anything exciting for me to do over the bank holiday weekend, Need to avoid the internetless, lonely, boring room 
+That Fool Episode 3 editing is done.  Need spot translations.
+Ahhh , love .. Can someone tell me some signs when a boy likes you ? Need advices .   Thanks  (via #zenjar )
+Ah! Just noticed the time! Where did my night go? Need to get things wrapped up so I can face last day of school tomorrow!  Night!
+Need to write a finance article... Reply with ideas please 
+Shall I try again??? :o) Need sleep, will try to read myself into a slumber. Goodnight. 
+I was sleeping but thunder, lightning and hubby's surround sound woke me up. He's watching HULK haha! I'm going back to bed!! Need sleep! 
+Need to pack, Dallas tomorrow, can't wait to get away for the weekend 
+Pulled my back, not fun.. so off to my Osteopath this morning!! Need more Pilates 
+Need sleep..going to put on some Lost ( yes, I stayed away from ALL the spoilers, score one for ILS!)..and hit the sheets.  Night y'all
+@moggy99 PMSL  Need 2 Wii (God agrees it's good 4 me), then work be4 wkend starts 4 me. U have a good one &amp; savour some liquid nectar 4 me
+@martijnbeijk Hehe, working on it, working on it! Need to process the piles, and then send out all the to-do's 
+Just woke up. Now going to take a shower, and than off to work. I don't want to, but I'll have to. Need money for my vacation! 
+Need to go to bed but flubbers on! Haven't seen this movie in ages 
+Whoa, drugs are kicking in big time. Need fresh air &amp; exercise so I don't succumb to sleep too early. #notswineflu  
+Is going to Stone featherbrook tonight  Tis me friends bifday  Need u funky tie though.... hmmm, lets call the brother 

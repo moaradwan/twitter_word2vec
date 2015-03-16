@@ -1,0 +1,20 @@
+Most common words for this cluster:
+[('aig', 6), ('are', 1), ('ponzi', 1), ('lehman', 1), ('stop', 1), ('px', 1), ('administration', 1), ('bay', 1), ('citi', 1), ('bonuses', 1), ('schemers', 1), ('cuig', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'AIG', 0.9220942854881287), (u'insurer_AIG', 0.6892940402030945), (u'Citi', 0.6622676849365234), (u'Citigroup', 0.6619686484336853), (u'BofA', 0.6370279788970947), (u'Bear_Stearns', 0.6321070194244385), (u'AIG_FP', 0.6228880286216736), (u'Group_AIG.N', 0.6216335892677307), (u'Fannie_Freddie', 0.6204089522361755), (u'Lehman_Fuld', 0.613876461982727)]
+
+
+
+
+
+US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders
+?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg
+started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?
+The real AIG scandal / http://bit.ly/b82Px
+F*** up big, or go home - AIG
+As u may have noticed, not too happy about the GM situation, nor AIG, Lehman, et al

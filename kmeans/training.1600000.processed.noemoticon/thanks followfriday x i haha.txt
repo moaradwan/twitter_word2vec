@@ -1,0 +1,749 @@
+Most common words for this cluster:
+[('thanks', 736), ('followfriday', 55), ('x', 11), ('i', 10), ('haha', 7), ('lol', 4), ('http', 3), ('awww', 3), ('wow', 3), ('yay', 3), ('randomretweet', 3), ('k', 2)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Thanks', 1.0000001192092896), (u'thanks', 0.7244957089424133), (u'Thank', 0.6825018525123596), (u'Kudos', 0.6477621793746948), (u'Congratulations', 0.6374809741973877), (u'Congrats', 0.5994148254394531), (u'thank', 0.5806383490562439), (u'THANKS', 0.5718371868133545), (u'Thanx', 0.571331799030304), (u'THANK_YOU', 0.5659295320510864)]
+
+
+
+
+
+Thanks for bursting my bubble 
+@johnshepard Thanks, I'll need it. I hate packing 
+@DaKing240 Thanks for rubbing it in. 
+@mslisanguyen Thanks! Wish you were you were coming out. 
+@naquada Thanks......that's really helped 
+@goldencaesar Thanks very much... shame we won't be seeing you 
+@thugrockstar Thanks 
+@simalves *huggles* Thanks. I wonder why that happened 
+Thanks to @jukiar @ilostthegame and so did you.  
+@DuckDrake Thanks. 
+@mchlh - Thanks!  This is really hard.  
+@MiKuS_ Thanks but I ate. It wasn't great and now I feel nauseous. 
+@klr397 Thanks for reminding 
+@Nasnous Thanks bro but I'm awake already  How are you?
+@hookbill YAY! Thanks for the #followfriday. #FAILFriday is still winning, though. 
+@hollie__ Thanks. It's SO annoying! 
+@StaceyBethh Thanks for kicking me when I'm down!  
+@Samtagious Thanks, it made me cry too 
+@Shitfuckdamn Thanks, but didn't work... 
+@ShaySpot Thanks. 
+@danielstancil Thanks for the invite. 
+Thanks but its not that happy... 
+@mjfetner you're right it does  Thanks though!
+@oshidori Thanks. 
+@shercole Thanks Shercole 
+@HotMess4CCNK Thanks!  I'll try.  Not sure I can. I feel pretty awake. 
+@TataRita Thanks Ritou d'amour  &lt;3
+My throatttt  Thanks to singing so loudly and offkeys
+@gentlereader Thanks. I am. 
+@casademora Thanks!  #TechLunchSouth
+@saachiex3 Thanks for viewing!  I know right but it's true  Haha.
+@harrybailey Thanks! Unfortunately, they are long gone. 
+Thanks @carbyville for being the only one to @ me.. 
+@jackyan I'll try to remember that when I wake up freaked out again   Thanks so much.
+@newcastlemusic Thanks for the invite 
+Just woke up... Thanks @ nessyyy  getting ready then beachin it
+@tbgreve Thanks buddy. I didn't win though... 
+@rosiemurphy Thanks! 
+@DangerousMax I know!  Thanks for caring...
+@BrokenIntntionZ Thanks..I needed that! 
+I'm glad i had to ask you to cuddle with me... Only to be turned down. Thanks 
+@RealHatter it doesn't.  Thanks so much for thinking of me!
+@ZnaTrainer Thanks so much.  Pnuemonia= not so fun. 
+@annieluvsmusic Thanks wish u were coming 
+@gunsandbutter12 Thanks! But I don't know if it's refillable.... 
+@brianwelburn Thanks hun, still not working 
+@pascalmabille Thanks! Me too.  
+@kaolinfire Thanks. I know it is... it just sucks. 
+Thanks pal 
+@splitenz Thanks. I'm so scared. 
+@sleepydumpling It does.  Thanks!
+@CanYouDecodeMe I tried it but it doesn't work  Thanks anyway =]
+@craigmunro Thanks for reminding me of THAT song 
+@lonemat Thanks, me too to be honest 
+@TamiFromMiami  Thanks!
+Thanks for noticing... 
+@JoKnowles Thanks. Me too. 
+@JasDunham Thanks but it won't crop right 
+@FaketragedyCom Thanks, me too. 
+@momfiles Thanks, I try not to shop there, though. 
+@pistolval Thanks we are excited! And I hope you feel better 
+@AIPChristina Thanks 
+I don't feel well at all. Thanks @emilymichelle 
+@amackinlay Thanks - still waiting here 
+@VMusicRox Thanks but flying out tonight.. 
+@amelialuvssyou @meganyountt Thanks, you guys and @emiilyk are amazing. [: I love you. And goodnight. I am tired. 
+@snookca Thanks. I'm still on 2.x 
+@PochaccoYoly I am now jealous. Thanks 
+@ibjhb Thanks, but unfortunately, it won't solve it 
+Thanks for not telling me ... 
+@BryantRRobinson Thanks 
+@greenhouseffekt Thanks jon for following up 
+@Fashionsourcing Thanks for the invite!! I am swamped so I won't be able to make it.  Who is leaving? Hopefully not you.
+@lacrosland rude!  Thanks for the invite!  
+@lamerapreciosa Thanks 
+@whoissuresh Thanks for asking. But not good at all. 
+@DoubleyDee Awww. Thanks! But still. 
+@whyit625 Thanks for the invite 
+@gandthew Thanks!  Though sadly nowhere near me 
+@XIKhai Thanks. 
+@special72 Thanks, Special 72!  
+@wolfsoul Thanks!  
+@RacelloMaria Thanks  =P
+@webvisions Thanks for putting up with us!     #wv09 #webvisions
+@marshawrites Thanks so much! 
+@Solarys_30 Thanks 
+@scrufus @rochvergara Thanks! I'll look into them 
+@sharonhayes  Thanks again!
+@punkmedia @ReneWouters Thanks 
+@DHughesy Thanks 
+@berryanarchy Thanks so much! 
+@selfexile   Thanks
+@taimurasad  @vasudevg  Thanks     ;)
+@BBCFalcons Thanks 
+@PercythePigeon Thanks for that 
+@myhelvetica Thanks buddy 
+@leahmackin Thanks for introducing me to blip! 
+@tombesore LOL  Thanks!
+@lukask Thanks 
+@dogsandcats Thanks for the #meowmonday 
+@winnersusedrugs Thanks girl! 
+@katiehoke you're welcome.  Thanks for following!
+@DanceMassTV Thanks!  It's just what I think. 
+@manobyte Thanks 
+@ElisaC Thanks. 
+@lukasandnina glad you enjoyed  Thanks again!
+@deerphotoarts Thanks glad you enjoyed it 
+@adcause Haven't heard about that  I'll check it out! Thanks 
+@okse I've only just got over how disturbed that made me feel.  Thanks! 
+@skweeds Thanks! 
+@iuwii Thanks! I needed that 
+@craigeyles Thanks for the #followfriday! 
+@RobPattzNews Thanks......have fun!!!  
+@MIDNITEMELODY Thanks! 
+@tornadoquest Thanks for the followfriday. 
+@ddt Thanks 
+@LilRedCottage Thanks so much! 
+@zssz Thanks 
+@luvnewkids Thanks!!  
+@crazygarbage Thanks! 
+@orisasson haha!  Thanks!
+@KoldCastTV and @beautyboutique Thanks for following! 
+@joshftv Thanks! 
+@kerrybeck Thanks  I'm glad you enjoyed it!
+@Dashery Thanks 
+@wenchpixie Thanks hun 
+@peolun Thanks bro. I really appreciate that and I'm glad you like it. 
+@wbboyd Thanks for following! 
+@beckiejean Thanks 
+@cattycupcakes it worked ! Thanks I just added you 
+@RealSolutions22 Thanks 
+Thanks for pointing that  #asot400
+@antlove2k3 Thanks for joining 
+@NEFanClub  Thanks 
+@becka316 Thanks!!!!  
+@JuliusVincent Thanks suga!! 
+@mommommom Thanks!!  It's pretty exciting 
+@angiekaybee Thanks. Me too, my favorite one of us. 
+@BossieSox  Thanks 
+@ihatecrayons Thanks 
+@Shandoe Thanks for the #FollowFriday 
+@maheshmurthy Thanks dear 
+@JayFingers @lmpotter Thanks for the #followfriday guys 
+@Carryz32 Thanks! But I would have to see if its available here! 
+@DataBrokers Thanks 
+@paulmmasters Thanks 
+@palmbeachexile Thanks 
+@MCHammer  That was so cool. Thanks for sharing 
+@geofffox Thanks. 
+@aureliom Thanks for that 
+@astanger Thanks! 
+@ian_watkins Thanks for following me 
+@letteapplejuice Thanks 
+@runkeeper Thanks 
+@mongey91 Thanks 
+@BefilmFest Thanks 
+@strangedog Thanks! 
+@clarescaptain Aw they were great!  Thanks! 
+@amous Thanks for following!!  
+@SteveBetsworth Thanks for following! 
+@CuddlyAlex Thanks 
+@catcarr1 Thanks for recommending me! 
+@TessMorris Thanks for that...will check it out 
+@wozdelgado Thanks!  It'll be you sooner than you think!  
+@jordankgirl Thanks so much hun 
+@kristeclectic @waynesutton @kbodnar32 @funkybrownchick Thanks. 
+@mommamiaria Thanks!  
+@gaylieo Thanks! 
+@stwood1953 Thanks for stopping in  #pussycatisland
+@TrishTheDish22 Thanks, so were you! 
+@JohnBirmingham Thanks! 
+@squashedpillow Thanks! 
+@vickysita Thanks for helping me 
+@Tabz Thanks 
+@mcannonbrookes I registered. Thanks 
+@sbilabs Thanks for following! 
+@archibaldcrane Thanks! 
+@bemaia Thanks 
+@lbaumann Thanks I'll try that 
+@SubVee Thanks! 
+@levimorales Thanks 
+@avrilchan Thanks 
+@Descentia Thanks! 
+@wroxbox Thanks 
+@tanujkakkar Thanks 
+@honeybeetoys Thanks, I definitely will! 
+@longstride I do indeed!  Thanks! 
+@CanadaMomDeals @Maloha Thanks 
+@torriseng Thanks! 
+@timebenezer Thanks mate! Enjoying doing it 
+@DougMeacham - Thanks! I'll check it out. 
+@willforfriends Thanks so much!!!   
+@Ginjajourno Thanks for my present, it is awesome 
+@CarhotVideos Thanks 
+Thanks, though. 
+@kyubikitsy Thanks. 
+@bradhaydon Thanks. 
+@ganyou ha! Thanks brother!! 
+@NourK Thanks! 
+@tanaudel Thanks! 
+@whipup Thanks for asking - it was SO good 
+@aileen456 Thanks Ailleen 
+@hanaabanana Thanks for the song I love it 
+@ChrissyIannuzzi Thanks you too! 
+@sioksiok Thanks very much 
+@TeganMichelle Thanks am looking forward to it 
+@planetnumbers Wow Thanks 
+@shadowsinstone Thanks, and you're very welcome. 
+@TRIPLEBEAMDREAM @MParachou Thanks for including me in your #FollowFriday 
+@MrClubGreed Thanks for the #followfriday 
+@Javamonkey Thanks for the #followfriday 
+@BNow Thanks @BNow! 
+@chrisburdick Thanks for including me! 
+@jeremybuff Thanks so much 
+@Cynnergies yup they are. Thanks for checking it out.   
+@cutitouttees Thanks! You're the best! 
+@houstonZrowe yay!! Thanks. 
+@tidbitbistro Thanks for following!  
+@courthord: Thanks for following 
+@erenwall  Thanks 
+@cyberprvideo Thanks!! 
+@JennyDuncanDW1 Thanks! 
+@PJBL I'm good. Thanks 
+@brilliantology Thanks so much! 
+@eyalshahar Thanks, but I think you meant @omerziv 
+@communicating Marvelous.  Thanks!
+@Producingmind Thanks!  you do the same!
+@cjm55 Thanks!  
+@worldlifesite Thanks for telling me! I'll check it out. 
+@ChubbyGayMan Thanks!  
+@PorcelainWhispe Thanks for following me 
+@jonesdel Thanks 
+@IngridAiram Thanks  It does suck, but help is being given already 
+@NikolaSivkov Thanks!  replied 
+@ashleymd88 Thanks! 
+@LabbadiaSisters Thanks!!! 
+@morganalcott Thanks for following me! 
+@LincolnukLGBT  Wow!  Thanks!!  
+@lwarren17 Thanks! I hope so too 
+@lordmuttley Thanks! 
+@zenbreeze Thanks so much. *hugs* 
+@pagankinktress,  @imadrummer, @leciarey, @isabel_lewis Thanks for following! 
+@krispurplecat  Thanks  !
+@goodLifeEats Thanks! 
+@sexyluv876 Thanks! I agree with you 
+@manofpan Thanks. 
+@BelkinB Thanks 
+@mtvskimmartin Thanks! I try to keep it entertaining. 
+@eleanorbartosh She LOVED them. Thanks to your creative poses 
+@otibml Thanks 
+@christiana10 Thanks, appreciate it 
+@timTech Thanks. 
+@Dammenion Thanks D, 'preciate it. 
+@LoveMyCurvyBody  Thanks! I thought you might like it 
+Thanks @rkymountainkid and @bncngoffthwlls, im going to post to @constantcontact. didnt know they were on here 
+@edskied44  Thanks love
+@rambohellhound Thanks for insisting on that song - it's a good one! I like it; it makes me smile 
+@Deltavogue Thanks!  
+@savagemike Thanks. 
+@samster09 Thanks 
+@CounterSuicide - Thanks!!  
+@miah_ Thanks for coming. 
+@gurutej Thanks 4 #followfriday 
+@lisahi Thanks 
+@twibble I have 0.9.8 . Need to update then! Thanks! 
+@pnwfitness  Thanks!
+@blasha Thanks 
+@WestEndActress Thanks 
+Thanks ^^ Don't hurry, I think I got most of it now anyways 
+@BobChoat @smmguide @JaxLicurse @BarbaraDuke @ReTweetCentral @Affilianado @merrickmgt @thewildjoker Thanks for the ReTweets!  
+@ahuvasegal Thanks - I passed it on. I&quot;ll let you know if it works. 
+@PromGarters Thanks but I'm alright 
+@danicouture Thanks! 
+@odwalla You need to try harder.  Thanks for replying.
+@anteaya Thanks! 
+@VerreDesign Thanks 
+@darrenstenhouse Thanks! Much appreciated 
+@mindsrleathl  Thanks and I will let you know when the vid is up. 
+@KeesBteA Thanks 
+@deanomeano Awwww.  Thanks for clueing me in on that  
+@RandomReTweet Thanks for the RandomReTweet, RandomReTweet 
+@Timaay Thanks!!!  *grins*
+@maddiebrook Thanks! 
+@jbtamayo Thanks very much 
+@lifeinthegalaxy Thanks for retweeting 
+@openzap Thanks 
+@FantasyParade Thanks  and 13, goshh i feel soo young.
+@vermontaigne Thanks.  Too bad you can't help me move. 
+@daynegerous  Thanks!!!  
+@Ibnandassociate Thanks for the #followfriday 
+@Liasis Thanks  I will keep trying! 
+@JohnGuise @aricsqueen Thanks! 
+@christieeeee Thanks 
+@MsChelle7  Thanks, love.
+@HellzYea Thanks. 
+@zipcultive I'm doing great!  Thanks for asking! 
+Thanks grandma dallyne  i love you so much!
+@AffirmationSpot Thanks! &quot;I love being in my 20's and I am making the most of them!&quot;   
+@scrappydd  Thanks
+@blackjackjoe - ok. Thanks!  
+@jonubian Thanks 
+@lovewillie Thanks you! 
+@wahliaodotcom Thanks for that! 
+@zykloid Thanks! 
+@cypher Thanks! 
+@rosehwang Thanks 
+@DeepaPrabhu Thanks and thanks 
+@peternomad Thanks! I know. 
+@septemberblues Thanks hun, it was great  
+@aquapunk @_Mintyfresh Thanks very much!! 
+@jjkraal Thanks! Fotoreportage coming soon 
+@vampirefreak101 Haha ^^ Thanks 
+@JennNinja Thanks too 
+@bonbonita Thanks! 
+@SmittySmiff dude i read that wrong! Haha well good good. Thanks.  but now I agree.
+@Twilightrockz1 Thanks! (followed me back) 
+@patgarrat657961 Thanks for that 
+@PhilKSpencer Thanks 'Mckenzie' 
+@AlainaFrederick LOL! Thanks for showing me @Naiyanan's site. I won't tell hubby if you won't. 
+@JerrysWifey23 Thanks 
+@louhhh Thanks 
+@iloven3wyork Thanks 
+@BedandBreakfsts Thanks, Kelly! You are too sweet! 
+@sueyoungmedia Thanks so much! 
+@petethevet Thanks! 
+@cwbtoad Thanks bro. 
+@chiacy  Thanks
+@VWRmurder Thanks 
+@SLHamilton Thanks. 
+@jerrynovak Thanks, hope you have a good one 
+@amandamiller Thanks! We're almost there 
+@WFBL Thanks, the more, the merrier 
+@qtjene Thanks 
+@KatjaPresnal Thanks  #sigjeans
+@caligone01 Thanks mama ! I absolutely adore her 
+@sayitwithecards Thanks for the #followfriday! 
+@LiveCrunch haha  Thanks!
+@chupachupgirl Thanks. 
+@BPDINOKC Thanks! 
+@lilstrobe pshh. Thanks. 
+@GoodNightIrene Thanks lady!! 
+@LaDyBuG21 Thanks 
+@WordyDirts Thanks  your my first lol
+Cathylo-fran! I'm glad i can vent out to you about this. Thanks for being here for me bestfriend 
+@JonathanRKnight Thanks 
+@ishaka Thanks 
+@duherica Thanks! 
+@helloheartbreak Thanks bb. 
+@maliamorgan Thanks for following! 
+@dxpsycho Thanks amigo! 
+@missxtatti Thanks for adding me 
+@nataschaartworx Thanks 
+@pamjob Thanks 
+@MichelleCorydon Thanks! 
+@SarahJacinta Thanks! 
+@F1TailPipe_com Thanks 
+@McGiff Thanks for sharing that 
+@sexysapphire Thanks, I love it 
+@dotnetcowboy Thanks ! even though I'm just 'mother' of our cat  
+@verflucht Thanks 
+@Mariment @macangel @VisionaryEyes Thanks so much!  
+@sloanyxxx Thanks 
+@billzucker Thanks for making me laugh 
+@felicityfuller  x x x Thanks for being so lovely x
+@helga_hansen Thanks. 
+@erikvindedzis Thanks!! 
+@darthstorm528 Thanks dear 
+@notrachel Thanks!!! 
+Thanks @jenniwalsh!  I love you!
+@SeeYouOnTheCall Thanks for following me! 
+@Yosid Thanks 
+@judgealexferrer ....Thanks!  
+@Lunafaerychild  Thanks!
+@riteshujjwal Thanks mate. 
+@pakde ah, interesting statistic. Thanks... 
+@fleurdeleigh @inklesstales Awww! Thanks guys 
+@prosperitygal Thanks so much! 
+@ddubsbostongirl Thanks girl 
+@joegronlund Thanks 
+@missfree Thanks Freeeeeeeeeeeeeeeeeeeee 
+@WaYn3o_ Thanks much 
+@tpires  Thanks*
+@mattceni Thanks!  #blogchat
+@lovely_wife Thanks, it's not very pretty, but it tastes wonderful! 
+@awkWORDsilence Thanks  
+Thanks for retweeting @cyberbonn and @PhilHarrison 
+@AsukaBlossoms LMAO. Thanks. 
+@LawyerCool Thanks! 
+@LeMinxxx Thanks! 
+@jordanknight Thanks for responding! 
+Thanks.. Me too.. I'm off to bed 
+@redkoala Thanks pumpkin 
+@KareBear44 Thanks! 
+@sillylon Thanks! I'll miss you too! 
+@listmakerlisa Thanks! Congrats! K 
+Thanks @sabbygreyes 
+@tumblemoose Thanks! 
+@JaylaStarr Thanks for texting with me! 
+@BuckeyeLanie Thanks!! I will definitely tell him hello! lol 
+@sociopolitik I see, I see. Thanks so much! 
+@sherrilynne Thanks. 
+@danishk Thanks! 
+@justjonno Thanks 
+@tjrobinson Thanks for coming along 
+@pittbrad Thanks! 
+@dorothyxjoy Thanks  I am glad to be done
+@9RebSte3 Thanks 4 following 
+@20seven Thanks 
+@avincot Thanks! 
+@lallen349 Thanks so much 
+@EmelineB Thanks 
+@Michaelsblsbl Thanks for following me! 
+@MarkRosenbauer Thanks sunshine. 
+Thanks to all who r giving me props...   we rock!!
+Thanks for retweeting @PheasantPhun 
+@FearOfFall Thanks 
+@cheth Thanks! 
+@hormonster Thanks en ontvangen 
+!@cway1979 Thanks boo, I appreciate it. 
+@faulko1 @LucyPalmer @Dutchrudder Thanks guys  x
+@bnwiebe Thanks! It's so awesome, I love it 
+@ManishSinha Thanks 
+@excelsiorspring Thanks   I was really excited and surprised to learn i won it!
+@ThePhenomena awesome will do! Thanks.  It sounds DELICIOUS!
+@loyaleagle Thanks! 
+Thanks @twitter 
+@saralduncan Thanks  I'm pretty stoked!
+@mandiem Thanks for helping us get discovered by @tredlin. 
+Thanks for following me 
+@SylvainDeloux Thanks ! 
+@peterrowlett Thanks for the followfriday 
+@arcopolc Thanks! 
+@bundgaardF Thanks! 
+@Merrygoldalways Oh Thanks , wil do  x
+Thanks to Gamerkicker for following me 
+@SongoftheOss Thanks 
+@Marleenutrecht   Thanks!
+@jasondv Thanks! 
+@Ellenpotter Thanks 
+@DesignModern Thanks for following 
+@faceurfears Thanks much  !!!
+@jtonline Thanks 
+@tezero @EarthLifeShop @sventer @danlopez2012 @suejyoung Thanks to all of you 
+@nullsession and @astroengine, Thanks for the Retweets. 
+@elainerogers Thanks 
+@Ainz90 Thanks for keeping me 
+@IPTelevision Thanks 
+@abbyroadme Thanks darling! 
+@renssies Thanks, I've yet to been there 
+@PowerSellingMom Thanks 
+@antsrants Thanks 
+@lVloose those shoes are wild. Thanks for thinking of me. 
+@LadyLogan wow!!  Thanks!!  
+Thanks @OhMariana 
+@joemaclover Thanks. 
+@KamaniMsGucci Thanks girrrl! 
+@bobtentpeg Thanks 
+@Rawrrgasmic Thanks, this one it is then 
+@CharlesEllison Thanks! 
+@lalunetropbleme Thanks anyways. 
+@DontTrustMe49 Thanks! 
+Thanks!  @vaarundhingra @pranaydewan
+@usmale55  Thanks for following me  xo
+@katrinaeaston Thanks heaps babe 
+Thanks, @AlexArielle !! I am enjoying it 
+@mcoop Thanks 
+@rocklandusa Thanks  ....I'm working on it
+@lynngg Thanks!!! 
+Thanks! @celebsdontreply that's what's up! 
+@littlefivethree Thanks, pretty girl 
+@bnbookblog Thanks for looking out! 
+@Natttyice Thanks for following @sundarisatnam 
+@chyato Thanks! 
+@RajaSen Thanks and glad to know 
+@ozsultan Thanks so much! That's so kind of you to say. 
+@RoniBryantMusic  Thanks  x x
+@wookiejedi Thanks! I hope it will be. 
+@buxtonmarauder Thanks 
+Hey! Wow!! Thanks!! I am honoured! 
+@ohgraciegrace Thanks! 
+@katemthompson Thanks 
+@zelut Thanks! 
+@felicia_wong Thanks 
+@yarmalade Thanks. 
+@amandachiam Thanks! 
+@Limbsxxx Thanks! 
+@allenjesson Thanks 
+Thanks for following!  @BigDreDaBoss
+@ivanaaa Thanks, I will 
+@PeterHilton Thanks m8 same to you 
+@cianodriscoll Thanks Cian 
+@janine_j9 Thanks. You too. G'night 
+Thanks, @hulu! Working great now 
+@MenwithPens Thanks 
+@exiter Thanks I will donwload 
+@chriscanal Thanks so much for registering me 
+Thanks!  @mmcdublin see you soon 
+@FelixthKat I'll have to check it out. Thanks! 
+@joewilly Amen!!! Thanks hun! 
+@Georgieboo @PembsDave Thanks guys  #maternalhealth
+@kashaziz Thanks dude! 
+@misswicked Thanks! i'll check it out.. 
+@svgrob Haha.  Thanks 
+@almostlikesushi Thanks 
+Thanks pus traktirannya... 
+@corcoran Thanks poppet will check it out 
+Thanks @DigitalRelish 
+@eurekaisms @Chereenz Yay!! Thanks you guys 
+@youvalv Thanks 
+@milessabin Thanks and booked right away 
+@vmdianehughes Thanks v much.. 
+@etsyquest Thanks for following! 
+@glembotzky Thanks 
+@JeanneBehr Thanks, you do the same! 
+@milenaregos Thanks! 
+@arwa_abdulaziz Thanks for sharing us  
+2 x Thanks @ksibe!! 
+@ComplicatedMama Thanks - will check it out  
+@Czarque   Thanks so much 
+@ThomasDral Thanks! 
+@dlackovic Thanks for letting me know, should be fixed now 
+@squirrelgrl Thanks. 
+Thanks @xianxvii i'll see you soon!  &gt;&lt;
+@s4sukhdeep Doing great..Thanks 
+@1ArticlePerDay Thanks for following! 
+@styggiti Thanks, you just reminded me to plug in my own. 
+@nbaisley Thanks!!! 
+@ShotLipgloss you're welcome. Thanks to kat too! 
+@intranation Actually, while that wasn't exactly what I was looking for, it might be useful. Thanks 
+@cheesmo Thanks!  I just downloaded it and will check it out. 
+@NellyBelly333 lol. Thanks!! 
+@DQJ Thanks! 
+@beckyhamilton Thanks! 
+Thanks 
+@BigYellowHero Thanks!  
+@david_moreau Thanks 
+@Utahrogue Thanks! 
+Thanks so much!  &lt;3
+@dclaryjr Thanks! 
+@prenetic Thanks! 
+@jimhutchinson Thanks! I will check into that!  
+@Schmittastic  Thanks, that's so nice 
+@pinkplaidcat  Thanks so much for listening!! 
+@helloandre Thanks 
+@travelmonkee Thanks very much mate 
+@RoseyDough Thanks! 
+I love you @disruptiveplay  Thanks @Fatafeat!
+@adicrazy Thanks to @flyyoufools  #iwantahippoforchristmas
+@KatieCeciil Thanks gorjusss 
+@beccaRAR Thanks sexy lady 
+@halcyoncmdr Thanks!  
+@JulianEdward Thanks for the #FollowFriday! 
+@madierox Thanks 
+@gamewank Thanks for the #followfriday 
+@tzatz @mikroanalogo Thanks for #followfriday   
+@madierox Thanks hun, it's always nice to hear that  x
+@tiffanywagers Thanks! 
+@xLilCx Thanks - you too 
+@juanbarnard It looks pretty cool! Thanks 
+Thanks to all for the #followfridays 
+@marjolein Thanks, will try it out 
+@teejay0109 Thanks mr.Sweetstuff! 
+@GrahamHill Thanks! 
+@allyouzombies Thanks love 
+@theaardvark Thanks for the #followfriday 
+@vegtv Thanks for #followfriday 
+@racheal0920 Thanks wo 
+@tanyasgoodies Thanks 4 following 
+@fenaseniero Really? If it's good, then it's worth trying! Thanks 
+@jajasters Thanks! 
+@YvesHiernaux Thanks 
+@kfirpravda Thanks  #followfriday
+@ItsNeet weehee  @simalves you rockkkk!!! Thanks so much 
+@tarahocson Thanks 
+@Caroljs Thanks 
+@pippad Thanks 
+@jaybranch Thanks so much for the #followfriday!   
+@misschatter  Thanks..when I get closer I'll let you know. 
+@shonias Thanks 
+@kontell Thanks mate! 
+@iMBA Thanks for the #followfriday shout out 
+@AndrewCrawford Thanks 
+Thanks pookie! 
+@atvelu Thanks for watching live with us 
+@owenblacker Thanks - blogged it 
+@Lucalexa Thanks 
+@GaryDelaney Thanks, I'll check it out. 
+@Proxie Thanks for following me 
+@robertbland Thanks for following me 
+@ChristineMadray Thanks for following me 
+@twiggot Thanks for following me 
+@LindsayWolves Thanks hun! 
+@jeffois Thanks for following me 
+@njray Thanks for following me 
+@mattian @ChrisSteiner @fridayluv @moragbrand @coscomputing  Thanks for all the #followfriday 's 
+@YarinHochman Thanks for the #Followfriday 
+@_Nataly I'll check it out. Thanks. 
+@kaitnolan Thanks, I am really thrilled with it. It's so steampunky! 
+@tiinag Thanks for the #followfriday! 
+@DarrenSproat Thanks for the #followfriday! 
+@Jendes Thanks - I don't have many - but they are good 'uns, I think.  #happybirthdaymoz
+@BleuMuze Thanks. 
+@Yasmimmm  Thanks
+@limegreenolives Thanks! 
+Thanks for featuring me on #followfriday so much peeps 
+@SaraJones29 Thanks 
+@dbdc Thanks dude!  #followfriday
+@MadamSalami Thanks for the #followfriday 
+@AutismInsights Thanks for the followfriday!  
+@TagIts  Thanks mate 
+@craftyville Thanks! 
+@TheShortSistars Thanks very much!!! 
+@NocksRocks so glad we met! Thanks for hanging out with me 
+@PalinGirl Thanks 
+@clogwog52 Thanks - reading it now 
+@imsure Thanks sweetie  #followfriday @imsure @AnnMarieDwyer @whotnaught  @ChicagoBungalow @JGDemas @elocio @clobrien @PoetsPain ......
+@billythekid I've just tried starting again, but if that doesn't work, I'll try this. Thanks 
+@amperson1983 Thanks love! 
+@cherylann56 Thanks  I love you
+@herangelwings Thanks! 
+@j_mikal @MrHIphOP Thanks 
+@hsabomilner Thanks 
+@hornydogg Then I guess I should get both   - Thanks
+@Irishcreamy Thanks 
+@happysadness Thanks 
+@jaysun093 Thanks dear 
+@DanielMysterio Thanks for the #followfriday 
+@scraplesspress Thanks so much for recommending me on #followfriday! 
+@kevinayP Thanks then!  You're very kind 
+@Biggum70 Thanks  for answering
+@mahatru @pimpmywordpress @fabuliz Thanks for the #followfriday guys 
+@_galia Thanks! I'll check it out. 
+@behoff  Thanks!  #followfriday
+@LibertarianMike Thanks for the #FollowFriday 
+@RobertHay Thanks 
+@capohanka Thanks! I received them and will look at them in a few. 
+@evilray Thanks for the #followfriday 
+@wubanger5 Thanks for the #followfriday shout 
+@shellrawlins Thanks, I'll enjoy you drinking it for me 
+@TiffanyPR Thanks!! 
+@SusieBaseball Thanks so much!  You're my new favorite.  
+@amylong Thanks for the followfriday! 
+@bransondesigns Thanks for the #followfriday 
+@DJDOWNLOAD Thanks for the followfriday 
+@StoryofMe Thanks 
+#FollowFriday @BraveMaiden Thanks 
+@secondkoan Thanks i need that 
+@DaSal Thanks 
+@mizsprieta Thanks!!! 
+@iChaib Thanks  I just discovered MrTweet .
+Thanks @treasurebelleza for the #FollowFriday ! 
+@KellyGalvin It's appreciated, sir !!  Thanks again!
+@JanetRudolph Thanks for the #FollowFriday shout-out!  
+@friendlysunny Thanks Thanks Thanks 
+@tamij Thanks, you too! 
+@theelfinpoet Thanks! 
+@theartgoddess Thanks for the #followfriday 
+@mommytoaaj Thanks 
+Thanks for the #FollowFriday  @belola @jblm @ShutterBugGeek @kssmitch @Gemueschen
+@totalrapture Thanks 
+@jasonelliott Thanks! You're so sweet 
+@pausco2007 Thanks for the #followfriday 
+@graphicidentity Thanks for including me in your #followfriday 
+@daj42 Thanks! 
+@haldira That's what I was thinking. Thanks! 
+@PankakeMunky Thanks. 
+@chrishasboobs means so much chris! Thanks. 
+@jakeron ok I'll check it out! Thanks 
+Thanks @samuelrutldge  #followfriday
+@isiah58 Thanks for asking  =]
+@sunshineangel89 Thanks hun! 
+@timothythompson You have me laughing again. Thanks 
+@SeanDonahoe - Thanks for adding me 
+@jordanknight Yay Thanks Sweets 
+@Literatekids Thanks!  I look forward to tweeting with you too.  
+@playboytre Thanks!!! 
+@AuntNaNaa Thanks for following! 
+@daylemajor Thanks for that, will be very useful 
+@gailmcinnes Thanks! So do you apparently! 
+@monkeyape123 Thanks 
+@shradhac Thanks 
+@joondashbug Thanks 
+@zeet75 Awww... Thanks! 
+@wisdomworld Ghandicon 2. Thanks for caring  #tcot
+@lottekarotte Thanks for following 
+@mattlmorris Thanks that's really sweet to say 
+@pablowapsi Thanks 
+@soocial I've just mailed you guys  Thanks. 
+You are all the best! Thanks  
+@Youporno Thanks for fallowing me  DamnGirl - http://is.gd/AhA0 | ?http://is.gd/xUki | ?http://is.gd/xUku |
+@prplepokadotcow Thanks, I need some chocolate 
+@skatebiz so marvelous! Thanks for remembering 
+@matpacker Thanks, I'm FCG'ed out! 
+@avenegra  Thanks for pointing that out. 
+@greenandhealthy @BeautyWriter @CrunchyGoddess Thanks.  I think I will- just a little editing and I should have it done- 
+@benry Thanks 
+@argentbeauquest  Thanks!!!!
+@NYTalk Thanks though... 
+@LidiaAnain Thanks for following me!! I just started following you as well! 
+@barrycarter Thanks for following me 
+Thanks to @pinkstuf @roberthay @justinjap @zatashah for #followfriday shoutout 
+@GinaLaGuardia Thanks. I need to update, but I love it too much. 
+Thanks @mylescollins our propoversary is happy. 
+@bertabot10 Haha it is! Thanks! 
+@7TYMEZ Thanks for that 
+@feiticeira Thanks so much! 
+@Quve Thanks again 
+Thanks @shrydar 
+@StacyLibby Thanks. I am glad you were entertained  #sytycd
+@deeessay Thanks dave! 
+Thanks. Your the best 
+@Midnightmovie73 Thanks for the #FollowFriday @Midnightmovie73 
+You guys are wonderful!  @ArnaudJacobs @Leabella @CateP36  -- Thanks for the #followfriday 
+@grentone Thanks sweetie!.......  
+@afromusing Thanks, glad you enjoyed it 
+@RandomGirlM Thanks 
+@sarahk1991 Thanks  will check them out later
+Thanks for the #followfriday Sally  @sallyormond
+@IamTwitSwag  I like it funny. Thanks
+@MelodyChase Thanks 
+@BruceBrownNC Thanks for the #followfriday. 
+@Marquietta - Thanks for the #ThankfulThursday.  
+@marymagdalan @philiheadlines @g36oBN : Thanks for following me 
+@gckid Thanks 
+@demonick Thanks for the #followfriday! 
+@CiscoLaRisco Thanks! 
+@isaakkwok Thanks mate ! 
+@lachlanhardy Thanks lach! 
+@marianpatricia Thanks marian! 
+@DanFYpuhpx Thanks for following 
+@icklemonkey Thanks  It may be hard to get into though :S
+@DrRez Thanks for the followfriday! 
+@murz13 Thanks for that. 
+Thanks for #followfriday   @GfWarrior @AuthorofPatches @MKRob @RemieJames
+@BenTheCook Thanks for explaining.  I couldn't figure out what you were talking about. 

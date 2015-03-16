@@ -1,0 +1,27 @@
+Most common words for this cluster:
+[('today', 27), ('week', 1), ('soccer', 1), ('deniszx', 1), ('thomasgudgeon', 1), ('people', 1), ('deer', 1), ('fish', 1), ('show', 1), ('http', 1), ('mid', 1), ('nap', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'today', 0.9999999403953552), (u'tomorrow', 0.650963306427002), (u'yesterday', 0.6031799912452698), (u'Thursday', 0.5845244526863098), (u'Wednesday', 0.5800020694732666), (u'Monday', 0.5781804323196411), (u'Tuesday', 0.5674947500228882), (u'Friday', 0.5666815638542175), (u'Today', 0.49477681517601013), (u'Wednesay', 0.4795866310596466)]
+
+
+
+
+
+not to warm today, and I'm angry today, sometimes people you love is just acting stupid... 
+No shows today added today 
+totally forgot she had soccer today. ugh  today was actually good too...
+Suddenly felt really sicky  not good i hate this feeling. don't want to be poorly, not today, please not today 
+@Mandacae it is so boring again today it sucks that it is not you as the mid today 
+I missed an event today that I would have wanted to go to if I had known it was today. 
+@deniszx Looking forward to squish today. But I'm as bloated as a dead fish today 
+is wondering where @vball199 is today...she hasnt had any updates today 
+i will not nap today. i will not nap today. i will not nap today. i need a nap 
+I'm really sad today  I'm unable to study today!
+And gadget show today  Can today be any better?
+http://twitpic.com/5fdy9 - a new deer is born... today and also sold today 
+@ThomasGudgeon it's lovely  and so good because after today I am off for a week! What have you got planned for today? 

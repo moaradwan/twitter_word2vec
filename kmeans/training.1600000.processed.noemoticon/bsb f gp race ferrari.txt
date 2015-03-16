@@ -1,0 +1,899 @@
+Most common words for this cluster:
+[('bsb', 125), ('f', 102), ('gp', 89), ('race', 85), ('ferrari', 53), ('silverstone', 52), ('button', 49), ('today', 40), ('day', 38), ('vettel', 34), ('http', 33), ('irl', 32)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Silverstone', 0.7809954285621643), (u'F1', 0.7767171859741211), (u'Monza', 0.7742777466773987), (u'Schumi', 0.7676780819892883), (u'Raikkonen', 0.7658498287200928), (u'Ferrari', 0.7615578770637512), (u'Scuderia_Coloni', 0.7594470977783203), (u'Heidfeld', 0.7584086656570435), (u'Barrichello', 0.7572274208068848), (u'Coulthard', 0.7562894821166992)]
+
+
+
+
+
+Not many people from my home town using IRL connect ... 
+...well I was going to RPM. Vespa needs oil, I ain't going anywhere 
+strange start to the #f1 season. Brawn 1,2 in australia, abandoned race in malaysia and 0 points for ferrari so far 
+@fairminder Audi A6, fender gone, insurance claims it was a $3000 damage,  and the Merc I hit even more 
+Almost finished Lego Indy - but have been grinding the last 2 achievements for hours 
+i wish there were more people that i know IRL on twitter....lame. 
+@orangy68 GP ?? but honestly what are you doing ?? all that good work getting your body clock round to normal time ruined 
+@nick_carter you and BSB just took a nose dive. 12 years of my life wasted. Disappointing very disappointing 
+watching Chinese GP...only on TV 
+Alonso is too light 
+@AustGr3m 7.10am now, starts at 8am. Better than the aussie GP for us, I was up at 5am 
+Up early to watch the GP today. Dodgy hamstring is still dodgy, so I wouldn't have been able to run this morning anyway 
+I shoukdnt haven't taken that deep walk in 'em heels!!! I twisted my weak ankle aGain &amp; now I'm huSTLin' beHiND the BAR on a liMP 
+Chinese F1 GP starting behind safety car due to rain 
+Race started,leader is The Pacecar  #F1
+Bad start to Shanghai GP today 
+Oh no, baby's awake. There goes my F1 watching. Yet another DNF 
+WTF? Massa is out again. Ferrari is having a really bad start to the year. And he was doing so well 
+WHAT is going on with Ferrari?! I am LOVING F1 2009.....but.....it's still not the same without a certain MS  #f1
+#f1 So, another good race for us tifosi then 
+Button missed corner  #f1
+looks like Ferrari will still be pointless at the end of chinese GP 
+Glock overtakes Kimi - it just gets worse for us Kimster fans 
+Ferrari pointless again. sad face  #F1
+@surfnutt would be nice to see another Vettel win, but either way I won't see it cos about to go out now 
+Button losing the lead  #F1
+Tweeted to soon as S Vettel takes the lead from Jenson. 
+@Pinot007 not watching today ;(  not home.. Used to support Honda, he he. But I'm also big fan of Kimi! Not very fond of Hamilton, sorry 
+Kimi has been passed - his laptimes are shocking 
+@welshrob87 yeah he was unlucky at Monaco too 
+@Schofe yes what a shame, Sutil is usually good in the wet 
+@kimifan Thanks, it was nice even though I missed the race coz of it. Looks like i didn't miss an awful lot though, shame about Kimi  x
+Pity about Sutil and Force India though 
+disappointing results again for the Ferrari Team at Shanghai... 
+Sutil missed a golden chance  again. No points yet for Force India. Ferrari is the only other #F1 team without point in 09 
+Kimi overtakes two cars in the closing laps but its not enough - he finishes 10th with no points 
+another sad race 
+Wasn't a very exciting race  but hell yes for Jason Button and Brawn GP.
+That was an amazing race! So happy for Vettel and Webber, but also heartbroken for Sutil and Nick. Poor Nick  #f1
+Well that was eventful. W/D to Vettel, but very disappointing that Sutil and Force India didn't get sixth. Big shame  #f1
+Formula 1 was fantastic this morning, I really enjoyed it. I'm so happy to see Redbull taking P1 and P2. I was sat to see Sutil wall it. 
+Formula 1 was fantastic this morning, I really enjoyed it. I'm so happy to see Redbull taking P1 and P2. I was sad to see Sutil wall it. 
+I shouldn't go out late on a Formula1 weekend  (Although good on Vettel!)
+Button finished third. But he got more points than when he finished first on Sepang. Hmmm, better luck next time. Kimi = 0 points.. 
+@jongulergrey IRL mod privs revoked 
+I am such a fucking failtastic IRL friend. 
+Bloody internet has spoiled the GP by showing me the name of the winner before I actually watch it 
+Kimi looks like he has much more fun at races than me     http://ow.ly/3eVk
+@Kathrynelle I felt sorry for Massa, he was up to 3rd before his problem! He was quicker than Kimi and Hamilton aswell 
+The zip is broken on my wallet. I need a new one. Ferrari don't sell that type any more though 
+@maureenoconnell Briton has a lot of things, but sometimes I think talent is a rare commodity 
+time to do my GP news presentation. can't skip this class tomorrow 
+its turning out to be a disastrous F1 season for Ferrari  .... frustrating Chinese Grand Prix
+typing race : only 63wpm 
+If those ruddy car yard men don't stop racing their Maseratis up &amp; down our one-way residential street, I shall jolly well blog them! 
+Wahooo what a weekend, went out on the back of an Enduro bike!! rather a bumpy ride but wicked fun.. now back at my desk in the office 
+@Lazlow Pity about Kubica hey 
+For some reason, my cursor keys dont work in Lotus Notes any more, pressing left and right moves the page and the home keys do nothing 
+afraid to check my mark for evo...... 
+So disappointed about Ferrari..see RedBull is running without the diffuser so far ahead to Ferrari.. 
+So disappointed about Ferrari..see..RedBull is running without the diffuser so far ahead to Ferrari.. 
+@DigitalFur I'd love to go to a furmeet, but I'd be terrified due to my social phobia. I've never met another fur IRL. 
+@petrolhead62 I believe that 
+Wondering if my support is jinxing certain MotoGP Riders - Nicky Hayden &amp; James &quot;JT&quot; Toseland are both really stuggling at the mo. 
+Welcoming our last rider 
+well from what I have read over so far sounds like rain at RIR 
+I liked the Speed Racer movie... do I need help? 
+@dre1503 gnight hun! umm I didn't even know!...Montoya told me it was on thurs...had no idea you guys were going tonight! aw  how was it?
+Kallio is back to 14th 
+Sometimes I regret I didn't become professional cyclist.    I'm engineer insted of.
+@JFR_Racing where can i listen to the interview? I missed yesterday's  
+Alonso hits the crossbar again, poor guy 
+You can never get so many cars into Paddock Hill at the same time... Pity for Frankie and Narain  #A1GP
+Nuu Zanardi is having some troubles with his engine in the second race too  He's starting last anyway though...
+@seblefebvre I really need to hear a explanation of that, Seb! 
+cyclist has died, not good 
+15 years without #Ayrton Senna... so sad! 
+I miss the Indy 500!!!! 
+And my beloved Ferrari is sucking at F1 this year. 
+is psyched that Rossi got his first win this MotoGP season &amp; is glad Lorenzo wasn't hurt. Still bummed over Nicky Hayden's season so far 
+Only getting to listen to the end of BSB radio... 
+@wecms In drupaland the new semantic rdf modules use sparql - http://bit.ly/S1DFV - yahoo just invented an open standard 
+This NASCAR race is not as exciting as I hoped. 
+@MyraLashe - diggs that!... this punk-ass Nascar race is finally over so I'll b there bout 11:30... wish we had vodka but it's too late! 
+@innik in Indy not the A 
+#Giro stage 2 preview, start times and video: at either http://test.steephill.tv or http://www.steephill.tv during our migration day 
+Big day of sport ahead - Spanish GP from Barcelona and 2 big premier league games.  I'm going to miss all 3 cos i have a football match 
+@marco_cali Kimi was shit! He's in 16th position  I don't know if he had a problem though. We get live feed for GP's - Aus should too!! :|
+Honda Jazz why have you forsaken me?! 
+@Shar13 nah, two women in the house, the GP never gets shown  just going to go really fast on the rollerskates to make up for it!
+Barrichello to win the #f1 today. I really want Kubica to place, he's a fantastic driver. Damn, why can't I watch it. 
+Watching the GP, enjoying the sun, doing revision 
+Watching Formula One, and my fave driver got kicked out in the first lap. Not happy! 
+interesting race today. Drivers having different amounts of fuel makes it interesting! next year isnt going to be as good  stupid FIA
+Dear Barrichello, please grow a set and win the race. If a Brawn has to 
+watching Spanish GP, waiting for Giro to start.  May hav to get digital cable 
+@zrhero What have Brawn done by changing his strategy mid way through 
+Watching F1 Race Trulli's already out 
+F1 just isn't what is used to be  Ferrari and Mclaren just can't make it happen
+I wan Massa to finish 4th atleast!! Cmon hes driven a brilliant race 
+#f1 Massa 6th with fuel problems; Kimi out = FAILARI! 
+Kubica again without points  I must eat something...
+Just finished watching the Spanish GP (Congrats to Jenson Button ) and now revising medical imaging 
+angry at the performance of Ferrari in todays F1 
+F1 one finished for another week  On the brighter side I'll be in Monaco in 2 weeks time!
+Watching the Giro wishing I had a pink Giro hat right now  I'd rock it all day on this mothers day !
+@mattdoc30 Aye, I love the Brawn story, and always rated Button! But McLaren's my team, hate to see them doing so badly 
+Pettachi wins! Cavendish 2nd 
+@henweb the Peugeot is an ugly car 
+Barrichello should have won, it was his race 
+Felipe Massa(Ferrari) so unlucky in Spain GP, goodbye Ferrari, there's no hope in this year. 
+Really wanted good ol' Rubens to win the Spanish GP earlier!  Still disappointed for him! Soft spot for him, he's so lovely!
+Hot Wheels dropped the ball by turning the NSX into a tuner special last year, but this year's stock GT-R really takes the cake. 
+Just got back from a Honda meet......tired....i need rims my car looks so stock compared to all dem SI's 
+@theswatchaholic thanks  we were gonna have our 4th anniversary! ah well. fuck that i'm getting a Clio in 2 days with a better engine!
+Settling in for Superbike Race 1 on telly. Happening just up the road &amp; i couldn't go. 
+@baku_banzai You still struggling? 
+It's bucketing down! Our weather matches Moto GP 
+Rossi crashed...  he is up and running again
+Curse working Sundays and missing #MotoGP 
+@NHR1973  I think the elections burnt her out.  
+however using Lotus Notes as my e-mail program is not a very good idea 
+@Brera4wl i'll check out .com when i get home from this freaking car journey :p could be another hour yet  and we all know he is a sex god
+is back at his desk today..no Giro car rides today 
+@mtyler979  I don't have speed. I didn't see any of the race 
+@wyndwitch  oh no hope you your GP
+starts his summer astronomy class Today  but 4 days til I see the Boss at the IZOD center :&gt;)))
+Awesome last minute drama at Indy 500 bump day! Andretti, Hunter-Reay are in. Tagliani is crushed  #nascar #Indycar #Indy
+At number 62 on #nrtoone for #Giro dropped out of top 50 at the weekend  I hate rest days...how else to pass the afternoon at work ?
+Last Block S trip of the day before heading back to pick up MINI from service/MoT. Not enjoying the BMW 1 Series loaner - weird car 
+@bjds my WRX doesnt go sideways in the rain like my Skyline does 
+TGIF! I'm want a few days off work already! Wish I was heading to the Indy 500 though. 
+@peloton it's raining here 
+@cindyloume Arrggh,I know. We're on day 6 of this; we've gotten about 12&quot; of rain at our house; friends in Daytona are totally flooded. 
+@DanicaPatrick Hello Danica's friend. I appreciate u tweeting during Indy since I cant watch 
+frightening, based on some analysis by Michele Ferrari the lead climbers at the Giro d'Italia ride my local hill (3km @ 6%) at 34km/h+ 
+@mikegraham5 I'm good. We seriously need to set up a chat this summer with everyone. I miss the good ole RFR days. 
+@bbgeekchic lol, seriously any watch at cost price, except SS Daytona which cost me full pop 
+Myvi sxi or Vios E?? VW Golf is definitely out of the question 
+Mum wont let me stick the #Ferrari badge sticker over the #Chrysler badge sticker on my car 
+This is awful.. what the human race doesn't do   http://bit.ly/3XIAru
+its official.. I cannot go a day without seeing my wife.  Shes in Indy til tomorrow and I'm bummed.
+I had a dream that I went to Evo fest, but I didn't. 
+@JinxCat I have been failing at cooking lately  makin me sad. Duno how to cook for less than an army. I need to practice flour tortillas.
+@templon I personally know so many people/agencies which could have built these sites. It is like a Pres candidate buying a Honda. 
+is really sad about her nephew  but keeping busy sorting out items for BWM! http://bit.ly/N9tsM
+@pollybowles don't say that - I really miss my red Porsche (sold it 2 yrs ago) 
+My hips are too wide to rock those mario Kart shorts  why couldn i have the bone structure of a 12 year old boy?
+395 votes for Hungary?What? But....but...the Nurburgring...  http://tinyurl.com/mtfye3
+What? But....but...the Nurburgring...  why is it so good? http://tinyurl.com/krcamp
+probably going to miss Silverstone's race again this season in iRacing , so sad   this track is pure laser scanned awesomeness
+is rockin' a minivan til the STi is ready. I miss it already 
+@thehypercube - touched a real live Cube in Hamilton. Dealership closed - couldn't sit in it though 
+having GP tuition soon... trying to stream Rosy Business on megavideo but it's kinda giving me problems~ haizz 
+Last two day of Giro  
+@explodedsoda  Haha!  I don't have a pole right now.  
+so datz it all I get iz 1 kiss spec?  @IamSpectacular
+Ugh I hate young female drivers I swear.... 
+http://twitpic.com/68x01 - Sill woman who pulled out in front of me, not too bad, but is a new Audi 
+@mr_snarf I find that the IRL RPG seems to lack cool looking glowing weapons too 
+@F1_Girl  he looks like a nutter - page 99 the photo of Trulli &amp; Sutil's crash is hard to take  He went off on the inside to miss a crash!
+DTM: Kristensen, Jarvis do not make second round in qualifying. 
+Headed to the track.. It's a beautiful day here.  Too bad I can't see it cause my glasses broke  #NASCAR #truckseries
+Just been to a patient with ?meningitis that my old GP missed, and in the process has probably killed *sigh* 
+@Welshracer Bernie Ecclestone in any sort of clothing....  #CreepyDads
+Is sad her spec didn't invite her to swim  I would have come!
+@lynseybutterfly http://twitpic.com/6a1na - that's a new shape Clio yea? they look so big now  i want a new car but like my clio at t ...
+OH NO! The #6 got into Harvick 
+taking Indy to the Vet to fix her broken little paw 
+BGT (and specifically stavros flatley) has saved me from the between-F1-race boredom, and now it's all over. 
+boy do i miss watching these shows   They were like the best shows ever created! http://bit.ly/P7GP4
+wishes he had the chance to see Isabeyli Hillclimb 
+Skoda ze dnes nemame full acess 
+IRL: I'm with my boyfriend Jacob *smiles* but he's sleeping 
+I am sad. I had 4 free tix to Hangtown and it ends @6 and I got off@4  ajdhgalkjdfjdahgadsf!!!!
+@kimirhochelle What's up Kimi?  Long time no love lady? 
+You know, even though Indy zoo is really good with the habitats... I still feel sorry for the animals  But I guess they don't mind...
+WoW there is not a day that goes by that I do not think about Motocross. I honestly miss the sport   This was my favorite track to ri ...
+@ChelsiaNg AFOS casualty. So sorry to hear 
+@ElectriKateD I am excited about the trip (IRL I am sick  ) and how are you sis? (smile)
+@emihnk I honestly can't deal with Brawn dominating like this. Poor Rubens. NO matter where he is, he always must feel like 2nd best 
+V8 Supercars Tasmania R8: @jamiewhincup takes the win, Davison 2nd &amp; Coulthard 3rd. Not that I saw much, my DVR lost sound 10 laps in 
+Watching DTM = German Car Race Championship.... my driver isn`t so good today  only on P4
+No 8th win for Rossi....very sad 
+Sunshine and a nice day, 60km into the race, my chain decides to wander off and break some spokes in the rear -&gt; DNF= me annoyed 
+After 7 yrs, Rossi hasn't won the Italian motogp...  at least he has got a podium finish!
+damnit no podium for Capirossi. shitcondamnit!!! He deserves it so much. Going balls out on the underdog bike. 
+After 7 yrs, Rossi has let the Italian motogp to someone else...  at least he has got a podium finish!
+Giro TT on. Almost over 
+@pink_chick Nascar Smarts is at 9:30 your time. During the second half of Nascar now on ESPN 
+wondering why calcio is on rai piu and not the Giro  wtf?!
+Lots of crashes in the Ginetta G50 race, nasty nasty crashes 
+...forgot+missed the #MotoGP because of it though. Gutted 
+@hartluck cool i love motor GP, i missed it too 
+@bentriderro true - but Menchov is working on taking that away 
+We are at the Nurburgring. The Nurburgring is closed 'cos of an accident.  I hope we get to go on...
+Just got back from Shelsley Hillclimb where some guy in a Ferrari nearly ran over my bike-what an idiot. 
+Last night I failed in my secret mission (IRL not #Spymaster) assigned to me by @pistachio   Now operation PNM starts in earnest
+this does suck for my AMA funds though  it wouldnt be so bad if eli wasnt visiting for the week...
+I've been switching between the Mets and NASCAR today...I miss football. 
+Today is a very sad day after all  Bless GT
+Scheckter in the wall. That sounds way too familiar. 
+#NASCAR Things are looking better... for some #Kenseth is 2nd, #Kahne up to 11th, #Mears in 17th. And #Gordon... 29th. 
+Twitters, Denny Hamlin had another bad Autism Speaks 400 race.  I feel bad for the whole FedEx Racing Camry.
+Formula 1 week has officially started.. well I'm nervous &amp; excited at the same time.. no sleep for me till next week, this time around.. 
+@the_matty_boosh happy for you mate! I've come down with a cold and I'm sure it's from the rain at Donington 
+@nascargurlygurl but he's restarting up front and not cutting Smoke much slack  #NASCAR
+@CRschilliger (...cont) and I feel like I've been forced to eff them over... since most are SKs, they're taking a double whammy.  
+#NASCAR 3 of my drivers finished in the top 10! #Kenseth, #Kahne, and #Mears. Poor #Gordon. 
+@FSOnline Do you know if they'll be airing the GP events on TV this upcoming season?  Last year they didn't.   I hope they do this year.
+When people online tell me to keep things on the DL that's easy, but when someone says it IRL it's harder. 
+I am missing the #giro and the cyclists already. 
+The rain is killing Rossi 
+@Tundo Haha, clever, but 
+@julilly radio just told me carly rae jepsen is going to make an appearance on new BSB album.  I dislike her single on the radio though 
+@the_f1_chap I'm to forget Monaco and McLaren's under-performance  Turkey will be interesting, see if Brawn can continue their good form
+At the mountain view MINI dealership getting an oil change. I miss @EastBayMINI 
+@dmje are you still on bus? If so, can you get the fleet number? Driver might not be aware of temp in passenger saloon 
+also - ive been sleeping all day had another tooth taken out. Gimmi a freaking break!!!!! 
+@racewinner quite possibly, those unlucky chicks 
+ign is loading half an image and GT is still buffering 
+Oh no! GTR lost it's feed 
+this is the sickest thing i will see all week... i miss my STi    http://tinyurl.com/nqf89r (via @robdyrdek)
+Drove the GTI, but I think I like the WRX more. Too bad the WRX was sold over the weekend 
+Isn't feeling the bright ass red car I gotta drive for the next week...missing my Honda!!! 
+headed out, hoping the Honda won't let me down 
+so I watched WSBK race1 first...and of course they were still showing the MotoGP celebration so I knew who won before watching the race 
+noooo, no more PEZ 
+Crappy camera work for the MotoGP... 
+How I wish I was in Indy this summer 
+I hope GP essay was in 140 characters 
+@Amazonian_Senna And I hope you're baby bunny gets better... poor thing. 
+@kensethchik_17 just tried talkin my parents into gettin me tickets for bristol. They said no.  my parents hate Nascar
+@vb0515 UGH I AGREE @anidee LOL IRL @thesmall_print @verbs_n_nouns IDK if you can, but I did. @dizzyspells I'm sad.   @asexiness It sucked
+@ellabellcullen3 *cries* i miss you!!!!!!  talk to you tomarrow IRL on msn or text? witch ever you can
+Lotus Notes is driving me mad... 
+3g signal in Indy on Bberry  seems sporadic at best....  2g AT&amp;T only works...
+@denardhenry Thx, it'll be a year long process. Missed spring bloom trees   Looking for 2004-2006 Subaru STi or Mitsubishi Evolution
+@lipstickmasala I was searching for RedBull cola again today...nothing there 
+@vicious696 nope, doesn't look like it will work with GT5 
+@facunditas  Awwwwh  one of ours  GT disappeared when we moved here too 
+Just remembered the pedalo race... 
+Just plain sad...sadder than the pics of a Ferrari getting totalled.   http://bit.ly/15RQLF
+I am sitting here waiting for my drivers to load so I can go home 
+http://bit.ly/xiq59 - McLaren F1 goes up in smoke  There are few cars that are so functional and yet can be considered art. This is one.
+@ambermatson A P-Plater ran up the bum of my little red Barina and smooshed it into the car in front and it has owies on both ends 
+@RforceIntegra Turns out it's Saleen? I thought it was Maseratti 
+Standing in line for Kawasaki demo sign up. I'm far enough back that I might miss out on the bike I want to ride. 
+@makesmilk so sad that a GP is anti breastfeeding  I feel sorry not only for his partner but for his patients
+You know, I can't be the only one who's just a *little* sad that 3d Realms closed shop before #E3 happened. No DNF 'teasers' this year 
+@dino2gnt wish I could switch. Corporate IT is on Lotus 
+Just broke up with the woman  maybe  not sure yet...gotta change some things now! ringtone, facial hair, and my ride lookin for my WRX!
+At least I have my BSB with me... someone owe me a radio broadcasting *dedito* 
+Turkish Grand Prix Formula 1, Friday a rather complicated day for Ferrari    Damn! http://bit.ly/tXUUY
+On the other hand, Heikki looks fast this weekend He expects it to be a struggle to be in the top 10 though  I.. http://tinyurl.com/nex887
+@ralph_lamao yeah. i've already considered the need for a 12-step program.  also...that was me, &quot;building&quot; a subie WRX STI $$$$ 
+It's been a good week.  TGIF.  But I wish I still had a Ducati.  
+Browsing biketrader... sunny weather triggers my  need for a large capacity motorcycle... wish I still had my GSXR750 
+I got my Suzuki Bandit back tonight, but the news doesn't sound promising. A big job may be called for to get it through the MOT 
+@mariomoraesindy where did u end up on qualifying? I looked on IndyCar.com and couldnt find it 
+clutch on Lotus fading...feels like running and slipping on ice.  time to get a racing clutch and flywheel.
+Starting to wonder if it's a bad idea to bring my bike to work. Idjits already dented up my excursion out here   #Honda #Fury
+@SansJason last night of RBR tonight 
+Supposed 2 do 10mls Open TT 2day, but pouring rain, gonna give it a miss. Turbo trainer beckons instead!  Bit different 2 last weekend!
+@xSarahJeanx I wanna be IRL friends 
+Feeling sorry for all the chaps and chappettes unable to race in TT09 Superbike &amp; Sidecars races today 
+@1Evo1 alright, god haven't spoken to you in years lol. I did buy it but when I got home my xbox has a system error and needs sending off 
+@timlovejoy Not so good if you've come to the IoM to watch the first TT race though. Called off for today. Rossi now going round on Mon 
+The Piquet insults are still not happening, i feel so empty  #maxout #f1
+The &quot;Rosberg&quot; was strong in Hamilton then 
+Lewis Hamilton not getting into Q2 of Turkish #GP  that rubbish car is not answering his questions! #f1
+Kimi is so off the pace  #F1
+So much for the Ferrari resurgence, Red Bull and Brawn on front row.  #f1
+Oh shit i'm back to my FOM mood. I don't like!  - http://tweet.sg
+@msxxfast missing not having you at the races 
+F1 is slowly becoming A1 now, no fun remains if Ferrari and maclaren both are out of it 
+I'm missing 2 games tomorrow: Turkish GP and the French Open Men's final. I hate being on duty 
+@ThomasGudgeon It's really low spec 
+Just saw a Black and Orange Porsche GT3RS. didn't get a pic of it though. 
+@psychodwarf Vettel p1,Button p2, Barrichello p3, Hamilton is down in p16 and Kovalainen p14 quite disapointing for maclaren 
+Sitting on the cold smelly train, selling the Audi TT doesn't seem like such a good plan 
+should be at Firestone right now. 
+Formula car drives!!  but now it's time to study for finals 
+Also, the dish fault means I'll miss both Indycar and NASCAR races for the next week or so. Time to break out an emoticon 
+I can't believe I forgot Seb's B-day  I'm an idiot....I hate myself now....buahh!!!!
+@chrismistybelle true, but I don't have a working car to get me to Indy 
+Why don't I get to go everywhere you go. I'm a sad Indy.  
+Oh so board!!  didn't know that we really weren't going 2 race and it is just hitting me! I love the races and can't believe i'm not goin!
+I want to see the races 
+Night night!!! GP tomorrow =] but gotta do revision 
+@amberkay04 he wouldn't be able to do that cos i lost all my BSB cds.  he would have to delete my music on my laptop lol
+I've got a Schumacher again. And no safety belts 
+@jcluvsnkotb  I couldn't do Indy, no one to watch the kids.
+@KristiHi I would choose Ambrose I am a Nemechek fan and he is most likely going to park it tomorrow-no sponors on board this weekend 
+Turkish GP tomorrow, but on Fox so it will be tape delayed.  It means the chance of me finding out who won before I watch, is high. 
+@sunshineweaver sorry  I always said tho after I got my group pic with BSB i would be &quot;done&quot; with being a fan cos i got everything i want
+watching the indy race and wishing I was there 
+Lap 2 and Rahal's already out 
+Watching the IRL at Texas Motor Speedway. EJ Viso and Graham Rahal got tangled up and took out Milka Duno. Graham's having a bad year. 
+Just realized that the Stelvio doesn't have abs 
+@ashleyspassion I like Lotus! U didn't invite me 
+tonight could go either way. we shall see but i am so broke its retarded  anybody wanna but some stock Honda wheels and hub caps from me!?
+Wow, i actually somewhat miss drivers ed.. 
+@iamlei hooray for new bike! I still lust after the Ducati tho... miss that bike, all 2 minutes I was on it  Post pictures of new bike?
+@justinboulmay I haven't seen their coverage since it's on the top tier of DISH &amp;  I'm not upgrading again ... but I miss my Indy Racing! 
+@lancearmstrong well anyone who watched the races with Hinault and Lemond knows that Hinault is a liar, his comment that he helped Lemond 
+Why do I get up in the early morning on a sunday to go work out? O right, I don't want to miss Formula1 
+Aborted attempt of going to Stanford Hall for Auto Italia in the Abarth. Standing water on the M1. 3 pile ups in 4 juctions 
+#f1 Mark Webber is on the 2nd row in 4th sport for the start of Turkish F1GP, team mate Vettel has pole &amp; I don't have TV to watch 
+@McLaren_eShop Lewis = 8th, Heikki = retired  #f1 #mclaren #competition
+Racing suspended for now at Donington, torrential rain, thunder and lightning 
+Ironing done - Turkish GP in 40 minutes - sky getting dark again in this part of the world  
+another predictable result in Formula 1 
+Approx. 2 hours lost so far at Donington, we'll be here till 9 at this rate 
+At the after-hours GP  Things are not good.
+@jimbofin auwww  what did GP say?
+Time for the grand prix now, go Button go. Hope mark webber has a good race too. Silverstone next, if only I had a ticket 
+Button or the Cheeky Vettel for a win today, and Apprentice this evening! Margaret's curtain call 
+Barrichello shite start. 
+Kimi goes to 7th 
+Atrocious start for Rubens tho  #f1
+So much for Rubens' win 
+okay, Button is really pulling away now. 1.5seconds ahead. Hamilton down again to 17th. 
+Beeb not showing in car footage on iplayer.  RB stuck behind a Kers car. #F1
+watching Formula1 on Television...shit...Sebastian Vettel is not the leader anymore 
+oh no Fisichella #F1, not again 
+Kers really is pointless  #f1
+Doh - I spoke too soon, Barrichello makes contact with Kovalainen as he tries to pass - he's back to P17 now   #F1
+settled down with roast chicken and the turkish grand prix. gutted for Barrichello 
+is gutted for Barrichello in the Grand Prix.. Bless him 
+@Kat_LB I have a feeling Vettel is going to get him! 
+The Turkish GP is not going too well for Kimi  hmph
+just saw Rubens trending, don't be confused art people - apparently he is a racing driver   - (does he like size 0 as well?)
+Ferrari still not on good level to compete with the Brown Gp in Turkey 
+Hamilton overtaken by Piquet - that's a new low for the 2008 World Champion  #f1
+@tarasis I thought it would be better when Vettel had a chance of passing Button but it's become a bit of a chase-the-leader race now. 
+Another disappointing race for Ferrari  .... I don't know what is wrong with Kimi's car
+~shakes head~ it seems the only thing Barichello is capable of leading is the twitter trend list....come on Ferrari. I miss Schumi days 
+@tasha_pencil It's so boring that Brawn &amp; Red Bull *cough*Button*cough* are dominating  I'd prefer Ferrari winning over them tbh
+I was hoping to see a Brawn lapping a Brawn  #f1
+I should be happy for jenson winning really but.... meh. too annoyed at Rubens. 
+@aulia no I'm watching live, I'm just a Rubens supporter 
+@Jamesallenonf1 This has been the most dreadfully boring race.   #F1
+Yay Button! But i'm slightly pissed that Barrichello had to retire.  #f1
+It will be another win for Jensen Button. Alonso loses 2 places from the start if he finishes 10th.  #f1
+Podium. Button - 1st Webber - 2nd Vettel 3rd. Massa's 6th.  Raikkonen a disappointing 9th. :9 I think this season's already set. sigh. 
+As predicted, abandoned at Donington, too much water running into the dip at the tunnel 
+This maybe will be the last Formel 1 season I follow. Boring and disgusting. Ferrari Fan 
+@ironmanj AM texted me. Not a good race for him then 
+What a shit!! they are broadcasting Formula 1 instead of French Open men's final!!! I'm so angry!!!!!!!!  How can I watch it?((
+@Marutib F1 is no longer any fun  .. I hate Brawn GP!
+@alandavidski Yus. Most definitely. I'd love to go to Silverstone but it's so damn expensive  I used to hate Massa haha not so much now!
+another great win for Jensen and Brawn GP.  Sadly McLaren keep going backwards 
+Enjoyed the Grand Prix. Vettel didn't seem too happy though 
+Ferrari what are you's doing! Another bad race 
+#f1 Ferrari seemed lost, no gains  *sigh* surprised by Brawn's first failure, but it's still Button-domination #maxout
+Always happy to see Jenson is front, but it's a shame Seb lost it on the first lap. He was obviously disapointed on the panel 
+Button makes it Boring.. 
+Most depressing race ever 
+Kimi didn't even score a championship point  i thought he has a good chance of getting a podium finish after Monaco's result buhuhu
+@iGraves I do all my emulation on a GP2X -- which I didn't bring. 
+watched f1, great race glad for Jense and rosberg, gutted for vettel and barrichello, so heartbreaking seeing rubens crying at the end 
+Got no revision done 2day  ,, French Open  Turkish Grand Prix  Federer  D-Day  Sims 3  Rubens  Button  Vettel  Rove  Barrichello
+@Strathchaileach yep it was great domination by Brawn &amp; Button :-D I'm so gutted not to be going to Silverstone this year 
+Noticed #barrichello as a trending topic (Rubens Barrichello, the Formula 1 driver) but most posts using that hashtag are not in English 
+Rabobank was invicible in the TT today 
+missed watching Turkish GP.  . Button won again.
+@kayels quali was great in end but race was a real shame for Kimi  Fingers crossed things are on the up though, luck &amp; performance wise
+@allstaralice IRL she's gonna be gone for a week 
+@SassySenna Senna!! I miss you so much! I hate that I don't have wifi right now. 
+@kristinadee I havent been there in quite some time and its been even longer since I hit Firestone 
+should I? Audi A4 25,000 miles, 07 grey, with silver trimming, tinted windows, i dont want a 4 cyclinder thoguh 
+@Monza972 @holliesauvage She cant 
+@Nyabama my cousin in s.a bought his wife a Porsche Cayenne 4 her bday, remind me again wat am i doing overseas? 
+I missed the Turkish GP 
+that rendition of the &quot;tonight&quot; quintet from WSS wasn't anything special. our high school version gve me more chills 
+Harmone has a Ferrari, Ruben has a Bentley, D'Mahkus has a Kawasaki, I want a spaceship 
+@Rocketman55 same here! too bad I have been spending it inside packing  hug momma for me!
+@absolutions i got super busy! my friend's 21st b-day was this weekend, as was my cousin's, so i had to go do interact-y IRL things. 
+My youngest brother (who is 12) just saw the PEZ logo and asked...&quot;What is Peez?&quot; I am officially old. 
+i wish my headache would go away  #BSB
+@tedmayhem I need more info about this leg-waving malarky... cant get MotoGP over here.. 
+@exhospitalwork There are some very dangerous drivers out there. 
+Hates that you cannot get a GP appointment on demand for a sick child. Another couple of hours and we can trek off to the after hours GP 
+talking of MotoGP did anyone watch the 125's omg...simon how wrong can you get it....thinking u had won when u stillhad 1 lap left 
+@backstreetboys is the voting thing over? Why can't we vote anymore!?  #BSB
+Telly won't let me watch GP2. 
+I may have just consumed a sentient race of M&amp;M's  [@dshafik]
+@Bayliss the back looks nice, but i dont like those rims man 
+@FordRacing  No more &quot;15 Minutes w/Ford Racing&quot; on race weekends?  
+@sireading awwwwwwwwww huni i feel for ya......i really do!!! i'm still tired from BTCC 
+@TasteofKaos its ok.... girl problems.....  #BSB
+@discuit Rossi just scored an absolute screamer of a goal... did it stop the horn trumping? did it F 
+Italians square the match, Rossi 58' 
+And Rossi completes his benedict arnold... 
+I have a big headache  #BSB
+I failed my Driver's Test today. I am 17 and I still don't have my license. 
+@JuicyJenBunnick mondays officially suck!  #BSB
+@backstreetboys Why are you doing this now? It's midnight here.. Bedtime for the European fans.. This isn't fair for us.  #BSB
+My dog is sick  #BSB
+I hope @DonnieWahlberg doesn't think I am a poor soldier for loving #NKOTB and #BSB 
+i got bit on my boob  it itches....#BSB
+wish Honda didn't go cheap on my civic's sunvisor. plastic and splitting in 2. wrapped a ton of packing tape around it so it still works. 
+@backstreetboys since u play always when i need to sleep, it's 1:00 a.m here where i live.....I can play anymore  what rude thing  #BSB
+Just took my baby Button to the Vet...her eye was red and swollen! Allergies are a killer! We are both sick 
+@backstreetboys oh no! you're losing % on the trends  #BSB
+people are bothering me  #BSB
+what pass?? there are lots of twits but we don't arrive to Trending topics!?..  #BSB
+@backstreetboys 	the backstreet boys do not write  #BSB
+I should so straighten my hair right now, but damnit, I'm feelin lazy!  #BSB
+On the phone with my mom- Stepdads in surgery-- again...  #BSB
+@backstreetboys my last minutes here...  boysss... where are youuu???? #BSB
+What1how i miss mario kart 
+My dog is in the pet's hospital, I miss him!!   #BSB #BSB
+guess what?! i'm trying... but it seems not to be enough  ... i hope it all becomes better #BSB#BSB#BSB#BSB
+ok... my friends, I gtg now  will keep tomorrow. Good night!!! #BSB#BSB#BSB#BSB
+@jordanknight you might be losing to BSB  in the bands but you are the #1 celeb!! But we already knew that!
+i got a zit, a big one  and it hurts me, you may don't wanna know this ha #BSB
+where do i find racer-back tanks for farissa? they are so scarce! 
+Urgently need EUR 135154 for a Porsche Panamera. My CFO tells me to go jump in a lake... 
+Donington Festival. What a mind blowing 3 days of sun, alcohol and rock/metal I had. Outstanding! But now... back in the office 
+@f1_alonso Great, don't like you driving for Ferrari 
+is being ditched by her dad on father's day. to add insult to injury, it's to go to F1 at Silverstone. he doesn't even watch F1! &amp; i do! 
+@tobymoody I can't believe you two missed the best MotoGP race of the season so far 
+#F1 FIA says budget cap will go ahead unchanged. Last nail in the coffin for F1 as we know it? 
+@f1_fans it wouldn't be nice to have the championship leaders pulling out of #f1 on the eve of the British GP, I hope they sort it out 
+@princetim  @sxevenom needs to move to Indy 
+@bsb_fan damm ama edni typi k*4ki fenki na bsb onq den ve4erta ne6tu mi se drazniha.. i vikat just wait till they go to bed  #BSB
+Halfway through the last shift before the GP and Glasto holiday, and by heck is it dragging 
+Someone knows about a job? I need a job... I don't have money... I just have around $50 pesos lol! I'm poor  I accept coins, bills... #BSB
+today is @JefSpoken 's birthday!! He is in Indy  
+need to do the brakes on the MINI 
+@semipenguin and he won the race 
+going to work all to soon   I like haveing a day off yesterday well be back soon. #BSB
+@jessfaith oh thats a shame  I'm at Copse B so probably won't get on TV but will try &amp; put some flags up as front row. What book is that?
+&quot;I was thinking in Italian but then a 'Vamos' came out and then a 'Let's Go,&quot;' Rossi said Rossi was born in the US played soccer here 
+Shitt I must change two tires for mine A4 for 700 euro holyshitt 
+i don't want to do drivers trainingggg! 
+I wanna go to Silverstone rather than back to work tomorrow  #f1
+we're still not a trend ??? WHY NOT ???  #BSB
+I so wish I had time for motorsport this year. We're going to the BTCC in Silverstone but that's all I have time for with my studying 
+@amitry Sweet dude! We want a Honda Oddessy too! We're rapidly outgrowing our Mazda MPV 
+@Roxywaves99 Probably won't make it to Indy. 
+I'll get the Goodyears next time  
+Everyone is coming in town this weekend...exciting! Not really it's my 3rd GP and I feel aged! I'll just let the babies have all the fun 
+Ugh i hate drivers ed 
+@Shakey_AMG mmhmm..excuses..u dont love me 
+@tpittarese oh yerah Honda fit is excellent. that was my first car but a bit too expensive when i tried refinancing 
+#dreamcar Red with ivory interior Ferrari 360 #favpracticalcar Lexus 400H #firstcar 98 Toyota Carolla, someone hit me  totalled it
+@nickatz i always doing that. still the same, nothings change. i already log out then logged in, still nothings change.  #BSB
+@elementofspeed Huge F1 fan, used to go to Imola when I lived in Italy, Silverstone quite a few times - not this year though  you?
+(IRL) I have to go 
+ Endeavour didn't launch this morning due to a fuel leak.  Sucks, but it's better to be safe than sorry, ya know? #BSB
+@mattsergent i can't believe that BSB are not on the contest.....   #BSB
+The Formula1 head butting championship is heading rapidly for a draw.  No winners, only losers.  
+@skymotoring I've been on the waiting list to go to #TopGear for 5 years now, I thought my time had come this year but apparently not 
+now i'm craving for Taco.  #BSB
+I'm feeling very sorry for myself as an Audi driver decided to use my car and the car behind as conkers 
+damn:i can't vote anymore in the battle!!!wondering why  #BSB
+will we EVER transcend above and beyond race... 
+Missing the north pole... 
+I'm too far from Monaco 
+AMA votes against white coats for docs. 
+done working out!! ugh too lazy to take a bath  lol! #BSB
+@Davinche who won that rider competition? i did it also but it wouldnt let me send it 
+7 seconds now.  Don't see Hincapie anywhere near the front. 
+@GardenSERF my Honda is sad now 
+Sitting at Honda watching @lakers coverage on fox and reading on the kindle.  These seats are hardly comfy 
+...but had to decline because I'm running a shit box, mobile piss pot Radical at Donington instead! Gutted! 
+@fanofbsb4ever i can't see the site, too   #BSB
+@ago2911 how does the sight work?? and what is it again? everytime i download it gives me crap  #BSB
+@backstreetboys  alex i love ya! nick n_n  i love ya too and brian i love ya too and howie i love ya too and kevin i miss you  #BSB
+can not think of anything for dinner  #BSB @backstreetboys
+wants some soup 'coz it won't make my teeth hurt....  #BSB
+Except they had a GT. ~Sigh~ I miss my GT. 
+@bsb96 haha yeah...and plus half of the stuff will end up on like youtube or something..like the videos on the bsb fanclub  #BSB
+@Ferrari_Hec I know, I wanted to run out the store wit him but I couldnt!! 
+This makes me miss The Honda Civic Tour   http://www.youtube.com/watch?v=vbL_rdckpMw
+Exams start today... Wish me luck! Darn, how much I hate History    BTW are we still trending #BSB? Oh, well #BSB #BSB #BSB #BSB #BSB #BSB
+@Button84 aw dayum  I say tell em to kick rocks w/ his socks &amp; shoes off...or..stick his head in a bucket of water &amp; breathe...DEEP! Lol
+@142Staircases  skype is being dumb. I should head out. &lt;3 you and miss you. 3 weeks and ill be there IRL then im gonna hug crush you!!!
+@robschmob just in case you havent read - Indy 5 is a go 
+WTF? I can't log in to myspace and twitter is beeing stupid, too! no 'reply arrows' except one for Seb...now I have to type it 
+is selling his Jaguar today in a garage sale.    I'm very sad to part with it but very excited for a new acoustic.
+At Silverstone now - trucks set up, cars being finished. It's been a busy week! Typical Silverstone weather tho 
+@LaurenConrad yes here in Indy too. 
+@azza_bamboo as if you DNF's houses of the holy! tiz easy... although i cant go caching for a week or so... my phone is in for repair 
+@McLaren_eShop I'm not optimistic so Lewis=10 Heikki=13. They're going to loose spades of time in Maggots/Becketts 
+Every part of my body hurts....ouch  #BSB
+@cyberentomology The article is 2 mos. old  ... Saturn was picked up by Penske, so it will live on.
+heat 15 line up. Havvy stoney howe karlson scunny got best gates 
+i think i'm the only tweep left in boise that has NOT met @wendiegoneferal IRL. 
+Getting a freezapop with @jessicachambers and she beat me in our twitterrr race  a
+a few years back the Ferrari from the movie went up for sale (it's actually a replica not an original so went for not too much) not to me 
+http://tinyurl.com/mmzua4 (via @autosportnews) F1 breaking under Mosley stubborness  ... I'm glad FOTA is sticking together though &gt;.&lt;
+7.5 hours till Practice 1... #F1 Pressure is on Jensen infront of a home crowd! Final race for the great Silverstone circuit for a while! 
+@xBaRbiEd0LLx then there wud b no other races,  lol
+@nick_carter omg when is the tourr!!!! coming to maryland because u owe me a tourr u canceled one of them when i was 8  #BSB
+So my 2001 Honda Civic is having car trouble again.  When the engine block is glowing red because of heat is not good.
+@Shakey_AMG nahhh not even  i b workin early so u know wen i get home its a done deal lol
+And then it happened again.   Formula One to break into two rival series'.  
+@backstreetboys what a question we misss you like hell   #BSB
+Formula 1 will be different next year, now that the 8 FOTA teams start their own championship. Sport and politics 
+@regzcervantes  I don't have favourite BSB or NSync songs, sorry 
+Up at 5:45 to find out that F1 is in disarray... what a start to the Silverstone GP weekend 
+had some bad news one pf the sponsors i was hoping for for the Dakar '10 couldn't make it work 
+@sportycarrie wow - wish I was there, missing Silverstone for the first time in 5 years 
+Last day for FIA and FOTA to come to some agreement, otherwise F1 will feature only Williams, Force India, Manor, US F1 and Campos teams. 
+FOTA teams intent on starting their own series. Will Max and the FIA finally listen or are we looking at one big lawsuit; Politics 
+What are they doing to my Formula 1 
+My beautiful car has been sold.  My new one shall be a Lamborghini Murcielago! http://bit.ly/14X46s
+@AliceCullen4 *Laughs* Yay froot loops.. i haven't been hunting in a while, think i'll go tonight (: IRL. I have to go.. my times up 
+I'm really looking forward to going to the British GP this weekend at Silverstone! Shame I couldn't go today as well. 
+@Sant61 no pics  but someone must have made some of me riding Zandvoort with the deep-red sunset... anyone?
+realy wishing i was at the GP, last one at Silverstone, so sad to think of the times i've seen them there 
+nervous about going back home tomorrow. hoping shawn isnt mad at me. im really happy right now and i dont want it ruined.  #BSB
+@Kimi_Raikkonen Heard about the break up in F1   it will never be the same without you in F1  Maybe another type of F1?
+Watching free practice 1 for Brit GP on BBCi.  Then a shower and shave ready for work at 1 
+#Silverstone Signal so bad cannot get updates 
+if you are a USA BSB fan post a tweet and say so cos it seems like most BSB fans are in other countries. and follow me!  #BSB
+is of the opinion hes not going to Silverstone now 
+Formula 1 championship in trouble   http://bit.ly/2hBtTN .. on a +ve side, Force India (Mallya) has a good chance!
+As I'll forget later...Good luck to Jensen Button and Lewis Hamilton this weekend! The last F1 race to be held at Silverstone 
+@emilyjayneimage lol, so am I! They don't let plebs like me in the paddock 
+@cjdurham Nascar is wank...I do like my right turns in motorsport. And hell yeah I miss those games - not played tennis in yonks 
+Formula One won't be the same anymore.  And I blame both FOTA and FIA. Classic ego clash.
+#inaperfectworld There would only be 1 championship, and the FOTA teams wouldn't breakaway from the FIA 
+My boss is away to Silverstone this weekend and I am so jealous - wish I was there 
+\\suberbikes are in Snetterton this weekend! And I'm not going!!! 
+@EternalEden we don't have Physicians Formula here 
+With heavy heart, and I've avoided it all day, but can avoid it no longer  time to google Formula 1 news.  
+Just realised, weekend at work is going to mean I miss the Silverstone GP  Going to have to stay off Twitter and watch on iPlayer!
+Oh dear, preparing to head to Silverstone in the morning (hurray!) but it seems I may have caught swine flu...not feeling too well 
+I'm sad that Formula 1 isn't what it used to be 
+@azrael2393  Maybe this works: http://web189.server7.webplus24.de/blackberry.3GP
+Oooh  Kimi only 18 2nd free pratice.Ferrari really slow. More pics and news -&gt;www.kimiraikkonenbrasil.com...Icekisses!
+it makes me sad when I think about all the people I speak to online (a lot, lol) and the fact that I will most likely never meet them IRL 
+Just saw the new tour dates the BSB have....too bad that they're so far away 
+@LonoSG crap that storms probly headed my way   GT: piston11792 if by chance ur on later, thanks
+sirens just went off, south of Indy...  
+Its my 25th birthday and have no plans as usual.  I love the Backstreet Boys!!!  #BSB   #BSB
+#dontyouhate how twitter wont have any TT dealing with #BSB ugh 
+i wana go out,bt i dont have da energy  #BSB
+everyones in my home  #BSB
+is at Phakisa, spectating rather than racing though.  #fb
+well another day almost over. Racing tomorrow, the nerves are coming 
+I wish i was at Silverstone with the boys  oh well, at least they're in pink for today!
+well i think i am going to try to get some sleep. not sure how well that will go.  #BSB
+@santoshp its gonna be very interesting i think. im just hoping Vettel or Webber clinches P1. Ferrari not looking so good 
+@CyberEmma Should be a good race, I love Silverstone and this is the last  wonder whats going to happen in F1 now??  eek
+Leszno-  fucking city! Here the most important things are nepotism, connections and inside track 
+@trixtia Wow,I envy you being able to drive :O I can only drive go karts 
+it's clouding here in Modena...no bike for me today! 
+@CharliWilde hey! not addicted yet either. not many ppl i know IRL use twitter, that would make it more fun 
+Watching Speed Racer and wishing it was just like old times. 
+watching the Qualifiing for the British #GrandPrix at:  http://tinyurl.com/lbtmhm - preamble nattering at the moment 
+@abbybradz  I will miss your tweeting, and I will miss saying horribly inappropriate things to you IRL.
+British F1 Grand Prix tomorrow at #Silverstone, should be a good race. Sucks for Lewis Hamilton though, his car is just not good enough 
+I've been thinking, where have so many of our FakeF1 drivers gone? I miss @fakefelipemassa 
+Bugger. Hamilton 19th when Q1 red flagged. Why's it always McLaren? 
+Bad accident for Adrian Sutil during qualifying session for British Grand Prix. 
+wanna be at Silverstone  #fb
+Massa   Very disappointed. Come on Kimi! But being realistic, I hope one of the Red Bulls takes pole #F1
+can't watch British GP 
+Unfortunately the lanyard does not have a Silverstone ticket attached to it 
+damn. didn't know that Speed Racer is at 7pm, huhuhuh .. gonna wait for tom. so i can watch it. the craving is killing me .. 
+Shit!!! Shit!! But happy for Redbull.. Hahaha..  Vettel in the Pole, Barichello 2nd and Weber in the 3rd.. Oops, where's Button?? 6th!! 
+Jenson's 6th 
+I hope Renault haven't done their usual trick and fueled Ferni light  Also, I cant see Jense being that far off, fueled heavy anyone??
+Vettel on pole.. Raikonnen 9th - Wake up Ferrari 
+sux that Button didn't get pole or even the front row, third row may not be good enough for a win. Please let F1 and Silverstone live 
+Sad about Jenson Button AND the Lions. 
+@ozmusiq hamilton in 19th for race 2moz, Vettel on pole. Wtf hamilton 
+Another drivers ed 
+red bull start 1 /3... bari @ 2nd.... Ferrari's fall back again..  9 /11..
+He's def getting in with the FIA  guaranteed himself a job for at least 4 months there.... http://tinyurl.com/kk749u
+im at silverstone ouut side a burger van eatiiin a burger... this is the lyyf! yessss Sebastian Vettel got pole  yay xxxx buut im am cold 
+i'm not happy, Jenson and Rubens have the same amount of fuel and Rubens did so much better. bad day for Jenson 
+Jenson Button down in 6th for the British GP tomorrow, ouch. Things aren't looking good for a Brit to win at home tomorrow. 
+One last time at Silverstone  http://www.formula1.com/news/features/2009/6/9507.html
+@OfficialBrawnGP I follow BrawnGP1-so you have this one too-that one's not been updated 
+@inmemory24 yeahh I Duno just like boo ent it  just me luck
+No sun in GP today!   I was really hoping to be by the pool all day!!
+Sold the Honda, I kinda miss it  lol
+Interesting evening of old-school Formula 1 documentaries on channel 116. Depressing how high the bodycount was 
+seems updates from my phone wont work  boo... i got to meet Kimi Raikkonen today... im on cloud 9 and he is better looking in the flesh!
+rave gig at the Button Factory + too many shots = headache. paying the price for my first guilt free night out after the LC 
+12 Sprint Cars were kind enough to grace us with their presence at Springfield Raceway for the ASCS Sooner Region race. 
+Hoping F1 sort  out their differences and sort their shit out, imagine no F1 at places like Silverstone, Imola &amp; Monaco. 
+I miss being in Indy with all of my favorite people.     Can I go back now?
+@nick_carter http://twitpic.com/7xnwx - nope, dont see your phone number  love #BSB
+1 Litre of tears !! 
+should have been at Silverstone for the race 
+Packing the car and then setting off for the Silverstone #F1 GP. No offers of hospitality  #fb
+Today's British Formula-1 Grand Prix will be that last race at the legendary Silverstone circuit. 
+Right on cue the helicoptors start going over my house on the way to Silverstone  8 on the dot
+A lot of raining in Misano.. 
+I can hear the GP2s going round but can't see them 
+Watching GP2, still hates it that there is no channel on TV showing anymore it and that I have to watch it on a crappy Stream online 
+is waiting for GP - what a silly fracas - and all cos mosley is a twat 
+@sofiaescobar It must seem really sad that your WSS tour is finally coming to an end....      What's next for you?!
+sore throat.. ahh...  #BSB
+I wish I was at Silverstone. 
+I wish I was at Silverstone.  #f1
+Looking forward to the #F1 British GP today. Not looking forward to having to stand next to @FakeEJ for 4+ Hours again 
+Looking forward to todays F1 race, even though Button's not starting at the front of the grid... 
+Time for some lunch and then home for the GP. Branson has said Virgin won't sponsor Brawn next season 
+Morning - no lie in today, relentless helicopter flights overhead going to Silverstone from 8 am 
+Is getting comfy for the British Formula 1 Grand Prix. Last time at Silverstone. 
+First time in years that i've not actually been at Silverstone for the GP  . Still, I'm sure I'll be there next year. #F1
+settling down to watch the last Silverstone ever... It's the end of an era 
+I hope Alonso doesn't leave 
+Vettel getting a good lead +4 over second... jensons down at 11 under 
+wtching formula 1 - Button nt doin 2 well 
+20 seconds down and losing hope  BUT theres 48 laps left. maybe Vettel will crash?
+*watching British Grand Prix* Button doing very poor!  and Vettel is flying, bad times!
+I'm watching the GP of Britain Silverstone, maybe this will be the last F1 Season  
+Watching the Silverstone Grand Prix, The Brits are quite dissapointing at the moment  Early pit stops have started so who knows!
+Seriously the new TT Tour is so great!! Wish I could see them!! 
+Webber doin okay, but seems nothing on Vettel atm 
+@CHRISDJMOYLES WTF have Brawn done toJjenson's car? It's like he's trying to drive a shopping trolley 
+Fisichella in 10th place in british grand prix .. 
+@fennyfenn_ not really what i was hoping for for Button  you having a good day? at your Dads if i remember rightly
+Meh, Button in 8th now 
+I really want to be in the race! It's so cool and much more giving than skydiving! But I know I'll never be capable of it 
+We made home just seconds before British GP started, but it's not really going the way we were hoping 
+Not looking good for Lewis and Jenson in the British GP 
+Well it could be worse - there are at least World Touring Cars and Superbikes on Europsport 
+There will be no British National Anthem at Silverstone today 
+Shocking British F1 GP for Button &amp; Hamilton .... 
+it must be a dull GP if the tv is focusing on the back of the race 
+Jenson not enough laps left to get and overtake Rosberg and Massa.  #F1
+@marco_cali Webber is doing so well. Race is a bit boring though.  @rhettroberts
+boy, did i pick a race to back Button...that's 10quid down backing a British victory at the last race in Silverstone  Well done RedBull
+Massa was brilliant today. Wish Barrichello had cocked up 
+just 2 points for trulli  #Silverstone
+awww wanted button to take rosberg on final lap  #squarespace
+Vettel wins at a canter from Webber. No last lap heroics like last week's #MotoGP  #F1
+#Vettel has wone the F1 Race, congraz! #Button only on 6  NEXT F1 STOP: GERMANY YAY!
+Vettel did a really GREAT job!! i feel happy for him now. bad day for alonso, though 
+Such a shame about Jenson  but well done to vettel webber and Barrichello
+No British driver on the podium....now that suxs 
+Is this Silverstones last F1 race event? I hope not! 
+@gfalcone601 haha Hey, you were watching F1 at Silverstone? nice race, but Button didn't win in England! Bad times..  Xxx
+Ferrari @ Silverstone - Better luck next time 
+Ahh man, Jenson Button! Really wanted a win from the man. 
+#F1 #BritishGP - great display from Red Bull and Vettel today.  3 week break now until German GP at Nurburgring 
+Just watched Button lose the British GP 
+is thinking the #F1 was a great race. R.I.P Silverstone 
+So thats if for Silverstone then, no more British GP there or will it? Goodbye Silverstone  
+Also can't believe that this race may have been the last at Silverstone, where F1 began 
+@clairabellejp allegedly Stiggy is going to take his helmet off tonight.   I don't want to know who he is!  
+Oh no! The Stig's identity is going to be revealed  http://bit.ly/ltFmN 
+Buhu. Button didn't do a very good job in this race. Only a 6th place. 
+GP Luzern: of rank 17 
+no father to really celebrate father's day with, going back to GP tomorrow  prepare for the water works
+Some say I am not the Stig 
+@backstreetboys i mss ya guyz!!  i miss u a lot.. #BSB
+@idaudi i hope your not talking about me. Just cos i'm moving doesn't mean i'm not trying to be your friend  #BSB
+oops XD @backststreetboys #BSB #BSB #BSB #BSB #BSB #BSB #BSB #BSB #BSB I really want that pass 
+oooop XD @backstreetboys #BSB #BSB #BSB #BSB #BSB #BSB #BSB #BSB #BSB I really want that pass 
+@girlygirlstefie i need amis bon  #BSB
+I havent gotten paid!  #BSB
+@chipcoffey i'm so sorry to hear that  #BSB
+I want my backstret boys membership back  #BSB
+Now, a coconut dessert...  What's next???? #BSB
+everytime i see a honda. it makes me miss mine so bad. R.I.P. Honda 
+@backstreetboys I just do this (send twitter messages) to win a membership and also because I LOVE BSB!! please give me a membership  #BSB
+So close to a Lotus. 
+@nicksohiogirl so they are getting a divorce =( that is too bad  #BSB
+@backstreetboys Always win people from United States or another contries, Now is turn of MEXICO, please, give us a membership!  #BSB
+this guy on obsessed is really messed up!  #BSB
+@backstreetboys i want a membership!!!  #BSB
+They're taking the Porsche away  Sorrow of sorrows.
+@backstreetboys Always win people from United States or another contries, Now is turn of MEXICO, please, give us a membership!  #BSB
+@nick_carter  I need a motivation or at lest a free day for can sleep I'm really so tired#BSB
+@hovgirl102699 aww i wish i could be there  #BSB
+@bharathy_99: I'd prefer the Honda Jazz if alone the price tag was feasible. 
+massa crashed into me with laps to go in British GP...was running 3rd 
+aw no! they retired BSB's concert from their requested concerts list  http://www.hd.net/concertrequests.html
+@PunkRockRunner This part of Ironman sucks. I am so not a recovery person. 
+@backstreetboys I wish we had an opportunity  #BSB
+Wishes she had had time to replenish the BSB fund before all these damn dates came out 
+:s dunno which drivers to install for laptop 
+Bajaj removes fuel injection from the P220  to cut costs by 5k - while Honda adds it to its 125 cc Stunner !!
+I hate doing my timesheet 
+@Kapowyyy YES! I find it really weird that IRL people have it. Also, was just about to come to your show 
+Lotus Quickplace....why you so ugly and painful to use?! 
+My ladybug watch broke  I got a dumb new one with butterflies. I also got @Mjohnsmusic 's new cd! And @realbrookewhite 's new single! #BSB
+@Thundercat57 - I have one too still doesn't last for me 
+@Maserati_holly i hope she aint got the same sickness as me 
+Kimi ga ireba . when you're here . 
+@ReXAy What are the new BSB tour dates? I am only gonna renew my subscription if they are coming here to get tix lol, i am poor 
+http://twitpic.com/88nmj - the Lamborghini just got backed into. Share in the heart ache 
+@Suessilicious Corse! agree that we have so much un incommon sometimes. i am pretty mad bout the govt healthcare tho.   
+Pleaseeeeee!!! stop raining!!!  #BSB
+@RealOneTreeHill oh gosh i am going to have to watch  what to do with RBR  and i am so going to miss peyton and lucas 
+@Indy93 oh, that's a shame!  what happened?
+there's so much drama with my family and it's over stupidness  #BSB
+gah. can't sleep. super anxious about getting Lolas shots done in the morning  I hate watching my babies go through it! ugh its the worst
+@jessicaj0yce I don't even know! I'm so lazy to drive  I'm basically the only girl from Indy going!? Hahahaaa....
+@Megane_chan  i love tim burton &amp; johnny depp- cannot wait for the movie, still nearly a year b4 it comes out though 
+Is sitting in emergency with Seb  prayers appreciated
+Saw a Bugatti Veyron in the wild (well on the A283 just outside Midhurst) last night. You know what? Not so sexy in real life 
+@DavidLeedy yeah that gets me. when i start to work at morning, Lotus notes always greets me with a crash message. 
+I should've taken cough syrup this morning!! I don't even have it with me. Hacking up a storm. 
+@hornerakg I am mad that you didn't get on the TdF team, you are one of my favorites 
+My Bugatti will make 253 mph, but there's always traffic! I coulda got a house for 1.7 million. 
+@FrankSchuil IRL is way more user friendly in my opinion 
+I have soo much to share about Rossi, but I don't want to torture you all tweetin about an 11m old baby. 
+is scanning piktchas from races maann 
+@recycleus a KTM 690 Duke, with the Supermotard running gear. 
+@JCred I believe it..  the Prius is the 2nd car, rarely leaves the garage.. mostly it's the Ferrari.. 
+Going to Daytona for NATIONALS. 
+@aplusk You must be born in Monaco for that ! 
+@lexaah Yes! Vineman 1/2 Ironman 
+WOW!! Jaguar Skills megamix up for download, 30 yrs of hip-hop, 538 tracks: http://twurl.nl/2ia1rt cheers @tag 
+&quot;Checkmate&quot; BMW pwns Audi - haha! via @ThomasHawk EPIC WIN by BMW!  http://ff.im/2c4GS
+waiting for the #F1 Qualifying 
+Making my own mixed BSB cd 
+gettin ready to go to the BAR .. daytime power hour time ... 
+Watching self-entitled asshat scream at metermaid as she tickets his convertable BMW on Bute. Made my day 
+Just finished some homework. Now it's time to watch some NASCAR 
+Watching Formula 1..... 
+@ladyofsalzburg And I don't doubt that you'll hear even more of it this season - hopefully for Jenson and not certan other subjects 
+Settled in for the GP now.....3 hour run to follow....this means I can eat loads of porridge  and Guiness Marmite on toast.
+@chrisratcliff Only a fool would bet on anyone other than Piquet  #F1
+Is up an watchin Formula 1 
+@abisignorelli Lewis just undertook off the road. Kimi's coasting round with a duff Ferrari engine  #F1
+For sale - 2 Ferrari race cars, ok in dry but barely used in the wet as utter nails 
+@LiliCosic there're many people who support other teams  I prefer Ferrari cause I love that engine!^^Vettel is young,but he's a champion!
+This race is exciting...  #f1
+Wet #GP races are the best.  Redbull 1 and 2.  Common Webber 
+@suzysmiles Lol Lap it up baby!  x
+Wow when did Buemi get past Hamilton? Buemi is having a great day  #formula1
+Force India #F1 &amp; Ferrari are the only two teams with zero championship points! WTH!! And Sutil may be changing that today 
+OMG Aussie Mark Webber finishes 2nd in the #F1 China Grand Prix                      #fb #formula1
+YaY Webber!!! 2nd place nice one!  #f1
+awww.. Webber got 2nd not 1st. ah well, better than his recent shonky finishes!  #f1
+Vettel &amp; Webber have done it! 1-2 for red bull 
+Seb Vettel share price ticks up in the presence of Chinese officials dressed in plastic bags - punk F1 
+@coldboot you got me all excited thinking he actually won a race! 
+Chinese GP: 1-2 Red Bull, 3-4 Brawn and 5-6 McLaren, not bad!  Button 3rd, Hamilton 6th.
+just watched the race... well done Jenson....waiting in anticipation for next weeks race already.....  
+Red Bull Racing Wins! Sebastian Vettel 1st, Mark Webber 2nd  Yeeeesssss!
+@andybezbozhny I am puzzled... It's Vettel, not Fettel 
+Decent result for BrawnGP  Well done to RedBull ! but hope BrawnGP can get in the mix in the next race. ;)
+great Race Seb. Vettel 
+@deepbluesealove No, but one of the young talented drivers won which is delightful. 
+@joeracer has awesome in car footage from Laguna Seca - a track Forza Motorsport 2 fans like myself know well  http://tinyurl.com/ctvouf
+Cheking the Grand prix results; Webber on the podium = 
+@Keir3, GT isn't THAT bad  I hope lifeguarding isn't too unbearable!
+Finally sober - I've not suffered like this in years... Possibly never this bad! Just catching the conclusion of the GP  Go Button!
+@lovealwayspaige feeelll beta or less i'll make zak fly out kangi to sing to u &amp; then i'lll...steal GT!  lovesyous! 
+@Slyth66 It's possible, I was WTCC's 9000+ subscriber, 6 months later... 220,000 subscibers. I have all his vids, even the deleted ones 
+@serena_grace she's at the Honda center tonight too 
+@PeterOkwera hey man, I'm with McLaren, you? 
+@bobbyllew Haven't Honda already built a Hydrogen-powered car? We should be using that 
+@GinoandFran thnx for the shout out   yes yes yo BSB anniv! &amp; yes very much still in D scene, u jst hv been under d rock haha  joke lang!
+@richardbranson I must say it was a brilliant race in Shanghai. Looking fwd to another podium finish by Brawn in Bahrain 
+http://twitpic.com/3leoq - this is our GP logo number 1 
+is accepting donations towards getting a Ferrari 599 
+@AllyStratford go to your GP it could be menengitis, better to be safe than sorry ... I hope it's just a cold 
+@stevelovescars The roadster's going 4 $80k cheaper, that's a GT-R!  #cars #ebaymotors
+http://twitpic.com/3pb50 - It's a Yamaha. Harleys are for candyasses. 
+@_robin_sharma http://twitpic.com/3ovto - This is before or after selling your Ferrari? 
+Has just confirmed the helicopter pleasure flights over the Nordschleife during the 24hr race next month. Dusk flights anyone 
+@iamkhayyam Is this the race to zero? LOL  
+@keLee lolz it's 5.30am here, btw, your bio's really interesting. Brains + Brawn. Bravo! 
+I bought white Convers! They're so wonderful 
+@danslabyrinth i want a 2009 Honda Pilot so bad...Honda can do no wrong 
+@masscontrolkern If the mysterious red fluid is Vicks Formula 44 you might have a shot 
+@JFR_Racing #nhragir that is! 
+mastering the art of refilling my PEZ dispenser...... 
+At the Ducati club race in Assen. Great weather, great sound 
+@RSR108 I was mostly just interested in what he did, I saw him chanting and holding the lady's hands...just curious that's all 
+Oh look what came through the post today, 4 tickets to see the Renault R28 at Silverstone on July 5th   http://twitpic.com/4e9ww
+@cupcake__ arrrr we both replied to each other over different tweets at the same time  , i'll see you then, Duno where the hell Kateyy is!
+afternoon peeps motogp qually has started at Jerez, very excited 
+Watching girlfriend run Indy half marathon. No rainnl, so that's good. 
+@frankdasilva - Monaco 1987, sat over the water on the finish line, Senna 1st  Piquet 2nd Albereto 3rd and Berger 4th - awesome memory 
+Watching the races 
+@starweaver When @Restrictor isn't watching #NASCAR, he's cheering me on  @desertdingo (It's our little secret) #Baja
+@Hinchcliffe Wow, congrats! 
+I have lots of cleaning to do.  And the Aigre festival to visit.  And MotoGP to watch.  And the sunny terrace to practice yoga on.  
+@RSR108 defietly will check the book out too, thanks for letting me know about it 
+just watched Moto GP 250cc, amaziiing race!! H. Aoyama is very good. this bcm more interesting than 500cc, they're kind of boring now 
+today's afternoon snack: PEZ 
+British pronunciation of Stoner is Stowener 
+@formulacyan Lorenzo. But I also like Rossi by Proxy. 
+amazing race is appropriately named 
+The Jerez 250GP race was *AWESOME*.  I think even Wendy enjoyed it. 
+Not paying attention at school, more distracted on browsing on Pokernews 
+@RSR108 trying to do the same thing, running an online business as well as running a regular business in the &quot;real&quot; world 
+@kevsbrtny It depends on your goals &amp; how much you want to spend  Cannondale, Specialized and Cervelo are all good brands.
+Packing up for the trip to Ascari track, thank you Bacardi 
+Didn't realise Kimi opened a Ferrari store in London, I need to go see this at some point 
+Jenson Button is gonna win today. And haha your all hungover 
+As the race starts, lots of talk about Massa being in P4 powered by the KERS. Let's hope it comes of good help to both the Ferraris  #F1
+@remzology Amen to that!  And now to look at Kimi catching up on the lead pack. He has a faster car than most in front of him  #F1
+Come on Brawn Racing! 
+Taking out the Evo for a spin at 8:33 yaaaaaaa!! 
+Kimi busy with the interviews - no time for icecream yet!  #f1
+things are flying off Massa's car 
+Massa is just a bit annoyed on the radio  #F1
+@Sp4rkR4t it was Trulli, he has (had?) a house down the road and runs in the local half marathon. I also like him as he's nuts!  #f1
+Button, contender of championship overtaking Hamilton, current World Champion. Fun sight 
+Button, contender of championship lapping Hamilton, current World Champion. Fun sight 
+To all pilots: make sure you have enough fuel in your tanks today  #f1 #Massa
+Canceling a purchase of a Ferrari. Ferrari is a @#%&amp;*#@!!!! I'll not buy it anymore. 
+can't sleep, too pumped up from Webber's awesome drive! Bring on Monaco and Webber can wipe that smile of Jenson's face! 
+@aaroncorby bless! that's what a like a granny who watches f1  mine tries to take an interest, usually asks how Kimi Hamilton is doing!!
+is pleased United beat city 2-0 and Jenson Button won the Grand Prix 
+yeeww.  Mark Webber on the podium!  BrawnGP, almost as dominant as TeamVodafone [V8s}     
+@juliancarter I still lived  (ex 4 large cans a day RedBull drinker here)
+@lorynsho i know right! it's lovely. gah! now i want to learn how to! hahaha!  *motocross?*
+i just used the term &quot;IRL handles&quot; instead of &quot;real names&quot; ... screw it i'm gonna roll with that 
+http://twitpic.com/54yin - look what i found!  BSB-heart them* (missing kevin)
+@Amazonian_Senna ha ha I will while I'm here 
+@leluc IRL-as-customer interaction. I'm a shy guy (sometimes)  @wasteofpaint Ma duc la orange c. store, ii mai rapid asa.
+@debparky nice, i think i prefer the Pinarello 
+On ma way to IZOD center 
+At the Speedway!! 
+We won the heat race and now we're starting on the pole 
+@DarkDucati  $50/hr?  They're mediocre golf clubs, not a Ducati.  And they don't need a tongue bath.  
+@brypie I have orange pearl polish that matches our Lotus. 
+@GeekMommy that is really true. I try to do that whether online or IRL. I think it really makes a person's day. 
+The Drag Racing season has finally started also in Finland. Its the 1st race at Motopark raceway. 
+@javajive Something wrong with your Honda Jazz for sale post or really-really eager to sell? I see three of them on thejavajive.com 
+ROFL Frank Engstler hit the Safetycar at WTCC race  Stupid SC driver...
+is quite proud of our 5th place in Eurovision  it's only coz we put Loydd Webber on the stage tho x
+@Senna_Amazon he turned down ice cream the other day too which is strange ah well hell be hungry when he wakes up 
+About to go race go-karts, fun 
+@Maddo93 yesssssss you got how it works! muchachaa  last night was funn hahaha poppy &amp; chastity own lp.
+just came home from Giro d'Italia, saw Lance Armstrong!!!!!!!!! so much more fun than i thought it would be 
+An odd weekend of gigs, marshalling a crap bike event and eurovision. Nevermind..... GP Masters next weekend 
+@Senna_Amazon im good. so whats happened 
+How funny my fave BSB guy stays at my hotel and im not friggin there to see him!! what are the odds!!!! Hopefully he comes back tonight! 
+@delibird GP Masters is where it's at. Beats Eurovision girlfriend! 
+@belnbst or superpoke ur coworkers bf IRL!!! 
+lots of Lowepro bags out today!  on the backs of pro photogs at the AMA Superbike Showdown. #fb
+@Senna_Amazon wait the zoo isnt that where you got @WerewolfEmbry from?! LOL hes going to kill me 
+GEG exhausts are in! Putting them on the Ducati 848 this week 
+@MoocherGirl I'm just getting to know more about him now. I'm a chicken about meeting guys IRL tho 
+Benji Button, hot cocoa, and cuddles with my chubby kitten. 
+http://www.detroittechnomilitia.com/main/content/view/379/243/ DTM 004 samples. Techno at it's finest 
+Inspired by a weekend of watching Motorsport i'm going to organise a karting session for next week 
+@fuzzydragons @fuzzydragons GP being seen this evening, under orders I take it easy today  I can do that 
+@SupremeGREAM weekend was easy, &quot;my shawty is a 10&quot; 3 neighbors evaded my traps so i watched MotoGP unpolite 
+@deeknow the Aprilia, the ss1000rr, the R1, the new Daytona 
+now downloading ?????? - ??????????? with DTM 
+@Hinchcliffe never been, what dates do you have in mind? I'm easy 
+Cheita de la RedBull are un taur taiat pe ea. That's cool 
+@hollowlegs @Hinchcliffe going there with work colleagues soon. we have a curry club! meet once a month  they highly rate it there.
+@suziperry thanks suzy for another great weekend of MotoGP really enjoyed, Mr Edwards is such a sweetheart 
+@suziperry Re Toseland, good performance, hope for more. Given a top bike, I'm sure JT can be right up there like Button in F1 with Brawn 
+@WilHarris But the Focus RS is only FWD. An Audi or Scooby STi with AWD is a lot more fun, and safer. 
+what would you say if we talked IRL?  would you just come up &amp; start promoting stuff, no chit-chat first?  then don't do that on twitter. 
+@fashionherald Indy500 isn't Nascar...it's open-wheel racing 
+@sarahfisher67 http://twitpic.com/5fcsq - Future Indy 500 Champion!!! 
+@_Zafrina_ i dont think itll do any good oh and Senna said hurry up ha 
+@JFR_Racing 1st round of euro champs this weekend keep updated with eurodragster.com and live audio with audiorealm.com then type nitro 
+@CatatonicCat it's a Lotus 7 replica  it's quite lethal, so only comes out on nice weather days!
+@action_coaching I think we won't see two Brawns on the podium this weekeng. 1h and a bit to the start of GP2 
+went to Lavilla again todayyy, so more photos to blog about! 
+Audi 5k .... c'ya on the new horizons tweeple 
+@brawngp_fanblog  - yes, it is, and then it becomes confusing. with whom the teams sign up - FIA or FOM 
+at the airport waiting to go on my Indy 500 vacation...whoohoo! 
+@PaulSpeers You're rooting for Hamilton?!?!   Go Team Brawn GP!!!!  
+BMW 1200 GS Adventure : wow what a bike  chk the video here  http://bit.ly/zFAO5
+500 weekend here in Indy. 
+@danamorphic I was just wondering... what do you think it would take to persuade Audi to let someone test drive the R8? 
+At the range shooting my Glock today. Only going to be 98. I should have brought a sweater. 
+Speaking of traditions, the annual Indy 500 Carb day is today even though the cars have not had carburetors for decades  
+@SimonHendy I'm watching the Giro 
+@katetropa when you're done with the bluejays, you and your Glock can join me and my HK and we'll start on the geese here.  
+@PhoenixLam He could always sell the Subaru and buy a new STi or maybe a Mitsubishi Evo? 
+@Senna_Amazon and no me falling off the bar, not fun.  you're quick though, you'd catch me 
+@Senna_Amazon i like both!  but then again, you aren't mad at me 
+is almost done!! yessss!  and i finished drivers ed 
+@kimidreams that's kinds wild  in 1998 I was still too scared to show my IRL picture
+UP was sold out watching it manana so instead eating at PINKS yay lol FOA again lol 
+@im_riabau I choose the red Ferrari. But pay attention to the details, the logo is not resized properly. 
+http://twitpic.com/665pr - She fell asleep in my lap 
+Hates the slow start to the day, loves the sunshine = roof down on the silver Spyder 

@@ -1,0 +1,25 @@
+Most common words for this cluster:
+[('safeway', 10), ('onh', 2), ('bumming', 1), ('watersisweb', 1), ('xphile', 1), ('did', 1), ('marvin', 1), ('ca', 1), ('wells', 1), ('auntie', 1), ('lhu', 1), ('yeeeee', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'Safeway', 0.9386978149414062), (u'Albertsons', 0.7073540687561035), (u'Craig_Muckle', 0.640680730342865), (u'Vons_Pavilions', 0.633762538433075), (u'Vons', 0.6331927180290222), (u'Albertson', 0.6308633089065552), (u'Ralphs_grocery', 0.6250491738319397), (u'Teena_Massingill', 0.61763995885849), (u'spokeswoman_Kris_Staaf', 0.6140692830085754), (u'Costco', 0.612384557723999)]
+
+
+
+
+
+Did not realize there is a gym above Safeway!
+@XPhile1908 I have three words for you: "Safeway dot com"
+Safeway is very rock n roll tonight
+Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w
+RT @WaterSISWEB: CA Merced's water bottled by Safeway, resold at a profit: Wells are drying up across the county http://tinyurl.com/mb573s
+@ronjon we don't have Safeway.
+Just applied at Safeway!(: Yeeeee!
+@ Safeway. Place is a nightmare right now. Bumming.
+Safeway with Marvin, Janelle, and Auntie Lhu
+Safeway offering mobile coupons http://bit.ly/ONH7w
+Eating dinner. Meat, chips, and risotto.

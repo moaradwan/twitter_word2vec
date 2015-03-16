@@ -1,0 +1,15 @@
+Most common words for this cluster:
+[('again', 1), ('til', 1), ('boys', 1), ('ours', 1), ('xxxxx', 1), ('wait', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'til', 0.6599355936050415), (u'samantharonson_@', 0.6224997639656067), (u'AM\xc9LIE_MAURESMO', 0.6215804219245911), (u'cotton_pickin_minute', 0.6197725534439087), (u'again', 0.6165540218353271), (u'jennajameson_@', 0.6161025762557983), (u'Pause.', 0.6141746044158936), (u'wait', 0.6118828058242798), (u'VENUS_WILLIAMS_Yeah', 0.6106031537055969), (u'direction_Ditcharo', 0.6077226996421814)]
+
+
+
+
+
+Really missing @tommcfly  cant wait til the boys are 'all ours' again xxxxx

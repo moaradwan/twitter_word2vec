@@ -1,0 +1,933 @@
+Most common words for this cluster:
+[('tweets', 583), ('tweet', 380), ('twitter', 38), ('lol', 37), ('tweeting', 25), ('u', 18), ('haha', 13), ('x', 13), ('wow', 9), ('th', 7), ('amp', 7), ('phone', 7)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'tweets', 0.9589152932167053), (u'tweet', 0.9309176206588745), (u'Tweets', 0.8421282768249512), (u'Twitter', 0.7958033680915833), (u'Tweet', 0.7872855067253113), (u'tweeting', 0.7774590849876404), (u'twitter', 0.7694551944732666), (u'tweeted', 0.6945859789848328), (u'Twitters', 0.6834294199943542), (u'Tweeting', 0.6795125007629395)]
+
+
+
+
+
+All my tweets are already gone, aren't they  Missed you guys tonight.
+I am wondering why my lovely wife doesn't check or respond to my tweets 
+@JonathanRKnight  You sure did do some tweets, and i missed them  glad to see you're enjoying urself, always nice to hear from you. x
+I meant &quot;rly&quot; not &quot;fly&quot; in my other tweet 
+@enkrates @ilovemypitbull oh, guys. just reading your tweets is painful. apparently leonard nimoy was there too. 
+@gophango: dude, I live for your tweets. miss TdotO 
+seems TweetDeck won't show tweets in Chinese 
+@musedandabused you did not respond to my tweet! 
+@SteveBrunton no... i never got a tweet 
+@isoulq8 shfeek u tweet more in arabic 
+somehow i've achieved the magical status of #of followers&gt;#following, yet my twitter page is still dominated by my own tweets 
+I wish someone would @ddrattack my tweets... 
+@verwon I didn't get your last tweet 
+Not happy with twitter. I can't see the public tweets anymore.  
+doesn't like how bluebird's recent tweets are on the bottom.  
+i wonder if i should go to bed even though I am 612 tweets short. 
+I erased all of my previous Tweets and I don't know why 
+Already losing tweets #tweetie 
+@flyingmachine13 awww boo to that tweet  cut out the hurters!
+@taratomes they must have read my tweet 
+@lindseliz tweet tweet! why can't i write on your wall? 
+i am not able to manage the tweet flow... 
+@tweetie How do I know which tweets I have read and not in #tweetie #mac? The dimming only works if I select each tweet 
+@8073N @Silverlines and suddenly I feel bad about my last tweet.  I hope it's the hormones talking? 
+have become a little disillusioned with twitter ... no one tweets me 
+Oh, and I also hate that I can't see how many tweets I have! I probably missed or will miss my 1000 tweets 
+aww. my. show. is. over.!! so. so. so. sad.!  :]tweet-tweet[:
+i think i'm over twitter lol no one tweets me 
+No response to any of my tweets to (in)famous Republicans. d'oh, I thought they were funny 
+I have 457 tweets to read. I think I need to cull my followings 
+@mileycyrus I hope you don't see my tweets then just not reply 
+Seeing all the tweets about Boozle is bumming me out. 
+@wkusysstatus  Having error messages with &quot;nagios&quot; in twitter, makes it useless to search for nagios related tweets 
+@x16kve because you were sick and ignoring my tweets. 
+already getting sick of all the boozle tweets. i wish i was there 
+@necolebitchie What happened to the tweet genius sharing of the invite? I wanted in 
+I wish I was more clever. Witty tweets don't seem to come outta me 
+@julienphalip I cancelled my flights - too busy to go  So my tweet was a wistful one.
+@ambeasttt is my gf who tweets my high phrases 
+@Jizzistheshiz why cant i see your tweets anymore?! :O i confused!!!! it says im no longer following you 
+Realizing I'm bad at tweeting. 
+@CraigNWright no good. I can only swear in natural speak. I struggle in tweets 
+I can tweet but not receive tweets 
+@rocksmyworld that tweet was before you got downstairs. my bad 
+@BrodyJenner your tweet's are so emo now  cheer up!
+Accidentally deleted all my tweets 
+undo really doesnt exist - my tweets have gooooooone 
+Doesn't word wrap the tweets though 
+@twequency so useful  so my first tweet is obliterated? sniffff
+@MarkHeff our friendship seems to be deteriorating through these tweets 
+@zazzle not following my zazzle tweets? 
+@asouthernthing I tried that, and now @emmyrossum won't return my tweets 
+@82ndhere You replied not to my tweet. 
+@Littleradge ohw  what about the amount of tweets? :p
+@nessie111 there's no other tweets on my columns except your music blips 
+@hypeismyname all of your tweets lately have been about bball and I wish I knew what you were talking about 
+whoops...  not  in my last tweet
+I wish @johncmayer would get off twitterberry and onto the web, he misses almost all our tweets on twitterberry.  
+@joeymcintyre Where are you? Would love to hear from you tonight..missing your tweets 
+@RealTangyFruits Just woke up and your last tweet makes me sad. 
+I noticed all the good tweets seem to happen when I'm asleep. 
+@cherryxhime awesome to hear. I am freaking exhausted. and still 206 tweets away from my goal. 
+my tweet deck is broken! 
+@bbrathwaite hahhah! I tried making my tweets public and running my feed through there, but it can't pick up *any* tags or make a cloud. 
+@mileycyrus why don't your tweets show up for me anymore  it makes me so sadddddd
+@pnker and not surprisingly, your tweet seems boring to me now 
+@DonnieWahlberg  did you run by tweet us again? ;)
+@rachelrock0317 lve been woderin if u can read my tweets cuz u protected ur updates.So even u replied 2 me,l cant no 
+just like favorites/starred tweets, why don't we have 'boring' tweets. like a  ? not exactly spam, not exactly worth tweeting.
+my lovely twin brother said i am creating tweet spam -  - sooo from now on really got to think of interesting and non spam tweets! hmm
+Eugh, this is so boring... hardly see any tweets since they fiddled with @replies  #twitterisstoooooooooopid
+@ddsy it would be more fun to send tweets through our phones ! 
+things seem to work on the web, but tweet deck isn't taking this too well  pic's not showing, and not all tweets  here 
+@yikes77 I saw your tweet but twitter was acting up last night, we couldn't get any tweets for about like an hour. I saw it too late 
+@laimaitai21 well im still not getting johns tweets...what's up with that??  
+so many advertisements/same tweets being posted under #loa 
+I Miss @30SECONDSTOMARS tweets and new kyte videos 
+@danhall I understand about 17% of your tweets 
+@jonnoabertawe After seeing all the tweets, I wish I'd watched it now. Appears I missed a funny one 
+I think I need a magnifying glass to read the tweets!!! grrr.. 
+My foot is sore  any sympathy tweets welcome..
+@tommcfly No. I can't enjoy your tweets, 'cause you never tweet me back 
+@dougiemcfly lack of tweets  xxxxxxxxx
+i'm SO confused on why @johnmayer 's tweets don't show up on my feed 
+i'm SO confused on why @johncmayer 's tweets don't show up on my feed 
+my tweet deck is busted 
+@TheRealMrRiley yes wrong you was indeed for not replying to me tweet and it was such a caring tweet too 
+@sundaybusiness None of the links you've provided in recent tweets are working 
+@Kurisuchan192 your tweets make me sad. 
+@mattpro13 your tweets are so sad, in my interpretation 
+@jewlicious u did it? u organized a tweet up? And you didn't invite me  I'm crushed, officially crushed.
+@tagita yes she is!!! she never replies my tweets 
+I could only find 6 tweets with ???? on them.  this one included, I thought japanese were twitter addicts?
+@nessay what has happened to your tweets?   
+@RebekahHarriman I haven't got it working yet   It's all setup but tweets aren't coming through 
+@kittie86 last tweet is for you, I forgot the'6' 
+@sonotawesome I meant for you to be included in that tweet.. but you is leaving soon 
+@crownsandgowns why the sad tweet?!?!? 
+i wish i was on a boat.... (some one will get this tweet.... hopefully)  
+I was so so upset ystrday thts y no tweets 
+@xellepher I'm trying to work out which tweet that was in reply to... 
+I'm sad because I don't make up creative tweets like @owlcity does 
+@BattleshipMatt I can't remember being on twitter  I wondered why my i suddenly started getting followed by my drunk tweets
+@taylorswift13 what i'd like to know is why your tweets never show up on my page  maybe you're drowned out by @johncmayer HAHA
+@savethewabbit i have to delete all these tweets so they don't get back to him   haha
+@lifo you shouldn't be mean to @webreservoir. he's not a free bird or bad fish. i am. plus i think you hurt his feelings. no more tweets. 
+I may as well NEVER twitter because my brother twitters too much and no one sees my tweets! 
+ahh there goes another tweet 
+waiting for interesting tweets 
+@jonathanrknight @joeymcintyre @donniewahlberg @jordanknight @dannywood @nkotb Can I get a tweet, guys? 
+I hate wakng up to tweets instead of real texts 
+i haven't made my pledge on 1000 tweets 
+I seem to be missing some tweets  is it @scalaris or @twitter ?
+JUST figured out how to check my replies...i'm such a dork lol. I apologize for not responding to some of the tweets you guys left me! 
+@Tiffzeroseven  Makes me sad, I missed your tweets.
+Reading tweets....but not sending out any of my own 
+@PersonalSG i didnt get to read your tweet back... 
+my tweets have gotten ever so quiet 
+@MiSidebar I'm sorry if I missed ur tweet 
+i missed my 1111 tweet 
+@DDEarleyII awww I didn't get this tweet! Hopefully that was for me! lol You left the A out of APrettyLady 
+@sotapopp all of your tweets are showing up as gibberish. 
+I couldn't fit #TwitterRemix in my last tweet 
+@AlonaBreYan cant even get a tweet back? 
+@KimokoMasada I wished I could tell you to stop tweeting 'cause I'm bloody jealous already !!! 
+no more twitter in a while   .. tweet tweet
+you@snapplynn Wish that would have been your tweet after you followed me. 
+I hate that you can't edit loose-in-the-tweetisphere tweets, as you always notice spelling mistakes a millisecond after clicking 'update' 
+This is not a happy tweet 
+Oh please! I wanted to complete an unfinished tweet, and 5 tweets cropped up in between!  and now my tweet looks dorky.
+why @serenaamadea not replying my tweets? 
+why is @serenaamadea not replying my tweets? 
+@johncmayer I can't believe I missed your tweet.  
+i miss @mileycyrus' excessive tweeting. tweet more pwease 
+@dallas_tweets no I didn't 
+@mccabrera well thats not cool at all. your tweet mislead me 
+Note to self, review your tweets before pressing send. There is a big difference between 'by' and 'buy.' 
+@tahdeetz where have you been? i haven't seen any of your tweets on my twitterdeck 
+From the tweets I guess the nuggets aren't doing so well...   is the game over?
+k scratch that tweet plans failed.... 
+@KielysWorld i miss your tweets 
+@bookwhore :\ i'm not getting tweets. scroll down on my feed? i don't know how to reference single messages w/ a reply. :X i=fail 
+@bookwhore :\ i'm not getting tweets. scroll down on my feed? i don't know how to reference single messages w/ out a reply. :X i=fail 
+@bookwhore :\ i'm not getting tweets. scroll down on my feed? i don't know how to reference single messages w/ out a reply. :X i=fail 
+I killed the tweet deck. 
+I think @sydneyswans is too sad to keep tweeting score updates 
+I kinda miss tweets 
+@mrgenius23  to both of your tweets. You depress me.
+@JenEstroff I know, I know..it's tragic, all around  You guys better tweet and twitpic like mad so I feel like i'm there!
+@CYNTHIAMUNOZ :0 what the cheese fries? i am didnt you read my tweet to you earlier 
+twitter status: rate  limit exceeded!!  what 2 do now...........can't c any tweets
+@twitterapi   how can i htmlencode a query string to a  search for ?  to find musical tweets?,  doesn't seem to work 
+lol replied to the wrong tweet... I am dead sleepy 
+Guess I'll turn tweets off while i'm trying to sleep. 
+@KidnapDavey I love you too! is this tweet too late? I was sleeping 
+None of my peeps ever tweets  ....tweet tweet... tweet tweet
+@Documentally You know, I love your AudioBoos, 12seconds and Tweets, but your tweets are just so busy, have to unfollow (again) 
+@andrea1ista tweet your awesome news tweets from @miamiherald! No tweets all day 
+@wardnor where are you? you haven't seen your tweets.. 
+@aceweekly i didn't even know about the fair until i saw tweets going by about it. 
+@NoahReich yikes, stop spreading the negative tweets noah! 
+@JLSOfficial marvin where are your tweets?   illoveeeyouastonio
+@iLoveDemiSelena I know, I miss her tweets  Just have to be patient. She'll tweet soon.
+Why doesn't anyone answer my tweets i send out  GRRRRR
+still not seeing all my tweets  #mmwanted
+Ugh my tweets are showing in Tweetgrid....why?  #mmwanted
+I made you a tweet, but twitter ate it 
+My twitter app is being really sketchy.  I don't think I'm getting all my new tweets 
+@ashleykingsley hmm... now duplicate tweets. 
+My last tweet did not go through 
+Ahhh too many tweets 
+@wordlesschorus sober tweet.  
+I should start doing this for my tweets  http://xkcd.org/481/
+boooo @twitter has blocked me frm seeing @lalayu 's tweets again  #fail
+@sxxxh you need to stop tweeting about them too 
+@PhilsLion i feel like phil doesn't really take care of you, these tweets have me worried. 
+just got up. the bones tweets seem awfully sparse 
+My tweets keep posting late 
+@pico just feel bad for them  even I've talked to them sometimes. I dont like their tweets. Howww? :O
+Regarding my last tweet - I don't think human race will civilize itself 
+@kmtirpitz dude? no tweet back? 
+@chrisbillett dude, now i feel bad for my last tweet  but still, yum..
+@mona_tweets *hugs* I'll be thinking of you. 
+@viveksingh @meerasapra me too! i may need to cut back on the tweeting as well! 
+ I miss the blue highlight when I click on a tweet in #tweetie
+I passed my 2,000th tweet 12 tweets ago  #failcelebration
+@johnmaine i never understand your tweets  im too stupid
+@madmaggzyeah  will miss your tweets
+@Kaatje_68 lol I did that with someone that I was not following yet and they still got my tweets 
+missing @gerardway tweets 
+@danelovesyou what my tweets? i am sorry  hahah. i have ppl counting on my updates.
+@eddduran i am not receiving your tweets  i just saw them on the internet
+tweet deck is not working 
+i'm going to stop following some of you guys because...i can't keep up with all these tweets 
+sorry about all the tweets 
+my tweets are disappearing again 
+@nowheregirlnd That tweet sounds sad.  
+@technotetris yeaaaah.  but ohwell, it`s better than no tweets after 3 minutes. xD
+first tweet, no one has twitter, 
+There was only 1 tweet between this tweet and my last one and that's all the sllep I got... 
+@missyjule that's too bad!! =( a tweet up would have been ace! 
+@mkayes  I know 100% as an ex mate blocked me  Previously I could not even find her but now I see her tweets and that I am blocked
+checking for new tweets... busy hubby with no time for tweeting 
+@lucky2bjes ha ha! u must have felt me lurking! i will be there in spirit with some sweet tweets i hope. no streaming 
+My Twittefon keeps retweeting the same tweet over and over 
+i wish a celebrity would actually answer one of my tweets to them. 
+i dont think im getting all my tweets still 
+Not seeing my tweets to @MSWindows or @wegotserved in the twitter timeline 
+@writeinmovement  well I hope that douchebag is reading your tweets and gets the message.
+@jonubian I do, I do! I was overlooking your tweets until I realized who you were 
+its on but doesn't text me the tweet 
+Where's DGTweets? I miss her &amp; her tweets 
+@ChrisCavs I could send you some of the spam replies I got after that tweet, probably won't help though. 
+@sirimyhrom What happened?  I saw you put up your second tweet, was very excited, and I get home.... it's gone.  
+Still not getting new tweets 
+@melissabeck  He probably can't see your messages because your tweets are private.  @chrisbatdell @lionelatdell can you help @melissabeck?
+Isn't getting updates when singmeasmile tweets. 
+And I accidently favourited my own tweet and now it won't let me un-fave it 
+@wysongg eeeek i got cut from the list  my tweets must have been soooo annoying !
+oops, i have been forgetting to #e3 tag all my E3 tweets 
+@SpankRansom I'm trying to figure out why I don't see your tweets even though I'm following you. 
+what the hell is going on? what's with all the mean tweets? 
+that twich @tleebbyy passed my and tweets  my victory was sort lived
+@kathyireland your last tweet left me confused 
+@markhoppus the double tweets are back 
+Tweets are disappearing again 
+I need spell check on my tweets 
+@tommcfly I already sent you 6 tweets, 7 if you count this one. I will keep on tweeting you until you reply. So please, just reply now. 
+@tommcfly I already sent you 9 tweets, 10 if you count this one. I will keep on tweeting you until you reply. So please, just reply now. 
+@JocelynHWOOD tweet tweet! LOL I'm bored 
+@danielspengies dammit, I just lost my bet.. I said your next tweet would demand she show you her tits. 
+@desmondmichael @SarcasticMine @planbservices awww I missed the tweet-up  When is the next one?
+my last tweet is for US residents only 
+@jadzor I feel bad for laughing at your tweet 
+i have the most boring tweets..ever! i know 
+mm.. too many tweets.. too many tweets.. 
+@danishctc my tweets are also not showing up 
+It's bizarre how many sad tweets, unrequited love tweets, lonely tweets you see on the public timeline. Makes me sad. 
+@xelisamarie i read all your tweets but i dont at reply enough, sorry 
+@JonathanRKnight I think I'm not getting all your tweets 
+@dwayneyboy lol is it sad that all my tweets are directed towards you? 
+I am getting the tweets with a delay 
+twhirl not working....tweets not coming thru 
+i lost all my old tweets 
+@zanelowe your tweets confuse me 
+@chloerae i just read your tweet to the tune of menahmenah, so no. 
+TwitterFox still dropping tweets. 
+WOW u know i must admit i was  when i read jrk tweets. But then i realized, i never expected them to reunite. So 4 them 2 still be doi ...
+cant keep up with tweets they come up to quick  
+@ftskfandira well , i saw it and i'm so so so jealous when @iamjonathancook replied your tweet 
+@ethand_local what?! how is that my fault! are my tweets that boring? 
+I squandered my 2000th tweet 26 tweets ago. 
+@Lilayy don't feel sad! it makes me sad. you're the only one tweeting sad tweets  you can talk to me if you want .
+I am not getting the gents tweets  Why?!
+@glennishamorgan omg! I was reading your tweets and saw that about the 702 member. Wow...I didn't even know. I googled it. 
+waiting for @shanedawson 's tweets 
+@Taylors_tweets me too. 
+she said i text/email/tweet to much 
+@mdavis_ LMAO I missed ur tweet 
+some one tweet 
+@theOlsens your tweet scared me. 
+My tweets are nearly dead' i hardly update 
+I miss talkin to my tweet buddies 
+tweets far less enticing/interesting when you accidentally hit the return key before you're done 
+Ugh my tweets are disappearing 
+A flurry of tweets and then it all goes quiet 
+Still waiting for my first tweet!! 
+have to be more careful to spellcheck my tweets 
+@thancrus What is going on with you? Just now seeing all your tweets from last night 
+@brucecat why you no tweet me anymore 
+following the tweets for #libcampnyc and wishing i was able to be there 
+what happened to my spreadtweet? i can't see any tweets 
+@charlesgregory I wish I could find it. But there have been a million tweets since I sent it. 
+1000 tweets! And I missed it 
+@Fillycheze I'm very sad that you corrected that tweet 
+I was still receiving tweets, I just couldn't update myself. 
+What do you think about these 'sponsored tweets.' I'm not likin' it.  
+@KISHAAA and you say you read my Tweets lol  what's up! 
+@theDeanoRama ummm, i answered all your tweets 
+Inevereverwanttofallinloveagain.  What a terrible tweet! 
+Inevereverwanttofallinloveagain.  What a terrible tweet!
+@cosmicJase - yay! i've only done 347 tweets, shan ! it is shan but i cba to switch it over 
+@jcrixell I love all your tweets! It makes me feel like I see you more than I really do 
+I hate getting porn tweets I get happy because I think I have a follower then I click on it and there's a big wenis starting at me 
+all the tweets r filling up my inbox. 
+@Vodouman And I was SO hoping for a successful booty-tweet 
+Last tweet 
+None of my tweets are posting 
+It won't post my tweets 
+@herfragileface you didnt reply to my tweets. aww 
+stupid twitter is no longer sending my #jessicaveronica tweets 
+@kristenlubbe  awww i just saw your tweet!  would have loved to seen you tonight!
+@PostGay Your tweets are showing up in my stream again, yay! I've been missing them! 
+Confused. I don't know what all the icons do. And I can't understand some of the tweet vocabulary 
+Tweets at 4:30 ftl. I just woke up and can't get back to sleep. 
+@1outside and no tweeting or bliping there either 
+a tweet I sent via text seems to have gotten lost in the twitterverse 
+There's definitely something wrong with my twitter account! Not receiving tweets from any fellow tweeters! 
+@LelyAnne it wasn't only your app that was acting up.. So was mine and I lost a couple of tweets bcuz of it 
+Byee tweets! :S 
+#twattypos ... most of my tweets, sadly. 
+... my last tweet:I dont understand edufire 
+@DavidArchie read my tweets  there are 15 i think?
+I lost a follower  somebody doesnt like my tweets
+@jyusan @wirbelwind1111 ahhh I'm not going to translate 30 hungarian tweets! You two make me sad 
+I'm going to barf soon, I did NOT like that tweet! 
+Does anyone else get overwhelmed by their tweets sometimes? I cannot get all my tweets on my phone. I get overwhelmed and can't answer. 
+@smuggling why havent you responded to my tweets at you 
+I've been slacking on my tweeting. 
+@emzyjonas I have to reply on this one as reached the amount of tweets on the other one and no it wont let me  x
+stupid twitter made me limit the tweets after an hour  x
+@junkiecat he does? btw why does he never answer my tweets? 
+@YoungCivil About what? I just saw the tweet 
+@alyssabee I'm sorry I didn't see your tweets! I think it's too late to come over, though.  I miss youuuu!
+i guess i'll just post results since all my tweets didn't make it 
+i think u all know what happened i had to many tweets  if i get too many tweets on here then i'll get mad
+@mcflyharry harry, you need to get on more often. i miss your tweets 
+no tweet. 
+I retract that last tweet, just been on the site not as good as i'd hoped 
+I'm sorry everyone for the double tweets.  I think I fixed it.
+Phone's dying - no more tweets tonight. 
+@radiotool I don't think they got the tweet. 
+@MRDIAMONDS29   hhmmm, did u not get my tweet 
+@Bytor2112 oh no!! I didn't see any recent tweets from you!! I apologize! 
+@innabinna Fuuuccckk yeahhh sushi. I don't kniw why u aren't gettijng my tweets 
+My tweets are bmmessing up... 
+my tweets are disappearing again 
+@ewaring where did your tweets go?  i miss them.
+@nicholasbraun - Why don't you ever respond/reply to my dirty tweets anymore? 
+@wayz123 For some reason my tweets aren't showing up on your profile 
+@twilightnewborn definatly this is my twitter backup got locked out to many tweets in one hour 
+When I get bored I want to post a new tweet. But I'm really just not that interesting. 
+is leaving now. irdk when I'll be hoome, so no tweets it's sad 
+tweet with me please 
+@MariahCarey And I get to see your tweet 3:27 later. 
+@JonesBeach_1988 I just read ur tweets...so sorry that happened  did you already pay for the tickets? if u did she needs an ass whopping
+when im in zante i wont be able to send any tweets   i will honstly miss it. but when i get back there be lots more to say. i promise =D
+Not much tweeting going on todayy! 
+JustAliceCullen is out of tweets everyone... 
+@laidbackknitter @knitterbird @a_startrek thanks for the tweets - it says sold out, but I thought etsy auto picked up relistings 
+I've been neglectful of updating my tweets  going to church
+@JBenitez5 I am never singing along with your tweets ever again! 
+@RenaAshley I was dead reading your tweet to me.. Wttt? I don't know 
+@JustinMGaston no  please don't go, I love your tweets!! And I love youu too :* you're so cute(:
+Wishes twitter had a better way of organizing the tweets you get 
+@ShavannaRene it's not ruined. And stop ignoring my amazingly cute tweets i'm writing you 
+Some of my tweets seem to be missing. 
+Too lazy to read tweets. 
+No more tweets!  
+Is completely destroyed cuz she missed @joeymcintyre's tweets earlier 
+@gerzMusicalDove no  she got so many tweets.......... *sigh* @mileycyrus can u reply my tweets??? pweesseee.. lol
+@twitterfon is not letting me delete tweets. 
+@raedsam the percentage of tweets with quotes against tweets about getting more followers has dramatically decreased bro 
+My tweets will not be like @stephenfry 
+@vishwanathrulz I thought u log on to chk my tweets... 
+@DavidArchie hahahaahhahahahahaha. I'm sorry u couldn't sleep  but ur tweets r so funny!
+about to remove power tweets...its pissing me off!  although it is still cool
+Misses @tommcfly tweets 
+ well this is my last tweet for 7-8 hours. byebye tweeters.
+@jennl80 but sometimes it doesn't show when my Tweets reply to me 
+I have been sitting here and I still can't seem to figure out a creative tweet for my #squarespace entry 
+Not gettin all my tweets,  wonder why? 
+@Saienas you have no happy tweets. 
+@jessica91481 I miss your tweets... 
+@vprincess You just made me excited. When I finished reading the tweet it made me sad. yaboo 
+....Does anyone ever read my tweets? 
+@babygirlparis  no f/u from my many tweets to you
+@LEADIFONZO so hayley can't see what you're saying to her!!   stupid 140 characters i had to make this 2 tweets &gt;:p
+I've got the twitterfon blahs... I miss my tweet tweet from twitterrific 
+@hotbonita i just got your tweet about my drive...  i went to tahoe.
+@Dyemonde I'm sad   b/c u turned of your tweet alerts!
+nevermind disregard my last two tweets. 
+@Inluvwithjon when did danny tweet? I didnt get it  damn you twitter!!!
+I've been receiving spam tweets  How do I get rid of them? 
+Why can't I see my tweets except for here? 
+just thought of a good tweet then 4got it 
+@tonyandco your tweets always tend to make me hungry 
+twitter is eating my tweets 
+oy! i really dislike scheduled tweets. it makes all this seems so impersonal. 
+@starsthatshined how come they cant stay together?? their tweets r so sad 
+@shannyw I don't know which tweet you're replying to  lol
+@chrissiexm We're shy  or our twitter stream is so busy we don't see the tweets...
+@ShropshirePixie I can't see your tweets any more hope 
+@LynneHutcheson did u get a tweet from him????? i've never evan had one yet  feeling a tad left out 
+@robertgould Have you noticed there's been a couple of tweets recently about #tweetdraw? Unfortunately about starting tweetdraw, not ours 
+@claudrod I deleted the tweet  (for undisclosed reasons haha)
+@myelle911 just a tip: don't include #squarespace in all of your tweets,they don't  like spam 
+omg my two previous tweets so don't go with each other 
+missing on all the tweets...busy working  @ http://moneyworks4me.com/
+@RobertHruzek realised my previous tweet was unclear. He was flying in on 9/11 
+I take my last tweet back, I have no one to walk with 
+still slacking on my tweeting. 
+I want 1,000 tweets 
+@keirikyoki some of your tweets make me go like this 
+@PaulHeylin im off must go to da hospital  tweet later
+@DesignerDepot your last 2 tweets are broken links 
+my last tweet got erased, it seems 
+@juliaroy what? no twitpic with that last tweet? 
+I think most of my tweets are about my feet...I swear, they really hurt! 
+that last tweet sounded a little crazy. the cough medicine is getting to me. working without rachy 
+@jrkcochina40 hey... just got ur tweet. i think im going. still not sure yet 
+@KatjaPresnal and magpie is still around  just saw 5 tweets hit my stream ugggg
+feels like his tweets are being lost in the internetz. 
+I've been the worst about tweeting/reading tweets. sorry guys 
+@AgynessDB ditto to lost tweets 
+@tweetdeck i cant favourite any of my tweets? 
+@RayBeckerman my last tweet was to you 
+going to bed, i'm really tired! and sick  tweet tweet!
+@ericmikhaels are you ok? Your tweets are making me sad 
+Either nobody is tweeting. Or twitter turned off my mobile tweets again.   -9.15.08 &lt;3
+@ajs0792, im not getting your tweets 
+wondering why my blackberry isn't receiving tweets?!? no updates since last night.   i need my tweets!
+What is up with twitter? I'm not getting my tweets 
+can't wait for my -finished my essay!! tweet 
+Testing 2 c if this is working. No tweets coming through 
+@psdbny hey, you still have to add me cos i can't see your tweets! 
+@rburdick r u able to scroll thru tweets? I can only see the most recent four. 
+My apologies for being too busy lately. I don't get to read tweets and make comments at work so my @'s are like 4hrs later 
+@adammshankman I tried to read the rest of your tweet, but it wouldn't open   I love reading what you are up to!!!!!
+my tweeter is broken. i think my tweets are going out but nothings coming in. i guess it's my tweet receiver thats broken then. 
+@roseji27 still not getting my tweets   why??????????????
+@tweet0332 I'll notice! 
+This tweet app is not working right. 
+first tweet! i lost my checkbook 
+@lisisilveira I still don't see your tweets in the thread 
+twitter is pissing me off completly!! apparently my phone no longer works for tweets. 
+@thisisryanross what's up with the depressing tweets lately?  they make me kinda sad.
+@Silverlines - I guess. 'Cause one of her tweets says she is confused. 
+I missed flooding twitter with my tweets. 
+@bradiewebbstack i bet you wont reply to this tweet  that'll make me sad.
+@angelicbiscuit My twitter client hides tweets from me too 
+@tbevan that was the geekiest tweet i've ever read 
+@changroy vacation made me get behind in tweets 
+I can't remember when was my last tweet...so busy with all these crazy projects 
+Pooey not gettin new tweets still  silly twitterberry!
+Still no tweets. 
+@ktsummer I'm still not getting any tweet txts to phone. 
+@schofe what is this tweet deck ??  I'm clueless
+@at3k we need tickets!!! diplo did not respond to my tweet 
+I am so missing out in twiter land...reading old tweets trying to catch up 
+Not seeing too many tweets lately 
+I'm not authorised to see @BrokenAngel tweets anymore. she h8s me  
+I've been neglecting my tweets. 
+testing...my tweets arent populating 
+@BethanCollings I know! I want a tweet from him!  He's doing shout outs! But not to me! haha! He's so hot to!
+is lousy at tweeting... 
+@gryffindorgal87 I miss our regular tweeting too 
+@danf2201 maybe you've just been too busy to read my tweets! 
+@kirashane twitter something! i don't think i am getting your tweets. 
+So i just got online and checked my twitter and i realized there has been a ton of tweets that haven't even got to my phone yet. 
+tweet this... babeeeeeeeeeee 
+$$$$! Bad news is now no players can use phones. No more tweets from @kwickfish. 
+@is_selene: Awwww, no!!!!   what tweet(s) didn't you see??!!
+@owieh this tweetdeck's stupid!!  it keeps telling me ive got new tweets even though i've ticked them off!!
+spelled weird wrong in her last tweet.  
+@journauxit0 I want to laugh too  but I didn't get it... miest tweet?
+aw shit. my tweets exceeded. 
+i miss @tommcfly 's tweets 
+How come i never see @aplusk 's tweets? 
+@IAMtheCOMMODORE i've missed you and your tweets. You mainly... 
+Oh I can copy and paste a tweet I'm typing 
+@Jonasbrothers your tweets seriously suck 
+@fluffysucks You're back! Missed those tweets (in particular the quotes). 
+When will @paulBLG would reply my tweet 
+@mynameistilly when i read those tweets i cringed for you. it must suck. 
+@06eleven hey! Where have all your salacious tweets gone? 
+JJEEEEZZ , no tweets for mcfly  x x
+minutes n no tweets 
+@JustinMGaston Your tweets are sometimes depressing. 
+so bored. and scared that I'm not getting all the tweets I should. 
+i'd be going now tweets.  school enit,   tweet later..  much lovee to everyone. xx
+damn, grammatical error on previous tweet lol. cant delete my tweets from my phone 
+@gfalcone601 your very slack on your tweets lately 
+@meggismiles Wait, how did I go to sleep before the undressing tweet? 
+@LucyBowen sooo excited about seeing actual mcfly @dougiemcfly  @dannymcfly @tommcfly and @mcflyharry! i miss @mcflyharry 's tweets 
+... that means no mor tweets! laaammmeeee 
+Trying to look back &amp; see who it was, but can't find the tweets... sorry.  @LuxieRyder
+have anybody else's tweets by text been deleted or is it just me? 
+I'm not even at 1000 tweets yet. 
+I am not getting any fuckin tweets  lame.
+@twhirl is very slow in updating tweets  #fail
+@annaroche I'm addicted to tweeting 
+I'm eating a pretzal. I can't delete tweets here and jtv isn't working. =/ the internet hates me 
+@andrewbsims @elisalovorn your haikus don't show up in the trending topics b/c your tweets are on private 
+@GIFTUSEEME I have done at least 80% of the shit on these tweets. 
+i don't know how to tweet, or see my tweets    i don't even know if that's a correct sentence!
+wow his tweets make me wanna cry 
+sorry got sucked into spam tweets. 
+900 tweets. Still not as sup'e qewl as Savbear. 
+why am I not getting @MSamateurradio's tweets? 
+first tweet! studying for bio 
+@RocBoi I can't get D on my timeline anymore. I miss his tweets. 
+@michaelcurtis23 forget about the takamine. i don't need it anymore...  you reply to tweets more than your texts.
+@DavidArchie you can't see our tweets can u 
+trackle can you confirm that you are getting my #trackle ? I think I've been wasting my tweets! 
+@tamaryn I know you know... lol! I try to avoid those tweets! But I see a downward spin 
+@wheelz_tweets Talking about removing me 
+@rpmyers I am now depressed by your recent tweet 
+@RedJeans542 Why don you hate me and never respond to my tweets...it makes me sad panda 
+I finally had the hang of it...and then new tweets wouldn't show up anymore 
+@iPatxx aww I'm sorry  I mustve missed ur tweets!
+@AlexneedsJK i'm asking the same where is @jordanknight ... i want a tweet from J before i go to sleep 
+ugh , what happened with twilight star's twitter ?? i miss 'em tweets 
+@rhonnie_mcfly you dont like seeing all of my random tweets 
+@LiveLikeSin I wish I was the tweet king. 
+Just realized i post bad tweets...  
+@ktintin I'm used to tweetie but lately it's been glitchy and I hate how there's blocks of missing tweets 
+@adriannaa I totally missed your tweet! 
+someone wake me up when the epic bradam tweets start. my tinhat is going all sadface without them. 
+BORING. i dont got tweets anymore 
+aw where are @TownHallSteps1 ?? i miss theyre tweets  lol x
+@chromasia I like it but can't open links in 'previous tweets' from users 
+@IndywoodFILMS too many tweets  i dont want to unfollow you
+@balliever biiiiiiirchhh  why are you ignoring my tweets 
+@kaypros I don't seem to be getting all of your tweets just the occasional one??  
+@JonnyGoFigure thank you. I was really curious. thought my tweet would be ignored 
+I miss @jeweljk tweets  but keep following her! she'll b back...
+this is starting to be a daily tweet for me: work, dnw 
+@jaybrannan just letting you know.. your recent tweet makes me feel bad because i was JUST about to go home and make ramen. 
+@kc_concepcion u never answer my tweets! huhuhu! 
+I'm okay!  I can't reply to tweets though 
+I pulled the battery out and it still wont upload my tweets even when I click refresh 
+ahh need to change my password. tweets keep popping up that aren't from me! 
+@jmckphotography see previous tweet. 
+@JessLalonde from reading your tweet, i don't think i have to watch... 
+Where is @jakeofficial....he's definitely been too quiet, miss his tweets!!! 
+@DakotaMac thank you soooo much for that tweet, my windows are open 
+Really annoying Tweets! 
+Wondering why my sms tweets are being delayed... 
+@brittanly double tweet  haha
+Why are my tweets so delayed? I use to be known for getting them right away 
+I feel like the aforementioned pills read my last tweet and decided to be completely ineffective just to spite me. That is low 
+Why are everyone's tweet so saddddddddddd! 
+@NKSuseDHTweep I don't know how to do that from tweet deck.... 
+morning tweets tweets!!! breakfast and then study....these exams are so hard 
+@niamhck I am rationing my tweets 
+@bbereal that twitterific tweet was not from me 
+dont know wts wrong with twitterfox my other a/c not updating tweets 
+so long didnt tweet. rotted ! 
+@nut_cookie your tweets just now are making me seriously cry 
+@jackieyaadiggx3 done what to you?sorry I can't see what tweet u @ replied too! 
+@avidjon I tweeted info but forgot to put your  @avidjon at the beginning of the tweet 
+@Muggs22 I miss your tweets! 
+@angelashushan i know it sucks, right.  it's mainly his 'crew' that tweets. but i followed anyway
+I wouldn't post so many tweets now. Need to help @imsickofcrying with the style to tha' new Fanpires lay!  It woooon't work!
+I am asleep  my typing has seriously suffered in the past two tweets haha.
+@paulaabdul tweets me back tooooooooo.. 
+@EricaMarie_09 I just saw your tweet. I know, i'm sad. 
+@Princessakari Tremi is pretty much confirmed with demi and trace's last few tweets to each other 
+@johnhood just skimming tweets, not available? 
+is rather gutted that heat hasnt posted posted any tweets recently  also, ben stiller's twitter is no more, what is the world coming to?!
+@mattjorgdbb yeah, i know  But I've just kept tweeting #dontyoulove and #dontyouhate tweets whenever they come to mind ;)
+@KimEllis your tweets are making me jealous. i wish i was there. 
+@andy457 I miss hearing your tweets though 
+@Taylors_tweets i won't be!   
+this should soo be an interesting tweet but its not 
+@jonathanrknight @jordanknight @donniewahlberg @dannywood I know u guys get TONS of tweets but I feel invisible 'cuz I NEVER get a reply! 
+Wow.. it took me 20 minutes to back-read tweets o.o      You guys do heaps when im sleeping 
+wow that tweet was lame. I am so freaking boring. 
+@wtcc you forgot to mention also your lack of tweets 
+@robyndanecki I just got your tweet  I guess it's a little late now. :/
+@jonathanrknight @jordanknight @donniewahlberg @dannywood I know u guys get TONS of tweets but I feel invisible 'cuz I NEVER get a reply! 
+@rainecsy Lol! I still can't see my tweets on my blog! 
+@KeniLouise @StephGregor @NJLowe why has the tweeting stoped....twitterland is dead 
+@franserraga what did her old tweets sayyyyyyyy 
+@AimeeJ16 why do you never reply my tweets? 
+@MysteriousMysti tht he went to disneyland lol. still no tweet from him as of yet. i may never get one  
+I've just realised I'm mentally skipping tweets of green icons. Partially as a result of #iranelection overload 
+is wondering why @tommcfly @dougiemcfly @dannymcfly @mcflyharry and @mcflymusic are not replying to my tweets! 
+My tweets aren't working 
+@karensanandres aww, that's a sad first tweet. 
+@katlilytwit I'm sorry  are you still planning a phoenix tweet-up or what?
+tweet stats are down 
+@djlostboy i was talking to you i didn't go poof you don't get half my tweets anyway's 
+@maxknee aw you live too far for my modes of transportation  i'll enjoy them vicariously through your tweets
+@TalaSibaee still blurry  and no tweet back!
+So sad i'm not getting wendi's tweets     (*pouting)
+@ryanboken I just read ur tweet about running over a bunnie. How sad!!!!  lol
+i feel so left out i only have 518 tweets. 
+why are all my tweets about food 
+@mororke aw no tweets so far 
+aww i dont think my last tweet worked... 
+@1capplegate i haven't seen a tweet from her lately either.....  
+since only a single #squarespace tweet will do - what are my chances of winning 
+tweet deck is being gay 
+Is wondering if/when I'll ever have a happy tweet. 
+@yargman oh no some weird person who only had like 5 tweets and they were all insulting me 
+@iheartfez6 I'm sorry my tweet 
+@LedgerEnquirer I don't know what happened but double tweets are back 
+Missing tweets from tweeples im following 
+@thestuntdude where u @ homie no tweets? 
+I need to think of a few more tweets to get past the 666th tweet. . . . .    
+awee! i want a bubble tweet too 
+@ZachWightman wow and I never got that tweet haha. my phone barely gets any tweets for some reason &amp; I wish I did  I wanted panera so bad
+@KristinaFBaby no tweets 4 me either  I feel so alone
+crap, i broke 10,000 tweets. i should probably just shut it all down and go live in a cave. 
+@jovialady I actually like his tweets  But yeah he would have to go too
+sorry some of my tweets are not appearing 
+i have no good tweets lately 
+twitter world: why can't i delete some of my tweets? it's so embarrassing to make a typo and not be able to fix 
+scratch that last tweet 
+This is a pseudo tweet 
+@jupitusphillip sorry too much use of ... and !!! in your tweets for me (I can't take the excitement). I'm off 
+I hate the way this app sometimes posts my mssgs as tweets! 
+not getting my bff's @ruthie_0_o tweets today 
+@ASHSTUHHLEY thanks for being such an active twieeter, if it wasnt for you, i would get no responses on twitter  so you get my 300th tweet
+@gorthx just saw your flood tweets. lame. 
+@futuresex damn it!!! i guess you miss his tweets you had to make his crotch your default 
+@indialoiselle I forgot the @indialoiselle in that last tweet 
+wooohoo. you're so back @lemongeneration! i missed your fob tweets. 
+@thombob see I felt so crunchy I erased my tweets  no you're mean to me!
+@twinatlantic D'ohhhhh, I only just noticed your tweet. I better search the www to see if I can listen to light speed 
+@ugottaluvruggz and i wont b able 2 tweet 
+@bealibrojo I just saw your tweet. :| 
+182 tweets.....great now its 183 
+@twitter Is there hope for the tweets that disappeared? 
+@ZoeAimee touche! is everything alright with you? I noticed your tweets earlier. 
+digsby ate my tweets 
+@lindaldavep some of your tweets are coming out jibberish... 
+@theoreticalgurl sorry to hear there will be no tweets 
+@sunnysully1  sorry about that bar tweet. I don't do this too often.
+@techquo saddest tweet ever 
+@koolgirl37 read my tweet below 
+@mozunk you can do that. just go hover over the tweet in the favorites, then tweet, then favorite. it will unfavorite it. 
+@ankeshk that one was a serious/concerned tweet 
+@LucasCruikshank heyyyyy its fred  i love ur fred videos &amp; i keep thinking all your tweets are in th fred voice and i crack up lol ily
+@CoachDeb haha no not yet... but i will be soon if i don't get in bed now... so this is my final tweet................ for now 
+@hamjam01 sounded to me like you have a good understanding, which is why i was drawn to your tweet originally 
+A tweet tweet here and a tweet tweet there! Goodniiiight!! 
+@destraynor So maybe twitter *should* cut down to 11 chars per tweet 
+Goodmornimg tweets 
+Now I must sleep I hope to wake up to all kinds of entertaining Tweets. I don't worry you guys never let me down.  
+Just read all my tweets I sound like a dork haha  but that's just me
+what fun tweet tweet tweet 
+@Bellaventa I'm pretty sure I agree with all of your recent tweets... the gym one on particular... but immigration too 
+Testing ipod tweets 
+My first tweet. 
+tweet #2000 ... awesome 
+@geekcoach you're faxing in your tweets then? 
+@bubbleguru i love the bubble tweets! i will be blogging about them shortly 
+@loudmouthman I love your good night tweets 
+@allymisslove I luv that song! I had to bump it as soon as I saw ur tweet! 
+@JillianMJensen they totally are!!   let us know if you are coming to it!   thanks so much again for the tweets!  
+@VBalasubramani I love @nikiblack's dinner tweets and pics! 
+@dustyedwards For sure, keep up the great tweets 
+@tonycDMK hahahha  so thanks to my tweets, what did you win?
+needs to be entertained!!! tweet me 
+JEAH! y tweets have magically returned. don't know how or why, but I'm back to tweeting my ass off 
+my first tweet... wanted to keep it short and sweet... 
+@ddlovato whoooooa, international demi tweets... 
+my 100th tweet.  and i am leaving you all for a few to take a few pictures.
+@iBeClaud what did you mean with  in your tweet to me ? 
+@silverlines see @almaviva's tweet, 70K for 3pcs 
+@harisn ohk  (tweet deleted)
+@dougiemcfly We will miss your tweets  x
+working this whole tweet deal out 
+My first tweet, revising or trying to at least in uni labs... Boring (like this tweet) 
+@abitmel @sachahaize @OMGShoes2012 congratulations!!! you all stopped following me after the same tweet. 
+@wag1960 cause your tweets make me smile 
+So uploading that tweet to facebook. 
+removed the last tweet, I just read some parts and got swayed 
+love the 'delete' feature on nambu so you can get rid of all 'read' tweets 
+@luckystar37 i totally @'d the wrong person on that tweet! HAHAHAHAHAH 
+@Teach77 how's your cursebird ranking going? lawd your tweets lately lady! 
+@compsolutions That was one ?B tweet. 
+@syrianews it's banana tweets: http://nikibrown.com/bananatweets/ 
+@ripmilla u tweet while live in beartai? cool 
+Reading tweets. 
+@mussomitchel (L) your so sweet! tweet me back  x
+@iHomeTech You are welcome, looking forward to your tweets as well! 
+@judrop1948 No probs! Looking forward to your tweets. 
+@raquelaraquela  tweet tweet
+@boburnham  His tweets make me lol. 
+doeth think that @carissaspohia &amp; @joeyirsik are keeping us amused and entertained via tweets 
+@RealGraemeSmith your tweets/twitters whateva r so entertainting!!h 
+Everybody wake up and goodmorning tweets 
+I'm 6 tweets away from 3K 
+G'morning tweets! 
+@tweetie can we have a different colour for our own tweets? Like ... green? 
+@miralize You're my first vibrating tweet 
+enjoying breakfast and catching up on emails and twitter 
+@forshannonski I assume everyone's tweets are about me and only me 
+@Serjeniu lol ... all great tweets too!! 
+My first tweet 
+@mightydinosaur I assume there's some intended/unintended irony in your tweet? 
+i'm so special that  @Xaviermagnus tweets about me 
+is makeing his first tweet 
+@samkretchmar just saw your tweets, glad you're ok 
+@phoenixpirated... and which tweet would that be... 
+@annekinla lol I was dosing AS I was writing my last tweet! was saying my alarm 2 wake would b going off shortly. 
+@DaBombChele @007wisdom @LadyJudi @lovepeaceunity  THANKS SO MUCH for the re-tweets! 
+@akitty13 Lol I stand corrected (tweet tweet) 
+@Gamdel: your tweets totally crack me up 
+tweet tweet all tweet night !!! all tweet day 
+@spoonme rightttt this is one pointless tweet 
+Having fun following the #awaresg tweets  - http://tweet.sg
+@ericisbananaman Pleased to meet/tweet you too! 
+tweet tweet i've always wanted to do that 
+@teapoet Here's a tweet for you 
+my tweets are good 
+@BritRoshambo you fail at tweets too 
+yeah, many tweets 
+@thecreativepenn just wanted to let you know i enjoy your blogs and tweets 
+I'm off to town, tweet you later 
+first tweet  does this make me a twat now?
+Morning tweets 
+@murphymath Don't you hate that you can't edit a tweet after you send it!  
+Phone tweets, then sleepytiems. 
+@RatedGRomance not often, majority of them are interesting and tweet often 
+@EarthMotherHeal  I'm glad you enjoyed the tweet 
+I had to retweet that retweet tweet.  lol
+Thinking of a soppy tweet I can write to @mulers for @jumoke 
+@mamastephf hi! I always love seeing your tweets on here...also love that you found amy g! 
+damn, youtube has deleted it . when i do, i'll find tweet it 
+@NicolaGaskell positively Dickensian in your tweeting 
+'t completely answer correctly so I did not get a tweet back.. But I am still satisfied with being right!  
+@justineville ...yeahhh. ) i'm 39 tweets from 1,600! 
+13 tweets from 1,600! 
+tweet tweet I'm awake^^ lovely weather 
+is about to go downstairs for breakfast.  tweet tweet!
+@jonathanrknight you are having so much fun with this tweeting 
+@lefranzine *hugs* we all tweet drunk now and then 
+says bye twitter! tweet tweet 
+@mcflymaddie LOL i hope they reply to your tweet 
+off to see my grandparentss  tweet later x
+@itsonlywords Totally understandable. I've botched more than a few of my own tweets. 
+I highly reccomend screening of these tweets... @thechristinakim is now on twitter 
+@BlancheMaynard But sometimes it is nice to re-tweet without first shorting the tweet is n't it 
+@ArmyNYC A tweet up is when tweeps meet to greet in real life. 
+@AmyEvangeline @FreeFinally Thanks for the tweets.  
+@mikedags you're last two tweets, wow, just wow, fagggg 
+@billbeckett two death cab references in one tweet 
+@TiffAmberJones Hey - thanks for the tweet! 
+I always forget to put #hittest in the tweets. 
+@eb_fourside We send you tweets though 
+Writing my first tweet 
+@calbo i incredily love reading your tweets! they're so entertaining, keep it up. 
+posting my first tweet!! 
+omg 44 tweets till 8k  and only about 90 tweets difference btween b and comedyqueen 
+@calebhawk i cannot deal w/ this tweet. lol. 
+@13rianDavis sometimes ... you just have to write it off ... and start from the top of your tweet stream.  The past has happened 
+@andwoahalex my tweets??? i rofl'd at this 
+whoops...  not  in my last tweet
+@farewellcup thank you for the re-tweet 
+@ddlovato : yaaay,  you're back .FINALLY!!! i love reading your tweets ;D. and you ;P 
+@jlamshed You're sending tweets to yourself again! 
+like the sound of a tweet 
+@applespotlight hey great tweeting keep it up! 
+30 more tweets till I get to 500!! 
+@SinnamonS yipee!!!!  don't die! We're just here to engage in conversation! LOL tweet tweet tweet!! 
+@titipon  you should make some moar tweets. 
+@earthXplorer that's a nice tweet!! 
+@SheilaUlrich @shannontalford @Jfavreau @MPMEleanor @JimSutton5 @ptnetwork @tdbriz @TomDuong @cmalesic  THANKS SO MUCH for the re-tweets! 
+@TheDailyBlonde I agree wholeheartedly with your last tweet!!  Hugs 2 u!
+tweeting again - first time in a year - wondering what the tweet is going on it the tweetesphere and if my tweets will be sweet tweets 
+@sinfulsignorita tweet tweet 
+@bobbyllew You're four tweets from 7000, make it a good one 
+@Supersims3 Oh sorry, your tweet got lost in with everyone elses tweets lol, I'll try and get it made today for you 
+@dbvictoria I'm responding to the necklace tweet! 
+@gloriajpruitt she got ur tweet! I got her driving right now lol so she cant tweet 
+@littleburger context clues...ur tweets are well worded, most women have better grammar 
+Off to bed my twitter tweets...sweet dreams to one &amp; all!  (I think this heat is getting to me)
+@lipodoc I've needed one or two encouraging tweets therefore, we spread the love, it comes back around. 
+@augnbudsmom @quotesource @firstpagepro @successwalls @allthesimple @VisionTwits @debrasteele  THANKS SO MUCH for the re-tweets! 
+Used every one of the 140 chars on the previous tweet 
+100th tweet. tweet tweet tweet. study break/showering now 
+tweets are back again 
+@soefira Unfortunately, I don't feel I know you well enough to actually respond to that last tweet. So. Many. Jokes. 
+Writing my first tweet 
+@Adamszr i see you are starting to like tweeting. be warned: it's addictive! 
+@CruciFire okies!! that works  @fraands .. btw, I cant see the tweets there.. can someone accept me?
+(@canbernard) lol after i sent that last tweet, they actually shut up 
+How can I keep up with all the tweets?!?! 
+@arselyn29 tweet tweet. 
+i'm a bird &amp; this is my first tweet ? 
+@Dannymcfly it just shows that u had a fun night!  tweet tweet lol, u know that u dont always have to put a tweet into your tweet haha 
+How can I keep up with all the tweets?!?! 
+@colwar just added more sponteneity to yr tweets 
+@cdavid We know the great potential of your Tweets! 
+@ceruleanbreeze You hit a tweet-limit again? 
+@jennybee with @sizemore's tweets, context is everything  http://twitpic.com/55dlw
+Morning tweet tweets  ugly outside. But I'm feeling good 2day  positive thoughts!!
+@tericee You sure? I get 5 tweets with that tag, so it doesn't feel like a meme just yet... 
+How can I keep up with all the tweets?!?! 
+@rikkeflamingo yay I'll dedicate my #485 tweet to you! 
+Why do y'all tweet?  #whyITweet
+Goodmorning tweets! Putting on my eyelashes 
+@xoxkatiexoxjbxo LOL i know you do, add #jonasparanoid to all of your tweets so that they get in trending topics 
+@cairnmont and besides..i am not afraid of anyone on twitterville.  This is fun to me and always will be.  I love meeting new tweets 
+@kunalgangar @lalitgbhise I know..that's why the tweet 
+i feel like crap! no really, crap! if i were @thesquirts i would've had 50 tweets about it by now. 
+oooh I've just hit 100 tweets...  oh dear it's 101 now! 
+@grshane I promise no distracting tweets tonight so you can focus on your studies 
+How can I keep up with all the tweets?!?! 
+i heard ppl like my tweets cus there crazy! &amp; u like to read them! 0 thanxx 
+hello tweets! im new here 
+well luvies, i ave to take my daughter to netball trraining..tweet soon 
+@erininstereo miss you too! haha i enjoy your tweets...very entertaining 
+it's time to tweet,tweet,tweet 
+@UrmiRaj14 heya urmi...just read your tweets and realized what happened...all the best!!! hope you manage to get your copyright enforced. 
+@bertmccracken this is your first tweet in agessss. where have you been? 
+@leyow so how's tweeting? haha. 
+@injerarufus I do now, but sometimes they get by me. Followcost is an interesting little app  apparently 71% of my tweets are replies.
+@IngoHoppe Do you use a randomizer for your tweets now?. 
+bye tweets, need to go now. 
+and in my tweet earlier it should have said slept 
+@Dojie most certainly did.didnt you read all tweets about it.bein on here made more fun.lol ows you? 
+@JaredWoods Dude, that tweet is so favourited 
+@lewie_au its weird for us coz the tweets are ahead of what we're seeing, but it's still funny 
+@tommcfly how can we not love your tweets tom 
+just got up my legs ache sooo much ! i can barely walk - not good , can somebody reply to my tweets coz im quite bored talking to myself 
+@weeps I saw a tweet about you coming here 
+@tommcfly I really enjoy your tweets 
+@mayhemstudios just favourited that tweet 
+@KTVee lol me too! waiting is much easier when you can read through some tweets 
+writing my first tweet  
+@josephmccoy  not at all ..tweet away honey 
+@khasidyjonas i read ur tweets! 
+off to bed now... nytynyt tweety tweet tweets... 
+@ildolceamore You know, since you graduated you've been slacking on the tweets. I miss the pearls of wisdom. Lol! 
+Off to see silverstein!  tweet latersss x
+Morning Tweets 
+@FuseKing you're welcome. your tweets are to this tea what mentos are to coke 
+@chayulan tweet. tweet. 
+you &amp; your last tweet make me smile  i can hardly wait to have a listen!
+@purpleslurp I love your drunk tweets 
+@FayLeMarquand i didn't, i just sent it when you told me send a 'regular tweet' 
+@StDAY I was wondering when you'd be back on the tweet front. lol 
+i love @markhoppus last tweet!! 
+Reading: All of TIASdotCom's tweets 
+@burcuakyol Following on from my previous tweet...Not very successfully, but I do try 
+washed her hair, now lovely and soft   tweet tweet
+@planethealer You are welcome...I always love the spirit of your tweets! 
+i wish josh hutcherson had a twitter... i wouldve kill him with my tweets.. 
+@sherod screenshot of one of your tweets 
+@EnvisionBliss Now you knooooow I love that tweet..lol. 
+@AngryBadgerGirl i was doing a puzzle and didn't see that tweet but i have to agree with you that it is perty funny 
+@randomxXxlexie: LEXAY! tweet more. 
+@tiffanybrook you know, that last tweet makes it sound like you have a newborn 
+@fauxwell haha you don't read my tweets...its the insulated to go cup from starbucks. Not a disposable one 
+@camilleandrada haha! welcome to twitter camille! tweet tweet! 
+actually lol'd at @kevinruddpm 's tweet... Wow 
+@mmitchelldaviss you are somethin' else...your tweets are quite tweeventful...haha clever much? 
+@mona_tweets You're a nightowl like me! 
+@caffeinebomb can you summarize that rant in a few tweets? 
+@tungrus2003 and I thought my tweets were difficult to understand 
+@caroldeckert  my pleasure - your tweet was very insightful
+@gfalcone601 no thank you, you are just amazing and very interesting tweets  X
+@BizarreBrunette actually, looking at your other tweets - yes I can 
+@kamanu whoa, multiple tweets in one! pulling a @justkristi are you? 
+.. and hit unfollow before I can check their tweets  well I don't sit here 24/7. If you like my crazy tweets, ok, if you don't, just go.
+@teaparasite hoping to make it too, I'm sure we'll find it. If i find out between now and then, I'll post a tweet 
+@mistygirlph anytime, awesome tweets as always 
+Changed my profile pic. I never thought people would actually follow my tweets 
+@Pickering I think it's difficult to always respond to everyone. I'm reading your tweets 
+have to clean it up folks...mom is following my tweets now  
+@abody98 I'm sorry, tweet updated! 
+@johnmayo I figure my first tweet should be to yourself, you're the one who has convinced me I need yet another distraction on the www 
+owkay..right, cnt tweet decently so ill jus count this one as a tweet!  cheers!
+@klowey22 Don't bother...I got it...!  Just looked up your tweets...
+@selenagomez this tweet just got favourited  .. !
+tweet tweet x) .. I'm going to buy the cosmopolition  I never bought it before xD haha .. pointless tweet ^^
+@matthix yup I think so too...base on your tweets 
+@irawanjohan @pabbas welcome to the @tweet_genius network 
+@DazzleMeThis Wow almost 2000 tweets that's wicked  damn i'm almost at 400 tweets lol
+@Adolphi well, at least tweetdeck messes with me. It doesn't show all tweets, replies and friends.... Or it might be just me 
+@kathtrinder I think I may have done that with my last tweet! 
+@MelKirk will check your next tweet for results 
+I'm over the 200 tweets 
+#followfriday@NikkiPilkington because of her I now  can create a tweet coupon and more 
+@TiaSparkles @BrettDSanders - LOL!  I'll remember to keep tweets shorter too - thx both 
+How can I keep up with all the tweets?!?! 
+#bjtweetup @fuzheado's coming in and out... this guy should be following our tweets. 
+@markwal Just texted you about it when i read the tweet. But shall repeat myself. Has to be done 
+i'm really bored ppl...how r u all? tweet tweet 
+my first tweet 
+my first #followfriday tweet.. @MitchBenn @neilhimself 
+@Mangowe anytime, your tweets make me smile 
+@remzology @rockstah told me it works only for your own tweets. I want to download of someone else. @femainfocus 
+@easyover13 You have to post a tweet so that I can find you. You lurker you 
+@tilib Except your tweet. 
+Hey there tweets! [;  ?
+@saronti That explains some of your tweets! 
+@marcelekkel: Where do you work buddy, I work for @PureYogaHK and @PureFitnessHK and @REDHK and hence all the tweets are from me! 
+@ecodecor our pleasure  We enjoy the tweets
+listening to the little birdies saying tweet tweet! 
+Oh no wait, i can text my tweets  
+Wow that was my 5000 tweet! should i celebrate ?lol 
+@KSdaisy 1000 tweets!?!  Why does that not surprise me?  
+What's the good word tweets. 
+@petecooper last tweet should sort that out 
+@DiaperDiaries can't forget the tweeting!!  
+Still laughing to myself about mikes last tweet 
+@metalross sweet, two #FollowFriday mentions for me in the same tweet. 
+made some delicious nachos.yummy! and mike you know you love my tweets 
+This be my 4,000 tweet  Hurraaaahhhh!
+@ValeWolf  Thanks for the pics... wonderful... your tweets are glowing! 
+1000 tweets! finally! 
+eating breakfast while posting this tweet  multitasking
+@LeBomba its always nice to wake up to tweets! 
+@RachelMcAdams_ we understand! you're still amazing and all of your tweets are hilarious. i literally laugh at all of them! 
+tweet for @raylonion &amp; @theamazingpenny. I'm alive. well. breathing. no worries 
+loves reading all those celebrity tweets!!!   Too funny
+@JustinWoodruff I favorited the tweet b4 this  and I DO owe u a phonecall you shall get it soon
+@taylorswift13 those were some of the cutest tweets ever. omigosh 
+@robdyrdek if you're cool and you know it, reply to this tweet 
+@sarshface posted her last tweet at 1234 
+@akaHarlemb @nicoleinc @RONNIENOTCH - leaving special messages for you all over twitter 
+good day twitter! tweet, tweet 
+@far1983 Thanks a ton for the re-tweet.. 
+Tests complete, &amp; is now working again in tweets, sorry for the mess 
+at mum's work, tweet tweet 
+lost a tweet with decision... @bing can I find my tweet back? 
+i havent really been tweeting that much :/ but im going to start tweeting again  tonight is shaping up to be cold.
+@sethbutler: welcome to my tweet 
+is going to have breakfast. ill tweet back in a few! 
+Even though @becfeild posted that last tweet, doesn't mean it isn't true 
+@servantofchaos analog tweets are my favorite. 
+parttyy tonightt. off to dubaii-lermall  tweet outtt.

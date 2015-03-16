@@ -1,0 +1,27 @@
+Most common words for this cluster:
+[('class', 23), ('summer', 1), ('grade', 1), ('grades', 1), ('whyyy', 1), ('tomorrow', 1), ('gracie', 1), ('tweet', 1), ('lol', 1), ('subjects', 1), ('assignment', 1), ('iamdez', 1)]
+
+
+
+
+
+Word2vec space of related words:
+[(u'class', 0.9999179840087891), (u'classes', 0.6055412888526917), (u'classs', 0.562246561050415), (u'Faithfully_Fit_exercise', 0.5621935725212097), (u'Class', 0.5168919563293457), (u'Ramla_mixed', 0.48816099762916565), (u'grade', 0.48122355341911316), (u'middle', 0.46806246042251587), (u'IKON_integrates', 0.46427053213119507), (u'runic_setup_signifies', 0.4551335573196411)]
+
+
+
+
+
+Going to class  whyyy did i take a summer class ?!
+i &lt;3 maria but i wish she was in my class!!!  i love her lol bored in class again!!
+And after the next commercial it was a completely different class from the other two. I want the 1st class back 
+class has started. Last class of database lab 
+i am not so feeling well.  class just started, i can't skipped class.. all my subjects now are major.
+@iamdez In my grade 8 typing class, they told me it was cheating 
+aww fuck the gracie academy called while i was in class 
+@cabbbage I just your tweet! I have class until 10   but after class I am coming to every one!
+no class tomorrow... so excited! but as for now... gettin ready for class 
+grades up for public speaking class! got an A 
+is in fin ecnmtrcs class by herself.. wait, shouldn't erwin and timo be in this class as well? 
+Just had first class of today, contemporary. It was soooo much fun, it was the best class since like....ever! 
+At class right now! And thinking about doing the assignment in class 
