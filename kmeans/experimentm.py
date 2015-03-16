@@ -8,6 +8,7 @@ from gensim import matutils
 from numpy import array, float32 as REAL
 from sklearn.cluster import MiniBatchKMeans, KMeans
 from multiprocessing import Pool
+from collections import Counter
 
 
 
@@ -80,7 +81,7 @@ tweets = t2
 
 
 print "Loading model..."
-wv = Word2Vec.load_word2vec_format('/home/attia42/workspace/projects/word2vec/data/GoogleNews-vectors-negative300.bin', binary=True)
+wv = Word2Vec.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
 
 vectors = []
 
@@ -140,7 +141,7 @@ for i in range(len(vectors)):
 
 clusterstags = [[] for i in range(ncls)]
 
-from collections import Counter
+
 
 countarr = []
 for c in clusters:
